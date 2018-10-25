@@ -12,31 +12,30 @@
 
 import sys
 from Story import Story
-from Questions import Questions
+from QuestionSet import QuestionSet
 
 from copy import deepcopy
 
-stories = []
-question_sets = []
-
 inp = []
+# Get the story ids
 with open(sys.argv[1]) as f:
     inp = f.readlines()
 
 # Get our stories and question sets from the designated files
 path = inp[0].strip('\n')
 for i in range(1, len(inp)):
-    # Build the story
-    stories.append(Story(path, inp[i].strip('\n')))
+    # Get the story
+    story = Story(path, inp[i].strip('\n'))
 
-    # Build the question set
-    question_sets.append(Questions(path, inp[i].strip('\n')))
+    # Get the question set
+    question_set = QuestionSet(path, inp[i].strip('\n'))
 
-# Implement a really dumb QA system by checking sentence overlap
-for i in range(len(stories)):
-    for q in question_sets[i].questions:
-        sentences = deepcopy(stories[i].sentences)
-
+    # Implement a really dumb QA system by checking sentence overlap
+    # get the answer for each question in the question set that has the highest score
+    # TODO: Decide if we want a separate class to handle scoring answers ...
+    for q in question_set.questions:
+        sentences = deepcopy(story.sentences)
+        # Score the sentences
         for s in sentences:
             overlap = 0
             for word in q.words:
@@ -48,7 +47,8 @@ for i in range(len(stories)):
         sentences.sort(key=(lambda x: len(x.sentence)), reverse=False)
         sentences.sort(key=(lambda x: x.score), reverse=True)
 
+        # Print out the QA result
         print("QuestionID: {}".format(q.qid))
+        print("Question: {}\nQType: {}".format(q.qstr, q.type))
         print("Answer: {}\n".format("" if sentences[0].score == 0 else " ".join(sentences[0].sentence)))
-
 

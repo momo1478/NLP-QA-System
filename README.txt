@@ -19,6 +19,7 @@ Tools/Architecture:
         - For understanding questions ...
     - Semantic Analyzer ...
     - Query Expansion?
+    - Stemming?
     - Coreference resolution
 
     - WordNet

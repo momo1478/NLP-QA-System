@@ -16,10 +16,11 @@ class Story:
         self.story_file_name = "{}{}.story".format(story_path, story_id)
         self.headline = ""
         self.date = ""
-        self.id = ""
+        self.id = story_id
         self.words = []
         self.sentences = []
 
+        # Read the story in from file
         self.__retrieve_story()
 
     # Return the story as it was in the original file
@@ -30,22 +31,22 @@ class Story:
 
     # Retrieve a story from the designated file
     def __retrieve_story(self):
+        story = ""
         with open(self.story_file_name) as story_file:
-            story = ""
             for line in story_file:
                 if line.startswith("HEADLINE:"):
                     self.headline = " ".join(line.strip('\n').split(' ')[1:])
                 elif line.startswith("DATE:"):
                     self.date = " ".join(line.strip('\n').split(' ')[1:])
                 elif line.startswith("STORYID:"):
-                    self.id = " ".join(line.strip('\n').split(' ')[1:])
+                    continue
                 elif line.startswith("TEXT:"):
                     continue
                 else:
                     story += line.replace("\n", " ")
 
-            self.words = story.split(" ")[:]
-            self.__split_into_sentences(story)
+        self.words = story.split(" ")[:]
+        self.__split_into_sentences(story)
 
     # Really simple way to make sentences ... just grab words until you see a period
     # TODO: Look into finding a more intelligent sentence splitter!
@@ -62,20 +63,27 @@ class Story:
             self.sentences.append(Sentence(self.words[sentence_start:]))
 
 
-    # Let people access the sentences that we found in the story
-    def get_sentences(self):
-        return self.sentences
-
-
 # TODO: decide if we want an inner class for sentence representation
 class Sentence:
     def __init__(self, sentence):
         self.sentence = sentence
         self.score = 0
 
-    # Report the sentence and current score
+    # Report the sentence and current score, useful for debugging
     def __repr__(self):
         return "Score: {}  Sentence: {}\n".format(
             self.score, " ".join(self.sentence)
         )
 
+
+# TODO: decide if we should have an 'Answer' class and if it should be separate
+class Answer:
+    def __init__(self, answer):
+        self.answer = answer
+        self.score = 0
+
+    # Report the sentence and current score, useful for debugging
+    def __repr__(self):
+        return "Score: {}  Answer: {}\n".format(
+            self.score, " ".join(self.answer)
+        )
