@@ -39,4 +39,7 @@ Checkpoint 1:
         No question typing
         Poor sentence division
 
+- Can we use the difficulty of the question as a heuristic when searching for
+    answers?
+
 Checkpoint 2:
