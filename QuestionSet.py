@@ -73,6 +73,7 @@ class Question:
 
     # Simple implementation for determining question type, just check for 'WH' words
     # Doesn't really seem to capture much meaning
+    # TODO: Come up with rules to determine the important things to look for in answers
     def __determine_question_type(self):
         for w in self.words:
             if 'who' in (w.lower() for w in self.words):

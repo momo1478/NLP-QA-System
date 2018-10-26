@@ -16,6 +16,7 @@ class Story:
         self.headline = ""
         self.date = ""
         self.id = story_id
+        self.story = ""
         self.words = []
         self.sentences = []
 
@@ -29,6 +30,14 @@ class Story:
         )
 
     # Retrieve a story from the designated file
+    # Stories are of the form
+    # HEADLINE: <headline>
+    # DATE: <date>
+    # STORYID: <id>
+    #
+    # TEXT:
+    #
+    # <story>
     def __retrieve_story(self):
         story = ""
         with open(self.story_file_name) as story_file:
@@ -44,6 +53,7 @@ class Story:
                 else:
                     story += line.replace("\n", " ")
 
+        self.story = story
         self.words = story.split(" ")[:]
         self.__split_into_sentences(story)
 
