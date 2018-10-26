@@ -27,7 +27,11 @@ Tools/Architecture:
 - To Build:
     - Question Typer
     - Answer recognizer
-    -
+
+- Required Packages:
+    - (pip install) nltk (Documenation : http://www.nltk.org/howto/wordnet.html)
+        - import nltk
+        - nltk.download("wordnet")
 
 Checkpoint 1:
 - Approach 1: Simple question/answer overlap - just getting started

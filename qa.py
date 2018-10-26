@@ -13,6 +13,7 @@
 import sys
 from Story import Story
 from QuestionSet import QuestionSet
+from nltk.corpus import wordnet as wn
 
 from copy import deepcopy
 
