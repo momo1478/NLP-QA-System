@@ -21,7 +21,7 @@ inp = []
 with open(sys.argv[1]) as f:
     inp = f.readlines()
 
-# Get our stories and question sets from the designated files
+# Get our stories and question sets and do sentence overlap
 path = inp[0].strip('\n')
 for i in range(1, len(inp)):
     # Get the story
@@ -49,6 +49,6 @@ for i in range(1, len(inp)):
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        print("Question: {}\nQType: {}".format(q.qstr, q.type))
+        #print("Question: {}\nQType: {}".format(q.qstr, q.type))
         print("Answer: {}\n".format("" if sentences[0].score == 0 else " ".join(sentences[0].sentence)))
 

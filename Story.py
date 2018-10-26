@@ -10,7 +10,6 @@
 #
 
 
-#
 class Story:
     def __init__(self, story_path, story_id):
         self.story_file_name = "{}{}.story".format(story_path, story_id)
@@ -53,7 +52,9 @@ class Story:
     def __split_into_sentences(self, story):
         sentence_start = 0
         for i in range(len(self.words)):
-            if '.' in self.words[i] and i - sentence_start > 2:
+            if '.' in self.words[i] and i - sentence_start > 2 \
+                    or '?' in self.words[i] \
+                    or '!' in self.words[i]:
                 new_sentence = Sentence(self.words[sentence_start:i+1])
                 new_sentence.sentence[-1] = new_sentence.sentence[-1].replace('.', '')
                 new_sentence.sentence[:] = [x for x in new_sentence.sentence if x != '']

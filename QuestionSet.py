@@ -26,7 +26,11 @@ class QuestionSet:
             all_questions = "{}{}\n".format(all_questions, q)
         return all_questions
 
-    #
+    # Get the parts of each question from the designated file
+    # questions are of the form:
+    # QuestionID: <qid>
+    # Question: <qstr>
+    # Dificullty: <qdiff>
     def __retrieve_questions(self):
         with open(self.question_file_name) as qf:
             qid = ""
@@ -42,7 +46,7 @@ class QuestionSet:
                     self.questions.append(Question(qid, qstr, qdiff))
 
 
-#
+# TODO: Add a class description?
 class Question:
     def __init__(self, qid, question, difficulty):
         self.qid = qid
@@ -60,8 +64,7 @@ class Question:
             self.qid, self.qstr, self.difficulty
         )
 
-    # Really simple way to type the questions - doesn't seem to capture much
-    # meaning
+    # split the question into an array of words and remove the '?'
     def __split_into_words(self):
         q = self.qstr.replace('?', '')
         self.words = q.split(' ')
@@ -69,6 +72,7 @@ class Question:
             w.strip()
 
     # Simple implementation for determining question type, just check for 'WH' words
+    # Doesn't really seem to capture much meaning
     def __determine_question_type(self):
         for w in self.words:
             if 'who' in (w.lower() for w in self.words):
@@ -85,6 +89,8 @@ class Question:
                 self.type = 'WHOSE'
             elif ('how' and 'many') in (w.lower() for w in self.words):
                 self.type = 'HOW MANY'
+            elif ('how' and 'much') in (w.lower() for w in self.words):
+                self.type = 'HOW MUCH'
             elif 'how' in (w.lower() for w in self.words):
                 self.type = 'HOW'
 
