@@ -2,17 +2,20 @@ import nltk
 from nltk.corpus import wordnet as wn
 
 import spacy
-from spacy import displacy
-from collections import Counter
-import en_core_web_sm
+from spacy.tokens import Span
+
+def printList(l,name = "*"):
+    print("* * * " + name + " * * *")
+    for e in l:
+        print(e)
 
 def sysnset(word):
     nltk.download("wordnet")
     print(wn.synsets(word))
 
 def spacyTest():
-    nlp = en_core_web_sm.load()
-    doc = nlp(''' A middle school in Liverpool, Nova Scotia is pumping up bodies as well
+    nlp = spacy.load('en_core_web_sm')
+    doc = nlp(u''' A middle school in Liverpool, Nova Scotia is pumping up bodies as well
 as minds. It\'s an example of a school teaming up with the community to raise
 money. South Queens Junior High School is taking aim at the fitness
 market.The school has turned its one-time metal shop - lost to budget cuts
@@ -33,6 +36,14 @@ treadmills, steppers, and stationary bicycles, as well as weight
 machines and freeweights.Memberships cost $180 a year for adults and $135 for students and
 seniors.Proceeds pay the salary of the centre co-ordinator and upkeep of the
 facility.''')
+    printList([t.text for t in doc if t.text not in [" ", "\n", ","]], "Words in Story")
+
+    printList(list(doc.noun_chunks),"Noun Chunks")
+    printList(list(doc.sents),"Sentences")
+
+    print("* * * NER[word,start_i,end_i,label] * * *")
+    for ent in doc.ents:
+        print(ent.text, ent.start_char, ent.end_char, ent.label_)
 
 #sysnset("bag")
 spacyTest()
