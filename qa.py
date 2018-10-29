@@ -12,6 +12,7 @@
 
 import sys
 from Story import Story
+from Story import Sentence
 from QuestionSet import QuestionSet
 
 from copy import deepcopy
@@ -35,20 +36,33 @@ for i in range(1, len(inp)):
     # TODO: Decide if we want a separate class to handle scoring answers ...
     for q in question_set.questions:
         sentences = deepcopy(story.sentences)
+
+        # candidate_responses = []
+
         # Score the sentences
         for s in sentences:
-            overlap = 0
-            for word in q.words:
-                if word in s.sentence:
-                    overlap += 1
-            s.score = overlap
+            # overlap = 0
+            # for word in q.words:
+            #     if word in s.sentence:
+            #         overlap += 1
+            # s.score = overlap
+
+            s.score = len(q.words.intersection(s.sentence))
+
+            # new_candidate = q.words.intersection(s.sentence)
+            # score = len(new_candidate)
+            # candidate_responses.append(Sentence(new_candidate, score))
 
         # Sort for highest score with shortest sentence
         sentences.sort(key=(lambda x: len(x.sentence)), reverse=False)
         sentences.sort(key=(lambda x: x.score), reverse=True)
+        # candidate_responses.sort(key=(lambda x: len(x.sentence)), reverse=False)
+        # candidate_responses.sort(key=(lambda x: x.score), reverse=True)
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        #print("Question: {}\nQType: {}".format(q.qstr, q.type))
+        print("Question: {}\nQType: {}\nQModType: {}".format(q.qstr, q.type, q.mod_type))
         print("Answer: {}\n".format("" if sentences[0].score == 0 else " ".join(sentences[0].sentence)))
+        # print("Answer: {}\n".format("" if candidate_responses[0].score == 0
+        #                             else " ".join(candidate_responses[0].sentence)))
 

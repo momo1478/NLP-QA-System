@@ -65,10 +65,10 @@ class Story:
             if '.' in self.words[i] and i - sentence_start > 2 \
                     or '?' in self.words[i] \
                     or '!' in self.words[i]:
-                new_sentence = Sentence(self.words[sentence_start:i+1])
-                new_sentence.sentence[-1] = new_sentence.sentence[-1].replace('.', '')
-                new_sentence.sentence[:] = [x for x in new_sentence.sentence if x != '']
-                self.sentences.append(new_sentence)
+                new_sentence = self.words[sentence_start:i+1]
+                new_sentence[-1] = new_sentence[-1].replace('.', '')
+                new_sentence = [x for x in new_sentence if x != '']
+                self.sentences.append(Sentence(set(new_sentence)))
                 sentence_start = i+1
         if sentence_start < len(self.words):
             self.sentences.append(Sentence(self.words[sentence_start:]))
@@ -76,9 +76,9 @@ class Story:
 
 # TODO: decide if we want an inner class for sentence representation
 class Sentence:
-    def __init__(self, sentence):
+    def __init__(self, sentence, score=0):
         self.sentence = sentence
-        self.score = 0
+        self.score = score
 
     # Report the sentence and current score, useful for debugging
     def __repr__(self):

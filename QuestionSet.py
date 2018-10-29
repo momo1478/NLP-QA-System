@@ -48,12 +48,14 @@ class QuestionSet:
 
 # TODO: Add a class description?
 class Question:
+    measure_words = ['many', 'much', 'often', 'big']
     def __init__(self, qid, question, difficulty):
         self.qid = qid
         self.qstr = question
-        self.words = []
+        self.words = set()
         self.difficulty = difficulty
         self.type = "NONE"
+        self.mod_type = "NONE"
 
         self.__split_into_words()
         self.__determine_question_type()
@@ -67,7 +69,7 @@ class Question:
     # split the question into an array of words and remove the '?'
     def __split_into_words(self):
         q = self.qstr.replace('?', '')
-        self.words = q.split(' ')
+        self.words = set(x for x in q.split(' '))
         for w in self.words:
             w.strip()
 
@@ -75,23 +77,26 @@ class Question:
     # Doesn't really seem to capture much meaning
     # TODO: Come up with rules to determine the important things to look for in answers
     def __determine_question_type(self):
-        for w in self.words:
-            if 'who' in (w.lower() for w in self.words):
-                self.type = 'WHO'
-            elif 'what' in (w.lower() for w in self.words):
-                self.type = 'WHAT'
-            elif 'when' in (w.lower() for w in self.words):
-                self.type = 'WHEN'
-            elif 'where' in (w.lower() for w in self.words):
-                self.type = 'WHERE'
-            elif 'why' in (w.lower() for w in self.words):
-                self.type = 'WHY'
-            elif 'whose' in (w.lower() for w in self.words):
-                self.type = 'WHOSE'
-            elif ('how' and 'many') in (w.lower() for w in self.words):
-                self.type = 'HOW MANY'
-            elif ('how' and 'much') in (w.lower() for w in self.words):
-                self.type = 'HOW MUCH'
-            elif 'how' in (w.lower() for w in self.words):
-                self.type = 'HOW'
+        if 'if' in self.qstr.lower():
+            self.mod_type = "IF"
+
+        for m in self.measure_words:
+            if "how {}".format(m) in self.qstr.lower():
+                self.type = 'MEASURE'
+                return
+
+        if 'who' or 'whom' in self.qstr.lower():
+            self.type = 'WHO'
+        elif 'what' in self.qstr.lower():
+            self.type = 'WHAT'
+        elif 'when' in self.qstr.lower():
+            self.type = 'WHEN'
+        elif 'where' in self.qstr.lower():
+            self.type = 'WHERE'
+        elif 'why' in self.qstr.lower():
+            self.type = 'WHY'
+        elif 'whose' in self.qstr.lower():
+            self.type = 'WHOSE'
+        elif 'how' in self.qstr.lower():
+            self.type = 'HOW'
 
