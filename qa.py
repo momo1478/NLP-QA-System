@@ -14,6 +14,7 @@ import sys
 from Story import Story
 from Story import Sentence
 from QuestionSet import QuestionSet
+from nltk.corpus import wordnet as wn
 
 from copy import deepcopy
 
