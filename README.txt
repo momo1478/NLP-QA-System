@@ -29,9 +29,9 @@ Tools/Architecture:
     - Answer recognizer
 
 - Required Packages:
-	- (pip install) virtualenv
+    - (pip install) virtualenv
         - python3 -m virtualenv env (linux)
-        - py -m virtualenv env
+        - py -m virtualenv env (windows)
     - (pip install) spacy
         - python -m spacy download en_core_web_sm
 
