@@ -14,7 +14,6 @@ import sys
 from Story import Story
 from Story import Sentence
 from QuestionSet import QuestionSet
-from nltk.corpus import wordnet as wn
 
 from copy import deepcopy
 
@@ -36,7 +35,7 @@ for i in range(1, len(inp)):
     # get the answer for each question in the question set that has the highest score
     # TODO: Decide if we want a separate class to handle scoring answers ...
     for q in question_set.questions:
-        sentences = deepcopy(story.sentences)
+        sentences = list(story.sentences)
 
         # candidate_responses = []
 
