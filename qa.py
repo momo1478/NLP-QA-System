@@ -62,7 +62,7 @@ for i in range(1, len(inp)):
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        print("Question: {}\nQType: {}\nQModType: {}".format(q.qstr, q.type, q.mod_type))
+        #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
         print("Answer: {}\n".format("" if sentences[0].score == 0 else " ".join(sentences[0].sentence)))
         # print("Answer: {}\n".format("" if candidate_responses[0].score == 0
         #                             else " ".join(candidate_responses[0].sentence)))

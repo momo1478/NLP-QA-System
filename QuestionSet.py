@@ -48,14 +48,23 @@ class QuestionSet:
 
 # TODO: Add a class description?
 class Question:
-    measure_words = ['many', 'much', 'often', 'big']
+    # This seems like a silly approach really ...
+    measure_words = ['many', 'much', 'often', 'big', 'small', 'few', 'tall', 'short', 'heavy', 'light',
+                     'fast', 'slow', 'old', 'new', 'far', 'near', 'close']
+    question_words = ['who', 'whom', 'whose', 'what', 'when', 'where', 'why', 'how']
+
     def __init__(self, qid, question, difficulty):
         self.qid = qid
         self.qstr = question
         self.words = set()
         self.difficulty = difficulty
+
+        # Main question type
         self.type = "NONE"
-        self.mod_type = "NONE"
+        # Question word that occurs later in a sentence, assumed to be a supporting question word
+        self.support_type = "NONE"
+        # Part of sentence that precedes the first question word, assumed to condition the question
+        self.conditional = "NONE"
 
         self.__split_into_words()
         self.__determine_question_type()
@@ -77,26 +86,74 @@ class Question:
     # Doesn't really seem to capture much meaning
     # TODO: Come up with rules to determine the important things to look for in answers
     def __determine_question_type(self):
-        if 'if' in self.qstr.lower():
-            self.mod_type = "IF"
+        type_pos = len(self.qstr)
+        q = self.qstr.lower()
 
+        # TODO: Use WordNet to pull this information instead, the attribute of the word
+        # directly following how ... e.g.
+        # many - numerousness -> count
+        # big - size -> number ... ?
         for m in self.measure_words:
-            if "how {}".format(m) in self.qstr.lower():
-                self.type = 'MEASURE'
-                return
+            mstr = "how {}".format(m)
+            if mstr in self.qstr.lower():
+                pos = self.qstr.lower().find(mstr)
+                if pos < type_pos:
+                    type_pos = pos
+                    self.type = 'MEASURE'
+                    self.support_type = m.upper()
+                else:
+                    self.support_type = 'MEASURE'
 
-        if 'who' or 'whom' in self.qstr.lower():
-            self.type = 'WHO'
-        elif 'what' in self.qstr.lower():
-            self.type = 'WHAT'
-        elif 'when' in self.qstr.lower():
-            self.type = 'WHEN'
-        elif 'where' in self.qstr.lower():
-            self.type = 'WHERE'
-        elif 'why' in self.qstr.lower():
-            self.type = 'WHY'
-        elif 'whose' in self.qstr.lower():
-            self.type = 'WHOSE'
-        elif 'how' in self.qstr.lower():
-            self.type = 'HOW'
+        if 'who' in q or 'whom' in q or 'whose' in q:
+            pos = q.index('who')
+            if pos < type_pos:
+                type_pos = pos
+                self.type = 'WHO'
+            else:
+                self.support_type = 'WHO'
 
+        if 'what' in q:
+            pos = q.find('what')
+            if pos < type_pos:
+                type_pos = pos
+                self.type = 'WHAT'
+            else:
+                self.support_type = 'WHAT'
+
+        if 'when' in q:
+            pos = q.find('when')
+            if pos < type_pos:
+                type_pos = pos
+                self.type = 'WHEN'
+            else:
+                self.support_type = 'WHEN'
+
+        if 'where' in q:
+            pos = q.find('where')
+            if pos < type_pos:
+                type_pos = pos
+                self.type = 'WHERE'
+            else:
+                self.support_type = 'WHERE'
+
+        if 'why' in q:
+            pos = q.find('why')
+            if pos < type_pos:
+                type_pos = pos
+                self.type = 'WHY'
+            else:
+                self.support_type = 'WHY'
+
+        if 'how' in q:
+            if self.type != 'MEASURE':
+                pos = q.find('how')
+                if pos < type_pos:
+                    type_pos = pos
+                    self.type = 'HOW'
+                else:
+                    self.support_type = 'HOW'
+
+        # If the question type word is not at the beginning of the sentence, assume that
+        # any preceding words help condition the question
+        if type_pos != 0:
+            self.conditional = self.qstr[:type_pos]
