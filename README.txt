@@ -29,9 +29,11 @@ Tools/Architecture:
     - Answer recognizer
 
 - Required Packages:
-    - (pip install) nltk (Documenation : http://www.nltk.org/howto/wordnet.html)
-        - import nltk
-        - nltk.download("wordnet")
+    - (pip install) virtualenv
+        - python3 -m virtualenv env (linux)
+        - py -m virtualenv env (windows)
+    - (pip install) spacy
+        - python -m spacy download en_core_web_sm
 
 Checkpoint 1:
 - Approach 1: Simple question/answer overlap - just getting started

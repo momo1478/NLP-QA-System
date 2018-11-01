@@ -8,17 +8,23 @@
 # Class: CS 5340 - Fall 2018
 # Date: 19 October 2018
 #
-
+import os
+import spacy
 
 class Story:
     def __init__(self, story_path, story_id):
-        self.story_file_name = "{}{}.story".format(story_path, story_id)
+        self.story_file_name = "{}{}.story".format(os.getcwd() + "/" + story_path, story_id)
         self.headline = ""
         self.date = ""
         self.id = story_id
-        self.story = ""
+        self.story = u""
         self.words = []
         self.sentences = []
+        # (text, start_index, end_index, class)
+        self.entities = []
+        # (text, lemma, pos, tag, dependency parse, shape, is_alpha, is_stop)
+        # Note : tag is more specific classification of POS ()
+        self.tags = []
 
         # Read the story in from file
         self.__retrieve_story()
@@ -54,24 +60,21 @@ class Story:
                     story += line.replace("\n", " ")
 
         self.story = story
-        self.words = story.split(" ")[:]
-        self.__split_into_sentences(story)
+        self.__process_story(story)
 
-    # Really simple way to make sentences ... just grab words until you see a period
-    # TODO: Look into finding a more intelligent sentence splitter!
-    def __split_into_sentences(self, story):
-        sentence_start = 0
-        for i in range(len(self.words)):
-            if '.' in self.words[i] and i - sentence_start > 2 \
-                    or '?' in self.words[i] \
-                    or '!' in self.words[i]:
-                new_sentence = self.words[sentence_start:i+1]
-                new_sentence[-1] = new_sentence[-1].replace('.', '')
-                new_sentence = [x for x in new_sentence if x != '']
-                self.sentences.append(Sentence(set(new_sentence)))
-                sentence_start = i+1
-        if sentence_start < len(self.words):
-            self.sentences.append(Sentence(self.words[sentence_start:]))
+    # Tokenize story for its words, sentences.
+    # Parse story for its named entities and POS tags
+    def __process_story(self,story):
+        nlp = spacy.load('en_core_web_sm')
+        doc = nlp(unicode(story))
+        self.words = list([t.text for t in doc if t.is_alpha or t.is_digit or t.is_currency])
+        self.sentences = [Sentence(sentence) for sentence in list(doc.sents)]
+        self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
+        self.tags = [((token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)) for token in doc if token.is_alpha or token.like_num]
+        # print("WORDS : " + str(self.words))
+        # print("SENTENCES : " + str(self.sentences))
+        # print("ENTITIES : " + str(self.entities))
+        # print("TAGS : " + str(self.tags))
 
 
 # TODO: decide if we want an inner class for sentence representation
@@ -83,7 +86,7 @@ class Sentence:
     # Report the sentence and current score, useful for debugging
     def __repr__(self):
         return "Score: {}  Sentence: {}\n".format(
-            self.score, " ".join(self.sentence)
+            self.score, "".join(self.sentence.text)
         )
 
 
