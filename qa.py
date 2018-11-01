@@ -34,6 +34,9 @@ for i in range(1, len(inp)):
     # Implement a really dumb QA system by checking sentence overlap
     # get the answer for each question in the question set that has the highest score
     # TODO: Decide if we want a separate class to handle scoring answers ...
+
+    #print(story.sentences)
+
     for q in question_set.questions:
         sentences = list(story.sentences)
 
@@ -47,7 +50,7 @@ for i in range(1, len(inp)):
             #         overlap += 1
             # s.score = overlap
 
-            s.score = len(q.words.intersection(s.sentence))
+            s.score = len(q.words.intersection(s.sentence.split()))
 
             # new_candidate = q.words.intersection(s.sentence)
             # score = len(new_candidate)
@@ -62,7 +65,6 @@ for i in range(1, len(inp)):
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
         #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
-        print("Answer: {}\n".format("" if sentences[0].score == 0 else " ".join(sentences[0].sentence)))
+        print("Answer: {}\n".format("" if sentences[0].score == 0 else "".join(sentences[0].sentence)))
         # print("Answer: {}\n".format("" if candidate_responses[0].score == 0
         #                             else " ".join(candidate_responses[0].sentence)))
-

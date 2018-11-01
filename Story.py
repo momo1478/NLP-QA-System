@@ -64,13 +64,22 @@ class Story:
 
     # Tokenize story for its words, sentences.
     # Parse story for its named entities and POS tags
-    def __process_story(self,story):
+    def __process_story(self, story):
         nlp = spacy.load('en_core_web_sm')
-        doc = nlp(unicode(story))
+        doc = nlp(str(story))
         self.words = list([t.text for t in doc if t.is_alpha or t.is_digit or t.is_currency])
-        self.sentences = [Sentence(sentence) for sentence in list(doc.sents)]
+        self.sentences = [Sentence(sentence.text) for sentence in list(doc.sents)]
+        print(type(self.sentences[-1].sentence))
         self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
-        self.tags = [((token.text, token.lemma_, token.pos_, token.tag_, token.dep_, token.shape_, token.is_alpha, token.is_stop)) for token in doc if token.is_alpha or token.like_num]
+        self.tags = [((token.text,
+                       token.lemma_,
+                       token.pos_,
+                       token.tag_,
+                       token.dep_,
+                       token.shape_,
+                       token.is_alpha,
+                       token.is_stop))
+                     for token in doc if token.is_alpha or token.like_num]
         # print("WORDS : " + str(self.words))
         # print("SENTENCES : " + str(self.sentences))
         # print("ENTITIES : " + str(self.entities))
