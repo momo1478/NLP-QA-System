@@ -56,7 +56,7 @@ class Question:
     def __init__(self, qid, question, difficulty):
         self.qid = qid
         self.qstr = question
-        self.words = set()
+        self.words = []
         self.difficulty = difficulty
 
         # Main question type
@@ -77,8 +77,8 @@ class Question:
 
     # split the question into an array of words and remove the '?'
     def __split_into_words(self):
-        q = self.qstr.replace('?', '')
-        self.words = set(x for x in q.split(' '))
+        q = self.qstr.replace('?' , '').replace(',' , '')
+        self.words = str(x for x in q.split(' '))
         for w in self.words:
             w.strip()
 
