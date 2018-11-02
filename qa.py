@@ -44,30 +44,31 @@ for i in range(1, len(inp)):
         
         nlp = spacy.load('en_core_web_sm')
         doc = nlp(unicode(q.qstr))
-        verbs_in_question = [ (token.text,token.lemma_) for token in doc if token.pos_ == "VERB"]
+        verbs_in_question = [ (token.text,token.lemma_) for token in doc if token.pos_ == "VERB" and token.lemma_ not in ["be","do","have"]]
+        print("Question Lemmas: {}".format(verbs_in_question))
    
         # candidate_responses = []
         # Score the sentences
         for s in sentences:
-            nlp = spacy.load('en_core_web_sm')
-            doc = nlp(unicode(s.sentence))
-            verbs_in_sentence = [ (token.text,token.lemma_) for token in doc if token.pos_ == "VERB"]
             overlap = 0
             for word in q.words:
                 if word in s.sentence.split(' '):
                     overlap += 1
 
             for vq in verbs_in_question:
-                if vq in verbs_in_sentence:
-                    overlap += 5
+                if vq in s.lemmas:
+                    overlap += 1.345654
 
             s.score = overlap
-            print("SCORE " + str(s.score))
-            print("OLD METHOD : {}".format(len(set(q.words).intersection(set(s.sentence.split())))))
+            #print("Sentence Lemmas: {}".format(verbs_in_sentence))
+            #print("SCORE " + str(s.score))
+            #print("OLD METHOD : {}".format(len(set(q.words).intersection(set(s.sentence.split())))))
 
             # new_candidate = q.words.intersection(s.sentence)
             # score = len(new_candidate)
             # candidate_responses.append(Sentence(new_candidate, score))
+
+        print(sentences)
 
         # Sort for highest score with shortest sentence
         sentences.sort(key=(lambda x: len(x.sentence)), reverse=False)
@@ -77,7 +78,7 @@ for i in range(1, len(inp)):
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
+        #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
         print("Answer: {}\n".format("" if sentences[0].score == 0 else "".join(sentences[0].sentence)))
         # print("Answer: {}\n".format("" if candidate_responses[0].score == 0
         #                             else " ".join(candidate_responses[0].sentence)))
