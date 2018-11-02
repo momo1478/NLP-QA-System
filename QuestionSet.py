@@ -51,7 +51,13 @@ class Question:
     # This seems like a silly approach really ...
     measure_words = ['many', 'much', 'often', 'big', 'small', 'few', 'tall', 'short', 'heavy', 'light',
                      'fast', 'slow', 'old', 'new', 'far', 'near', 'close']
-    question_words = ['who', 'whom', 'whose', 'what', 'when', 'where', 'why', 'how']
+    question_types = {'WHO' : ['who', 'whom', 'whose'],
+                      'WHAT' : ['what'],
+                      'WHEN' : ['when'],
+                      'WHERE' : ['where'],
+                      'WHY' : ['why'],
+                      'HOW' : ['how'],
+                      'WHICH' : ['which']}
 
     def __init__(self, qid, question, difficulty):
         self.qid = qid
@@ -77,10 +83,8 @@ class Question:
 
     # split the question into an array of words and remove the '?'
     def __split_into_words(self):
-        q = self.qstr.replace('?' , '').replace(',' , '')
-        self.words = str(x for x in q.split(' '))
-        for w in self.words:
-            w.strip()
+        q = self.qstr.replace('?', '').replace(',', '')
+        self.words = [str(x).strip() for x in q.split(' ')]
 
     # Simple implementation for determining question type, just check for 'WH' words
     # Doesn't really seem to capture much meaning
@@ -93,6 +97,9 @@ class Question:
         # directly following how ... e.g.
         # many - numerousness -> count
         # big - size -> number ... ?
+        #
+        # We will treat all questions of the form 'How <measure_words> ...'
+        # the same way so detect these question types first
         for m in self.measure_words:
             mstr = "how {}".format(m)
             if mstr in self.qstr.lower():
@@ -104,54 +111,16 @@ class Question:
                 else:
                     self.support_type = 'MEASURE'
 
-        if 'who' in q or 'whom' in q or 'whose' in q:
-            pos = q.index('who')
-            if pos < type_pos:
-                type_pos = pos
-                self.type = 'WHO'
-            else:
-                self.support_type = 'WHO'
-
-        if 'what' in q:
-            pos = q.find('what')
-            if pos < type_pos:
-                type_pos = pos
-                self.type = 'WHAT'
-            else:
-                self.support_type = 'WHAT'
-
-        if 'when' in q:
-            pos = q.find('when')
-            if pos < type_pos:
-                type_pos = pos
-                self.type = 'WHEN'
-            else:
-                self.support_type = 'WHEN'
-
-        if 'where' in q:
-            pos = q.find('where')
-            if pos < type_pos:
-                type_pos = pos
-                self.type = 'WHERE'
-            else:
-                self.support_type = 'WHERE'
-
-        if 'why' in q:
-            pos = q.find('why')
-            if pos < type_pos:
-                type_pos = pos
-                self.type = 'WHY'
-            else:
-                self.support_type = 'WHY'
-
-        if 'how' in q:
-            if self.type != 'MEASURE':
-                pos = q.find('how')
-                if pos < type_pos:
-                    type_pos = pos
-                    self.type = 'HOW'
-                else:
-                    self.support_type = 'HOW'
+        for type_words in Question.question_types:
+            for t in Question.question_types[type_words]:
+                if t in q:
+                    pos = q.find(t)
+                    if pos < type_pos:
+                        type_pos = pos
+                        self.support_type = self.type
+                        self.type = type_words
+                    else:
+                        self.support_type = type_words
 
         # If the question type word is not at the beginning of the sentence, assume that
         # any preceding words help condition the question

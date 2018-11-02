@@ -19,6 +19,14 @@ from copy import deepcopy
 
 import spacy
 
+WORD_WEIGHT = 1
+VERB_WEIGHT = 10
+NEAR_VERB_WEIGHT = 6
+
+# Stop words
+STOP_WORDS = set(['ane', 'the', 'then'])
+STOP_VERBS = set(['be', 'do', 'have', 'would'])
+
 inp = []
 # Get the story ids
 with open(sys.argv[1]) as f:
@@ -33,48 +41,54 @@ for i in range(1, len(inp)):
     # Get the question set
     question_set = QuestionSet(path, inp[i].strip('\n'))
 
-    # Implement a really dumb QA system by checking sentence overlap
-    # get the answer for each question in the question set that has the highest score
+    # Implement a really dumb QA system:
+    #   Score by:
+    #       sentence overlap
+    #       matching verbs
+    #   Return the sentence that has the highest resulting score
+    #
     # TODO: Decide if we want a separate class to handle scoring answers ...
-
-    #print(story.sentences)
-
     for q in question_set.questions:
-        sentences = list(story.sentences)
-        
+        sentences = deepcopy(list(story.sentences))
+
         nlp = spacy.load('en_core_web_sm')
-        doc = nlp(unicode(q.qstr))
-        verbs_in_question = [ (token.text,token.lemma_) for token in doc if token.pos_ == "VERB" and token.lemma_ not in ["be","do","have"]]
-        print("Question Lemmas: {}".format(verbs_in_question))
-   
-        # candidate_responses = []
+        doc = nlp(str(q.qstr))
+        verbs_in_question = [(token.text, token.lemma_) for token in doc
+                             if token.pos_ == "VERB" and token.lemma_ not in STOP_VERBS]
+
+        # Only use question words that are not 'stop words'
+        # Represent as sets to avoid double counting matching words
+        #qws = set([w for w in q.words if w not in STOP_WORDS])
+        qws = set([token.lemma_ for token in doc if token.lemma_ not in STOP_WORDS])
+
         # Score the sentences
         for s in sentences:
-            overlap = 0
-            for word in q.words:
-                if word in s.sentence.split(' '):
-                    overlap += 1
+            # Add WORD_WEIGHT for every overlapping word in sentence and question
+            #overlap = len(qws.intersection(set(s.sentence.split(' ')))) * WORD_WEIGHT
+            overlap = len(qws.intersection(set(s.lemmas))) * WORD_WEIGHT
 
+            # Add 1 for every matching word in the question and sentence
+            # for word in q.words:
+            #     if word in s.sentence.split(' '):
+            #         overlap += WORD_WEIGHT
+
+            # Add 10 for every matching verb in both sentences
             for vq in verbs_in_question:
-                if vq in s.lemmas:
-                    overlap += 1.345654
+                if vq[1] in s.lemmas:
+                    overlap += VERB_WEIGHT
 
             s.score = overlap
+        #print(sentences)
             #print("Sentence Lemmas: {}".format(verbs_in_sentence))
             #print("SCORE " + str(s.score))
-            #print("OLD METHOD : {}".format(len(set(q.words).intersection(set(s.sentence.split())))))
 
             # new_candidate = q.words.intersection(s.sentence)
             # score = len(new_candidate)
             # candidate_responses.append(Sentence(new_candidate, score))
 
-        print(sentences)
-
         # Sort for highest score with shortest sentence
         sentences.sort(key=(lambda x: len(x.sentence)), reverse=False)
         sentences.sort(key=(lambda x: x.score), reverse=True)
-        # candidate_responses.sort(key=(lambda x: len(x.sentence)), reverse=False)
-        # candidate_responses.sort(key=(lambda x: x.score), reverse=True)
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
