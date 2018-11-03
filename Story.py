@@ -68,8 +68,12 @@ class Story:
         nlp = spacy.load('en_core_web_sm')
         doc = nlp(str(story))
         self.words = list([t.text for t in doc if t.is_alpha or t.is_digit or t.is_currency])
-        self.sentences = [Sentence(sentence.text, [token.lemma_ for token in sentence])
+
+        self.sentences = [Sentence(sentence.text,
+                                   [token.lemma_ for token in sentence],
+                                   [set(str(chunk).split()) for chunk in list(sentence.noun_chunks)])
                           for sentence in list(doc.sents)]
+
         self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
         self.tags = [((token.text,
                        token.lemma_,
@@ -88,8 +92,9 @@ class Story:
 
 # TODO: decide if we want an inner class for sentence representation
 class Sentence:
-    def __init__(self, sentence, lemmas, score=0):
+    def __init__(self, sentence, lemmas, noun_chunks, score=0):
         self.sentence = str(sentence)
+        self.noun_chunks = noun_chunks
         self.lemmas = lemmas
         self.score = score
 

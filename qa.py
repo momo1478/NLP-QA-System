@@ -22,6 +22,7 @@ import spacy
 WORD_WEIGHT = 1
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 6
+NP_WEIGHT = 0
 
 # Stop words
 STOP_WORDS = set(['a', 'an', 'and', 'the', 'then'])
@@ -56,6 +57,8 @@ for i in range(1, len(inp)):
         verbs_in_question = [(token.text, token.lemma_) for token in doc
                              if token.pos_ == "VERB" and token.lemma_ not in STOP_VERBS]
 
+        np_chunks_in_question = [set(str(chunk).split()).difference(STOP_WORDS) for chunk in list(doc.noun_chunks)]
+
         # Only use question words that are not 'stop words'
         # Represent as sets to avoid double counting matching words
         #qws = set([w for w in q.words if w not in STOP_WORDS])
@@ -66,6 +69,14 @@ for i in range(1, len(inp)):
             # Add WORD_WEIGHT for every overlapping word in sentence and question
             #overlap = len(qws.intersection(set(s.sentence.split(' ')))) * WORD_WEIGHT
             overlap = len(qws.intersection(set(s.lemmas))) * WORD_WEIGHT
+            #overlap = 0
+
+            for qnpc in np_chunks_in_question:
+                for snpc in s.noun_chunks:
+                    np_overlap = len(qnpc.intersection(snpc))
+                    if np_overlap != 0:
+                        #print("Question: {} Sentence: {}".format(qnpc, snpc))
+                        overlap += np_overlap * NP_WEIGHT
 
             # Add 1 for every matching word in the question and sentence
             # for word in q.words:
@@ -92,7 +103,7 @@ for i in range(1, len(inp)):
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
+        print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
         print("Answer: {}\n".format("" if sentences[0].score == 0 else "".join(sentences[0].sentence)))
         # print("Answer: {}\n".format("" if candidate_responses[0].score == 0
         #                             else " ".join(candidate_responses[0].sentence)))
