@@ -1,17 +1,17 @@
-import nltk
-from nltk.corpus import wordnet as wn
+# import nltk
+# from nltk.corpus import wordnet as wn
 
 import spacy
 from spacy.tokens import Span
 
-def printList(l,name = "*"):
+def printList(l, name = "*"):
     print("* * * " + name + " * * *")
     for e in l:
         print(e)
 
-def sysnset(word):
-    nltk.download("wordnet")
-    print(wn.synsets(word))
+# def sysnset(word):
+#     nltk.download("wordnet")
+#     print(wn.synsets(word))
 
 def spacyTest():
     nlp = spacy.load('en_core_web_sm')
@@ -35,5 +35,5 @@ def spacyTest():
 #     if(doc._.has_coref):
 #         print(doc._.coref_clusters)
 
-sysnset("bag")
+#sysnset("bag")
 spacyTest()

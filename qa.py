@@ -24,7 +24,7 @@ VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 6
 
 # Stop words
-STOP_WORDS = set(['ane', 'the', 'then'])
+STOP_WORDS = set(['a', 'an', 'and', 'the', 'then'])
 STOP_VERBS = set(['be', 'do', 'have', 'would'])
 
 inp = []
