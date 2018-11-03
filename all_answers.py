@@ -10,7 +10,7 @@ with open(sys.argv[1]) as f:
 # get all answers
 path = inp[0].strip('\n')
 
-with open("all_answers.answers", 'w+') as all_answer_file:
+with open(sys.argv[2], 'w+') as all_answer_file:
     for i in range(1, len(inp)):
         answer_path = "{}{}.answers".format(path, inp[i].strip('\n'))
 
