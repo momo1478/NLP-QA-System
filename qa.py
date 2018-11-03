@@ -23,6 +23,10 @@ WORD_WEIGHT = 1
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 6
 
+ENTITY_ONLY_RESPONSE = False
+
+NEAR_WORDS_ENABLE = False
+NEAR_WORDS = 100
 # Stop words
 STOP_WORDS = set(['a', 'an', 'and', 'the', 'then'])
 STOP_VERBS = set(['be', 'do', 'have', 'would'])
@@ -52,7 +56,10 @@ for i in range(1, len(inp)):
         sentences = deepcopy(list(story.sentences))
 
         nlp = spacy.load('en_core_web_sm')
-        doc = nlp(str(q.qstr))
+        if sys.version_info[0] > 3:
+            doc = nlp(str(q.qstr))
+        else:
+            doc = nlp(unicode(q.qstr))
         verbs_in_question = [(token.text, token.lemma_) for token in doc
                              if token.pos_ == "VERB" and token.lemma_ not in STOP_VERBS]
 
@@ -89,6 +96,28 @@ for i in range(1, len(inp)):
         # Sort for highest score with shortest sentence
         sentences.sort(key=(lambda x: len(x.sentence)), reverse=False)
         sentences.sort(key=(lambda x: x.score), reverse=True)
+        
+        if(NEAR_WORDS_ENABLE):
+            ans = sentences[0]
+            match_indicies = [(ans.sentence.split()[i],i) for i in range(len(ans.sentence.split())) if ans.sentence.split()[i] in q.qstr.split()]
+
+            # print("* * * (match,index) * * *")
+            # for mi in match_indicies:
+            #     print(mi)
+
+            final_ans = set()
+            for match in match_indicies:
+                index = match[1]
+                lo_i = max(index-NEAR_WORDS,0)
+                hi_i = min(index+NEAR_WORDS,len(ans.sentence.split()) - 1)
+                final_ans.update(ans.sentence.split()[lo_i:hi_i+1])
+            
+            fa = final_ans
+            sentences[0].sentence = " ".join(fa) if len(fa) > 0 else sentences[0].sentence
+                
+        if ENTITY_ONLY_RESPONSE:
+            ents_in_answer = " ".join([ents for ents in set(sentences[0].entities)])
+            sentences[0].sentence = ents_in_answer if len(ents_in_answer) > 0 else sentences[0].sentence
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
