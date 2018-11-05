@@ -28,13 +28,14 @@ NP_WEIGHT        = 5
 WEIGHT_WHEN = 10
 WEIGHT_WHO  = 10
 WEIGHT_MEASURE = 10
+WEIGHT_WHERE = 6
 
 # Q-NER-Labels
 NER_TIME = ['TIME', 'DATE']
 NER_MEASURE = ['PERCENT', 'MONEY', 'QUANTITY', 'CARDINAL']
+NER_WHO = ['PERSON', 'NORP', 'ORG', 'GPE']
+NER_WHERE = ['FAC', 'ORG', 'GPE' 'LOC']
 
-WHEN_LABELS = ['DATE', 'TIME']
-WHO_LABELS = ['PERSON','NORP','ORG','GPE']
 # Control keys
 USE_Q_TYPES = True
 
@@ -121,7 +122,12 @@ for i in range(1, len(inp)):
                             overlap += WEIGHT_WHO
                             break
                         elif(e[1] is 'NORP' or e[1] is 'ORG' or e[1] is 'GPE'):
-                            overlap += WEIGHT_WHO/2
+                            overlap += WEIGHT_WHO / 2
+                            break
+                if q.type is 'WHERE':
+                    for e in s.entities:
+                        if e[1] in NER_WHERE:
+                            overlap += WEIGHT_WHERE
                             break
 
             s.score = overlap
@@ -159,9 +165,10 @@ for i in range(1, len(inp)):
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_TIME]
             if q.type is 'MEASURE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_MEASURE]
-                short_sent = [e[0] for e in sentences[0].entities if e[1] in WHEN_LABELS]
             if q.type is 'WHO':
-                short_sent = [e[0] for e in sentences[0].entities if e[1] in WHO_LABELS]
+                short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHO]
+            if q.type is 'WHERE':
+                short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE]
             if len(short_sent) != 0:
                 sentences[0].sentence = " ".join(short_sent)
 
