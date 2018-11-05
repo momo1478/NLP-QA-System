@@ -26,6 +26,7 @@ NP_WEIGHT = 5
 
 # Q-type weights
 WEIGHT_WHEN = 10
+WEIGHT_MEASURE = 10
 
 # Control keys
 USE_Q_TYPES = True
