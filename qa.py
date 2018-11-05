@@ -28,6 +28,10 @@ NP_WEIGHT = 5
 WEIGHT_WHEN = 10
 WEIGHT_MEASURE = 10
 
+# Q-NER-Labels
+NER_TIME = ['TIME', 'DATE']
+NER_MEASURE = ['PERCENT', 'MONEY', 'QUANTITY', 'CARDINAL']
+
 # Control keys
 USE_Q_TYPES = True
 
@@ -100,8 +104,13 @@ for i in range(1, len(inp)):
             if USE_Q_TYPES:
                 if q.type is 'WHEN':
                     for e in s.entities:
-                        if e[1] is 'DATE' or e[1] is 'TIME':
+                        if e[1] in NER_TIME:
                             overlap += WEIGHT_WHEN
+                            break
+                if q.type is 'MEASURE':
+                    for e in s.entities:
+                        if e[1] in NER_MEASURE:
+                            overlap += WEIGHT_MEASURE
                             break
 
             s.score = overlap
@@ -112,7 +121,7 @@ for i in range(1, len(inp)):
         
         if NEAR_WORDS_ENABLE:
             ans = sentences[0]
-            match_indicies = [(ans.sentence.split()[i],i) for i in range(len(ans.sentence.split()))
+            match_indicies = [(ans.sentence.split()[i], i) for i in range(len(ans.sentence.split()))
                               if ans.sentence.split()[i] in q.qstr.split()]
 
             # print("* * * (match,index) * * *")
@@ -136,7 +145,9 @@ for i in range(1, len(inp)):
         if USE_Q_TYPES:
             short_sent = []
             if q.type is 'WHEN':
-                short_sent = [e[0] for e in sentences[0].entities if e[1] is 'DATE' or e[1] is 'TIME']
+                short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_TIME]
+            if q.type is 'MEASURE':
+                short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_MEASURE]
             if len(short_sent) != 0:
                 sentences[0].sentence = " ".join(short_sent)
 
