@@ -19,13 +19,17 @@ from copy import deepcopy
 
 import spacy
 
-WORD_WEIGHT = 0
-VERB_WEIGHT = 10
+WORD_WEIGHT      = 0
+VERB_WEIGHT      = 10
 NEAR_VERB_WEIGHT = 6
-NP_WEIGHT = 5
+NP_WEIGHT        = 5
 
 # Q-type weights
 WEIGHT_WHEN = 10
+WEIGHT_WHO  = 10
+
+WHEN_LABELS = ['DATE', 'TIME']
+WHO_LABELS = ['PERSON','NORP','ORG','GPE']
 
 # Control keys
 USE_Q_TYPES = True
@@ -99,8 +103,16 @@ for i in range(1, len(inp)):
             if USE_Q_TYPES:
                 if q.type is 'WHEN':
                     for e in s.entities:
-                        if e[1] is 'DATE' or e[1] is 'TIME':
+                        if e[1] in WHEN_LABELS:
                             overlap += WEIGHT_WHEN
+                            break
+                if q.type is 'WHO':
+                    for e in s.entities:
+                        if e[1] is 'PERSON':
+                            overlap += WEIGHT_WHO
+                            break
+                        elif(e[1] is 'NORP' or e[1] is 'ORG' or e[1] is 'GPE'):
+                            overlap += WEIGHT_WHO/2
                             break
 
             s.score = overlap
@@ -135,7 +147,9 @@ for i in range(1, len(inp)):
         if USE_Q_TYPES:
             short_sent = []
             if q.type is 'WHEN':
-                short_sent = [e[0] for e in sentences[0].entities if e[1] is 'DATE' or e[1] is 'TIME']
+                short_sent = [e[0] for e in sentences[0].entities if e[1] in WHEN_LABELS]
+            if q.type is 'WHO':
+                short_sent = [e[0] for e in sentences[0].entities if e[1] in WHO_LABELS]
             if len(short_sent) != 0:
                 sentences[0].sentence = " ".join(short_sent)
 
