@@ -27,10 +27,10 @@ NP_WEIGHT        = 5
 # Q-type weights
 WEIGHT_WHEN = 10
 WEIGHT_WHO  = 10
+WEIGHT_MEASURE = 10
 
 WHEN_LABELS = ['DATE', 'TIME']
 WHO_LABELS = ['PERSON','NORP','ORG','GPE']
-
 # Control keys
 USE_Q_TYPES = True
 
