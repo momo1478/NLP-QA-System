@@ -19,16 +19,24 @@ from copy import deepcopy
 
 import spacy
 
-WORD_WEIGHT = 1
+WORD_WEIGHT = 0
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 6
-NP_WEIGHT = 0
+NP_WEIGHT = 5
+
+# Q-type weights
+WEIGHT_WHEN = 10
+
+# Control keys
+USE_Q_TYPES = True
 
 ENTITY_ONLY_RESPONSE = False
 
 NEAR_WORDS_ENABLE = False
 NEAR_WORDS = 100
-# Stop words
+
+# Stop words: words that are probably too common to help find the right
+# answer sentences
 STOP_WORDS = set(['a', 'an', 'and', 'the', 'then'])
 STOP_VERBS = set(['be', 'do', 'have', 'would'])
 
@@ -57,7 +65,8 @@ for i in range(1, len(inp)):
         sentences = deepcopy(list(story.sentences))
 
         nlp = spacy.load('en_core_web_sm')
-        if sys.version_info[0] > 3:
+
+        if sys.version_info[0] >= 3:
             doc = nlp(str(q.qstr))
         else:
             doc = nlp(unicode(q.qstr))
@@ -74,43 +83,36 @@ for i in range(1, len(inp)):
         # Score the sentences
         for s in sentences:
             # Add WORD_WEIGHT for every overlapping word in sentence and question
-            #overlap = len(qws.intersection(set(s.sentence.split(' ')))) * WORD_WEIGHT
             overlap = len(qws.intersection(set(s.lemmas))) * WORD_WEIGHT
-            #overlap = 0
 
             for qnpc in np_chunks_in_question:
                 for snpc in s.noun_chunks:
                     np_overlap = len(qnpc.intersection(snpc))
                     if np_overlap != 0:
-                        #print("Question: {} Sentence: {}".format(qnpc, snpc))
                         overlap += np_overlap * NP_WEIGHT
-
-            # Add 1 for every matching word in the question and sentence
-            # for word in q.words:
-            #     if word in s.sentence.split(' '):
-            #         overlap += WORD_WEIGHT
 
             # Add 10 for every matching verb in both sentences
             for vq in verbs_in_question:
                 if vq[1] in s.lemmas:
                     overlap += VERB_WEIGHT
 
-            s.score = overlap
-        #print(sentences)
-            #print("Sentence Lemmas: {}".format(verbs_in_sentence))
-            #print("SCORE " + str(s.score))
+            if USE_Q_TYPES:
+                if q.type is 'WHEN':
+                    for e in s.entities:
+                        if e[1] is 'DATE' or e[1] is 'TIME':
+                            overlap += WEIGHT_WHEN
+                            break
 
-            # new_candidate = q.words.intersection(s.sentence)
-            # score = len(new_candidate)
-            # candidate_responses.append(Sentence(new_candidate, score))
+            s.score = overlap
 
         # Sort for highest score with shortest sentence
         sentences.sort(key=(lambda x: len(x.sentence)), reverse=False)
         sentences.sort(key=(lambda x: x.score), reverse=True)
         
-        if(NEAR_WORDS_ENABLE):
+        if NEAR_WORDS_ENABLE:
             ans = sentences[0]
-            match_indicies = [(ans.sentence.split()[i],i) for i in range(len(ans.sentence.split())) if ans.sentence.split()[i] in q.qstr.split()]
+            match_indicies = [(ans.sentence.split()[i],i) for i in range(len(ans.sentence.split()))
+                              if ans.sentence.split()[i] in q.qstr.split()]
 
             # print("* * * (match,index) * * *")
             # for mi in match_indicies:
@@ -130,9 +132,14 @@ for i in range(1, len(inp)):
             ents_in_answer = " ".join([ents for ents in set(sentences[0].entities)])
             sentences[0].sentence = ents_in_answer if len(ents_in_answer) > 0 else sentences[0].sentence
 
+        if USE_Q_TYPES:
+            short_sent = []
+            if q.type is 'WHEN':
+                short_sent = [e[0] for e in sentences[0].entities if e[1] is 'DATE' or e[1] is 'TIME']
+            if len(short_sent) != 0:
+                sentences[0].sentence = " ".join(short_sent)
+
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
+        #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
         print("Answer: {}\n".format("" if sentences[0].score == 0 else "".join(sentences[0].sentence)))
-        # print("Answer: {}\n".format("" if candidate_responses[0].score == 0
-        #                             else " ".join(candidate_responses[0].sentence)))

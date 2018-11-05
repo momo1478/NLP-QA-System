@@ -67,7 +67,7 @@ class Story:
     # Parse story for its named entities and POS tags
     def __process_story(self, story):
         nlp = spacy.load('en_core_web_sm')
-        if sys.version_info[0] > 3:
+        if sys.version_info[0] >= 3:
             doc = nlp(str(story))
         else:
             doc = nlp(unicode(story))
@@ -76,7 +76,7 @@ class Story:
         self.sentences = [Sentence(sentence.text,
                                    [token.lemma_ for token in sentence],
                                    [set(str(chunk).split()) for chunk in list(sentence.noun_chunks)],
-                                   [ent.text     for ent   in sentence.ents])
+                                   [(ent.text, ent.label_)   for ent   in sentence.ents])
                           for sentence in list(doc.sents)]
 
         self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
