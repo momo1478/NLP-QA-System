@@ -14,19 +14,19 @@ import sys
 from Story import Story
 from Story import Sentence
 from QuestionSet import QuestionSet
-
 from copy import deepcopy
 
 import spacy
 
-WORD_WEIGHT      = 0
-VERB_WEIGHT      = 10
+WORD_WEIGHT = 1
+VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 6
-NP_WEIGHT        = 5
+NP_WEIGHT = 5
 
 # Q-type weights
 WEIGHT_WHEN = 10
-WEIGHT_WHO  = 10
+WEIGHT_WHO = 10
+WEIGHT_WHO_SUPP = 0
 WEIGHT_MEASURE = 10
 WEIGHT_WHERE = 6
 
@@ -47,7 +47,14 @@ NEAR_WORDS = 100
 # Stop words: words that are probably too common to help find the right
 # answer sentences
 STOP_WORDS = set(['a', 'an', 'and', 'the', 'then'])
+#STOP_WORDS = set(['a', 'an', 'and', 'the', 'then', 'of', 'to', 'be', 'that', 'from'])
 STOP_VERBS = set(['be', 'do', 'have', 'would'])
+
+# a an the
+# he she it they them those their
+# if those..:
+#     of to from by that their
+
 
 inp = []
 # Get the story ids
@@ -117,13 +124,19 @@ for i in range(1, len(inp)):
                             overlap += WEIGHT_MEASURE
                             break
                 if q.type is 'WHO':
+                    found_who = False
+                    found_supp = False
                     for e in s.entities:
-                        if e[1] is 'PERSON':
+                        if not found_who and e[1] is 'PERSON':
                             overlap += WEIGHT_WHO
-                            break
-                        elif(e[1] is 'NORP' or e[1] is 'ORG' or e[1] is 'GPE'):
+                            found_who = True
+                            #break
+                        elif not found_who and (e[1] is 'NORP' or e[1] is 'ORG' or e[1] is 'GPE'):
                             overlap += WEIGHT_WHO / 2
-                            break
+                            found_who = True
+                            #break
+                        elif e[1] in NER_WHO:
+                            overlap += WEIGHT_WHO_SUPP
                 if q.type is 'WHERE':
                     for e in s.entities:
                         if e[1] in NER_WHERE:
@@ -175,4 +188,5 @@ for i in range(1, len(inp)):
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
         #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
-        print("Answer: {}\n".format("" if sentences[0].score == 0 else "".join(sentences[0].sentence)))
+        print("Answer: {}\n".format("".join(sentences[-1].sentence) if sentences[0].score == 0 else "".join(sentences[0].sentence)))
+        #print("Answer: {}\n".format("".join(sentences[0].sentence)))
