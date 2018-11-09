@@ -34,7 +34,7 @@ WEIGHT_WHERE = 6
 NER_TIME = ['TIME', 'DATE']
 NER_MEASURE = ['PERCENT', 'MONEY', 'QUANTITY', 'CARDINAL']
 NER_WHO = ['PERSON', 'NORP', 'ORG', 'GPE']
-NER_WHERE = ['FAC', 'ORG', 'GPE' 'LOC']
+NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
 
 # Control keys
 USE_Q_TYPES = True
@@ -42,7 +42,7 @@ USE_Q_TYPES = True
 ENTITY_ONLY_RESPONSE = False
 
 NEAR_WORDS_ENABLE = False
-NEAR_WORDS = 100
+NEAR_WORDS = 5
 
 # Stop words: words that are probably too common to help find the right
 # answer sentences
@@ -182,6 +182,10 @@ for i in range(1, len(inp)):
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHO]
             if q.type is 'WHERE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE]
+
+            # TODO: What am I trying to do here?
+
+
             if len(short_sent) != 0:
                 sentences[0].sentence = " ".join(short_sent)
 

@@ -1,0 +1,1685 @@
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-3-1
+
+Comparing Key  `1997'
+      and Resp `The company used the same technology invented by Scottish scientists to clone Dolly the sheep in 1997.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/17)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-3-2
+
+Comparing Key  `goats'
+      and Resp `Professor Margaret Somerville says she does not agree with cloning for the purposes of creating a superior race of animals -- such as faster race horses or stronger elephants.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/29)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-3-3
+
+Comparing Key  `three'
+      and Resp `"When you think of what a web has to do, its extreme strength makes perfect sense," he says.'
+
+Comparing Key  `triplets'
+      and Resp `"When you think of what a web has to do, its extreme strength makes perfect sense," he says.'
+
+=> Best match in answer key is:
+   `three'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-3-4
+
+Comparing Key  `Jeffrey Turner'
+      and Resp `Biosteel is an artificial spider silk developed by Nexia Biotechnologies.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-3-7
+
+Comparing Key  `environmentally friendly, extremely light, and compatible with the human body'
+      and Resp `Mr. Turner says that BioSteel is the strongest substance known to man, with a tensile strength of 300,000 pounds per square inch.'
+
+Recall    = 0.20 (2/10)
+Precision = 0.09 (2/22)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-4-1
+
+Comparing Key  `eight thousand'
+      and Resp `Taber was founded at the beginning of the century.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/9)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-4-2
+
+Comparing Key  `a 14 year-old boy'
+      and Resp `Pastor Ken Gartly provided comfort and prayer to people in Taber, Alberta yesterday after two students were shot at the town's high school.'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/23)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-4-4
+
+Comparing Key  `the gunman was taken into custody by the school resource officer'
+      and Resp `Police confirmed the gunman was taken into custody by the school resource officer, who is also a member of the Taber Police Service.'
+
+Comparing Key  `the police have him'
+      and Resp `Police confirmed the gunman was taken into custody by the school resource officer, who is also a member of the Taber Police Service.'
+
+=> Best match in answer key is:
+   `the gunman was taken into custody by the school resource officer'
+
+Recall    = 1.00 (11/11)
+Precision = 0.48 (11/23)
+F-measure = 0.65
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-4-5
+
+Comparing Key  `Jason Lang'
+      and Resp `Eight thousand people live in Taber, which is 300 kilometres southeast of Calgary.'
+
+Comparing Key  `a grade 11 student'
+      and Resp `Eight thousand people live in Taber, which is 300 kilometres southeast of Calgary.'
+
+=> Best match in answer key is:
+   `Jason Lang'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-4-7
+
+Comparing Key  `to make it relevant to the shootings at the high school'
+      and Resp `Gartly said he and the group sat down and modified the original program to make it relevant to the shootings at the high school.'
+
+Comparing Key  `People asked for guidance in what to say to the kids'
+      and Resp `Gartly said he and the group sat down and modified the original program to make it relevant to the shootings at the high school.'
+
+=> Best match in answer key is:
+   `to make it relevant to the shootings at the high school'
+
+Recall    = 1.00 (11/11)
+Precision = 0.46 (11/24)
+F-measure = 0.63
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-4-8
+
+Comparing Key  `a week before the Taber shooting'
+      and Resp `The shooting comes a week after the shooting tragedy at Columbine high school in Littleton, Colorado.'
+
+Comparing Key  `a week ago'
+      and Resp `The shooting comes a week after the shooting tragedy at Columbine high school in Littleton, Colorado.'
+
+=> Best match in answer key is:
+   `a week before the Taber shooting'
+
+Recall    = 0.67 (4/6)
+Precision = 0.25 (4/16)
+F-measure = 0.36
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-5-1
+
+Comparing Key  `a month ago'
+      and Resp `A month after fleeing battered and bloodied Kosovo, Yugoslavia with nothing but the clothes on their backs, Qemal Sefa and his family arrived at their new home in Winnipeg, Manitoba last night.'
+
+Recall    = 0.67 (2/3)
+Precision = 0.06 (2/32)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-5-3
+
+Comparing Key  `walked'
+      and Resp `At that time, the UN figured it would be easier to resettle them when a peace deal is reached with Yugoslavia.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/21)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-5-4
+
+Comparing Key  `7 kilometers'
+      and Resp `Hundreds of thousands of refugees are now living in camps just outside of Yugoslavia.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-5-6
+
+Comparing Key  `at a theatre'
+      and Resp `But Sefa - who recently retired from his job at a theatre after 45 years - said last night it may not take that long for him to decide where to make his new home.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.09 (3/35)
+F-measure = 0.16
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-5-7
+
+Comparing Key  `59'
+      and Resp `"This last month has been rough," Sefa said.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/8)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-5-9
+
+Comparing Key  `they were regularly intercepted by Serb forces who kept the money and goods for themselves'
+      and Resp `He said he often tried to send money and supplies to them but shipments were regularly intercepted by Serb forces who kept the money and goods for themselves.'
+
+Comparing Key  `intercepted by Serb forces'
+      and Resp `He said he often tried to send money and supplies to them but shipments were regularly intercepted by Serb forces who kept the money and goods for themselves.'
+
+=> Best match in answer key is:
+   `they were regularly intercepted by Serb forces who kept the money and goods for themselves'
+
+Recall    = 0.93 (14/15)
+Precision = 0.50 (14/28)
+F-measure = 0.65
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W18-5-10
+
+Comparing Key  `The United Nations High Commission for Refugees'
+      and Resp `Immigration Minister Lucienne Robillard says she was asked today to "reactivate" the plan by the United Nations agency responsible for refugees.'
+
+Recall    = 0.71 (5/7)
+Precision = 0.24 (5/21)
+F-measure = 0.36
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-1
+
+Comparing Key  `40,000 years'
+      and Resp `New research suggests that's how long people have inhabited the Yukon.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/11)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-2
+
+Comparing Key  `crossed a land bridge from Asia into what is now Alaska'
+      and Resp `The previously accepted theory about the populating of North America was that the first inhabitants crossed a land bridge from Asia into what is now Alaska roughly 10,000 to 11,000 years ago, after the last Ice Age.'
+
+Comparing Key  `crossed a land bridge'
+      and Resp `The previously accepted theory about the populating of North America was that the first inhabitants crossed a land bridge from Asia into what is now Alaska roughly 10,000 to 11,000 years ago, after the last Ice Age.'
+
+=> Best match in answer key is:
+   `crossed a land bridge from Asia into what is now Alaska'
+
+Recall    = 1.00 (11/11)
+Precision = 0.30 (11/37)
+F-measure = 0.46
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-4
+
+Comparing Key  `eastern Yukon'
+      and Resp `But recently, scientists have suggested that the region known as Eastern Beringia, now in the eastern Yukon, could have been inhabited at least as far back as 25,000 years ago.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.07 (2/30)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-4
+
+Comparing Key  `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa'
+      and Resp `But recently, scientists have suggested that the region known as Eastern Beringia, now in the eastern Yukon, could have been inhabited at least as far back as 25,000 years ago.'
+
+Comparing Key  `Jacques Cinq-Mars'
+      and Resp `But recently, scientists have suggested that the region known as Eastern Beringia, now in the eastern Yukon, could have been inhabited at least as far back as 25,000 years ago.'
+
+=> Best match in answer key is:
+   `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa'
+
+Recall    = 0.25 (3/12)
+Precision = 0.10 (3/30)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-6
+
+Comparing Key  `in the Bluefish Caves'
+      and Resp `The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.17 (4/24)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-7
+
+Comparing Key  `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago'
+      and Resp `The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.'
+
+Comparing Key  `a mammoth bone'
+      and Resp `The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.'
+
+=> Best match in answer key is:
+   `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago'
+
+Recall    = 0.06 (1/16)
+Precision = 0.04 (1/24)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-8
+
+Comparing Key  `hunters'
+      and Resp `Mr. Cinq-Mars believes the caves were likely used by hunters over a period of roughly 15,000 years.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/17)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-1-9
+
+Comparing Key  `"uncovering the lives of ancient people"'
+      and Resp `Heather Pringle is the author of In Search of Ancient North America, part of which is about the Bluefish Caves in northern Yukon.'
+
+Recall    = 0.50 (3/6)
+Precision = 0.13 (3/23)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-1
+
+Comparing Key  `Oklahoma and Kansas'
+      and Resp `On average, only one F-5 tornado hits the United States each year.'
+
+Comparing Key  `Kansas and Oklahoma'
+      and Resp `On average, only one F-5 tornado hits the United States each year.'
+
+=> Best match in answer key is:
+   `Oklahoma and Kansas'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/12)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-2
+
+Comparing Key  `the swirling funnel cloud that extends from the base of a storm cloud to the ground'
+      and Resp `The recognizable shape of the tornado is the swirling funnel cloud that extends from the base of a storm cloud to the ground.'
+
+Recall    = 1.00 (16/16)
+Precision = 0.70 (16/23)
+F-measure = 0.82
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-3
+
+Comparing Key  `the Oklahoma state medical examiner'
+      and Resp `The Oklahoma state medical examiner said 40 people were killed in Oklahoma alone in Monday's storms, the largest of which formed about 110 kilometres southwest of Oklahoma City - cutting a path at least a kilometre wide as it moved north and east.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.12 (5/43)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-4
+
+Comparing Key  `when they realized victims had been counted twice'
+      and Resp `Fred Irvin of the Sedgwick County Emergency Preparedness Office said today that the initial count of 10 deaths proved wrong when authorities realized victims had been counted twice.'
+
+Recall    = 0.88 (7/8)
+Precision = 0.25 (7/28)
+F-measure = 0.39
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-5
+
+Comparing Key  `in his mobile home'
+      and Resp `On average, only one F-5 tornado hits the United States each year.'
+
+Comparing Key  `his mobile home in Haysville'
+      and Resp `On average, only one F-5 tornado hits the United States each year.'
+
+=> Best match in answer key is:
+   `in his mobile home'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/12)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-6
+
+Comparing Key  `333-419 kilometres per hour'
+      and Resp `An F-4 tornado has a wind speed of 333-419 kilometres per hour.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.33 (4/12)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-7
+
+Comparing Key  `one'
+      and Resp `On average, only one F-5 tornado hits the United States each year.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.08 (1/12)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-8
+
+Comparing Key  `named after a University of Chicago researcher'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.44 (7/16)
+F-measure = 0.61
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-2-9
+
+Comparing Key  `the Fujita scale'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+Comparing Key  `Fujita scale of intensity'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+=> Best match in answer key is:
+   `Fujita scale of intensity'
+
+Recall    = 1.00 (4/4)
+Precision = 0.25 (4/16)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-4-1
+
+Comparing Key  `Canadian Forces Base (CFB) Greenwood'
+      and Resp `A second planeload of refugees from Kosovo landed in Canada early this morning.'
+
+Comparing Key  `Greenwood'
+      and Resp `A second planeload of refugees from Kosovo landed in Canada early this morning.'
+
+Comparing Key  `Canadian Forces Base Greenwood'
+      and Resp `A second planeload of refugees from Kosovo landed in Canada early this morning.'
+
+Comparing Key  `Canadian Forces Base (CFB) Greenwood, Nova Scotia'
+      and Resp `A second planeload of refugees from Kosovo landed in Canada early this morning.'
+
+Comparing Key  `Greenwood, Nova Scotia'
+      and Resp `A second planeload of refugees from Kosovo landed in Canada early this morning.'
+
+=> Best match in answer key is:
+   `Canadian Forces Base (CFB) Greenwood'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-4-2
+
+Comparing Key  `dreaming of returning home'
+      and Resp `They told waiting reporters they were grateful for the safety Canada provides, but it was clear many will spend their time in Canada dreaming of returning home.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.15 (4/27)
+F-measure = 0.26
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-4-3
+
+Comparing Key  `six years ago'
+      and Resp `Mr. Amoosa fled his homeland six years ago - from a civil war that few outside the country then paid attention to.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.14 (3/22)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-4-4
+
+Comparing Key  `his wife and youngest daughter'
+      and Resp `Ahmet Konyoury, who was on the plane with his wife and youngest daughter, said he didn't want to leave Kosovo.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.25 (5/20)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-4-8
+
+Comparing Key  `185'
+      and Resp `The plan must now be approved by the United Nations Security Council, which represents 185 countries from all over the world.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-1
+
+Comparing Key  `light rain and cooler temperatures'
+      and Resp `Light rain and cooler temperatures are giving crews a hand in battling several large forest fires across Northern Ontario.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.26 (5/19)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-2
+
+Comparing Key  `well into next week'
+      and Resp `However, it may be well into next week before some people will be allowed to return home.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.24 (4/17)
+F-measure = 0.38
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-3
+
+Comparing Key  `Chapleau'
+      and Resp `A state of emergency has also been declared in Chapleau, where residents are on standby in preparation for an evacuation order.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-4
+
+Comparing Key  `some rain did fall and dampened the forest fire threat'
+      and Resp `It means the province could send fire fighters and equipment to the latest hot spot in northwestern Ontario.'
+
+Comparing Key  `rain dampened the forest fire threat'
+      and Resp `It means the province could send fire fighters and equipment to the latest hot spot in northwestern Ontario.'
+
+=> Best match in answer key is:
+   `some rain did fall and dampened the forest fire threat'
+
+Recall    = 0.30 (3/10)
+Precision = 0.17 (3/18)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-5
+
+Comparing Key  `Glen Cummings'
+      and Resp `"St. Theresa Point is the only area that did not receive precipitation," said Natural Resources Minister Glen Cummings.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.11 (2/18)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-6
+
+Comparing Key  `volatile'
+      and Resp `"Our forest conditions right now are volatile," said Bob Thomas, information officer for the provincial response centre.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/17)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-7
+
+Comparing Key  `200'
+      and Resp `Since April 1, almost all of the province's 200 fires were triggered by human causes.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.07 (1/15)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W19-5-8
+
+Comparing Key  `human causes'
+      and Resp `Since April 1, almost all of the province's 200 fires were triggered by human causes.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.13 (2/15)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-1
+
+Comparing Key  `more than 750,00'
+      and Resp `One and a half million Canadians have diabetes; more than 750,000 have it and don't know it.'
+
+Recall    = 0.67 (2/3)
+Precision = 0.12 (2/17)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-2
+
+Comparing Key  `blindness, circulatory problems, heart disease and kidney failure'
+      and Resp `However, that didn't temper the enthusiasm of diabetic Holly McWilliams.'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-3
+
+Comparing Key  `proper diet, exercise and insulin'
+      and Resp `Diabetics are at risk of blindness, circulatory problems, heart disease and kidney failure, but with proper diet, exercise and insulin, it can be controlled.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.21 (5/24)
+F-measure = 0.34
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-4
+
+Comparing Key  `helps the body properly use sugers'
+      and Resp `Type 2 -- when insulin in the body doesn't work properly.'
+
+Recall    = 0.50 (3/6)
+Precision = 0.27 (3/11)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-5
+
+Comparing Key  `attacks them'
+      and Resp `Dr. Yoon's research on mice focuses on how a diabetic's immune system attacks cells that produce insulin, which is needed to help the body properly use sugars.'
+
+Comparing Key  `destroys them'
+      and Resp `Dr. Yoon's research on mice focuses on how a diabetic's immune system attacks cells that produce insulin, which is needed to help the body properly use sugars.'
+
+=> Best match in answer key is:
+   `attacks them'
+
+Recall    = 0.50 (1/2)
+Precision = 0.04 (1/27)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-7
+
+Comparing Key  `the University of Calgary'
+      and Resp `Dr. Ji-Won Yoon's discovery affects Type 1 diabetics, which inflicts about 100,000 Canadians.'
+
+Comparing Key  `Calgary'
+      and Resp `Dr. Ji-Won Yoon's discovery affects Type 1 diabetics, which inflicts about 100,000 Canadians.'
+
+=> Best match in answer key is:
+   `the University of Calgary'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-8
+
+Comparing Key  `a cure for humans is between five and 10 years away'
+      and Resp `But, diabetics will have to be patient -- a cure for humans is between five and 10 years away.'
+
+Recall    = 1.00 (11/11)
+Precision = 0.58 (11/19)
+F-measure = 0.73
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W20-5-9
+
+Comparing Key  `a diabetic'
+      and Resp `However, that didn't temper the enthusiasm of diabetic Holly McWilliams.'
+
+Comparing Key  `an 18-year-old Calgarian'
+      and Resp `However, that didn't temper the enthusiasm of diabetic Holly McWilliams.'
+
+Comparing Key  `an 18-year-old Calgarian who has had to inject insulin four times a day since she was three years old to stay alive'
+      and Resp `However, that didn't temper the enthusiasm of diabetic Holly McWilliams.'
+
+=> Best match in answer key is:
+   `a diabetic'
+
+Recall    = 0.50 (1/2)
+Precision = 0.10 (1/10)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-3-1
+
+Comparing Key  `late April'
+      and Resp `In cities across Canada fans began lining up for tickets in late April.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.15 (2/13)
+F-measure = 0.27
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-3-2
+
+Comparing Key  `to make sure he got the first ticket'
+      and Resp `In Montreal someone actually slept in a tent out on the sidewalk in front of a movie theatre to make sure he got the first ticket.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.31 (8/26)
+F-measure = 0.47
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-3-3
+
+Comparing Key  `"definitely a five-star movie"'
+      and Resp `And if you don't, you're in the wrong movie."'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/9)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-3-4
+
+Comparing Key  `Ken Green'
+      and Resp `Ken says, "the story was awesome, the effects were top notch, and even the acting was well done."'
+
+Recall    = 0.50 (1/2)
+Precision = 0.06 (1/18)
+F-measure = 0.10
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-3-6
+
+Comparing Key  `$50 or more'
+      and Resp `It's what some scalpers are asking in Los Angeles, California.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-3-8
+
+Comparing Key  `on the Internet'
+      and Resp `Offers for tickets have been common on the Internet.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.33 (3/9)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-3-9
+
+Comparing Key  `"the presence of a larger-than-life villain"'
+      and Resp `In the National Post, Stephen Cole says, "...'
+
+Comparing Key  `a larger-than-life villain'
+      and Resp `In the National Post, Stephen Cole says, "...'
+
+=> Best match in answer key is:
+   `"the presence of a larger-than-life villain"'
+
+Recall    = 0.17 (1/6)
+Precision = 0.12 (1/8)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-1
+
+Comparing Key  `barrens of southern Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `southern Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+=> Best match in answer key is:
+   `barrens of southern Newfoundland'
+
+Recall    = 0.25 (1/4)
+Precision = 0.03 (1/30)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-2
+
+Comparing Key  `to deliver water to waiting tankers and ship it overseas'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `to export water'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+=> Best match in answer key is:
+   `to deliver water to waiting tankers and ship it overseas'
+
+Recall    = 0.70 (7/10)
+Precision = 0.23 (7/30)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-3
+
+Comparing Key  `an agreement banning bulk water exports'
+      and Resp `For months Ottawa and the provinces have been trying to negotiate an agreement banning bulk water exports.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.35 (6/17)
+F-measure = 0.52
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-4
+
+Comparing Key  `of the Council of Canadians'
+      and Resp `"The federal government knows perfectly well that they're in trouble with this," says Maude Barlow of the Council of Canadians.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.25 (5/20)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-5
+
+Comparing Key  `NAFTA'
+      and Resp `"If they go ahead, then NAFTA (North American Free Trade Agreement) is triggered.'
+
+Comparing Key  `the North American Free Trade Agreement'
+      and Resp `"If they go ahead, then NAFTA (North American Free Trade Agreement) is triggered.'
+
+=> Best match in answer key is:
+   `the North American Free Trade Agreement'
+
+Recall    = 0.83 (5/6)
+Precision = 0.38 (5/13)
+F-measure = 0.53
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-6
+
+Comparing Key  `come in and help themselves to Canadian water all over the country'
+      and Resp `NAFTA then applies to the whole country and there'll be no way for us to stop American corporations from coming in and helping themselves to Canadian water all over the country."'
+
+Recall    = 0.83 (10/12)
+Precision = 0.32 (10/31)
+F-measure = 0.47
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-7
+
+Comparing Key  `soon'
+      and Resp `But if Ottawa wants to stop Gerry White from shipping Newfoundland water all over the world, they'll have to act soon.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W21-5-8
+
+Comparing Key  `after two and one-half years of environmental impact studies'
+      and Resp `After two and a half years of environmental impact studies, he says he's proven the project is safe. "'
+
+Comparing Key  `environmental impact studies'
+      and Resp `After two and a half years of environmental impact studies, he says he's proven the project is safe. "'
+
+=> Best match in answer key is:
+   `after two and one-half years of environmental impact studies'
+
+Recall    = 0.89 (8/9)
+Precision = 0.44 (8/18)
+F-measure = 0.59
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-2-1
+
+Comparing Key  `the Balkans'
+      and Resp `"Kosovars" is the term generally used for people of Albanian ethnic heritage who live in the southern Yugolsavian province of Kosovo.'
+
+Comparing Key  `southern Yugolsavia'
+      and Resp `"Kosovars" is the term generally used for people of Albanian ethnic heritage who live in the southern Yugolsavian province of Kosovo.'
+
+=> Best match in answer key is:
+   `the Balkans'
+
+Recall    = 0.50 (1/2)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-2-4
+
+Comparing Key  `March 24, 1999'
+      and Resp `She is also looking forward to discussing the NATO bombing with them.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/12)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-2-5
+
+Comparing Key  `teach English'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+Comparing Key  `teach English to the refugees'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+Comparing Key  `teach them English'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+=> Best match in answer key is:
+   `teach English to the refugees'
+
+Recall    = 0.80 (4/5)
+Precision = 0.20 (4/20)
+F-measure = 0.32
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-2-6
+
+Comparing Key  `2,000'
+      and Resp `Canada has set no limit for the number of refugees eligible for the family reunification plan.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-2-7
+
+Comparing Key  `many will not return'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+Comparing Key  `many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+Comparing Key  `Slobodan Milosevic's agenda will be achieved'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+=> Best match in answer key is:
+   `many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved'
+
+Recall    = 0.97 (32/33)
+Precision = 0.63 (32/51)
+F-measure = 0.76
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-2-8
+
+Comparing Key  `Ujal Dosnajh'
+      and Resp `But B.C.'s attorney general says few people have come forward to help the Kosovo refugees who will soon arrive in British Columbia.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/22)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-3-1
+
+Comparing Key  `a Calgary, Alberta based wrestler'
+      and Resp `Owen Hart was being lowered into the ring from the rafters of the arena.'
+
+Comparing Key  `a wrestler'
+      and Resp `Owen Hart was being lowered into the ring from the rafters of the arena.'
+
+=> Best match in answer key is:
+   `a Calgary, Alberta based wrestler'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-3-2
+
+Comparing Key  `he fell'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+Comparing Key  `he fell 18 metres'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+=> Best match in answer key is:
+   `he fell'
+
+Recall    = 0.50 (1/2)
+Precision = 0.03 (1/32)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-3-3
+
+Comparing Key  `Bret "Hitman" Hart'
+      and Resp `Wrestling is one of the world's oldest sports.'
+
+Comparing Key  `Bret Hart'
+      and Resp `Wrestling is one of the world's oldest sports.'
+
+=> Best match in answer key is:
+   `Bret "Hitman" Hart'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/8)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-3-5
+
+Comparing Key  `18 to 49'
+      and Resp `Keith Pelley, who is vice-president of programming for the Canadian television network TSN (which carries wrestling), says the WWF's ratings are among his network's highest.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/25)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-3-7
+
+Comparing Key  `2000'
+      and Resp `Don't expect any of the WWF stars to be in the ring in the summer Olympic games in Sydney, Australia in the year 2000.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/24)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-3-8
+
+Comparing Key  `the American state of Minnesota'
+      and Resp `Wrestling is now so mainstream that a former star Jesse "The Body" Ventura was elected governor of the American state of Minnesota, and Hulk Hogan is considering running for president of the United States.'
+
+Comparing Key  `Minnesota'
+      and Resp `Wrestling is now so mainstream that a former star Jesse "The Body" Ventura was elected governor of the American state of Minnesota, and Hulk Hogan is considering running for president of the United States.'
+
+=> Best match in answer key is:
+   `the American state of Minnesota'
+
+Recall    = 1.00 (5/5)
+Precision = 0.15 (5/34)
+F-measure = 0.26
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-1
+
+Comparing Key  `25 years'
+      and Resp `I wanted to be an astronaut."'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-2
+
+Comparing Key  `homework'
+      and Resp `Believe it or not, at school Julie used to skip recess so she could do her homework.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/17)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-3
+
+Comparing Key  `5'
+      and Resp `Along with being an astronaut, Julie is a computer engineer, can speak 5 languages (French, English, German, Spanish and Russian), has competed in triathalon races (swimming, running, and biking), is a deep-sea diver, and has a jet pilot's licence.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.03 (1/39)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-4
+
+Comparing Key  `1992'
+      and Resp `She has been training for the mission since 1992, when she was first selected to be an astronaut by the Canadian Space Agency.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/23)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-7
+
+Comparing Key  `the International Space Station platform'
+      and Resp `Although she will not be the first Canadian woman in space, she will be the first Canadian astronaut to enter and work on the International Space Station platform, launched last year by the United States and Russia.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.14 (5/37)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-8
+
+Comparing Key  `video cameras'
+      and Resp `Her tasks will include unloading and arranging the 2,200 kilograms of equipment being carried to the station for future astronauts; working the remote-control Canadarm while supervising crew members constructing parts of the station, and documenting the mission's progress with video cameras.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.05 (2/41)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-9
+
+Comparing Key  `Russian astronaut Valery Tokarev'
+      and Resp `Julie will also have to help change the 18 solar batteries on the station module Zarya.'
+
+Comparing Key  `Valery Tokarev'
+      and Resp `Julie will also have to help change the 18 solar batteries on the station module Zarya.'
+
+=> Best match in answer key is:
+   `Russian astronaut Valery Tokarev'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-11
+
+Comparing Key  `Prime Minister Jean Chretien'
+      and Resp `Yesterday evening Aline Chretien told her husband that her friend was "starting to have butterflies."'
+
+Comparing Key  `Jean Chretien'
+      and Resp `Yesterday evening Aline Chretien told her husband that her friend was "starting to have butterflies."'
+
+Comparing Key  `the Prime Minister'
+      and Resp `Yesterday evening Aline Chretien told her husband that her friend was "starting to have butterflies."'
+
+=> Best match in answer key is:
+   `Jean Chretien'
+
+Recall    = 0.50 (1/2)
+Precision = 0.07 (1/15)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-4-12
+
+Comparing Key  `last year'
+      and Resp `Although she will not be the first Canadian woman in space, she will be the first Canadian astronaut to enter and work on the International Space Station platform, launched last year by the United States and Russia.'
+
+Comparing Key  `1998'
+      and Resp `Although she will not be the first Canadian woman in space, she will be the first Canadian astronaut to enter and work on the International Space Station platform, launched last year by the United States and Russia.'
+
+=> Best match in answer key is:
+   `last year'
+
+Recall    = 1.00 (2/2)
+Precision = 0.05 (2/37)
+F-measure = 0.10
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-5-3
+
+Comparing Key  `2,800'
+      and Resp `La Ronge is a community of 2,800 people located 300 kilometres north of Saskatoon.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.07 (1/14)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-5-4
+
+Comparing Key  `Joe Hordyski'
+      and Resp `"It's amazing that so much vegetation on the perimeter of our community was totally destroyed and we were very fortunate that so little property was destroyed," says La Ronge Mayor Joe Hordyski.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.06 (2/32)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-5-5
+
+Comparing Key  `he soaked it with water'
+      and Resp `Trees were still burning at Gary Vettree's in Eagle Point, which was directly in the path of a fast-moving fire.'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/20)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-5-6
+
+Comparing Key  `six metres above the trees'
+      and Resp `The fire shot six metres above the trees as it roared through the industrial area of town.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.29 (5/17)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-5-7
+
+Comparing Key  `the local health clinic and a hockey arena'
+      and Resp `In northern Alberta, meanwhile, a forest fire just north of Fort McMurray threatened the region's power supply as it burned out of control Thursday.'
+
+Recall    = 0.25 (2/8)
+Precision = 0.08 (2/24)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W22-5-8
+
+Comparing Key  `last night'
+      and Resp `Residents "have to go back with the understanding that they could be called out at any moment," says RCMP Cpl.'
+
+Comparing Key  `the night of May 27, 1999'
+      and Resp `Residents "have to go back with the understanding that they could be called out at any moment," says RCMP Cpl.'
+
+=> Best match in answer key is:
+   `the night of May 27, 1999'
+
+Recall    = 0.17 (1/6)
+Precision = 0.05 (1/20)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-1-1
+
+Comparing Key  `she was too busy getting the new International Space Station ready'
+      and Resp `Julie Payette did not get a lot of time to put on her red clown nose and listen to the Sarah McLaughlan CD she brought along.'
+
+Recall    = 0.18 (2/11)
+Precision = 0.08 (2/26)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-1-2
+
+Comparing Key  `astronaut Tamara Jernigan and Russian crewmate Valery Tokarev'
+      and Resp `Astronaut Tamara Jernigan and Russian crewmate Valery Tokarev led the way inside the unfinished station yesterday evening.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.47 (8/17)
+F-measure = 0.64
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-1-4
+
+Comparing Key  `inside the American Unity  Chamber'
+      and Resp `Astronauts Rick Husband and Daniel Barry replaced two electronics boxes for a communication system inside the American Unity chamber, where it was a brisk 14 degrees.'
+
+Comparing Key  `American Unity Chamber'
+      and Resp `Astronauts Rick Husband and Daniel Barry replaced two electronics boxes for a communication system inside the American Unity chamber, where it was a brisk 14 degrees.'
+
+=> Best match in answer key is:
+   `inside the American Unity  Chamber'
+
+Recall    = 1.00 (5/5)
+Precision = 0.19 (5/26)
+F-measure = 0.32
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-1-5
+
+Comparing Key  `electrical meters on batteries that aren't charging properly'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+Comparing Key  `electrical meters'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+Comparing Key  `electrical meters on batteries'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+=> Best match in answer key is:
+   `electrical meters on batteries that aren't charging properly'
+
+Recall    = 1.00 (8/8)
+Precision = 0.29 (8/28)
+F-measure = 0.44
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-1-6
+
+Comparing Key  `insulation'
+      and Resp `Earlier, the crew installed insulation around some fans inside Zarya to reduce the noise level, which Mr. Barry said measured up to 67 decibels.'
+
+Comparing Key  `with insulation'
+      and Resp `Earlier, the crew installed insulation around some fans inside Zarya to reduce the noise level, which Mr. Barry said measured up to 67 decibels.'
+
+=> Best match in answer key is:
+   `insulation'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/24)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-1-7
+
+Comparing Key  `about 60 decibels'
+      and Resp `Station officials hoped the mufflers would reduce the noise level to about 60 decibels -- about the same as an office environment.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.14 (3/22)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-1-9
+
+Comparing Key  `next March'
+      and Resp `They have until Thursday to unload 1,636 kilograms of spare parts, computers, water and clothes for the first permanent residents, due to arrive next March.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.08 (2/25)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-1
+
+Comparing Key  `the hardest-fought campaign in recent memory'
+      and Resp `Premier Mike Harris says his re-election victory last night is an order for him to carry out another ambitious plan for the province.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.04 (1/23)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-2
+
+Comparing Key  `small political regions across the province'
+      and Resp `Our economy is back on track...'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-3
+
+Comparing Key  `because they get more than half of the votes on any issue'
+      and Resp `A majority government makes it much easier for the ruling party to make decisions, because they get more than half of the votes on any issue.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.46 (12/26)
+F-measure = 0.63
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-4
+
+Comparing Key  `Dalton McGuinty'
+      and Resp `The residents of New Brunswick will be going to the polls on Monday, June 7th.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/15)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-5
+
+Comparing Key  `32 years ago'
+      and Resp `It's the first time in 32 years that any party has won two majority governments in a row in Ontario.'
+
+Recall    = 0.67 (2/3)
+Precision = 0.10 (2/20)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-6
+
+Comparing Key  `in North Bay'
+      and Resp `"Four years ago you sent me to do a job, you placed your faith in our team, in our plan, and we have done our very best to implement that plan and keep your faith," Premier Harris told cheering supporters in North Bay.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.07 (3/43)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-8
+
+Comparing Key  `protesters'
+      and Resp `During the campaign, he was hounded by protesters at every appearance.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.09 (1/11)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W23-5-10
+
+Comparing Key  `the people in charge of a polling station'
+      and Resp `Several returning officers (the people in charge of a  polling station) called in sick.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.57 (8/14)
+F-measure = 0.73
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-3-1
+
+Comparing Key  `early ice break-up'
+      and Resp `"So the ice didn't thicken as much as normal in most areas, and it started to clear a little earlier.'
+
+Comparing Key  `ice break-up is expected to be three weeks early'
+      and Resp `"So the ice didn't thicken as much as normal in most areas, and it started to clear a little earlier.'
+
+=> Best match in answer key is:
+   `ice break-up is expected to be three weeks early'
+
+Recall    = 0.22 (2/9)
+Precision = 0.10 (2/20)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-3-2
+
+Comparing Key  `large, heavy items cannot be transported by airplane'
+      and Resp `But large, heavy items cannot be transported by airplane.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.89 (8/9)
+F-measure = 0.94
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-3-3
+
+Comparing Key  `more than two dollars'
+      and Resp `Believe it or not, a simple head of wilted lettuce can cost five dollars.'
+
+Recall    = 0.25 (1/4)
+Precision = 0.07 (1/14)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-3-4
+
+Comparing Key  `three dollars'
+      and Resp `Food can cost from twice to three times what it does down south.'
+
+Recall    = 0.50 (1/2)
+Precision = 0.08 (1/13)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-3-5
+
+Comparing Key  `1969'
+      and Resp `"I have been involved in shipping in the Arctic since 1969 and certainly nobody I've talked to who had been up there for decades before had ever seen anything like this," he says.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.03 (1/33)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-3-6
+
+Comparing Key  `Baffin Island'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+Comparing Key  `northern Canada'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+=> Best match in answer key is:
+   `Baffin Island'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-3-6
+
+Comparing Key  `Environment Canada'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-5-1
+
+Comparing Key  `September'
+      and Resp `Judge Arbour will not start work until September 15th.'
+
+Comparing Key  `September, 1999'
+      and Resp `Judge Arbour will not start work until September 15th.'
+
+Comparing Key  `September 15, 1999'
+      and Resp `Judge Arbour will not start work until September 15th.'
+
+=> Best match in answer key is:
+   `September'
+
+Recall    = 1.00 (1/1)
+Precision = 0.11 (1/9)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-5-2
+
+Comparing Key  `justice Peter Cory'
+      and Resp `Justice Minister Anne McLellan says the 52-year-old Arbour is perfect for the job and will replace retired justice Peter Cory quite nicely.'
+
+Comparing Key  `Peter Cory'
+      and Resp `Justice Minister Anne McLellan says the 52-year-old Arbour is perfect for the job and will replace retired justice Peter Cory quite nicely.'
+
+=> Best match in answer key is:
+   `justice Peter Cory'
+
+Recall    = 1.00 (3/3)
+Precision = 0.14 (3/22)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-5-3
+
+Comparing Key  `chief prosecutor at the war-crimes tribunal'
+      and Resp `Louise Arbour will become the high court's third female justice when she begins her new job in September.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.06 (1/18)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-5-4
+
+Comparing Key  `University of Montreal'
+      and Resp `Judge Arbour graduated from the University of Montreal with a law degree in 1970.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.21 (3/14)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-5-5
+
+Comparing Key  `lawyer Earl Levy'
+      and Resp `"Louise Arbour is a down-to-earth individual, who understands the needs of the ordinary person," says lawyer Earl Levy.'
+
+Comparing Key  `Earl Levy'
+      and Resp `"Louise Arbour is a down-to-earth individual, who understands the needs of the ordinary person," says lawyer Earl Levy.'
+
+=> Best match in answer key is:
+   `lawyer Earl Levy'
+
+Recall    = 1.00 (3/3)
+Precision = 0.17 (3/18)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-5-7
+
+Comparing Key  `crimes against humanity'
+      and Resp `Judge Arbour's last major act as chief prosecutor was to indict Slobodan Milosevic for crimes against humanity two weeks ago -- the first time an international court has charged a sitting head of state with war crimes.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.08 (3/37)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+
+SCORING 1999-W24-5-8
+
+Comparing Key  `The government was very aware of how tricky it would be to take her away from her high-profile assignment of prosecuting Milosevic'
+      and Resp `It appears to be no coincidence that Ms. McLellan announced the appointment the day after NATO and Yugoslav generals signed a detailed military agreement on the withdrawal of Yugoslav and Serb forces from Kosovo.'
+
+Recall    = 0.27 (6/22)
+Precision = 0.18 (6/34)
+F-measure = 0.21
+
+
+
+Finished processing 127 questions, 127 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.6112  (77.62 / 127)
+AVERAGE PRECISION = 0.1420  (18.03 / 127)
+AVERAGE F-MEASURE = 0.2305
+
+*************************************************************************

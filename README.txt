@@ -8,6 +8,9 @@ Final Project: Question Answering
 Uses Python 2.7
 Tested on CADE Machine: lab2-5.eng.utah.edu
 
+Timing for single story:
+  # TODO: Answer this question
+
 External Resources:
   spaCy
     https://spacy.io/usage/
