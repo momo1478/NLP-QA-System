@@ -45,7 +45,7 @@ NER_WHO = ['PERSON', 'NORP', 'ORG', 'GPE']
 NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
 
 # Control keys
-USE_Q_TYPES = True
+USING_Q_TYPES = True
 USING_SIMILAR_VERBS = True
 
 ENTITY_ONLY_RESPONSE = False
@@ -98,11 +98,12 @@ for i in range(1, len(inp)):
         verbs_in_question = [(token.text, token.lemma_) for token in doc
                              if token.pos_ == "VERB" and token.lemma_ not in STOP_VERBS]
 
+        q_ents = [token.text for token in doc.ents]
+
         np_chunks_in_question = [set(str(chunk).split()).difference(STOP_WORDS) for chunk in list(doc.noun_chunks)]
 
         # Only use question words that are not 'stop words'
         # Represent as sets to avoid double counting matching words
-        #qws = set([w for w in q.words if w not in STOP_WORDS])
         qws = set([token.lemma_ for token in doc if token.lemma_ not in STOP_WORDS])
 
         # Get pool of similar verbs in question
@@ -134,7 +135,7 @@ for i in range(1, len(inp)):
             if USING_SIMILAR_VERBS:
                 overlap += len(q_verb_pool.intersection(s.lemmas)) * NEAR_VERB_WEIGHT
 
-            if USE_Q_TYPES:
+            if USING_Q_TYPES:
                 if q.type is 'WHEN':
                     for e in s.entities:
                         if e[1] in NER_TIME:
@@ -184,8 +185,8 @@ for i in range(1, len(inp)):
             final_ans = set()
             for match in match_indicies:
                 index = match[1]
-                lo_i = max(index-NEAR_WORDS,0)
-                hi_i = min(index+NEAR_WORDS,len(ans.sentence.split()) - 1)
+                lo_i = max(index-NEAR_WORDS, 0)
+                hi_i = min(index+NEAR_WORDS, len(ans.sentence.split()) - 1)
                 final_ans.update(ans.sentence.split()[lo_i:hi_i+1])
             
             fa = final_ans
@@ -195,16 +196,16 @@ for i in range(1, len(inp)):
             ents_in_answer = " ".join([ents for ents in set(sentences[0].entities)])
             sentences[0].sentence = ents_in_answer if len(ents_in_answer) > 0 else sentences[0].sentence
 
-        if USE_Q_TYPES:
+        for i in range(len(sentences)):
             short_sent = []
             if q.type is 'WHEN':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_TIME]
             if q.type is 'MEASURE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_MEASURE]
             if q.type is 'WHO':
-                short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHO]
+                short_sent = [e[0] for e in sentences[i].entities if e[1] in NER_WHO and e[0] not in q_ents]
             if q.type is 'WHERE':
-                short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE]
+                short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE and e[0] not in q_ents]
 
             # TODO: What am I trying to do here?
             #if q.type is 'WHAT':
@@ -214,6 +215,7 @@ for i in range(1, len(inp)):
 
             if len(short_sent) != 0:
                 sentences[0].sentence = " ".join(short_sent)
+                break
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
