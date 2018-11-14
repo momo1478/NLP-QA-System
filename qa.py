@@ -16,11 +16,16 @@ from Story import Sentence
 from QuestionSet import QuestionSet
 from copy import deepcopy
 
+from nltk.corpus import wordnet as wn
+
 import spacy
+
+# need to download wordnet?
+#nltk.download("wordnet")
 
 WORD_WEIGHT = 1
 VERB_WEIGHT = 10
-NEAR_VERB_WEIGHT = 6
+NEAR_VERB_WEIGHT = 4
 NP_WEIGHT = 5
 
 # Q-type weights
@@ -29,6 +34,9 @@ WEIGHT_WHO = 10
 WEIGHT_WHO_SUPP = 0
 WEIGHT_MEASURE = 10
 WEIGHT_WHERE = 6
+WEIGHT_WHY = 0
+WEIGHT_HOW = 0
+WEIGHT_WHAT = 0
 
 # Q-NER-Labels
 NER_TIME = ['TIME', 'DATE']
@@ -38,6 +46,7 @@ NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
 
 # Control keys
 USE_Q_TYPES = True
+USING_SIMILAR_VERBS = True
 
 ENTITY_ONLY_RESPONSE = False
 
@@ -96,6 +105,14 @@ for i in range(1, len(inp)):
         #qws = set([w for w in q.words if w not in STOP_WORDS])
         qws = set([token.lemma_ for token in doc if token.lemma_ not in STOP_WORDS])
 
+        # Get pool of similar verbs in question
+        q_verb_pool = set({})
+        for v in verbs_in_question:
+            similar_verbs = wn.synsets(v[0], pos='v')
+            for sv in similar_verbs:
+                q_verb_pool = q_verb_pool.union(set(sv.lemma_names()))
+        q_verb_pool = q_verb_pool.difference(set([v[0] for v in verbs_in_question]))
+
         # Score the sentences
         for s in sentences:
             # Add WORD_WEIGHT for every overlapping word in sentence and question
@@ -108,9 +125,14 @@ for i in range(1, len(inp)):
                         overlap += np_overlap * NP_WEIGHT
 
             # Add 10 for every matching verb in both sentences
-            for vq in verbs_in_question:
-                if vq[1] in s.lemmas:
-                    overlap += VERB_WEIGHT
+            # for vq in verbs_in_question:
+            #     if vq[1] in s.lemmas:
+            #         overlap += VERB_WEIGHT
+            overlap += len(set([v[1] for v in verbs_in_question]).intersection(s.lemmas)) * VERB_WEIGHT
+
+            # Trying looking for verbs that are part of the question's verbs synset
+            if USING_SIMILAR_VERBS:
+                overlap += len(q_verb_pool.intersection(s.lemmas)) * NEAR_VERB_WEIGHT
 
             if USE_Q_TYPES:
                 if q.type is 'WHEN':
@@ -148,7 +170,8 @@ for i in range(1, len(inp)):
         # Sort for highest score with shortest sentence
         sentences.sort(key=(lambda x: len(x.sentence)), reverse=False)
         sentences.sort(key=(lambda x: x.score), reverse=True)
-        
+
+
         if NEAR_WORDS_ENABLE:
             ans = sentences[0]
             match_indicies = [(ans.sentence.split()[i], i) for i in range(len(ans.sentence.split()))
@@ -184,6 +207,9 @@ for i in range(1, len(inp)):
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE]
 
             # TODO: What am I trying to do here?
+            #if q.type is 'WHAT':
+                #print("Doing Nothing ...")
+
 
 
             if len(short_sent) != 0:

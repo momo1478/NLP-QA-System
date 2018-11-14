@@ -11,6 +11,7 @@
 import os
 import spacy
 import sys
+from nltk.corpus import wordnet as wn
 
 class Story:
     def __init__(self, story_path, story_id):
@@ -76,7 +77,8 @@ class Story:
         self.sentences = [Sentence(sentence.text,
                                    [token.lemma_ for token in sentence],
                                    [set(str(chunk).split()) for chunk in list(sentence.noun_chunks)],
-                                   [(ent.text, ent.label_)   for ent   in sentence.ents])
+                                   [(ent.text, ent.label_)   for ent   in sentence.ents],
+                                   set({}))
                           for sentence in list(doc.sents)]
 
         self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
@@ -95,13 +97,26 @@ class Story:
         # print("TAGS : " + str(self.tags))
 
 
+    def __create_verb_pool(self, tokens):
+        STOP_VERBS = set(['be', 'do', 'have', 'would'])
+        verb_pool = set({})
+        for t in tokens:
+            if t.pos_ == "VERB" and t.lemma_ not in STOP_VERBS:
+                similar_verbs = wn.synsets(t.text, pos='v')
+                for s in similar_verbs:
+                    sleep = s.lemma_names()
+                    verb_pool = verb_pool.union(set(sleep))
+        return verb_pool
+
+
 # TODO: decide if we want an inner class for sentence representation
 class Sentence:
-    def __init__(self, sentence, lemmas, noun_chunks, entities, score=0):
+    def __init__(self, sentence, lemmas, noun_chunks, entities, verb_pool, score=0):
         self.sentence = str(sentence)
         self.noun_chunks = noun_chunks
         self.lemmas = lemmas
         self.entities = entities
+        self.verb_pool = verb_pool
         self.score = score
 
     # Report the sentence and current score, useful for debugging
