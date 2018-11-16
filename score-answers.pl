@@ -99,11 +99,13 @@ sub score_info {
 
     $qid = $keyinfo->qid;
     print "-----------------------------------------------------------------------------------------\n";
-    print "\nSCORING $qid\n";
+    print_keyinfo($keyinfo);
+    # print "\nSCORING $qid\n";
     $keyans = $keyinfo->answer;
     $respans = $respinfo->answer;
     @keyoptions = split /\s*\|\s*/, $keyans;
     $num_options = @keyoptions;
+
     foreach $option (@keyoptions) {
 	($recall,$precision,$fmeasure,$correct,$numkeywords,$numrespwords)
 	    = score_strings($option, $respans);
