@@ -1,5 +1,6 @@
 import nltk
 from nltk.corpus import wordnet as wn
+from nltk.corpus import framenet as fn
 
 #import spacy
 from spacy.tokens import Span
@@ -42,6 +43,8 @@ def sysnset(word):
 #     if(doc._.has_coref):
 #         print(doc._.coref_clusters)
 
-sysnset("bag")
+#sysnset("bag")
 
 #spacyTest()
+
+print(len(fn.frames()))
