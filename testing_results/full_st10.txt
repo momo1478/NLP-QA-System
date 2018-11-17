@@ -1,0 +1,2066 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-1'
+QUESTION   : `When was a sheep cloned by Scottish scientists?'
+ANSWER     : `1997'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1997'
+      and Resp `1997'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-2'
+QUESTION   : `What type of animal did Nexia Biotechnologies clone?'
+ANSWER     : `goats'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `goats'
+      and Resp `Biosteel is an artificial spider silk developed by Nexia Biotechnologies.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-3'
+QUESTION   : `How many clones did Nexia Biotechnologies make?'
+ANSWER     : `three | triplets'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `three'
+      and Resp `"When you think of what a web has to do, its extreme strength makes perfect sense," he says.'
+
+Comparing Key  `triplets'
+      and Resp `"When you think of what a web has to do, its extreme strength makes perfect sense," he says.'
+
+=> Best match in answer key is:
+   `three'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-4'
+QUESTION   : `Who is the president of Nexia Biotechnologies ?'
+ANSWER     : `Jeffrey Turner'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Jeffrey Turner'
+      and Resp `Jeffrey Turner'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-7'
+QUESTION   : `Besides being very strong, what are the advantages of BioSteel?'
+ANSWER     : `environmentally friendly, extremely light, and compatible with the human body'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `environmentally friendly, extremely light, and compatible with the human body'
+      and Resp `It means that lawmakers are having to sit down to decide what should be allowed, and what should be made illegal.'
+
+Recall    = 0.10 (1/10)
+Precision = 0.05 (1/21)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-1'
+QUESTION   : `What is the population of Taber?'
+ANSWER     : `eight thousand'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `eight thousand'
+      and Resp `Taber was founded at the beginning of the century.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/9)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-2'
+QUESTION   : `Who shot two students at a high school in Taber?'
+ANSWER     : `a 14 year-old boy'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a 14 year-old boy'
+      and Resp `Pastor Ken Gartly Alberta'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-4'
+QUESTION   : `Where is the Taber gunman now?'
+ANSWER     : `the gunman was taken into custody by the school resource officer | the police have him'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the gunman was taken into custody by the school resource officer'
+      and Resp `the Taber Police Service'
+
+Comparing Key  `the police have him'
+      and Resp `the Taber Police Service'
+
+=> Best match in answer key is:
+   `the police have him'
+
+Recall    = 0.50 (2/4)
+Precision = 0.50 (2/4)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-5'
+QUESTION   : `Who died in the Taber shooting?'
+ANSWER     : `Jason Lang | a grade 11 student'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Jason Lang'
+      and Resp `Columbine Littleton Colorado'
+
+Comparing Key  `a grade 11 student'
+      and Resp `Columbine Littleton Colorado'
+
+=> Best match in answer key is:
+   `Jason Lang'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-7'
+QUESTION   : `Why were yesterday evening's activities at Taber Evangelical Free Church modified?'
+ANSWER     : `to make it relevant to the shootings at the high school | People asked for guidance in what to say to the kids'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `to make it relevant to the shootings at the high school'
+      and Resp `"We have a son and daughter-in-law in Denver," says Pastor Gartly after an evening service at Taber Evangelical Free Church where worshipers discussed the day's tragic events.'
+
+Comparing Key  `People asked for guidance in what to say to the kids'
+      and Resp `"We have a son and daughter-in-law in Denver," says Pastor Gartly after an evening service at Taber Evangelical Free Church where worshipers discussed the day's tragic events.'
+
+=> Best match in answer key is:
+   `to make it relevant to the shootings at the high school'
+
+Recall    = 0.18 (2/11)
+Precision = 0.07 (2/27)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-8'
+QUESTION   : `When was there a school shooting in Colorado?'
+ANSWER     : `a week before the Taber shooting | a week ago'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a week before the Taber shooting'
+      and Resp `a week'
+
+Comparing Key  `a week ago'
+      and Resp `a week'
+
+=> Best match in answer key is:
+   `a week ago'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-1'
+QUESTION   : `When did Qemal Sefa's family flee Kosovo?'
+ANSWER     : `a month ago'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a month ago'
+      and Resp `A month last night'
+
+Recall    = 0.67 (2/3)
+Precision = 0.50 (2/4)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-3'
+QUESTION   : `How did Sefa's family reach the Albanian border?'
+ANSWER     : `walked'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `walked'
+      and Resp `While most of Sefa's family made the trip to the Albanian capital of Tirana safely, his youngest son, Orland, 23, never showed up.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/23)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-4'
+QUESTION   : `How far did Sefa's family live from the Albanian border?'
+ANSWER     : `7 kilometers'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `7 kilometers'
+      and Resp `23'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-6'
+QUESTION   : `Where did Qemal Sefa use to work?'
+ANSWER     : `at a theatre'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `at a theatre'
+      and Resp `Kosovo Yugoslavia Winnipeg Manitoba'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-7'
+QUESTION   : `How old is Qemal Sefa?'
+ANSWER     : `59'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `59'
+      and Resp `four'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-9'
+QUESTION   : `What happened to the money and supplies Esat tried to send to his brother's family?'
+ANSWER     : `they were regularly intercepted by Serb forces who kept the money and goods for themselves | intercepted by Serb forces'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `they were regularly intercepted by Serb forces who kept the money and goods for themselves'
+      and Resp `He said he often tried to send money and supplies to them but shipments were regularly intercepted by Serb forces who kept the money and goods for themselves.'
+
+Comparing Key  `intercepted by Serb forces'
+      and Resp `He said he often tried to send money and supplies to them but shipments were regularly intercepted by Serb forces who kept the money and goods for themselves.'
+
+=> Best match in answer key is:
+   `they were regularly intercepted by Serb forces who kept the money and goods for themselves'
+
+Recall    = 0.93 (14/15)
+Precision = 0.50 (14/28)
+F-measure = 0.65
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-10'
+QUESTION   : `What is the name of the UN organization responsible for refugees?'
+ANSWER     : `The United Nations High Commission for Refugees'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The United Nations High Commission for Refugees'
+      and Resp `But the UN decided it would be better to keep refugees closer to home to ease their return when the war ends.'
+
+Recall    = 0.29 (2/7)
+Precision = 0.09 (2/22)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-1'
+QUESTION   : `How long have people inhabited the Yukon region, according to new research?'
+ANSWER     : `40,000 years'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `40,000 years'
+      and Resp `New research suggests that's how long people have inhabited the Yukon.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/11)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-2'
+QUESTION   : `How did the first inhabitants of North America get here?'
+ANSWER     : `crossed a land bridge from Asia into what is now Alaska | crossed a land bridge'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `crossed a land bridge from Asia into what is now Alaska'
+      and Resp `The previously accepted theory about the populating of North America was that the first inhabitants crossed a land bridge from Asia into what is now Alaska roughly 10,000 to 11,000 years ago, after the last Ice Age.'
+
+Comparing Key  `crossed a land bridge'
+      and Resp `The previously accepted theory about the populating of North America was that the first inhabitants crossed a land bridge from Asia into what is now Alaska roughly 10,000 to 11,000 years ago, after the last Ice Age.'
+
+=> Best match in answer key is:
+   `crossed a land bridge from Asia into what is now Alaska'
+
+Recall    = 1.00 (11/11)
+Precision = 0.30 (11/37)
+F-measure = 0.46
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-4'
+QUESTION   : `Where is Eastern Beringia?'
+ANSWER     : `eastern Yukon'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `eastern Yukon'
+      and Resp `Eastern Beringia Yukon'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-4'
+QUESTION   : `Where is Eastern Beringia?'
+ANSWER     : `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa | Jacques Cinq-Mars'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa'
+      and Resp `Eastern Beringia Yukon'
+
+Comparing Key  `Jacques Cinq-Mars'
+      and Resp `Eastern Beringia Yukon'
+
+=> Best match in answer key is:
+   `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa'
+
+Recall    = 0.00 (0/12)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-6'
+QUESTION   : `Where was the latest evidence supporting earlier dates for the first human inhabitants of North America found?'
+ANSWER     : `in the Bluefish Caves'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in the Bluefish Caves'
+      and Resp `the Bluefish Caves the Bluefish River Old Crow'
+
+Recall    = 0.75 (3/4)
+Precision = 0.38 (3/8)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-7'
+QUESTION   : `What did archeologists find in the Bluefish Caves?'
+ANSWER     : `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago | a mammoth bone'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago'
+      and Resp `The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.'
+
+Comparing Key  `a mammoth bone'
+      and Resp `The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.'
+
+=> Best match in answer key is:
+   `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago'
+
+Recall    = 0.06 (1/16)
+Precision = 0.04 (1/24)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-8'
+QUESTION   : `Who does Jacques Cing-Mars think used the caves?'
+ANSWER     : `hunters'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `hunters'
+      and Resp `Cinq-Mars'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-9'
+QUESTION   : `What does author Heather Pringle think archeology is about?'
+ANSWER     : `"uncovering the lives of ancient people"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `"uncovering the lives of ancient people"'
+      and Resp `Heather Pringle is the author of In Search of Ancient North America, part of which is about the Bluefish Caves in northern Yukon.'
+
+Recall    = 0.50 (3/6)
+Precision = 0.13 (3/23)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-1'
+QUESTION   : `Which U.S. states were hit by the numerous tornados?'
+ANSWER     : `Oklahoma and Kansas | Kansas and Oklahoma'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Oklahoma and Kansas'
+      and Resp `On average, only one F-5 tornado hits the United States each year.'
+
+Comparing Key  `Kansas and Oklahoma'
+      and Resp `On average, only one F-5 tornado hits the United States each year.'
+
+=> Best match in answer key is:
+   `Oklahoma and Kansas'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/12)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-2'
+QUESTION   : `What is the recognizable shape of a tornado?'
+ANSWER     : `the swirling funnel cloud that extends from the base of a storm cloud to the ground'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the swirling funnel cloud that extends from the base of a storm cloud to the ground'
+      and Resp `The recognizable shape of the tornado is the swirling funnel cloud that extends from the base of a storm cloud to the ground.'
+
+Recall    = 1.00 (16/16)
+Precision = 0.70 (16/23)
+F-measure = 0.82
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-3'
+QUESTION   : `Who said 40 people were killed in Oklahoma alone?'
+ANSWER     : `the Oklahoma state medical examiner'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Oklahoma state medical examiner'
+      and Resp `Oklahoma City'
+
+Recall    = 0.20 (1/5)
+Precision = 0.50 (1/2)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-4'
+QUESTION   : `When did authorities discover the initial count of 10 deaths in Sedgwick County was wrong?'
+ANSWER     : `when they realized victims had been counted twice'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `when they realized victims had been counted twice'
+      and Resp `today'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-5'
+QUESTION   : `Where was Chad Harris when the tornado hit?'
+ANSWER     : `in his mobile home | his mobile home in Haysville'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in his mobile home'
+      and Resp `the United States'
+
+Comparing Key  `his mobile home in Haysville'
+      and Resp `the United States'
+
+=> Best match in answer key is:
+   `in his mobile home'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-6'
+QUESTION   : `What is the wind speed range of an F-4 tornado?'
+ANSWER     : `333-419 kilometres per hour'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `333-419 kilometres per hour'
+      and Resp `An F-4 tornado has a wind speed of 333-419 kilometres per hour.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.33 (4/12)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-7'
+QUESTION   : `How many F-5 tornados hit the United States each year on average?'
+ANSWER     : `one'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `one'
+      and Resp `one'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-8'
+QUESTION   : `Why is the scale of intensity for tornados called the Fujita scale?'
+ANSWER     : `named after a University of Chicago researcher'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `named after a University of Chicago researcher'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.44 (7/16)
+F-measure = 0.61
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-9'
+QUESTION   : `How do scientists rank tornados?'
+ANSWER     : `the Fujita scale | Fujita scale of intensity'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Fujita scale'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+Comparing Key  `Fujita scale of intensity'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+=> Best match in answer key is:
+   `Fujita scale of intensity'
+
+Recall    = 1.00 (4/4)
+Precision = 0.25 (4/16)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-1'
+QUESTION   : `Where in Nova Scotia did the plane carrying Kosovo refugees land?'
+ANSWER     : `Canadian Forces Base (CFB) Greenwood | Greenwood | Canadian Forces Base Greenwood | Canadian Forces Base (CFB) Greenwood, Nova Scotia | Greenwood, Nova Scotia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Canadian Forces Base (CFB) Greenwood'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Greenwood'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Canadian Forces Base Greenwood'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Canadian Forces Base (CFB) Greenwood, Nova Scotia'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Greenwood, Nova Scotia'
+      and Resp `Canadian Forces Base CFB'
+
+=> Best match in answer key is:
+   `Canadian Forces Base (CFB) Greenwood'
+
+Recall    = 0.80 (4/5)
+Precision = 1.00 (4/4)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-2'
+QUESTION   : `How will many of the Kosovo refugees spend their time in Canada?'
+ANSWER     : `dreaming of returning home'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `dreaming of returning home'
+      and Resp `They told waiting reporters they were grateful for the safety Canada provides, but it was clear many will spend their time in Canada dreaming of returning home.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.15 (4/27)
+F-measure = 0.26
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-3'
+QUESTION   : `When did Shamsay Amoosa flee his homeland of Kosovo?'
+ANSWER     : `six years ago'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `six years ago'
+      and Resp `six years ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-4'
+QUESTION   : `Who was with Ahmet Konyoury on the plane to Canada?'
+ANSWER     : `his wife and youngest daughter'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `his wife and youngest daughter'
+      and Resp `Kosovo'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-8'
+QUESTION   : `How many countries worldwide does the United Nations Security Council represent?'
+ANSWER     : `185'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `185'
+      and Resp `185'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-1'
+QUESTION   : `What is giving firefighters a hand in battling several large forest fires across Northern Ontario?'
+ANSWER     : `light rain and cooler temperatures'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `light rain and cooler temperatures'
+      and Resp `Light rain and cooler temperatures are giving crews a hand in battling several large forest fires across Northern Ontario.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.26 (5/19)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-2'
+QUESTION   : `When might some people be allowed to return to their homes?'
+ANSWER     : `well into next week'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `well into next week'
+      and Resp `next week'
+
+Recall    = 0.50 (2/4)
+Precision = 1.00 (2/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-3'
+QUESTION   : `Where has a state of emergency been declared?'
+ANSWER     : `Chapleau'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Chapleau'
+      and Resp `A state of emergency has also been declared in Chapleau, where residents are on standby in preparation for an evacuation order.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-4'
+QUESTION   : `Why could Manitoba send fire fighters and equipment to the latest hotspot in northwestern Ontario?'
+ANSWER     : `some rain did fall and dampened the forest fire threat | rain dampened the forest fire threat'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `some rain did fall and dampened the forest fire threat'
+      and Resp `It means the province could send fire fighters and equipment to the latest hot spot in northwestern Ontario.'
+
+Comparing Key  `rain dampened the forest fire threat'
+      and Resp `It means the province could send fire fighters and equipment to the latest hot spot in northwestern Ontario.'
+
+=> Best match in answer key is:
+   `some rain did fall and dampened the forest fire threat'
+
+Recall    = 0.30 (3/10)
+Precision = 0.17 (3/18)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-5'
+QUESTION   : `Who is Natural Resources Minister?'
+ANSWER     : `Glen Cummings'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Glen Cummings'
+      and Resp `Glen Cummings'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-6'
+QUESTION   : `How did Bob Thomas What describe forest conditions right now?'
+ANSWER     : `volatile'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `volatile'
+      and Resp `"Our forest conditions right now are volatile," said Bob Thomas, information officer for the provincial response centre.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/17)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-7'
+QUESTION   : `How many forest fires have there been in Ontario since April 1?'
+ANSWER     : `200'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `200'
+      and Resp `200'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-8'
+QUESTION   : `What has triggered most of the fires in Ontario that have occurred since April 1?'
+ANSWER     : `human causes'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `human causes'
+      and Resp `Since April 1, almost all of the province's 200 fires were triggered by human causes.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.13 (2/15)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-1'
+QUESTION   : `How many Canadians have diabetes and don't realize it?'
+ANSWER     : `more than 750,00'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `more than 750,00'
+      and Resp `One more than 750,000'
+
+Recall    = 0.67 (2/3)
+Precision = 0.50 (2/4)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-2'
+QUESTION   : `What kinds of health problems do diabetics potentially face?'
+ANSWER     : `blindness, circulatory problems, heart disease and kidney failure'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `blindness, circulatory problems, heart disease and kidney failure'
+      and Resp `Diabetics are at risk of blindness, circulatory problems, heart disease and kidney failure, but with proper diet, exercise and insulin, it can be controlled.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.33 (8/24)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-3'
+QUESTION   : `How is diabetes currently controlled?'
+ANSWER     : `proper diet, exercise and insulin'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `proper diet, exercise and insulin'
+      and Resp `Diabetics are at risk of blindness, circulatory problems, heart disease and kidney failure, but with proper diet, exercise and insulin, it can be controlled.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.21 (5/24)
+F-measure = 0.34
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-4'
+QUESTION   : `What does insulin do for our bodies?'
+ANSWER     : `helps the body properly use sugers'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `helps the body properly use sugers'
+      and Resp `Type 2 -- when insulin in the body doesn't work properly.'
+
+Recall    = 0.50 (3/6)
+Precision = 0.27 (3/11)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-5'
+QUESTION   : `What do Type 1 diabetics' immune systems do to insulin-producing cells?'
+ANSWER     : `attacks them | destroys them'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `attacks them'
+      and Resp `Destruction of insulin-producing cells by the immune system can be prevented by halting protein production.'
+
+Comparing Key  `destroys them'
+      and Resp `Destruction of insulin-producing cells by the immune system can be prevented by halting protein production.'
+
+=> Best match in answer key is:
+   `attacks them'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/15)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-7'
+QUESTION   : `Where does Dr. Yoon's team work?'
+ANSWER     : `the University of Calgary | Calgary'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the University of Calgary'
+      and Resp `the University of Calgary'
+
+Comparing Key  `Calgary'
+      and Resp `the University of Calgary'
+
+=> Best match in answer key is:
+   `the University of Calgary'
+
+Recall    = 1.00 (4/4)
+Precision = 1.00 (4/4)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-8'
+QUESTION   : `Why will diabetics have to be patient, despite Dr. Ji-Won Yoon's discovery?'
+ANSWER     : `a cure for humans is between five and 10 years away'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a cure for humans is between five and 10 years away'
+      and Resp `Dr. Ji-Won Yoon's discovery affects Type 1 diabetics, which inflicts about 100,000 Canadians.'
+
+Recall    = 0.00 (0/11)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-9'
+QUESTION   : `Who is Holly McWilliams?'
+ANSWER     : `a diabetic | an 18-year-old Calgarian | an 18-year-old Calgarian who has had to inject insulin four times a day since she was three years old to stay alive'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a diabetic'
+      and Resp `Calgarian'
+
+Comparing Key  `an 18-year-old Calgarian'
+      and Resp `Calgarian'
+
+Comparing Key  `an 18-year-old Calgarian who has had to inject insulin four times a day since she was three years old to stay alive'
+      and Resp `Calgarian'
+
+=> Best match in answer key is:
+   `an 18-year-old Calgarian'
+
+Recall    = 0.33 (1/3)
+Precision = 1.00 (1/1)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-1'
+QUESTION   : `When did Star Wars fans across Canada begin lining up for tickets to Star Wars: Episode 1 The Phantom Menace" movie?'
+ANSWER     : `late April'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `late April'
+      and Resp `late April'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-2'
+QUESTION   : `Why did someone sleep in a tent on a sidewalk in front of a theater in Montreal?'
+ANSWER     : `to make sure he got the first ticket'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to make sure he got the first ticket'
+      and Resp `In Montreal someone actually slept in a tent out on the sidewalk in front of a movie theatre to make sure he got the first ticket.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.31 (8/26)
+F-measure = 0.47
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-3'
+QUESTION   : `How did Mark Churchill describe the movie, "The Phantom Menace"?'
+ANSWER     : `"definitely a five-star movie"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `"definitely a five-star movie"'
+      and Resp `Mark says it's "definitely a five star movie."'
+
+Recall    = 0.50 (2/4)
+Precision = 0.25 (2/8)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-4'
+QUESTION   : `Who said "the effects were top notch" when he was talking about "The Phantom Menace"?'
+ANSWER     : `Ken Green'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Ken Green'
+      and Resp `Ken'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-6'
+QUESTION   : `How much money are some scalpers in Los Angeles asking for a Phantom Menace ticket?'
+ANSWER     : `$50 or more'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `$50 or more'
+      and Resp `It's what some scalpers are asking in Los Angeles, California.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-8'
+QUESTION   : `Where have offers for tickets been common?'
+ANSWER     : `on the Internet'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `on the Internet'
+      and Resp `When tickets went on sale each customer was limited to 12 tickets, although there has been no formal way to stop scalpers from returning to snag more tickets.'
+
+Recall    = 0.33 (1/3)
+Precision = 0.04 (1/28)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-9'
+QUESTION   : `What does Stephen Cole of the National Post say is missing in the Phantom Menace?'
+ANSWER     : `"the presence of a larger-than-life villain" | a larger-than-life villain'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `"the presence of a larger-than-life villain"'
+      and Resp `In the National Post, Stephen Cole says, "...'
+
+Comparing Key  `a larger-than-life villain'
+      and Resp `In the National Post, Stephen Cole says, "...'
+
+=> Best match in answer key is:
+   `"the presence of a larger-than-life villain"'
+
+Recall    = 0.17 (1/6)
+Precision = 0.12 (1/8)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-1'
+QUESTION   : `Where is Gisborne Lake?'
+ANSWER     : `barrens of southern Newfoundland | southern Newfoundland | Newfoundland'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `barrens of southern Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `southern Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+=> Best match in answer key is:
+   `barrens of southern Newfoundland'
+
+Recall    = 0.25 (1/4)
+Precision = 0.03 (1/30)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-2'
+QUESTION   : `Why does Gerry White want to build a pipeline from Gisborne Lake to Grand Lepierre?'
+ANSWER     : `to deliver water to waiting tankers and ship it overseas | to export water'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to deliver water to waiting tankers and ship it overseas'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `to export water'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+=> Best match in answer key is:
+   `to deliver water to waiting tankers and ship it overseas'
+
+Recall    = 0.70 (7/10)
+Precision = 0.23 (7/30)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-3'
+QUESTION   : `What do Ottawa and the provinces want to negotiate?'
+ANSWER     : `an agreement banning bulk water exports'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `an agreement banning bulk water exports'
+      and Resp `For months Ottawa and the provinces have been trying to negotiate an agreement banning bulk water exports.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.35 (6/17)
+F-measure = 0.52
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-4'
+QUESTION   : `Who is Maude Barlow?'
+ANSWER     : `of the Council of Canadians'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `of the Council of Canadians'
+      and Resp `the Council of Canadians'
+
+Recall    = 0.80 (4/5)
+Precision = 1.00 (4/4)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-5'
+QUESTION   : `If the water export plan goes ahead, what is triggered?'
+ANSWER     : `NAFTA | the North American Free Trade Agreement'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `NAFTA'
+      and Resp `"If they go ahead, then NAFTA (North American Free Trade Agreement) is triggered.'
+
+Comparing Key  `the North American Free Trade Agreement'
+      and Resp `"If they go ahead, then NAFTA (North American Free Trade Agreement) is triggered.'
+
+=> Best match in answer key is:
+   `the North American Free Trade Agreement'
+
+Recall    = 0.83 (5/6)
+Precision = 0.38 (5/13)
+F-measure = 0.53
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-6'
+QUESTION   : `What does Maude Barlow think American firms will do?'
+ANSWER     : `come in and help themselves to Canadian water all over the country'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `come in and help themselves to Canadian water all over the country'
+      and Resp `NAFTA then applies to the whole country and there'll be no way for us to stop American corporations from coming in and helping themselves to Canadian water all over the country."'
+
+Recall    = 0.83 (10/12)
+Precision = 0.32 (10/31)
+F-measure = 0.47
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-7'
+QUESTION   : `When does Ottowa have to act if it wants to stop the pipeline plan?'
+ANSWER     : `soon'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `soon'
+      and Resp `But if Ottawa wants to stop Gerry White from shipping Newfoundland water all over the world, they'll have to act soon.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-8'
+QUESTION   : `How has the pipeline project been proved safe, according to Gerry White?'
+ANSWER     : `after two and one-half years of environmental impact studies | environmental impact studies'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `after two and one-half years of environmental impact studies'
+      and Resp `After two and a half years of environmental impact studies, he says he's proven the project is safe. "'
+
+Comparing Key  `environmental impact studies'
+      and Resp `After two and a half years of environmental impact studies, he says he's proven the project is safe. "'
+
+=> Best match in answer key is:
+   `after two and one-half years of environmental impact studies'
+
+Recall    = 0.89 (8/9)
+Precision = 0.44 (8/18)
+F-measure = 0.59
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-1'
+QUESTION   : `Where is Kosovo?'
+ANSWER     : `the Balkans | southern Yugolsavia'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the Balkans'
+      and Resp `Yugolsavian province'
+
+Comparing Key  `southern Yugolsavia'
+      and Resp `Yugolsavian province'
+
+=> Best match in answer key is:
+   `the Balkans'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-4'
+QUESTION   : `When did the NATO bombing start?'
+ANSWER     : `March 24, 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `March 24, 1999'
+      and Resp `March 24'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-5'
+QUESTION   : `What will Thordis Gutnick do for the refugees?'
+ANSWER     : `teach English | teach English to the refugees | teach them English'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `teach English'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+Comparing Key  `teach English to the refugees'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+Comparing Key  `teach them English'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+=> Best match in answer key is:
+   `teach English to the refugees'
+
+Recall    = 0.80 (4/5)
+Precision = 0.20 (4/20)
+F-measure = 0.32
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-6'
+QUESTION   : `How many Kosovars are eligible for Canada's family reunification program?'
+ANSWER     : `2,000'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `2,000'
+      and Resp `More refugees will continue to arrive under Canada's family reunification plan.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/11)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-7'
+QUESTION   : `Why is the Kosovo leadership concerned about taking refugees so far from home?'
+ANSWER     : `many will not return | many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved | Slobodan Milosevic's agenda will be achieved'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `many will not return'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+Comparing Key  `many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+Comparing Key  `Slobodan Milosevic's agenda will be achieved'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+=> Best match in answer key is:
+   `many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved'
+
+Recall    = 0.97 (32/33)
+Precision = 0.63 (32/51)
+F-measure = 0.76
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-8'
+QUESTION   : `Who is the attorney general of British Columbia?'
+ANSWER     : `Ujal Dosnajh'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Ujal Dosnajh'
+      and Resp `B.C. Kosovo'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-1'
+QUESTION   : `Who was Owen Hart?'
+ANSWER     : `a Calgary, Alberta based wrestler | a wrestler'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a Calgary, Alberta based wrestler'
+      and Resp `Owen Owen Ellie Hart'
+
+Comparing Key  `a wrestler'
+      and Resp `Owen Owen Ellie Hart'
+
+=> Best match in answer key is:
+   `a Calgary, Alberta based wrestler'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-2'
+QUESTION   : `How did Owen Hart die?'
+ANSWER     : `he fell | he fell 18 metres'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `he fell'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+Comparing Key  `he fell 18 metres'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+=> Best match in answer key is:
+   `he fell'
+
+Recall    = 0.50 (1/2)
+Precision = 0.03 (1/32)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-3'
+QUESTION   : `Which one of Owen's siblings is a wrestler?'
+ANSWER     : `Bret "Hitman" Hart | Bret Hart'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Bret "Hitman" Hart'
+      and Resp `"Frankly, wrestling was getting so far out and my poor brother Owen was a sacrifice for the television ratings," says Owen's sister Ellie Hart.'
+
+Comparing Key  `Bret Hart'
+      and Resp `"Frankly, wrestling was getting so far out and my poor brother Owen was a sacrifice for the television ratings," says Owen's sister Ellie Hart.'
+
+=> Best match in answer key is:
+   `Bret Hart'
+
+Recall    = 0.50 (1/2)
+Precision = 0.04 (1/24)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-5'
+QUESTION   : `What is the average age of people who watch TSN's professional wrestling shows?'
+ANSWER     : `18 to 49'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `18 to 49'
+      and Resp `Keith Pelley, who is vice-president of programming for the Canadian television network TSN (which carries wrestling), says the WWF's ratings are among his network's highest.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/25)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-7'
+QUESTION   : `When are the next summer Olympics going to be held?'
+ANSWER     : `2000'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `2000'
+      and Resp `the year 2000'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-8'
+QUESTION   : `Where does Jesse Ventura serve as governor?'
+ANSWER     : `the American state of Minnesota | Minnesota'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the American state of Minnesota'
+      and Resp `Wrestling Ventura Minnesota the United States'
+
+Comparing Key  `Minnesota'
+      and Resp `Wrestling Ventura Minnesota the United States'
+
+=> Best match in answer key is:
+   `the American state of Minnesota'
+
+Recall    = 0.40 (2/5)
+Precision = 0.33 (2/6)
+F-measure = 0.36
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-1'
+QUESTION   : `How long has Julie Payette wanted to be an astronaut?'
+ANSWER     : `25 years'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `25 years'
+      and Resp `I wanted to be an astronaut."'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-2'
+QUESTION   : `When she was in school, what would Julie do instead of going to recess?'
+ANSWER     : `homework'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `homework'
+      and Resp `last year'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-3'
+QUESTION   : `How many languages does Julie speak?'
+ANSWER     : `5'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `5'
+      and Resp `5'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-4'
+QUESTION   : `When was Julie selected to be an astronaut by the Canadian Space Agency?'
+ANSWER     : `1992'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1992'
+      and Resp `1992'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-7'
+QUESTION   : `Where will the space shuttle Discovery be taking Julie?'
+ANSWER     : `the International Space Station platform'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the International Space Station platform'
+      and Resp `the International Space Station the United States Russia'
+
+Recall    = 0.80 (4/5)
+Precision = 0.50 (4/8)
+F-measure = 0.62
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-8'
+QUESTION   : `What will Julie use to document the mission progress?'
+ANSWER     : `video cameras'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `video cameras'
+      and Resp `Her tasks will include unloading and arranging the 2,200 kilograms of equipment being carried to the station for future astronauts; working the remote-control Canadarm while supervising crew members constructing parts of the station, and documenting the mission's progress with video cameras.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.05 (2/41)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-9'
+QUESTION   : `Who will be Julie work with to change solar batteries?'
+ANSWER     : `Russian astronaut Valery Tokarev | Valery Tokarev'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Russian astronaut Valery Tokarev'
+      and Resp `Zarya'
+
+Comparing Key  `Valery Tokarev'
+      and Resp `Zarya'
+
+=> Best match in answer key is:
+   `Russian astronaut Valery Tokarev'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-11'
+QUESTION   : `Who is Aline Chretien married to?'
+ANSWER     : `Prime Minister Jean Chretien | Jean Chretien | the Prime Minister'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Prime Minister Jean Chretien'
+      and Resp `Canadian Chretien Julie Payette Florida'
+
+Comparing Key  `Jean Chretien'
+      and Resp `Canadian Chretien Julie Payette Florida'
+
+Comparing Key  `the Prime Minister'
+      and Resp `Canadian Chretien Julie Payette Florida'
+
+=> Best match in answer key is:
+   `Jean Chretien'
+
+Recall    = 0.50 (1/2)
+Precision = 0.20 (1/5)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-12'
+QUESTION   : `When was the International Space Station launched?'
+ANSWER     : `last year | 1998'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `last year'
+      and Resp `last year'
+
+Comparing Key  `1998'
+      and Resp `last year'
+
+=> Best match in answer key is:
+   `last year'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-3'
+QUESTION   : `How many people live in La Ronge?'
+ANSWER     : `2,800'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `2,800'
+      and Resp `2,800 300 kilometres'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-4'
+QUESTION   : `Who is the mayor of La Ronge?'
+ANSWER     : `Joe Hordyski'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Joe Hordyski'
+      and Resp `Joe Hordyski'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-5'
+QUESTION   : `Why did Gary Vettree's house not burn down?'
+ANSWER     : `he soaked it with water'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `he soaked it with water'
+      and Resp `Trees were still burning at Gary Vettree's in Eagle Point, which was directly in the path of a fast-moving fire.'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/20)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-6'
+QUESTION   : `How high was the fire in the industrial area of town?'
+ANSWER     : `six metres above the trees'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `six metres above the trees'
+      and Resp `The fire shot six metres above the trees as it roared through the industrial area of town.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.29 (5/17)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-7'
+QUESTION   : `Where were the evacuees taken when the fire threatened their homes?'
+ANSWER     : `the local health clinic and a hockey arena'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the local health clinic and a hockey arena'
+      and Resp `Alberta Fort McMurray'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-8'
+QUESTION   : `When were the evacuees able to go back to their homes?'
+ANSWER     : `last night | the night of May 27, 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `last night'
+      and Resp `last night'
+
+Comparing Key  `the night of May 27, 1999'
+      and Resp `last night'
+
+=> Best match in answer key is:
+   `last night'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-1'
+QUESTION   : `Why didn't Canadian astronaut Julie Payette get time to put on her red clown nose and listen to the Sarah McLaughlan CD she brought along with her on her shuttle flight'
+ANSWER     : `she was too busy getting the new International Space Station ready'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `she was too busy getting the new International Space Station ready'
+      and Resp `Julie Payette did not get a lot of time to put on her red clown nose and listen to the Sarah McLaughlan CD she brought along.'
+
+Recall    = 0.18 (2/11)
+Precision = 0.08 (2/26)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-2'
+QUESTION   : `Who led the way into the unfinished station?'
+ANSWER     : `astronaut Tamara Jernigan and Russian crewmate Valery Tokarev'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `astronaut Tamara Jernigan and Russian crewmate Valery Tokarev'
+      and Resp `Astronaut Tamara Jernigan Russian Valery Tokarev'
+
+Recall    = 0.75 (6/8)
+Precision = 1.00 (6/6)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-4'
+QUESTION   : `Where was the temperature in the space station only 14 degrees?'
+ANSWER     : `inside the American Unity  Chamber | American Unity Chamber'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `inside the American Unity  Chamber'
+      and Resp `American Unity'
+
+Comparing Key  `American Unity Chamber'
+      and Resp `American Unity'
+
+=> Best match in answer key is:
+   `American Unity Chamber'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-5'
+QUESTION   : `What did Valery Tokarev and Julie Payette change inside the Russian-built Zarya control module?'
+ANSWER     : `electrical meters on batteries that aren't charging properly | electrical meters | electrical meters on batteries'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `electrical meters on batteries that aren't charging properly'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+Comparing Key  `electrical meters'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+Comparing Key  `electrical meters on batteries'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+=> Best match in answer key is:
+   `electrical meters on batteries that aren't charging properly'
+
+Recall    = 1.00 (8/8)
+Precision = 0.29 (8/28)
+F-measure = 0.44
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-6'
+QUESTION   : `How did the crew reduce the noise level from fans inside Zarya?'
+ANSWER     : `insulation | with insulation'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `insulation'
+      and Resp `Earlier, the crew installed insulation around some fans inside Zarya to reduce the noise level, which Mr. Barry said measured up to 67 decibels.'
+
+Comparing Key  `with insulation'
+      and Resp `Earlier, the crew installed insulation around some fans inside Zarya to reduce the noise level, which Mr. Barry said measured up to 67 decibels.'
+
+=> Best match in answer key is:
+   `insulation'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/24)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-7'
+QUESTION   : `What is the noise level in an office?'
+ANSWER     : `about 60 decibels'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 60 decibels'
+      and Resp `Station officials hoped the mufflers would reduce the noise level to about 60 decibels -- about the same as an office environment.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.14 (3/22)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-9'
+QUESTION   : `When are the first permanent residents due to arrive at the International Space Station?'
+ANSWER     : `next March'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `next March'
+      and Resp `Thursday next March'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-1'
+QUESTION   : `How did Ontario Premier Mike Harris describe his re-election campaign?'
+ANSWER     : `the hardest-fought campaign in recent memory'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the hardest-fought campaign in recent memory'
+      and Resp `Premier Mike Harris says his re-election victory last night is an order for him to carry out another ambitious plan for the province.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.04 (1/23)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-2'
+QUESTION   : `What are ridings?'
+ANSWER     : `small political regions across the province'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `small political regions across the province'
+      and Resp `Election day began with a controversy, as polls did not open on time in several ridings.'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-3'
+QUESTION   : `Why does a majority government make it much easier for the ruling party to make decisions?'
+ANSWER     : `because they get more than half of the votes on any issue'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because they get more than half of the votes on any issue'
+      and Resp `A majority government makes it much easier for the ruling party to make decisions, because they get more than half of the votes on any issue.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.46 (12/26)
+F-measure = 0.63
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-4'
+QUESTION   : `Who is the leader of the Liberals?'
+ANSWER     : `Dalton McGuinty'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Dalton McGuinty'
+      and Resp `Dalton McGuinty the New Democratic Party Howard Hampton'
+
+Recall    = 1.00 (2/2)
+Precision = 0.25 (2/8)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-5'
+QUESTION   : `When was the last time any party won two majority governments in a row in Ontario?'
+ANSWER     : `32 years ago'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `32 years ago'
+      and Resp `32 years'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-6'
+QUESTION   : `Where did Premier Mike Harris address cheering supporters?'
+ANSWER     : `in North Bay'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in North Bay'
+      and Resp `North Bay'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-8'
+QUESTION   : `Who hounded Mike Harris at every appearance?'
+ANSWER     : `protesters'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `protesters'
+      and Resp `'
+
+Recall    = 0.00 (0/1)
+Precision = N/A (0/0)
+F-measure = N/A
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-10'
+QUESTION   : `What are returning officers?'
+ANSWER     : `the people in charge of a polling station'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the people in charge of a polling station'
+      and Resp `Several returning officers (the people in charge of a  polling station) called in sick.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.57 (8/14)
+F-measure = 0.73
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-1'
+QUESTION   : `Why will this year's sealift to northern Canada start early?'
+ANSWER     : `early ice break-up | ice break-up is expected to be three weeks early'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `early ice break-up'
+      and Resp `Colin Crosbie, vice-president of Nunavut Ocean Transport, and veteran of the northern sealift, described this year's ice conditions as unprecedented.'
+
+Comparing Key  `ice break-up is expected to be three weeks early'
+      and Resp `Colin Crosbie, vice-president of Nunavut Ocean Transport, and veteran of the northern sealift, described this year's ice conditions as unprecedented.'
+
+=> Best match in answer key is:
+   `early ice break-up'
+
+Recall    = 0.33 (1/3)
+Precision = 0.05 (1/20)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-2'
+QUESTION   : `Why can't all supplies just be flown to northern Canada?'
+ANSWER     : `large, heavy items cannot be transported by airplane'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `large, heavy items cannot be transported by airplane'
+      and Resp `During the long winter months food supplies can only arrive by airplane.'
+
+Recall    = 0.25 (2/8)
+Precision = 0.17 (2/12)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-3'
+QUESTION   : `How much can a can of pop cost in northern Canada?'
+ANSWER     : `more than two dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `more than two dollars'
+      and Resp `more than two dollars three dollars'
+
+Recall    = 1.00 (4/4)
+Precision = 0.67 (4/6)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-4'
+QUESTION   : `What does a litre of milk cost in northern Canada?'
+ANSWER     : `three dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `three dollars'
+      and Resp `Northerners are used to paying more than two dollars for a can of pop,  more than a dollar for an apple and three dollars for a litre of milk.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.07 (2/29)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-5'
+QUESTION   : `When did Colin Crosbie become involved in shipping in the Arctic?'
+ANSWER     : `1969'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1969'
+      and Resp `1969 decades'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-6'
+QUESTION   : `Where is Iqaluit?'
+ANSWER     : `Baffin Island | northern Canada'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Baffin Island'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+Comparing Key  `northern Canada'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+=> Best match in answer key is:
+   `Baffin Island'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-6'
+QUESTION   : `Where is Iqaluit?'
+ANSWER     : `Environment Canada'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Environment Canada'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-1'
+QUESTION   : `When will Judge Arbour start her new job on Canada's Supreme Court?'
+ANSWER     : `September | September, 1999 | September 15, 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `September'
+      and Resp `September'
+
+Comparing Key  `September, 1999'
+      and Resp `September'
+
+Comparing Key  `September 15, 1999'
+      and Resp `September'
+
+=> Best match in answer key is:
+   `September'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-2'
+QUESTION   : `Who is Judge Arbour replacing in her new job?'
+ANSWER     : `justice Peter Cory | Peter Cory'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `justice Peter Cory'
+      and Resp `Justice Anne McLellan Peter Cory'
+
+Comparing Key  `Peter Cory'
+      and Resp `Justice Anne McLellan Peter Cory'
+
+=> Best match in answer key is:
+   `justice Peter Cory'
+
+Recall    = 1.00 (3/3)
+Precision = 0.60 (3/5)
+F-measure = 0.75
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-3'
+QUESTION   : `Before getting her new position, what was Judge Arbour's job?'
+ANSWER     : `chief prosecutor at the war-crimes tribunal'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `chief prosecutor at the war-crimes tribunal'
+      and Resp `Louise Arbour will become the high court's third female justice when she begins her new job in September.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.06 (1/18)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-4'
+QUESTION   : `Where did Judge Arbour get her law degree?'
+ANSWER     : `University of Montreal'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `University of Montreal'
+      and Resp `the University of Montreal'
+
+Recall    = 1.00 (3/3)
+Precision = 0.75 (3/4)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-5'
+QUESTION   : `Who says Louise Arbour is "a down-to-earth individual"?'
+ANSWER     : `lawyer Earl Levy | Earl Levy'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `lawyer Earl Levy'
+      and Resp `Earl Levy'
+
+Comparing Key  `Earl Levy'
+      and Resp `Earl Levy'
+
+=> Best match in answer key is:
+   `Earl Levy'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-7'
+QUESTION   : `What was the president of Yugoslavia indicted for?'
+ANSWER     : `crimes against humanity'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `crimes against humanity'
+      and Resp `Judge Arbour's last major act as chief prosecutor was to indict Slobodan Milosevic for crimes against humanity two weeks ago -- the first time an international court has charged a sitting head of state with war crimes.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.08 (3/37)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-8'
+QUESTION   : `Why was the announcement about Judge Arbour not made until NATO and Yugoslavia signed an agreement?'
+ANSWER     : `The government was very aware of how tricky it would be to take her away from her high-profile assignment of prosecuting Milosevic'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The government was very aware of how tricky it would be to take her away from her high-profile assignment of prosecuting Milosevic'
+      and Resp `It appears to be no coincidence that Ms. McLellan announced the appointment the day after NATO and Yugoslav generals signed a detailed military agreement on the withdrawal of Yugoslav and Serb forces from Kosovo.'
+
+Recall    = 0.27 (6/22)
+Precision = 0.18 (6/34)
+F-measure = 0.21
+
+
+
+Finished processing 127 questions, 126 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.5591  (71.01 / 127)
+AVERAGE PRECISION = 0.3622  (45.64 / 126)
+AVERAGE F-MEASURE = 0.4397
+
+*************************************************************************
