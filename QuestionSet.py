@@ -49,8 +49,9 @@ class QuestionSet:
 # TODO: Add a class description?
 class Question:
     # This seems like a silly approach really ...
-    measure_words = ['many', 'much', 'often', 'big', 'small', 'few', 'tall', 'short', 'heavy', 'light',
-                     'fast', 'slow', 'old', 'new', 'far', 'near', 'close']
+    measure_words = ['many', 'much', 'often', 'big', 'small', 'few', 'tall', 'long', 'short', 'heavy', 'light',
+                     'fast', 'slow', 'old', 'new', 'far', 'near', 'close', 'deep']
+    definition_words = ['is', 'are', 'was' 'were']
     question_types = {'WHO' : ['who', 'whom', 'whose'],
                       'WHAT' : ['what'],
                       'WHEN' : ['when'],
@@ -110,6 +111,17 @@ class Question:
                     self.support_type = m.upper()
                 else:
                     self.support_type = 'MEASURE'
+
+        for d in self.definition_words:
+            dstr = "what {}".format(d)
+            if dstr in self.qstr.lower():
+                pos = self.qstr.lower().find(dstr)
+                if pos < type_pos:
+                    type_pos = pos
+                    self.type = 'DEFINITION'
+                    self.support_type = m.upper()
+                else:
+                    self.support_type = 'DEFINITIONs'
 
         for type_words in Question.question_types:
             for t in Question.question_types[type_words]:

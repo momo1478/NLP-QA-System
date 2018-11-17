@@ -1,0 +1,14 @@
+developset\1999-W06-3.questions:Question: Under the code, what could happen to a student who swears at a teacher?
+developset\1999-W06-4.questions:Question: At what point did the group have to return to replace broken camel saddles?
+developset\1999-W12-5.questions:Question: According to Bushie, what should the schools do to combat racism?
+developset\1999-W15-2.questions:Question: In the movie "Snow Day," what are the kids in Syracuse trying to do?
+developset\1999-W18-3.questions:Question: Besides being very strong, what are the advantages of BioSteel?
+developset\1999-W21-5.questions:Question: If the water export plan goes ahead, what is triggered?
+developset\1999-W22-4.questions:Question: When she was in school, what would Julie do instead of going to recess?
+developset\1999-W24-5.questions:Question: Before getting her new position, what was Judge Arbour's job?
+developset\1999-W25-1.questions:Question: As the NATO troops enter Kosovo, what do many of the residents of Kosovo feel they must do?
+developset\1999-W25-5.questions:Question: In the last few days before the execution, what were Faulder's relatives hoping for?
+developset\1999-W26-5.questions:Question: In the future, what might doctors use to perfect their techniques?
+developset\1999-W27-2.questions:Question: Through what are the whales breathing?
+developset\1999-W27-5.questions:Question: Under Bouchard's legislation, what could be imposed on the leaders of the nurses' union if they do not call off the strike immediately?
+developset\1999-W29-2.questions:Question: In what year did Canadians earn an average of $16,525 US?

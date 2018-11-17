@@ -1,0 +1,14 @@
+developset\1999-W06-2.questions:Question: How old was Willie when he died?
+developset\1999-W08-3.questions:Question: What happened in Europe and England when Geoffrey was nine years old?
+developset\1999-W09-3.questions:Question: What happened when the Teamsters tried to unionize a McDonald's in Montreal?
+developset\1999-W10-4.questions:Question: How long does it take for delta-9 tetrahydrocannabinol to be absorbed into the bloodstream when someone smokes marijuana?
+developset\1999-W13-1.questions:Question: What did doctors discover when Tyrell returned to them for treatment?
+developset\1999-W14-3.questions:Question: Who was prime minister when John Crosbie was a minister?
+developset\1999-W14-3.questions:Question: Who was prime minister when John Crosbie was a minister?
+developset\1999-W15-4.questions:Question: How did Pascal Hudon react when he was set free from jail, according to his mother?
+developset\1999-W17-1.questions:Question: What did Gretzky do when he saw a youngster's hand extended from the crowd?
+developset\1999-W19-2.questions:Question: Where was Chad Harris when the tornado hit?
+developset\1999-W21-3.questions:Question: Who said "the effects were top notch" when he was talking about "The Phantom Menace"?
+developset\1999-W22-5.questions:Question: Where were the evacuees taken when the fire threatened their homes?
+developset\1999-W25-5.questions:Question: Which member of the Canadian Parliament said that Texas officials should ignore the argument that Faulder's rights were violated when he wasn't told he could contact Canadian consular officials when he was charged with murder?
+developset\1999-W30-1.questions:Question: What does it mean when a "search and rescue" mission becomes a "search and recovery" mission?

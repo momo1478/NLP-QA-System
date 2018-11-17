@@ -1,0 +1,64 @@
+developset\1999-W03-5.questions:Question: When did Babe play for "the finest basketball team that ever stepped out on a floor"?
+developset\1999-W06-2.questions:Question: When will he be buried?
+developset\1999-W06-3.questions:Question: When is one time that schools will phone parents of students?
+developset\1999-W06-4.questions:Question: When did Clarke climb Mount Everest?
+developset\1999-W07-2.questions:Question: When did Todd McFarlane buy Mark McGwire's 70th home run ball?
+developset\1999-W07-4.questions:Question: When was the Maple Leaf Gardens built?
+developset\1999-W07-4.questions:Question: When did Foster Hewitt start broadcasting Maple Leaf games on the radio?
+developset\1999-W08-3.questions:Question: When did Geoffrey Dewis die?
+developset\1999-W08-4.questions:Question: When did Ocalan start living outside of Turkey?
+developset\1999-W09-3.questions:Question: When was the McDonald's unionized?
+developset\1999-W09-4.questions:Question: When did Madonna enter the music business?
+developset\1999-W10-1.questions:Question: When is the deadline by which the school must decide whether to sign a five-year contract with YNN?
+developset\1999-W10-2.questions:Question: When was the international landmine treaty agreed to by 130 countries?
+developset\1999-W10-3.questions:Question: When did Wang leave China?
+developset\1999-W10-5.questions:Question: When did Ms. Yalnizyan give a speech?
+developset\1999-W11-2.questions:Question: When did the issue of chemical contaminants in Arctic food come to a head?
+developset\1999-W11-3.questions:Question: When was the moratorium instituted?
+developset\1999-W11-5.questions:Question: When did Bill 101 come into effect?
+developset\1999-W12-3.questions:Question: When did Clarke dream about the desert?
+developset\1999-W12-4.questions:Question: When will Tyrell likely die if he doesn't receive proper treatment?
+developset\1999-W12-5.questions:Question: When did hockey fans bring hand drums to a game to taunt the Native players?
+developset\1999-W13-1.questions:Question: When did Tyrell discover the lump in his leg?
+developset\1999-W13-5.questions:Question: When is a demonstration planned for the front of the House of Commons?
+developset\1999-W14-1.questions:Question: When did Carnagie Mellon learn of the virus?
+developset\1999-W14-3.questions:Question: When did Newfoundland become a British colony?
+developset\1999-W14-5.questions:Question: When does Ms. Finlay's radio program air?
+developset\1999-W15-2.questions:Question: When did Calgary, Alberta receive not a single snowflake?
+developset\1999-W15-5.questions:Question: When were the 170 children of the Sons of Freedom sect of the Doukhobor faith locked up in internment camp?
+developset\1999-W16-3.questions:Question: When did Canadian children begin to receive anti-measles vaccinations?
+developset\1999-W16-5.questions:Question: When will the river probably reach its highest level this year?
+developset\1999-W17-1.questions:Question: When did Gretzky's parents tell him they were proud of him?
+developset\1999-W17-3.questions:Question: When did Columbine High School open?
+developset\1999-W17-5.questions:Question: When are teachers poised to strike?
+developset\1999-W18-3.questions:Question: When was a sheep cloned by Scottish scientists?
+developset\1999-W18-4.questions:Question: When was there a school shooting in Colorado?
+developset\1999-W18-5.questions:Question: When did Qemal Sefa's family flee Kosovo?
+developset\1999-W19-2.questions:Question: When did authorities discover the initial count of 10 deaths in Sedgwick County was wrong?
+developset\1999-W19-4.questions:Question: When did Shamsay Amoosa flee his homeland of Kosovo?
+developset\1999-W19-5.questions:Question: When might some people be allowed to return to their homes?
+developset\1999-W21-3.questions:Question: When did Star Wars fans across Canada begin lining up for tickets to Star Wars: Episode 1 The Phantom Menace" movie?
+developset\1999-W21-5.questions:Question: When does Ottowa have to act if it wants to stop the pipeline plan?
+developset\1999-W22-2.questions:Question: When did the NATO bombing start?
+developset\1999-W22-3.questions:Question: When are the next summer Olympics going to be held?
+developset\1999-W22-4.questions:Question: When she was in school, what would Julie do instead of going to recess?
+developset\1999-W22-4.questions:Question: When was Julie selected to be an astronaut by the Canadian Space Agency?
+developset\1999-W22-4.questions:Question: When was the International Space Station launched?
+developset\1999-W22-5.questions:Question: When were the evacuees able to go back to their homes?
+developset\1999-W23-1.questions:Question: When are the first permanent residents due to arrive at the International Space Station?
+developset\1999-W23-5.questions:Question: When was the last time any party won two majority governments in a row in Ontario?
+developset\1999-W24-3.questions:Question: When did Colin Crosbie become involved in shipping in the Arctic?
+developset\1999-W24-5.questions:Question: When will Judge Arbour start her new job on Canada's Supreme Court?
+developset\1999-W25-1.questions:Question: When did 14,000 NATO troops enter the southern Yugoslavian province of Kosovo?
+developset\1999-W25-1.questions:Question: When do all Serb forces have to be withdrawn from Kosovo?
+developset\1999-W25-5.questions:Question: When was the last time a Canadian was executed in the United States?
+developset\1999-W27-5.questions:Question: When will the hospital pharmacists leave their jobs if the situation does not improve?
+developset\1999-W28-5.questions:Question: When did American geologists discover dinosaurs bones in the Antarctic?
+developset\1999-W28-5.questions:Question: When did mosasaurs probably arrive in Antarctica?
+developset\1999-W29-5.questions:Question: When does Bill Clinton want to have new gun laws passed?
+developset\1999-W30-1.questions:Question: When did John Jr's father die?
+developset\1999-W30-5.questions:Question: When did the wooly mammoth live?
+developset\1999-W32-3.questions:Question: When did the Queen Mother last travel overseas?
+developset\2000-W03-4.questions:Question: When does Allen Rock want the new cigarette packages in Canadian stores?
+developset\2000-W03-5.questions:Question: When did Jerry get electrodes implanted in his brain?
+developset\2000-W06-4.questions:Question: When were medieval knights kissed?

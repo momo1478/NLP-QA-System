@@ -1,0 +1,11 @@
+developset\1999-W02-5.questions:Question: If you were a student, how much would a club membership cost you?
+developset\1999-W06-3.questions:Question: According to Johnson, how might a student's sloppy clothing affect them?
+developset\1999-W09-3.questions:Question: According to their Quebec office, how did McDonald's feel about the vote to unionize the Montreal franchise?
+developset\1999-W09-4.questions:Question: What other form of show business does Will Smith participate in besides music?
+developset\1999-W11-3.questions:Question: By how much does John Efford want to cut the seal herd?
+developset\1999-W22-3.questions:Question: What is the average age of people who watch TSN's professional wrestling shows?
+developset\1999-W25-1.questions:Question: According to NATO spokesman Jamie Shea, how is troop deployment going?
+developset\1999-W26-5.questions:Question: How does a doctor usually learn how to perform operations?
+developset\1999-W27-2.questions:Question: Even in the best of conditions, how long can beluga whales stay under water?
+developset\1999-W27-5.questions:Question: What are many drivers doing to show their support for the nurses on strike?
+developset\1999-W30-3.questions:Question: Why did the government place limits on how many fish can be caught?

@@ -1,0 +1,70 @@
+developset\1999-W02-5.questions:Question: Where is South Queens Junior High School located?
+developset\1999-W03-5.questions:Question: Where did Babe's daughter find scrapbooks?
+developset\1999-W04-5.questions:Question: Where did reporters question Alexi Yashin?
+developset\1999-W06-2.questions:Question: Where did Willie live?
+developset\1999-W06-4.questions:Question: Where will the trio's journey end?
+developset\1999-W07-2.questions:Question: Where is Todd McFarlane originally from?
+developset\1999-W07-4.questions:Question: Where is the Maple Leaf Gardens?
+developset\1999-W07-4.questions:Question: Where did Tommy and Ruth sit for the Leaf's games at the Gardens?
+developset\1999-W08-3.questions:Question: Where did Geoffrey Dewis live before he was nine?
+developset\1999-W08-3.questions:Question: Where did Geoffrey Dewis live before he was nine?
+developset\1999-W09-3.questions:Question: Where is the only unionized McDonald's in North America?
+developset\1999-W09-4.questions:Question: Where is Alanis Morissette from?
+developset\1999-W10-2.questions:Question: Where is Brasilia?
+developset\1999-W10-3.questions:Question: Where does Wang live now?
+developset\1999-W10-4.questions:Question: Where has marijuana already been approved for medical use?
+developset\1999-W10-5.questions:Question: Where in Alberta, Canada is the difference between rich and poor most noticible?
+developset\1999-W11-2.questions:Question: Where did the issue of chemical pollutants in the Arctic come to a head recently?
+developset\1999-W11-3.questions:Question: Where is Dalhousie University?
+developset\1999-W12-3.questions:Question: Where did the team's journey begin?
+developset\1999-W12-4.questions:Question: Where was the court where the trial took place?
+developset\1999-W12-4.questions:Question: Where does Tyrell's father want him to go?
+developset\1999-W12-5.questions:Question: Where have the First Nation leaders been invited?
+developset\1999-W13-1.questions:Question: Where is Tyrell's home?
+developset\1999-W13-3.questions:Question: Where is the capital of Kosovo?
+developset\1999-W13-5.questions:Question: Where are the Canadian fighter bombers based?
+developset\1999-W14-5.questions:Question: Where is CNN opening up a new news bureau?
+developset\1999-W15-2.questions:Question: Where have 76 centimeters of snow fallen since yesterday?
+developset\1999-W15-4.questions:Question: Where did Pascal Hudon claim he found the eight figurines?
+developset\1999-W15-4.questions:Question: Where does Pascal Hudon intend to visit next?
+developset\1999-W15-5.questions:Question: Where was the internment camp for the children located?
+developset\1999-W16-3.questions:Question: Where does Donald Henderson work?
+developset\1999-W16-4.questions:Question: Where was Zhu before he came to Canada?
+developset\1999-W16-4.questions:Question: Where did Premier Zhu go after meeting with Newfoundland's Premier Brian Tobin?
+developset\1999-W16-5.questions:Question: Where is the Fraser River?
+developset\1999-W17-1.questions:Question: Where did Gretzky play his last hockey game?
+developset\1999-W17-3.questions:Question: Where is Columbine High School located?
+developset\1999-W17-5.questions:Question: Where did the parents protest?
+developset\1999-W18-4.questions:Question: Where is the Taber gunman now?
+developset\1999-W18-5.questions:Question: Where did Qemal Sefa use to work?
+developset\1999-W19-1.questions:Question: Where is Eastern Beringia?
+developset\1999-W19-1.questions:Question: Where is Eastern Beringia?
+developset\1999-W19-1.questions:Question: Where was the latest evidence supporting earlier dates for the first human inhabitants of North America found?
+developset\1999-W19-2.questions:Question: Where was Chad Harris when the tornado hit?
+developset\1999-W19-4.questions:Question: Where in Nova Scotia did the plane carrying Kosovo refugees land?
+developset\1999-W19-5.questions:Question: Where has a state of emergency been declared?
+developset\1999-W20-5.questions:Question: Where does Dr. Yoon's team work?
+developset\1999-W21-3.questions:Question: Where have offers for tickets been common?
+developset\1999-W21-5.questions:Question: Where is Gisborne Lake?
+developset\1999-W22-2.questions:Question: Where is Kosovo?
+developset\1999-W22-3.questions:Question: Where does Jesse Ventura serve as governor?
+developset\1999-W22-4.questions:Question: Where will the space shuttle Discovery be taking Julie?
+developset\1999-W22-5.questions:Question: Where were the evacuees taken when the fire threatened their homes?
+developset\1999-W23-1.questions:Question: Where was the temperature in the space station only 14 degrees?
+developset\1999-W23-5.questions:Question: Where did Premier Mike Harris address cheering supporters?
+developset\1999-W24-3.questions:Question: Where is Iqaluit?
+developset\1999-W24-3.questions:Question: Where is Iqaluit?
+developset\1999-W24-5.questions:Question: Where did Judge Arbour get her law degree?
+developset\1999-W26-5.questions:Question: Where is Mt. Sinai hospital?
+developset\1999-W27-2.questions:Question: Where in the Canadian Arctic are the 50 beluga whales trapped?
+developset\1999-W27-5.questions:Question: Where are nurses demonstrating?
+developset\1999-W28-5.questions:Question: Where are all the places in the world mentioned in this article in which mosasaur bones been have been found?
+developset\1999-W29-2.questions:Question: Where is life expectancy 76 years of age?
+developset\1999-W29-5.questions:Question: Where is Columbine High School?
+developset\1999-W30-1.questions:Question: Where did John Jr's plane crash?
+developset\1999-W30-3.questions:Question: Where have important jobs been created that help replace the ones that were lost?
+developset\1999-W30-5.questions:Question: Where was a mummified wooly mammoth found?
+developset\1999-W31-2.questions:Question: Where in Canada do the Labrador Inuit claim to own land?
+developset\2000-W03-4.questions:Question: Where does the government want to put pictures of diseased lungs?
+developset\2000-W03-5.questions:Question: Where does John Girvin work as a professor?
+developset\2000-W06-4.questions:Question: Where was kissing rarely practiced until the 20th century?

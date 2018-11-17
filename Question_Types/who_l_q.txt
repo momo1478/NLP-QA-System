@@ -1,0 +1,6 @@
+developset\1999-W06-3.questions:Question: Under the code, what could happen to a student who swears at a teacher?
+developset\1999-W10-2.questions:Question: What do we call groups of people who are experts at ringing bells?
+developset\1999-W16-4.questions:Question: Who was who was chanting "Shame on China" on Wednesday?
+developset\1999-W17-3.questions:Question: What did the two students who did the shootings do as they moved through the school?
+developset\1999-W22-3.questions:Question: What is the average age of people who watch TSN's professional wrestling shows?
+developset\1999-W32-3.questions:Question: At whose wedding the Queen Mum do the twist?

@@ -1,0 +1,109 @@
+developset\1999-W02-5.questions:Question: What has South Queens Junior High School done with its old metal shop?
+developset\1999-W03-5.questions:Question: What team did Babe play for?
+developset\1999-W03-5.questions:Question: What position did Babe play?
+developset\1999-W06-2.questions:Question: What happened to him two days before Groundhog day?
+developset\1999-W06-4.questions:Question: What three countries will the Canadians cross through on their desert trek?
+developset\1999-W06-4.questions:Question: What is "Arabian Sands" about?
+developset\1999-W06-4.questions:Question: What advice did Mr. Thesiger give to the Canadians?
+developset\1999-W06-4.questions:Question: What type of clothing are the Canadians wearing on their journey across the desert?
+developset\1999-W07-2.questions:Question: What does McFarlane want in return for making the "McFarlane Collection" available to places like the National Baseball Hall of Fame?
+developset\1999-W07-4.questions:Question: What type of sports facility does Maple Leaf Gardens function as?
+developset\1999-W08-3.questions:Question: What happened in Europe and England when Geoffrey was nine years old?
+developset\1999-W08-4.questions:Question: What do the Kurdish separatists want?
+developset\1999-W08-4.questions:Question: What triggered some Kurds to try to occupy the Israeli consulate in Berlin?
+developset\1999-W08-4.questions:Question: What did Chancellor Schroeder tell the Kurds in Germany?
+developset\1999-W09-3.questions:Question: What happened when the Teamsters tried to unionize a McDonald's in Montreal?
+developset\1999-W09-4.questions:Question: What type of music does Lauryn Hill make?
+developset\1999-W09-4.questions:Question: What movie was the song "My Heart Will Go On" in?
+developset\1999-W09-4.questions:Question: What other form of show business does Will Smith participate in besides music?
+developset\1999-W10-1.questions:Question: What did it cost Meadowvale secondary to have a satellite dish, televisions, and audio-visual equipment installed?
+developset\1999-W10-1.questions:Question: What does CBC Newsworld provide to schools?
+developset\1999-W10-1.questions:Question: What organization does Heather-Jane Robertson represent?
+developset\1999-W10-2.questions:Question: What do we call groups of people who are experts at ringing bells?
+developset\1999-W10-2.questions:Question: What is the name of the Portuguese anti-landmine film?
+developset\1999-W10-3.questions:Question: What is the name of Wang's documentary?
+developset\1999-W10-4.questions:Question: What is the scientific name for marijuana?
+developset\1999-W10-4.questions:Question: What is the Health Department's study going to examine about marijuana?
+developset\1999-W11-2.questions:Question: What are POPs?
+developset\1999-W11-2.questions:Question: What is muktuk?
+developset\1999-W11-3.questions:Question: What is the estimated size of the seal herd?
+developset\1999-W11-5.questions:Question: What is Bill 101?
+developset\1999-W11-5.questions:Question: What does Bill 101 require?
+developset\1999-W12-3.questions:Question: What was one of the things that motivated Clarke during the journey?
+developset\1999-W12-4.questions:Question: What kind of treatments do the doctors want to give thirteen-year-old Tyrell Dueck for his cancer?
+developset\1999-W12-5.questions:Question: What is Rod Bushie's role in the Assembly of Manitoba Chiefs?
+developset\1999-W13-1.questions:Question: What did doctors discover when Tyrell returned to them for treatment?
+developset\1999-W13-1.questions:Question: What is the name of the Duecks' lawyer?
+developset\1999-W13-3.questions:Question: What do the nations of the North Atlantic Treaty Organization want to stop the Yugoslavians from doing?
+developset\1999-W13-3.questions:Question: What are the ethnic Albanians in Kosovo pushing for?
+developset\1999-W13-3.questions:Question: What does Milosevic refuse to do?
+developset\1999-W13-3.questions:Question: What do Yugoslav officials feel they can do in a war against NATO?
+developset\1999-W13-5.questions:Question: What is the goal of the NATO bombing in Yugoslavia?
+developset\1999-W14-1.questions:Question: What three companies have had files affected by the virus?
+developset\1999-W14-1.questions:Question: What do "patches" from antivirus software makers do?
+developset\1999-W14-1.questions:Question: What can you do to protect yourself against "Melissa" and similar viruses?
+developset\1999-W14-3.questions:Question: What factor divided the population of Newfoundland in the 1800s?
+developset\1999-W14-3.questions:Question: What date was the vote that made Newfoundland part of Canada?
+developset\1999-W14-3.questions:Question: What were the pro-union Newfoundlanders called?
+developset\1999-W14-3.questions:Question: What were the pro-union Newfoundlanders called?
+developset\1999-W14-5.questions:Question: What did Ms. Finlay ask Mr. Corley?
+developset\1999-W15-2.questions:Question: What did the Hollywood movie crew do to transform a Calgary street into a wintry scene for the movie "Snow Day"?
+developset\1999-W15-4.questions:Question: What did Hudon do in jail to protest his arrest?
+developset\1999-W15-5.questions:Question: What did ombudsman Dulcie McCallum's investigation into the treatment of the Doukhobor children find?
+developset\1999-W15-5.questions:Question: What did the government force the children to build while they were interned in the camp?
+developset\1999-W16-3.questions:Question: What is Rubella?
+developset\1999-W16-4.questions:Question: What does the white cowboy hat symbolize in Calgary?
+developset\1999-W16-5.questions:Question: What are the fertile soils of the Fraser River good for?
+developset\1999-W17-1.questions:Question: What did Gretzky do when he saw a youngster's hand extended from the crowd?
+developset\1999-W17-3.questions:Question: What did the two students who did the shootings do as they moved through the school?
+developset\1999-W17-3.questions:Question: What did President Clinton say is the challenge facing America?
+developset\1999-W17-3.questions:Question: What would the bill sponsored by Representative Doug Dean do for gun owners?
+developset\1999-W17-5.questions:Question: What is the biggest stumbling block in the dispute between the teachers and the school board?
+developset\1999-W17-5.questions:Question: What will a teachers' strike force parents to do?
+developset\1999-W17-5.questions:Question: What effect will the present school board plans have on teachers?
+developset\1999-W17-5.questions:Question: What happens to Grade 12 diploma exams if teachers strike?
+developset\1999-W18-3.questions:Question: What type of animal did Nexia Biotechnologies clone?
+developset\1999-W18-4.questions:Question: What is the population of Taber?
+developset\1999-W18-5.questions:Question: What happened to the money and supplies Esat tried to send to his brother's family?
+developset\1999-W18-5.questions:Question: What is the name of the UN organization responsible for refugees?
+developset\1999-W19-1.questions:Question: What did archeologists find in the Bluefish Caves?
+developset\1999-W19-1.questions:Question: What does author Heather Pringle think archeology is about?
+developset\1999-W19-2.questions:Question: What is the recognizable shape of a tornado?
+developset\1999-W19-2.questions:Question: What is the wind speed range of an F-4 tornado?
+developset\1999-W19-5.questions:Question: What is giving firefighters a hand in battling several large forest fires across Northern Ontario?
+developset\1999-W19-5.questions:Question: How did Bob Thomas What describe forest conditions right now?
+developset\1999-W19-5.questions:Question: What has triggered most of the fires in Ontario that have occurred since April 1?
+developset\1999-W20-5.questions:Question: What kinds of health problems do diabetics potentially face?
+developset\1999-W20-5.questions:Question: What does insulin do for our bodies?
+developset\1999-W20-5.questions:Question: What do Type 1 diabetics' immune systems do to insulin-producing cells?
+developset\1999-W21-3.questions:Question: What does Stephen Cole of the National Post say is missing in the Phantom Menace?
+developset\1999-W21-5.questions:Question: What do Ottawa and the provinces want to negotiate?
+developset\1999-W21-5.questions:Question: What does Maude Barlow think American firms will do?
+developset\1999-W22-2.questions:Question: What will Thordis Gutnick do for the refugees?
+developset\1999-W22-3.questions:Question: What is the average age of people who watch TSN's professional wrestling shows?
+developset\1999-W22-4.questions:Question: What will Julie use to document the mission progress?
+developset\1999-W23-1.questions:Question: What did Valery Tokarev and Julie Payette change inside the Russian-built Zarya control module?
+developset\1999-W23-1.questions:Question: What is the noise level in an office?
+developset\1999-W23-5.questions:Question: What are ridings?
+developset\1999-W23-5.questions:Question: What are returning officers?
+developset\1999-W24-3.questions:Question: What does a litre of milk cost in northern Canada?
+developset\1999-W24-5.questions:Question: What was the president of Yugoslavia indicted for?
+developset\1999-W25-5.questions:Question: What would a stay of execution have allowed?
+developset\1999-W25-5.questions:Question: What has Charlene Gingera been working with the Faulder family to do since 1997
+developset\1999-W26-5.questions:Question: What is a "resident"?
+developset\1999-W26-5.questions:Question: What do doctors at Mt. Sinai hospital learn on?
+developset\1999-W27-5.questions:Question: What is Quebec Premier Lucien Bouchard's special legislation intended to do?
+developset\1999-W27-5.questions:Question: What are many drivers doing to show their support for the nurses on strike?
+developset\1999-W28-5.questions:Question: What does this new discovery of dinosaur bones tell us about the Antarctic?
+developset\1999-W29-2.questions:Question: What is personal income?
+developset\1999-W30-1.questions:Question: What does it mean when a "search and rescue" mission becomes a "search and recovery" mission?
+developset\1999-W30-2.questions:Question: What party is Glen Clark the leader of in B.C.?
+developset\1999-W30-3.questions:Question: What type of illness is shellfish asthma?
+developset\1999-W30-5.questions:Question: What modern animals do wooly mammoths look most like?
+developset\1999-W31-2.questions:Question: What is the name of the Labrador Inuit homeland?
+developset\1999-W31-2.questions:Question: What are native claims?
+developset\1999-W32-3.questions:Question: What birthday is the Queen Mum celebrating?
+developset\1999-W32-3.questions:Question: What injury did the Queen Mum suffer last winter
+developset\2000-W03-4.questions:Question: What do anti-smoking organizations think about the cigarette packaging plan?
+developset\2000-W03-5.questions:Question: What do Jerry's glasses have on them?
+developset\2000-W06-4.questions:Question: What is the "holy kiss" still a part of?

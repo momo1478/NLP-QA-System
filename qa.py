@@ -37,16 +37,21 @@ WEIGHT_WHERE = 6
 WEIGHT_WHY = 0
 WEIGHT_HOW = 0
 WEIGHT_WHAT = 0
+WEIGHT_DEFN = 0
 
 # Q-NER-Labels
 NER_TIME = ['TIME', 'DATE']
 NER_MEASURE = ['PERCENT', 'MONEY', 'QUANTITY', 'CARDINAL']
 NER_WHO = ['PERSON', 'NORP', 'ORG', 'GPE']
 NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
+DEFN_KEYS = ['--', 'is', 'are']
+NER_HOW_BE = ['with', 'by']
+NER_HOW_DO = []
 
 # Control keys
 USING_Q_TYPES = True
 USING_SIMILAR_VERBS = True
+EXPAND_ADJS = False
 
 ENTITY_ONLY_RESPONSE = False
 
@@ -56,7 +61,7 @@ NEAR_WORDS = 5
 # Stop words: words that are probably too common to help find the right
 # answer sentences
 STOP_WORDS = set(['a', 'an', 'and', 'the', 'then'])
-#STOP_WORDS = set(['a', 'an', 'and', 'the', 'then', 'of', 'to', 'be', 'that', 'from'])
+STOP_POS = set(['PUNCT', 'CONJ', 'DET', 'PART'])
 STOP_VERBS = set(['be', 'do', 'have', 'would'])
 
 # a an the
@@ -104,7 +109,8 @@ for i in range(1, len(inp)):
 
         # Only use question words that are not 'stop words'
         # Represent as sets to avoid double counting matching words
-        qws = set([token.lemma_ for token in doc if token.lemma_ not in STOP_WORDS])
+        # qws = set([token.lemma_ for token in doc if token.lemma_ not in STOP_WORDS])
+        qws = set([token.lemma_ for token in doc if token.pos_ not in STOP_POS])
 
         # Get pool of similar verbs in question
         q_verb_pool = set({})
@@ -113,6 +119,16 @@ for i in range(1, len(inp)):
             for sv in similar_verbs:
                 q_verb_pool = q_verb_pool.union(set(sv.lemma_names()))
         q_verb_pool = q_verb_pool.difference(set([v[0] for v in verbs_in_question]))
+
+        # expand adjectives in question
+        if EXPAND_ADJS:
+            adj_expansions = set([])
+            for token in doc:
+                if token.pos_ == 'ADJ':
+                    similar_adjs = wn.synsets(token.text, pos=wn.ADJ)
+                    for sa in similar_adjs:
+                        adj_expansions = adj_expansions.union(set(sa.lemma_names()))
+            qws = qws.union(adj_expansions)
 
         # Score the sentences
         for s in sentences:
@@ -165,6 +181,15 @@ for i in range(1, len(inp)):
                         if e[1] in NER_WHERE:
                             overlap += WEIGHT_WHERE
                             break
+                # Needs work and consideration
+                if q.type is 'DEFINITION':
+                    if '--' in s.lemmas:
+                        overlap += 20
+                        s.sentence = s.sentence[s.sentence.find('--'):]
+                    for k in DEFN_KEYS:
+                        if k in s.lemmas:
+                            overlap += WEIGHT_DEFN
+                            s.sentence = s.sentence[s.sentence.find(k):]
 
             s.score = overlap
 

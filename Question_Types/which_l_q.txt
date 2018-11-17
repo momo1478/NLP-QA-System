@@ -1,0 +1,3 @@
+developset\1999-W10-1.questions:Question: When is the deadline by which the school must decide whether to sign a five-year contract with YNN?
+developset\1999-W25-5.questions:Question: Of which province in Canada was Stanley Faulder a native?
+developset\1999-W28-5.questions:Question: Where are all the places in the world mentioned in this article in which mosasaur bones been have been found?

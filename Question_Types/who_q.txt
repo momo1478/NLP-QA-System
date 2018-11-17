@@ -1,0 +1,86 @@
+developset\1999-W02-5.questions:Question: Who is the principal of South Queens Junior High School?
+developset\1999-W02-5.questions:Question: Who runs the club?
+developset\1999-W03-5.questions:Question: Who was Babe's husband?
+developset\1999-W04-5.questions:Question: Who does Alexi Yashin play for?
+developset\1999-W06-2.questions:Question: Who is Wiarton Willie?
+developset\1999-W06-2.questions:Question: Who took care of Willie?
+developset\1999-W06-2.questions:Question: Who claims to have received a message from Willie's spirit?
+developset\1999-W06-3.questions:Question: Who plans to institute a common code of conduct for students?
+developset\1999-W06-4.questions:Question: Who are the nomadic natives of Oman?
+developset\1999-W07-2.questions:Question: Whose ball did McFarlane buy for about $250,000 Canadian dollars?
+developset\1999-W07-4.questions:Question: Who was known as one of the toughest players in the NHL in the 1950s?
+developset\1999-W08-3.questions:Question: Who published Dewis's obituary?
+developset\1999-W08-4.questions:Question: Who is Abdullah Ocalan?
+developset\1999-W09-4.questions:Question: Who was the master of ceremonies for this year's Grammy Awards?
+developset\1999-W09-4.questions:Question: Who wrote "My Heart Will Go On"?
+developset\1999-W09-4.questions:Question: Who is Will Smith's wife?
+developset\1999-W10-1.questions:Question: Who owns Youth News Network?  
+developset\1999-W10-1.questions:Question: Who is the principal of Meadowvale secondary?
+developset\1999-W10-2.questions:Question: Who is the Secretary General of the United Nations?
+developset\1999-W10-3.questions:Question: Who fired on the student demonstrators in Tiananmen Square?
+developset\1999-W10-3.questions:Question: Who doesn't need another revolution, according to Wang?
+developset\1999-W10-4.questions:Question: Who has the Canadian Health Department consulted with about obtaining marijuana?
+developset\1999-W10-5.questions:Question: Who authored a study on the differences between the rich and poor in Canada?
+developset\1999-W11-2.questions:Question: Who does Carole Mills represent?
+developset\1999-W11-2.questions:Question: Who is Eric Loring?
+developset\1999-W11-5.questions:Question: Who described Dr. Laurin as "a pioneer, a builder, a man of conviction, determined"?
+developset\1999-W12-3.questions:Question: Who said Bedouin ways are "a death in life."?
+developset\1999-W12-4.questions:Question: Who does the boy need to speak to without his parents present, according to lawyers in the case?
+developset\1999-W12-5.questions:Question: Who won Monday night's game?
+developset\1999-W13-3.questions:Question: Who is Slobodan Milosevic?
+developset\1999-W13-5.questions:Question: Who has been protesting the bombing in Yugoslavia?
+developset\1999-W13-5.questions:Question: Who is Art Eggleton?
+developset\1999-W14-1.questions:Question: Who has a Computer Emergency Response Team?
+developset\1999-W14-1.questions:Question: Who is Ms. Fithen?
+developset\1999-W14-3.questions:Question: Who governed the early costal communities before civil governors replaced them?
+developset\1999-W14-3.questions:Question: Who was prime minister when John Crosbie was a minister?
+developset\1999-W14-3.questions:Question: Who was prime minister when John Crosbie was a minister?
+developset\1999-W14-5.questions:Question: Who will write stories for the new bureau?
+developset\1999-W15-2.questions:Question: Who is the star of "Snow Day"?
+developset\1999-W15-4.questions:Question: Who is Joaquin Garcia?
+developset\1999-W15-5.questions:Question: Who is Ujjal Dosanjn?
+developset\1999-W16-3.questions:Question: Who tried to prevent Grade Four Students from being immunized against Hepatitis B?
+developset\1999-W16-4.questions:Question: Who was who was chanting "Shame on China" on Wednesday?
+developset\1999-W16-4.questions:Question: Who is the mayor of Saint John's?
+developset\1999-W16-5.questions:Question: Who is the Environment Ministry spokesman quoted in this story?
+developset\1999-W17-1.questions:Question: Who won the last game Gretzky played?
+developset\1999-W17-1.questions:Question: Who played with Gretzky on the Edmonton Oilers?
+developset\1999-W17-3.questions:Question: Who described the shootings as a "suicide mission"?
+developset\1999-W17-3.questions:Question: Who did students describe as a hero?
+developset\1999-W17-5.questions:Question: Who is Teresa Woo-Paw?
+developset\1999-W17-5.questions:Question: Who is urging the teachers and school board to keep talking?
+developset\1999-W18-3.questions:Question: Who is the president of Nexia Biotechnologies ?
+developset\1999-W18-4.questions:Question: Who shot two students at a high school in Taber?
+developset\1999-W18-4.questions:Question: Who died in the Taber shooting?
+developset\1999-W19-1.questions:Question: Who does Jacques Cing-Mars think used the caves?
+developset\1999-W19-2.questions:Question: Who said 40 people were killed in Oklahoma alone?
+developset\1999-W19-4.questions:Question: Who was with Ahmet Konyoury on the plane to Canada?
+developset\1999-W19-5.questions:Question: Who is Natural Resources Minister?
+developset\1999-W20-5.questions:Question: Who is Holly McWilliams?
+developset\1999-W21-3.questions:Question: Who said "the effects were top notch" when he was talking about "The Phantom Menace"?
+developset\1999-W21-5.questions:Question: Who is Maude Barlow?
+developset\1999-W22-2.questions:Question: Who is the attorney general of British Columbia?
+developset\1999-W22-3.questions:Question: Who was Owen Hart?
+developset\1999-W22-4.questions:Question: Who will be Julie work with to change solar batteries?
+developset\1999-W22-4.questions:Question: Who is Aline Chretien married to?
+developset\1999-W22-5.questions:Question: Who is the mayor of La Ronge?
+developset\1999-W23-1.questions:Question: Who led the way into the unfinished station?
+developset\1999-W23-5.questions:Question: Who is the leader of the Liberals?
+developset\1999-W23-5.questions:Question: Who hounded Mike Harris at every appearance?
+developset\1999-W24-5.questions:Question: Who is Judge Arbour replacing in her new job?
+developset\1999-W24-5.questions:Question: Who says Louise Arbour is "a down-to-earth individual"?
+developset\1999-W25-1.questions:Question: Who is Slobodan Milosevic?
+developset\1999-W27-2.questions:Question: Who is trying to save the whales?
+developset\1999-W27-5.questions:Question: Who is Michele Boisclair?
+developset\1999-W27-5.questions:Question: Who else has threatened to strike?
+developset\1999-W28-5.questions:Question: Who is the plesiosaur supposed to resemble?
+developset\1999-W29-2.questions:Question: Who ranked first in healthcare?
+developset\1999-W29-5.questions:Question: Who traveled across America to help convince the American government that stricter gun control laws are needed?
+developset\1999-W30-1.questions:Question: Who was John F. Kennedy Jr's father?
+developset\1999-W30-2.questions:Question: Who wrote Glen Clark and specifically asked him to quit his job?
+developset\1999-W30-3.questions:Question: Who is at risk of suffering from shellfish asthma?
+developset\1999-W30-5.questions:Question: Who is going to dig up the dead wooly mammoth?
+developset\2000-W03-4.questions:Question: Who is Canada's Minister of Health?
+developset\2000-W03-4.questions:Question: Who is Rob Parker a spokesman for?
+developset\2000-W03-5.questions:Question: Who helped Jerry see?
+developset\2000-W06-4.questions:Question: Who said he has never witnessed a problem in Sisler's hallways?

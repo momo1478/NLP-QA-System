@@ -1,0 +1,52 @@
+developset\1999-W03-5.questions:Question: Why did Babe stop playing basketball?
+developset\1999-W04-5.questions:Question: Why do people go to the National Arts Centre?
+developset\1999-W08-3.questions:Question: Why did CBC produce "Canada Calling"?
+developset\1999-W08-4.questions:Question: Why did Kurds all over the world hold violent demonstrations?
+developset\1999-W08-4.questions:Question: Why has Turkey sent soldiers into Northern Iraq?
+developset\1999-W09-3.questions:Question: Why did the St-Hubert McDonald's not get unionized?
+developset\1999-W09-4.questions:Question: Why did Jay-Z not attend the Grammy Awards?
+developset\1999-W10-3.questions:Question: Why will Wang Shui-Bo be attending the Oscars this year?
+developset\1999-W10-4.questions:Question: Why was Mark Crossley sentenced to house arrest?
+developset\1999-W10-5.questions:Question: Why does Calgary have many high-paying managment jobs?
+developset\1999-W11-2.questions:Question: Why is eating Arctic fish and game a frightening and tricky business?
+developset\1999-W11-2.questions:Question: Why does Carole Mills think it is more of a health risk not to eat country food than to eat it?
+developset\1999-W11-3.questions:Question: Why has there been a moratorium on cod fishing?
+developset\1999-W12-5.questions:Question: Why do First Nations people allegedly "hate white people," according to some?
+developset\1999-W13-1.questions:Question: Why did Judge A. R. Rothery not allow Tyrell Dueck to refuse cancer treatment?
+developset\1999-W13-5.questions:Question: Why did one pilot not launch his weapons?
+developset\1999-W14-1.questions:Question: Why does the virus have the potential to clog e-mail servers?
+developset\1999-W16-3.questions:Question: Why do some parents not get their children vaccinated?
+developset\1999-W17-1.questions:Question: Why will the number 99 never be worn again by a professional hockey player?
+developset\1999-W17-1.questions:Question: Why did Gretzky say he was "devastated"??
+developset\1999-W17-3.questions:Question: Why did American President Bill Clinton go on television?
+developset\1999-W18-4.questions:Question: Why were yesterday evening's activities at Taber Evangelical Free Church modified?
+developset\1999-W19-2.questions:Question: Why is the scale of intensity for tornados called the Fujita scale?
+developset\1999-W19-5.questions:Question: Why could Manitoba send fire fighters and equipment to the latest hotspot in northwestern Ontario?
+developset\1999-W20-5.questions:Question: Why will diabetics have to be patient, despite Dr. Ji-Won Yoon's discovery?
+developset\1999-W21-3.questions:Question: Why did someone sleep in a tent on a sidewalk in front of a theater in Montreal?
+developset\1999-W21-5.questions:Question: Why does Gerry White want to build a pipeline from Gisborne Lake to Grand Lepierre?
+developset\1999-W22-2.questions:Question: Why is the Kosovo leadership concerned about taking refugees so far from home?
+developset\1999-W22-5.questions:Question: Why did Gary Vettree's house not burn down?
+developset\1999-W23-1.questions:Question: Why didn't Canadian astronaut Julie Payette get time to put on her red clown nose and listen to the Sarah McLaughlan CD she brought along with her on her shuttle flight
+developset\1999-W23-5.questions:Question: Why does a majority government make it much easier for the ruling party to make decisions?
+developset\1999-W24-3.questions:Question: Why will this year's sealift to northern Canada start early?
+developset\1999-W24-3.questions:Question: Why can't all supplies just be flown to northern Canada?
+developset\1999-W24-5.questions:Question: Why was the announcement about Judge Arbour not made until NATO and Yugoslavia signed an agreement?
+developset\1999-W25-1.questions:Question: Why are the NATO troops in Kosovo?
+developset\1999-W25-5.questions:Question: Why did Texas Governor George W. Bush refuse to grant a stay of execution for Faulder?
+developset\1999-W26-5.questions:Question: Why are latex intestines a good teaching tool?
+developset\1999-W27-2.questions:Question: Why have the whales become trapped?
+developset\1999-W27-5.questions:Question: Why is Premier Bouchard reluctant to give the nurses more money?
+developset\1999-W29-2.questions:Question: Why is life improving for people in developed countries like Canada, according to the UN report?
+developset\1999-W29-5.questions:Question: Why do some members of the government oppose gun control?
+developset\1999-W29-5.questions:Question: Why do some members of the public oppose gun control?
+developset\1999-W30-1.questions:Question: Why does the U.S. Coast Guard want to find the plane's crash site?
+developset\1999-W30-2.questions:Question: Why is B.C. Premier Glen Clark unpopular?
+developset\1999-W30-3.questions:Question: Why did the government place limits on how many fish can be caught?
+developset\1999-W30-3.questions:Question: Why is it difficult to find a job in Newfoundland's fishing industry?
+developset\1999-W30-3.questions:Question: Why are many workers are trying to live with their symptoms?
+developset\1999-W30-5.questions:Question: Why is it important that the the colour of the mammoth's hair and the smell of the skin are still present?
+developset\1999-W32-3.questions:Question: Why did Adolf Hitler call the Queen Mum the most dangerous woman in Europe?
+developset\1999-W32-3.questions:Question: Why does the Queen Mum face less media pressure than other members of the royal family?
+developset\2000-W06-4.questions:Question: Why could students at Sisler High School be sent home or suspended for kissing?
+developset\2000-W06-4.questions:Question: Why did Kachmar say he announced the ban on kissing?
