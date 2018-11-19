@@ -4,6 +4,8 @@ from nltk.corpus import wordnet as wn
 import spacy
 from spacy.tokens import Span
 
+import sys
+
 def printList(l, name = "*"):
     print("* * * " + name + " * * *")
     for e in l:
@@ -45,4 +47,11 @@ def spacyTest():
 
 # sysnset("bag")
 
-spacyTest()
+# spacyTest()
+nlp = spacy.load('en_core_web_sm')
+for q in sys.stdin:
+   doc = nlp(unicode(q))
+   for token in doc:
+      if(str(token) != '\n'):
+          print(str(token),str(token.dep_))
+   print("")
