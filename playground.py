@@ -48,10 +48,20 @@ def spacyTest():
 # sysnset("bag")
 
 # spacyTest()
-nlp = spacy.load('en_core_web_sm')
-for q in sys.stdin:
-   doc = nlp(unicode(q))
-   for token in doc:
-      if(str(token) != '\n'):
-          print(str(token),str(token.dep_))
-   print("")
+# nlp = spacy.load('en_core_web_sm')
+# for q in sys.stdin:
+#    doc = nlp(unicode(q))
+#    for token in doc:
+#       if(str(token) != '\n'):
+#           print(str(token),str(token.dep_))
+#    print("")
+
+avg = 0
+count = 0
+for a in sys.stdin:
+    sp = a.split('|')
+    for ans in sp:
+        print(len(ans.split(' ')))
+        avg += len(ans.split(' '))
+        count+= 1
+print("Average ans length " + str(int(avg/count)))
