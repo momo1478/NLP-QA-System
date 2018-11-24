@@ -51,7 +51,8 @@ class Question:
     # This seems like a silly approach really ...
     measure_words = ['many', 'much', 'often', 'big', 'small', 'few', 'tall', 'long', 'short', 'heavy', 'light',
                      'fast', 'slow', 'old', 'new', 'far', 'near', 'close', 'deep']
-    definition_words = ['is', 'are', 'was' 'were']
+    definition_words = ['is', 'are', 'was', 'were', 'will', 'would']
+
     question_types = {'WHO' : ['who', 'whom', 'whose'],
                       'WHAT' : ['what'],
                       'WHEN' : ['when'],

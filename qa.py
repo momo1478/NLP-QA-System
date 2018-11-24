@@ -23,6 +23,16 @@ import spacy
 # need to download wordnet?
 #nltk.download("wordnet")
 
+# TODO: Note, if a person's name is part of the question, the response may be a descriptor for the person ...
+# TODO: Why keywords: 'because'
+
+# Q-Type specific testing:
+# Q_TYPE_RUN is a list of qtypes that will be tested - this is based on the question types
+# defined in QuestionSet.py
+# If the first element of Q_TYPE_RUN is 'ALL' then all question types will be included in the run.
+# Make sure that your answer set has been generated using the same input file and Q_TYPE_RUN
+Q_TYPE_RUN = ['ALL']
+
 WORD_WEIGHT = 1
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 4
@@ -92,6 +102,11 @@ for i in range(1, len(inp)):
     #
     # TODO: Decide if we want a separate class to handle scoring answers ...
     for q in question_set.questions:
+        # TODO: vvv Probably good to remove vvv
+        if Q_TYPE_RUN[0] is not 'ALL' and q.type not in Q_TYPE_RUN:
+            continue
+        # TODO: ^^^ Probably remove ^^^
+
         sentences = deepcopy(list(story.sentences))
 
         nlp = spacy.load('en_core_web_sm')
@@ -184,7 +199,7 @@ for i in range(1, len(inp)):
                 # Needs work and consideration
                 if q.type is 'DEFINITION':
                     if '--' in s.lemmas:
-                        overlap += 20
+                        overlap += WEIGHT_DEFN
                         s.sentence = s.sentence[s.sentence.find('--'):]
                     for k in DEFN_KEYS:
                         if k in s.lemmas:
