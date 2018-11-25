@@ -1,0 +1,210 @@
+QuestionID: 1999-W02-5-1
+Answer: South Queens Junior High School is taking aim at the fitness market.  
+
+QuestionID: 1999-W03-5-10
+Answer: the Edmonton Oilers
+
+QuestionID: 1999-W04-5-9
+Answer: Ottawa
+
+QuestionID: 1999-W06-2-6
+Answer: Brouwer
+
+QuestionID: 1999-W06-4-11
+Answer: Solalah Saudi Arabia Abu Dhabi
+
+QuestionID: 1999-W07-2-1
+Answer: Spawn
+
+QuestionID: 1999-W07-4-3
+Answer: Maple Leaf Gardens
+
+QuestionID: 1999-W07-4-7
+Answer: Leafs Grey Section West Seats 13
+
+QuestionID: 1999-W08-3-2
+Answer: Canada
+
+QuestionID: 1999-W08-3-2
+Answer: Canada
+
+QuestionID: 1999-W09-3-3
+Answer: McDonald
+
+QuestionID: 1999-W09-4-5
+Answer: the Dixie Chicks the Brian Setzer Orchestra
+
+QuestionID: 1999-W10-2-9
+Answer: Brazil
+
+QuestionID: 1999-W10-3-6
+Answer: West
+
+QuestionID: 1999-W10-4-5
+Answer: Several American states have already approved the medical use of marijuana.
+
+QuestionID: 1999-W10-5-5
+Answer: When Yalnizyan looked at the Alberta data, she discovered that while Alberta's economy is growing, the difference between the rich and poor is expanding more rapidly than anywhere else in Canada.  
+
+QuestionID: 1999-W11-2-1
+Answer: United Nations Africa
+
+QuestionID: 1999-W11-3-8
+Answer: Halifax Nova Scotia
+
+QuestionID: 1999-W12-3-6
+Answer: Oman Saudi Arabia the United Arab Emirates
+
+QuestionID: 1999-W12-4-3
+Answer: Saskatoon
+
+QuestionID: 1999-W12-4-4
+Answer: Tijuana Mexico
+
+QuestionID: 1999-W12-5-8
+Answer: First Nations
+
+QuestionID: 1999-W13-1-7
+Answer: Social Services
+
+QuestionID: 1999-W13-3-5
+Answer: Pristina
+
+QuestionID: 1999-W13-5-1
+Answer: Bagotville Quebec Kosovo
+
+QuestionID: 1999-W14-5-1
+Answer:   The big cable news network CNN has opened up a new bureau.   
+
+QuestionID: 1999-W15-2-1
+Answer: More than 76 centimetres of snow has fallen in Saint John's since the blizzard started yesterday afternoon.  
+
+QuestionID: 1999-W15-4-7
+Answer: Mexico
+
+QuestionID: 1999-W15-4-10
+Answer: Montreal British Columbia
+
+QuestionID: 1999-W15-5-3
+Answer: British Columbia's
+
+QuestionID: 1999-W16-3-9
+Answer: the Pan American Health Organization
+
+QuestionID: 1999-W16-4-7
+Answer: Warmly
+
+QuestionID: 1999-W16-4-9
+Answer: Zhu, accompanied by a delegation of about 150 people, was greeted by Newfoundland Premier Brian Tobin.  
+
+QuestionID: 1999-W16-5-1
+Answer: British Columbia's Fraser Valley  
+
+QuestionID: 1999-W17-1-3
+Answer: the National Hockey League
+
+QuestionID: 1999-W17-3-5
+Answer: Columbine Littleton
+
+QuestionID: 1999-W17-5-2
+Answer: Calgary Alberta
+
+QuestionID: 1999-W18-4-4
+Answer: the Taber Police Service
+
+QuestionID: 1999-W18-5-6
+Answer: Kosovo Yugoslavia Winnipeg Manitoba
+
+QuestionID: 1999-W19-1-4
+Answer: Eastern Beringia Yukon
+
+QuestionID: 1999-W19-1-4
+Answer: Eastern Beringia Yukon
+
+QuestionID: 1999-W19-1-6
+Answer: the Bluefish Caves the Bluefish River Old Crow
+
+QuestionID: 1999-W19-2-5
+Answer: the United States
+
+QuestionID: 1999-W19-4-1
+Answer: Canadian Forces Base CFB
+
+QuestionID: 1999-W19-5-3
+Answer: A state of emergency has also been declared in Chapleau, where residents are on standby in preparation for an evacuation order.  
+
+QuestionID: 1999-W20-5-7
+Answer: the University of Calgary
+
+QuestionID: 1999-W21-3-8
+Answer: Canada
+
+QuestionID: 1999-W21-5-1
+Answer: Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.  
+
+QuestionID: 1999-W22-2-1
+Answer: Yugolsavian province
+
+QuestionID: 1999-W22-3-8
+Answer: Wrestling Ventura Minnesota the United States
+
+QuestionID: 1999-W22-4-7
+Answer: the International Space Station the United States Russia
+
+QuestionID: 1999-W22-5-7
+Answer: Alberta Fort McMurray
+
+QuestionID: 1999-W23-1-4
+Answer: American Unity
+
+QuestionID: 1999-W23-5-6
+Answer: North Bay
+
+QuestionID: 1999-W24-3-6
+Answer: "Five years ago, if we had said we were going to Iqaluit June 25
+
+QuestionID: 1999-W24-3-6
+Answer: "Five years ago, if we had said we were going to Iqaluit June 25
+
+QuestionID: 1999-W24-5-4
+Answer: the University of Montreal
+
+QuestionID: 1999-W26-5-3
+Answer: The surgical skills centre at Mt. Sinai hospital is a sort of training camp for residents (new doctors).
+
+QuestionID: 1999-W27-2-1
+Answer: Ellesmere Island
+
+QuestionID: 1999-W27-5-3
+Answer: Quebec
+
+QuestionID: 1999-W28-5-6
+Answer: Mosasaurs Sweden New Zealand Antarctica
+
+QuestionID: 1999-W29-2-4
+Answer: Japan the United States'  
+
+QuestionID: 1999-W29-5-2
+Answer: Littleton Colorado
+
+QuestionID: 1999-W30-1-1
+Answer: U.S. Dallas
+
+QuestionID: 1999-W30-3-6
+Answer: Shellfish plants have created some important jobs that help replace the ones that were lost.
+
+QuestionID: 1999-W30-5-1
+Answer: Siberia Russia Canada
+
+QuestionID: 1999-W31-2-5
+Answer: The Labrador Inuit Association the Canadian Federal Government Newfoundland's Provincial Government
+
+QuestionID: 2000-W03-4-2
+Answer: The government wants to put graphic pictures and warnings  on all cigarette packages.  
+
+QuestionID: 2000-W03-5-5
+Answer: London Ontario New York Neurological Institute
+
+QuestionID: 2000-W06-4-7
+Answer: East Asia
+

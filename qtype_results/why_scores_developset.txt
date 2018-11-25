@@ -1,0 +1,827 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-8'
+QUESTION   : `Why did Babe stop playing basketball?'
+ANSWER     : `she got married'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `she got married'
+      and Resp `Babe Belanger played with the Grads from 1929 to 1937.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W04-5-7'
+QUESTION   : `Why do people go to the National Arts Centre?'
+ANSWER     : `to see plays and dance and to hear live music'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `to see plays and dance and to hear live music'
+      and Resp `Earlier this year he promised to give one million dollars to the National Arts Centre, a concert hall where people go to see plays and dance and to hear live music.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.32 (10/31)
+F-measure = 0.49
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-3-6'
+QUESTION   : `Why did CBC produce "Canada Calling"?'
+ANSWER     : `so that the British kids who were separated from their families could speak to their parents and friends back home over the airwaves'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `so that the British kids who were separated from their families could speak to their parents and friends back home over the airwaves'
+      and Resp `During their stay in Canada, CBC Radio produced a program called "Canada Calling" so that the British kids who were separated from their families could speak to their parents and friends back home over the airwaves.'
+
+Recall    = 1.00 (23/23)
+Precision = 0.64 (23/36)
+F-measure = 0.78
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-3'
+QUESTION   : `Why did Kurds all over the world hold violent demonstrations?'
+ANSWER     : `Abdullah Ocalan was arrested | the arrest of rebel Kurdish leader Abdullah Ocalan | Abdullah Ocalan was captured'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Abdullah Ocalan was arrested'
+      and Resp `Violent demonstrations by angry Kurds took place around the world yesterday following the arrest of rebel Kurdish leader Abdullah Ocalan.'
+
+Comparing Key  `the arrest of rebel Kurdish leader Abdullah Ocalan'
+      and Resp `Violent demonstrations by angry Kurds took place around the world yesterday following the arrest of rebel Kurdish leader Abdullah Ocalan.'
+
+Comparing Key  `Abdullah Ocalan was captured'
+      and Resp `Violent demonstrations by angry Kurds took place around the world yesterday following the arrest of rebel Kurdish leader Abdullah Ocalan.'
+
+=> Best match in answer key is:
+   `the arrest of rebel Kurdish leader Abdullah Ocalan'
+
+Recall    = 1.00 (8/8)
+Precision = 0.40 (8/20)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-10'
+QUESTION   : `Why has Turkey sent soldiers into Northern Iraq?'
+ANSWER     : `to attack Kurdish rebel bases'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `to attack Kurdish rebel bases'
+      and Resp `In Turkey, police have reportedly arrested hundreds of supporters of the main Kurdish party, while up to 4,000 soldiers have been sent into Northern Iraq to attack Kurdish rebel bases.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.17 (5/30)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-3-8'
+QUESTION   : `Why did the St-Hubert McDonald's not get unionized?'
+ANSWER     : `it got shut down just as the union was about to be certified'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `it got shut down just as the union was about to be certified'
+      and Resp `The McDonald's in Squamish became the first unionized outlet among the chain's more than 15,000 outlets in North America when the Canadian Auto Workers made a breakthrough last August.'
+
+Recall    = 0.08 (1/13)
+Precision = 0.03 (1/29)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-4'
+QUESTION   : `Why did Jay-Z not attend the Grammy Awards?'
+ANSWER     : `he doesn't like the way the Grammys treat rap'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `he doesn't like the way the Grammys treat rap'
+      and Resp `After 51 years of performing, Patti Page won her first Grammy, for traditional pop vocal performance for "Live at Carnegie Hall --'
+
+Recall    = 0.00 (0/9)
+Precision = 0.00 (0/22)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-3-1'
+QUESTION   : `Why will Wang Shui-Bo be attending the Oscars this year?'
+ANSWER     : `He's been nominated for an award. | He's been nominated for an Oscar. | He's hoping to win.'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `He's been nominated for an award.'
+      and Resp `Wang may now live in the West, but he'll wear a traditional Chinese jacket for the Oscars and if he wins, Wang knows exactly what he'll say:'
+
+Comparing Key  `He's been nominated for an Oscar.'
+      and Resp `Wang may now live in the West, but he'll wear a traditional Chinese jacket for the Oscars and if he wins, Wang knows exactly what he'll say:'
+
+Comparing Key  `He's hoping to win.'
+      and Resp `Wang may now live in the West, but he'll wear a traditional Chinese jacket for the Oscars and if he wins, Wang knows exactly what he'll say:'
+
+=> Best match in answer key is:
+   `He's been nominated for an award.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.04 (1/27)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-4-4'
+QUESTION   : `Why was Mark Crossley sentenced to house arrest?'
+ANSWER     : `for growing marijuana | for growing marijuana in his backyard'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `for growing marijuana'
+      and Resp `He was sentenced last week to four months of house arrest and 18 months probation for growing marijuana in his backyard.'
+
+Comparing Key  `for growing marijuana in his backyard'
+      and Resp `He was sentenced last week to four months of house arrest and 18 months probation for growing marijuana in his backyard.'
+
+=> Best match in answer key is:
+   `for growing marijuana in his backyard'
+
+Recall    = 1.00 (6/6)
+Precision = 0.29 (6/21)
+F-measure = 0.44
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-5-6'
+QUESTION   : `Why does Calgary have many high-paying managment jobs?'
+ANSWER     : `Because it is prosperous.'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Because it is prosperous.'
+      and Resp `The difference is most noticeable in Calgary where the city's prosperity has meant more high-paying management jobs, but also more unstable and low-paying part-time work.'
+
+Recall    = 0.25 (1/4)
+Precision = 0.04 (1/25)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-2'
+QUESTION   : `Why is eating Arctic fish and game a frightening and tricky business?'
+ANSWER     : `because of the build-up of polluting chemicals in these animals'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `because of the build-up of polluting chemicals in these animals'
+      and Resp `The build-up of these chemicals makes eating Arctic fish and game a frightening and tricky business.'
+
+Recall    = 0.50 (5/10)
+Precision = 0.31 (5/16)
+F-measure = 0.38
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-10'
+QUESTION   : `Why does Carole Mills think it is more of a health risk not to eat country food than to eat it?'
+ANSWER     : `because country food contains vitamins and nutrients not found in store-bought food'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because country food contains vitamins and nutrients not found in store-bought food'
+      and Resp `"I would say right now it's more of a health risk to not eat country food than to eat it," Loring said, "because it contains vitamins and nutrients that they would never find in store-bought food."'
+
+Recall    = 0.83 (10/12)
+Precision = 0.28 (10/36)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-3-4'
+QUESTION   : `Why has there been a moratorium on cod fishing?'
+ANSWER     : `fish stocks dropped to dangerous levels'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `fish stocks dropped to dangerous levels'
+      and Resp `There has been a moratorium - a temporary ban -  on fishing for cod since 1992 after fish stocks dropped to dangerous levels.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.26 (6/23)
+F-measure = 0.41
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-5-4'
+QUESTION   : `Why do First Nations people allegedly "hate white people," according to some?'
+ANSWER     : `because they have brand new cars, nice homes and new clothes'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `because they have brand new cars, nice homes and new clothes'
+      and Resp `The unsigned flyers suggested that First Nations people love welfare and hate white people because "they have brand new cars  nice homes... and new clothes."'
+
+Recall    = 0.82 (9/11)
+Precision = 0.36 (9/25)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-1-1'
+QUESTION   : `Why did Judge A. R. Rothery not allow Tyrell Dueck to refuse cancer treatment?'
+ANSWER     : `the judge said treatment was in Tyrell's best interest'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the judge said treatment was in Tyrell's best interest'
+      and Resp `Last Thursday CBC4Kids explained why Saskatchewan Judge A. R. Rothery would not allow Tyrell to refuse cancer treatment.'
+
+Recall    = 0.22 (2/9)
+Precision = 0.11 (2/18)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-5-5'
+QUESTION   : `Why did one pilot not launch his weapons?'
+ANSWER     : `he was unable to positively identify the target that he had been assigned'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `he was unable to positively identify the target that he had been assigned'
+      and Resp `"One of the pilots was unable to positively identify the target that he had been assigned and, as a measure and a mark of excellent discipline, he didn't launch his weapons."'
+
+Recall    = 1.00 (13/13)
+Precision = 0.42 (13/31)
+F-measure = 0.59
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-4'
+QUESTION   : `Why does the virus have the potential to clog e-mail servers?'
+ANSWER     : `The virus launches documents into cyberspace'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The virus launches documents into cyberspace'
+      and Resp `The virus launches documents into cyberspace and can clog e-mail servers, security experts said yesterday.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.40 (6/15)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-3-7'
+QUESTION   : `Why do some parents not get their children vaccinated?'
+ANSWER     : `growing public suspicion about the risks and side-effects of immunization'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `growing public suspicion about the risks and side-effects of immunization'
+      and Resp `They lost their court case, but many parents chose not to have their  children vaccinated, says Robert Pless of the federal Laboratory Centre for Disease Control.'
+
+Recall    = 0.20 (2/10)
+Precision = 0.08 (2/26)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-4'
+QUESTION   : `Why will the number 99 never be worn again by a professional hockey player?'
+ANSWER     : `it has been retired | it has been retired by the National Hockey League'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `it has been retired'
+      and Resp `At four o'clock this afternoon, the player hockey fans say is probably the best the game has ever known, and that some people say is the greatest professional athlete ever will be... bowling.'
+
+Comparing Key  `it has been retired by the National Hockey League'
+      and Resp `At four o'clock this afternoon, the player hockey fans say is probably the best the game has ever known, and that some people say is the greatest professional athlete ever will be... bowling.'
+
+=> Best match in answer key is:
+   `it has been retired by the National Hockey League'
+
+Recall    = 0.33 (3/9)
+Precision = 0.09 (3/33)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-7'
+QUESTION   : `Why did Gretzky say he was "devastated"??'
+ANSWER     : `because he will no longer be a hockey player'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because he will no longer be a hockey player'
+      and Resp `"It was a tough game for me today," Mr. Gretzky said of his farewell from the sport he dominated for two decades.'
+
+Recall    = 0.22 (2/9)
+Precision = 0.09 (2/22)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-7'
+QUESTION   : `Why did American President Bill Clinton go on television?'
+ANSWER     : `to express his condolences to the families and friends of the victims'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to express his condolences to the families and friends of the victims'
+      and Resp `American President Bill Clinton went on television yesterday to express his condolences to the families and friends of the victims.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.60 (12/20)
+F-measure = 0.75
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-7'
+QUESTION   : `Why were yesterday evening's activities at Taber Evangelical Free Church modified?'
+ANSWER     : `to make it relevant to the shootings at the high school | People asked for guidance in what to say to the kids'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `to make it relevant to the shootings at the high school'
+      and Resp `"We have a son and daughter-in-law in Denver," says Pastor Gartly after an evening service at Taber Evangelical Free Church where worshipers discussed the day's tragic events.'
+
+Comparing Key  `People asked for guidance in what to say to the kids'
+      and Resp `"We have a son and daughter-in-law in Denver," says Pastor Gartly after an evening service at Taber Evangelical Free Church where worshipers discussed the day's tragic events.'
+
+=> Best match in answer key is:
+   `to make it relevant to the shootings at the high school'
+
+Recall    = 0.18 (2/11)
+Precision = 0.07 (2/27)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-8'
+QUESTION   : `Why is the scale of intensity for tornados called the Fujita scale?'
+ANSWER     : `named after a University of Chicago researcher'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `named after a University of Chicago researcher'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.44 (7/16)
+F-measure = 0.61
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-4'
+QUESTION   : `Why could Manitoba send fire fighters and equipment to the latest hotspot in northwestern Ontario?'
+ANSWER     : `some rain did fall and dampened the forest fire threat | rain dampened the forest fire threat'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `some rain did fall and dampened the forest fire threat'
+      and Resp `It means the province could send fire fighters and equipment to the latest hot spot in northwestern Ontario.'
+
+Comparing Key  `rain dampened the forest fire threat'
+      and Resp `It means the province could send fire fighters and equipment to the latest hot spot in northwestern Ontario.'
+
+=> Best match in answer key is:
+   `some rain did fall and dampened the forest fire threat'
+
+Recall    = 0.30 (3/10)
+Precision = 0.17 (3/18)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-8'
+QUESTION   : `Why will diabetics have to be patient, despite Dr. Ji-Won Yoon's discovery?'
+ANSWER     : `a cure for humans is between five and 10 years away'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a cure for humans is between five and 10 years away'
+      and Resp `Dr. Ji-Won Yoon's discovery affects Type 1 diabetics, which inflicts about 100,000 Canadians.'
+
+Recall    = 0.00 (0/11)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-2'
+QUESTION   : `Why did someone sleep in a tent on a sidewalk in front of a theater in Montreal?'
+ANSWER     : `to make sure he got the first ticket'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to make sure he got the first ticket'
+      and Resp `In Montreal someone actually slept in a tent out on the sidewalk in front of a movie theatre to make sure he got the first ticket.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.31 (8/26)
+F-measure = 0.47
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-2'
+QUESTION   : `Why does Gerry White want to build a pipeline from Gisborne Lake to Grand Lepierre?'
+ANSWER     : `to deliver water to waiting tankers and ship it overseas | to export water'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to deliver water to waiting tankers and ship it overseas'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `to export water'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+=> Best match in answer key is:
+   `to deliver water to waiting tankers and ship it overseas'
+
+Recall    = 0.70 (7/10)
+Precision = 0.23 (7/30)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-7'
+QUESTION   : `Why is the Kosovo leadership concerned about taking refugees so far from home?'
+ANSWER     : `many will not return | many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved | Slobodan Milosevic's agenda will be achieved'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `many will not return'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+Comparing Key  `many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+Comparing Key  `Slobodan Milosevic's agenda will be achieved'
+      and Resp `The ambassador said that there is anxiety among the Kosovar leadership that by taking refugees so far afield "many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved."'
+
+=> Best match in answer key is:
+   `many of these people will not return and in so doing Yugoslavia President Slobodan Milosevic's agenda (of getting rid of ethnic Albanians living in the southern Yugoslavian province of Kosovo) will be achieved'
+
+Recall    = 0.97 (32/33)
+Precision = 0.63 (32/51)
+F-measure = 0.76
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-5'
+QUESTION   : `Why did Gary Vettree's house not burn down?'
+ANSWER     : `he soaked it with water'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `he soaked it with water'
+      and Resp `Trees were still burning at Gary Vettree's in Eagle Point, which was directly in the path of a fast-moving fire.'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/20)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-1'
+QUESTION   : `Why didn't Canadian astronaut Julie Payette get time to put on her red clown nose and listen to the Sarah McLaughlan CD she brought along with her on her shuttle flight'
+ANSWER     : `she was too busy getting the new International Space Station ready'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `she was too busy getting the new International Space Station ready'
+      and Resp `Julie Payette did not get a lot of time to put on her red clown nose and listen to the Sarah McLaughlan CD she brought along.'
+
+Recall    = 0.18 (2/11)
+Precision = 0.08 (2/26)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-3'
+QUESTION   : `Why does a majority government make it much easier for the ruling party to make decisions?'
+ANSWER     : `because they get more than half of the votes on any issue'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because they get more than half of the votes on any issue'
+      and Resp `A majority government makes it much easier for the ruling party to make decisions, because they get more than half of the votes on any issue.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.46 (12/26)
+F-measure = 0.63
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-1'
+QUESTION   : `Why will this year's sealift to northern Canada start early?'
+ANSWER     : `early ice break-up | ice break-up is expected to be three weeks early'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `early ice break-up'
+      and Resp `Colin Crosbie, vice-president of Nunavut Ocean Transport, and veteran of the northern sealift, described this year's ice conditions as unprecedented.'
+
+Comparing Key  `ice break-up is expected to be three weeks early'
+      and Resp `Colin Crosbie, vice-president of Nunavut Ocean Transport, and veteran of the northern sealift, described this year's ice conditions as unprecedented.'
+
+=> Best match in answer key is:
+   `early ice break-up'
+
+Recall    = 0.33 (1/3)
+Precision = 0.05 (1/20)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-2'
+QUESTION   : `Why can't all supplies just be flown to northern Canada?'
+ANSWER     : `large, heavy items cannot be transported by airplane'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `large, heavy items cannot be transported by airplane'
+      and Resp `During the long winter months food supplies can only arrive by airplane.'
+
+Recall    = 0.25 (2/8)
+Precision = 0.17 (2/12)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-8'
+QUESTION   : `Why was the announcement about Judge Arbour not made until NATO and Yugoslavia signed an agreement?'
+ANSWER     : `The government was very aware of how tricky it would be to take her away from her high-profile assignment of prosecuting Milosevic'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The government was very aware of how tricky it would be to take her away from her high-profile assignment of prosecuting Milosevic'
+      and Resp `It appears to be no coincidence that Ms. McLellan announced the appointment the day after NATO and Yugoslav generals signed a detailed military agreement on the withdrawal of Yugoslav and Serb forces from Kosovo.'
+
+Recall    = 0.27 (6/22)
+Precision = 0.18 (6/34)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-1-3'
+QUESTION   : `Why are the NATO troops in Kosovo?'
+ANSWER     : `to make sure that Yugoslavian soldiers leave the area'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to make sure that Yugoslavian soldiers leave the area'
+      and Resp `The NATO troops are there to make sure that Yugoslavian soldiers leave the area.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.64 (9/14)
+F-measure = 0.78
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-7'
+QUESTION   : `Why did Texas Governor George W. Bush refuse to grant a stay of execution for Faulder?'
+ANSWER     : `he said there was no new evidence that questioned the jury's verdict | no new evidence'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `he said there was no new evidence that questioned the jury's verdict'
+      and Resp `Texas Governor and presidential candidate George W. Bush refused to grant a stay of the execution, saying there was no new evidence that questioned the jury's verdict in the death of Inez Phillips, who Faulder was convicted of killing in 1977.'
+
+Comparing Key  `no new evidence'
+      and Resp `Texas Governor and presidential candidate George W. Bush refused to grant a stay of the execution, saying there was no new evidence that questioned the jury's verdict in the death of Inez Phillips, who Faulder was convicted of killing in 1977.'
+
+=> Best match in answer key is:
+   `he said there was no new evidence that questioned the jury's verdict'
+
+Recall    = 0.83 (10/12)
+Precision = 0.24 (10/41)
+F-measure = 0.38
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-5-7'
+QUESTION   : `Why are latex intestines a good teaching tool?'
+ANSWER     : `they look and feel like the real thing | you can stop and talk and take things out and start again | they look and feel like the real thing and you can stop and talk and take things out and start again'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `they look and feel like the real thing'
+      and Resp `For students like Dr. Deepa Kumar, they're an even better teaching tool.'
+
+Comparing Key  `you can stop and talk and take things out and start again'
+      and Resp `For students like Dr. Deepa Kumar, they're an even better teaching tool.'
+
+Comparing Key  `they look and feel like the real thing and you can stop and talk and take things out and start again'
+      and Resp `For students like Dr. Deepa Kumar, they're an even better teaching tool.'
+
+=> Best match in answer key is:
+   `they look and feel like the real thing'
+
+Recall    = 0.12 (1/8)
+Precision = 0.08 (1/12)
+F-measure = 0.10
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-2-2'
+QUESTION   : `Why have the whales become trapped?'
+ANSWER     : `an unexpected freeze'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `an unexpected freeze'
+      and Resp `An unexpected freeze has left dozens of the whales trapped in a sea of ice, with one small hole as their only window for air.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.12 (3/25)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-5'
+QUESTION   : `Why is Premier Bouchard reluctant to give the nurses more money?'
+ANSWER     : `because they are only the first of many labour organizations negotiating new contracts'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because they are only the first of many labour organizations negotiating new contracts'
+      and Resp `If Bouchard agrees to give the nurses a raise, he will also have to give the other health care groups more money.'
+
+Recall    = 0.08 (1/13)
+Precision = 0.05 (1/22)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-2-7'
+QUESTION   : `Why is life improving for people in developed countries like Canada, according to the UN report?'
+ANSWER     : `technology'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `technology'
+      and Resp `The UN says technology may be improving life for people in developed countries like Canada, but it is also widening the gap between rich and poor people.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/27)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-5-7'
+QUESTION   : `Why do some members of the government oppose gun control?'
+ANSWER     : `they think violent video games and movies are more to blame for these incidents than guns'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they think violent video games and movies are more to blame for these incidents than guns'
+      and Resp `Some members of the public are opposed to gun control for another reason.'
+
+Recall    = 0.19 (3/16)
+Precision = 0.23 (3/13)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-5-8'
+QUESTION   : `Why do some members of the public oppose gun control?'
+ANSWER     : `they believe people should decide for themselves if they want to own a gun or not'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they believe people should decide for themselves if they want to own a gun or not'
+      and Resp `Some members of the public are opposed to gun control for another reason.'
+
+Recall    = 0.19 (3/16)
+Precision = 0.23 (3/13)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-1-3'
+QUESTION   : `Why does the U.S. Coast Guard want to find the plane's crash site?'
+ANSWER     : `to find some clues as to how the crash happened'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `to find some clues as to how the crash happened'
+      and Resp `The coast guard now wants to try and locate the crash site, and find some clues as to how the crash happened.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.45 (10/22)
+F-measure = 0.62
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-2-1'
+QUESTION   : `Why is B.C. Premier Glen Clark unpopular?'
+ANSWER     : `Glen Clark has been involved in a series of scandals during his time as B.C. Premier, including money budgeting problems and a very expensive project to build new ferries to Vancouver Island | Glen Clark has been involved in a series of scandals during his time as B.C. Premier | money budgeting problems and a very expensive project to build new ferries to Vancouver Island'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Glen Clark has been involved in a series of scandals during his time as B.C. Premier, including money budgeting problems and a very expensive project to build new ferries to Vancouver Island'
+      and Resp `Glen Clark has been involved in a series of scandals during his time as B.C. Premier.'
+
+Comparing Key  `Glen Clark has been involved in a series of scandals during his time as B.C. Premier'
+      and Resp `Glen Clark has been involved in a series of scandals during his time as B.C. Premier.'
+
+Comparing Key  `money budgeting problems and a very expensive project to build new ferries to Vancouver Island'
+      and Resp `Glen Clark has been involved in a series of scandals during his time as B.C. Premier.'
+
+=> Best match in answer key is:
+   `Glen Clark has been involved in a series of scandals during his time as B.C. Premier'
+
+Recall    = 1.00 (16/16)
+Precision = 1.00 (16/16)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-4'
+QUESTION   : `Why did the government place limits on how many fish can be caught?'
+ANSWER     : `environmental concerns'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `environmental concerns'
+      and Resp `However, in recent years environmental concerns have forced the government to place limits on how many fish can be caught.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.10 (2/20)
+F-measure = 0.18
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-5'
+QUESTION   : `Why is it difficult to find a job in Newfoundland's fishing industry?'
+ANSWER     : `Due to limits on how many fish can be caught'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Due to limits on how many fish can be caught'
+      and Resp `Due to these limits, finding a fishing industry job in Newfoundland is tough.'
+
+Recall    = 0.30 (3/10)
+Precision = 0.23 (3/13)
+F-measure = 0.26
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-7'
+QUESTION   : `Why are many workers are trying to live with their symptoms?'
+ANSWER     : `so they can keep their jobs at the fish plants'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `so they can keep their jobs at the fish plants'
+      and Resp `Many workers are trying to live with their symptoms so they can keep their jobs at the fish plants.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.53 (10/19)
+F-measure = 0.69
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-5-4'
+QUESTION   : `Why is it important that the the colour of the mammoth's hair and the smell of the skin are still present?'
+ANSWER     : `This means the hair or skin may still contain the DNA needed for the cloning experiment'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `This means the hair or skin may still contain the DNA needed for the cloning experiment'
+      and Resp `The scientists say the colour of the mammoth's hair is still present, as is the smell of the skin.'
+
+Recall    = 0.38 (6/16)
+Precision = 0.32 (6/19)
+F-measure = 0.34
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-3-3'
+QUESTION   : `Why did Adolf Hitler call the Queen Mum the most dangerous woman in Europe?'
+ANSWER     : `because she was so good at boosting the public's spirits'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `because she was so good at boosting the public's spirits'
+      and Resp `The German leader at the time, Adolf Hitler, called her the most dangerous woman in Europe because she was so good at boosting the public's spirits.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.38 (10/26)
+F-measure = 0.56
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-3-7'
+QUESTION   : `Why does the Queen Mum face less media pressure than other members of the royal family?'
+ANSWER     : `because she is so admired'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `because she is so admired'
+      and Resp `Because she is so admired, she does not face the same media pressure the royal family members do.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.28 (5/18)
+F-measure = 0.43
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-1'
+QUESTION   : `Why could students at Sisler High School be sent home or suspended for kissing?'
+ANSWER     : `if a friendly peck gets too passionate'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `if a friendly peck gets too passionate'
+      and Resp `Students who lock lips in the hallways of Winnipeg's Sisler High School have been warned: if that friendly peck gets too passionate, they couldbe sent home or even suspended.'
+
+Recall    = 0.86 (6/7)
+Precision = 0.21 (6/29)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-4'
+QUESTION   : `Why did Kachmar say he announced the ban on kissing?'
+ANSWER     : `he received complaints about a few students whose intense kissing was making others uncomfortable'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `he received complaints about a few students whose intense kissing was making others uncomfortable'
+      and Resp `With Valentine's Day just around the corner, vice-principal Mike Kachmar announced the smooching ban over the school's public address system.'
+
+Recall    = 0.00 (0/14)
+Precision = 0.00 (0/20)
+F-measure = 0.00
+
+
+
+Finished processing 52 questions, 52 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.5914  (30.75 / 52)
+AVERAGE PRECISION = 0.2468  (12.83 / 52)
+AVERAGE F-MEASURE = 0.3483
+
+*************************************************************************

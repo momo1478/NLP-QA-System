@@ -1,0 +1,1232 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W02-5-1'
+QUESTION   : `Where is South Queens Junior High School located?'
+ANSWER     : `Liverpool, Nova Scotia | Canada'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Liverpool, Nova Scotia'
+      and Resp `South Queens Junior High School is taking aim at the fitness market.'
+
+Comparing Key  `Canada'
+      and Resp `South Queens Junior High School is taking aim at the fitness market.'
+
+=> Best match in answer key is:
+   `Liverpool, Nova Scotia'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/12)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-10'
+QUESTION   : `Where did Babe's daughter find scrapbooks?'
+ANSWER     : `in the family's basement'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `in the family's basement'
+      and Resp `the Edmonton Oilers'
+
+Recall    = 0.25 (1/4)
+Precision = 0.33 (1/3)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W04-5-9'
+QUESTION   : `Where did reporters question Alexi Yashin?'
+ANSWER     : `in the locker room | Boston'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `in the locker room'
+      and Resp `Ottawa'
+
+Comparing Key  `Boston'
+      and Resp `Ottawa'
+
+=> Best match in answer key is:
+   `in the locker room'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-2-6'
+QUESTION   : `Where did Willie live?'
+ANSWER     : `a hutch | a hutch in the front yard of a motel south of Wiarton'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a hutch'
+      and Resp `Brouwer'
+
+Comparing Key  `a hutch in the front yard of a motel south of Wiarton'
+      and Resp `Brouwer'
+
+=> Best match in answer key is:
+   `a hutch'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-11'
+QUESTION   : `Where will the trio's journey end?'
+ANSWER     : `Abu Dhabi'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Abu Dhabi'
+      and Resp `Solalah Saudi Arabia Abu Dhabi'
+
+Recall    = 1.00 (2/2)
+Precision = 0.40 (2/5)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-2-1'
+QUESTION   : `Where is Todd McFarlane originally from?'
+ANSWER     : `Calgary | Canada'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Calgary'
+      and Resp `Spawn'
+
+Comparing Key  `Canada'
+      and Resp `Spawn'
+
+=> Best match in answer key is:
+   `Calgary'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-4-3'
+QUESTION   : `Where is the Maple Leaf Gardens?'
+ANSWER     : `Toronto'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Toronto'
+      and Resp `Maple Leaf Gardens'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-4-7'
+QUESTION   : `Where did Tommy and Ruth sit for the Leaf's games at the Gardens?'
+ANSWER     : `Grey Section West, Seats 13 and 14'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Grey Section West, Seats 13 and 14'
+      and Resp `Leafs Grey Section West Seats 13'
+
+Recall    = 0.71 (5/7)
+Precision = 0.83 (5/6)
+F-measure = 0.77
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-3-2'
+QUESTION   : `Where did Geoffrey Dewis live before he was nine?'
+ANSWER     : `England | Britain | the Commonwealth'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `England'
+      and Resp `Canada'
+
+Comparing Key  `Britain'
+      and Resp `Canada'
+
+Comparing Key  `the Commonwealth'
+      and Resp `Canada'
+
+=> Best match in answer key is:
+   `England'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-3-2'
+QUESTION   : `Where did Geoffrey Dewis live before he was nine?'
+ANSWER     : `over 2,600'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `over 2,600'
+      and Resp `Canada'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-3-3'
+QUESTION   : `Where is the only unionized McDonald's in North America?'
+ANSWER     : `Squamish, British Columbia | Squamish | British Columbia'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Squamish, British Columbia'
+      and Resp `McDonald'
+
+Comparing Key  `Squamish'
+      and Resp `McDonald'
+
+Comparing Key  `British Columbia'
+      and Resp `McDonald'
+
+=> Best match in answer key is:
+   `Squamish, British Columbia'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-5'
+QUESTION   : `Where is Alanis Morissette from?'
+ANSWER     : `Canada'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Canada'
+      and Resp `the Dixie Chicks the Brian Setzer Orchestra'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/7)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-2-9'
+QUESTION   : `Where is Brasilia?'
+ANSWER     : `Brazil'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Brazil'
+      and Resp `Brazil'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-3-6'
+QUESTION   : `Where does Wang live now?'
+ANSWER     : `Montreal, Quebec | Canada | the West'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Montreal, Quebec'
+      and Resp `West'
+
+Comparing Key  `Canada'
+      and Resp `West'
+
+Comparing Key  `the West'
+      and Resp `West'
+
+=> Best match in answer key is:
+   `the West'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-4-5'
+QUESTION   : `Where has marijuana already been approved for medical use?'
+ANSWER     : `several American states | in seven U.S. States and the District of Columbia'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `several American states'
+      and Resp `Several American states have already approved the medical use of marijuana.'
+
+Comparing Key  `in seven U.S. States and the District of Columbia'
+      and Resp `Several American states have already approved the medical use of marijuana.'
+
+=> Best match in answer key is:
+   `several American states'
+
+Recall    = 1.00 (3/3)
+Precision = 0.27 (3/11)
+F-measure = 0.43
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-5-5'
+QUESTION   : `Where in Alberta, Canada is the difference between rich and poor most noticible?'
+ANSWER     : `Calgary'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Calgary'
+      and Resp `When Yalnizyan looked at the Alberta data, she discovered that while Alberta's economy is growing, the difference between the rich and poor is expanding more rapidly than anywhere else in Canada.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/31)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-1'
+QUESTION   : `Where did the issue of chemical pollutants in the Arctic come to a head recently?'
+ANSWER     : `at a United Nations conference in Africa'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `at a United Nations conference in Africa'
+      and Resp `United Nations Africa'
+
+Recall    = 0.43 (3/7)
+Precision = 1.00 (3/3)
+F-measure = 0.60
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-3-8'
+QUESTION   : `Where is Dalhousie University?'
+ANSWER     : `Halifax, Nova Scotia | Nova Scotia'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Halifax, Nova Scotia'
+      and Resp `Halifax Nova Scotia'
+
+Comparing Key  `Nova Scotia'
+      and Resp `Halifax Nova Scotia'
+
+=> Best match in answer key is:
+   `Halifax, Nova Scotia'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-3-6'
+QUESTION   : `Where did the team's journey begin?'
+ANSWER     : `Salalah, Oman | Salalah | Oman'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Salalah, Oman'
+      and Resp `Oman Saudi Arabia the United Arab Emirates'
+
+Comparing Key  `Salalah'
+      and Resp `Oman Saudi Arabia the United Arab Emirates'
+
+Comparing Key  `Oman'
+      and Resp `Oman Saudi Arabia the United Arab Emirates'
+
+=> Best match in answer key is:
+   `Oman'
+
+Recall    = 1.00 (1/1)
+Precision = 0.14 (1/7)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-4-3'
+QUESTION   : `Where was the court where the trial took place?'
+ANSWER     : `Saskatchewan | Saskatoon | Saskatoon, Saskatchewan'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Saskatchewan'
+      and Resp `Saskatoon'
+
+Comparing Key  `Saskatoon'
+      and Resp `Saskatoon'
+
+Comparing Key  `Saskatoon, Saskatchewan'
+      and Resp `Saskatoon'
+
+=> Best match in answer key is:
+   `Saskatoon'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-4-4'
+QUESTION   : `Where does Tyrell's father want him to go?'
+ANSWER     : `Tijuana, Mexico | Tijuana | Mexico | a clinic in Tijuana, Mexico'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Tijuana, Mexico'
+      and Resp `Tijuana Mexico'
+
+Comparing Key  `Tijuana'
+      and Resp `Tijuana Mexico'
+
+Comparing Key  `Mexico'
+      and Resp `Tijuana Mexico'
+
+Comparing Key  `a clinic in Tijuana, Mexico'
+      and Resp `Tijuana Mexico'
+
+=> Best match in answer key is:
+   `Tijuana, Mexico'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-5-8'
+QUESTION   : `Where have the First Nation leaders been invited?'
+ANSWER     : `a meeting with the city council | Dauphin city council'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a meeting with the city council'
+      and Resp `First Nations'
+
+Comparing Key  `Dauphin city council'
+      and Resp `First Nations'
+
+=> Best match in answer key is:
+   `a meeting with the city council'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-1-7'
+QUESTION   : `Where is Tyrell's home?'
+ANSWER     : `Martinsville, Saskatchewan'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Martinsville, Saskatchewan'
+      and Resp `Social Services'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-5'
+QUESTION   : `Where is the capital of Kosovo?'
+ANSWER     : `Pristina'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Pristina'
+      and Resp `Pristina'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-5-1'
+QUESTION   : `Where are the Canadian fighter bombers based?'
+ANSWER     : `in Italy'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in Italy'
+      and Resp `Bagotville Quebec Kosovo'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-5-1'
+QUESTION   : `Where is CNN opening up a new news bureau?'
+ANSWER     : `a high school in Winnipeg | Sisler High School'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a high school in Winnipeg'
+      and Resp `The big cable news network CNN has opened up a new bureau.'
+
+Comparing Key  `Sisler High School'
+      and Resp `The big cable news network CNN has opened up a new bureau.'
+
+=> Best match in answer key is:
+   `a high school in Winnipeg'
+
+Recall    = 0.20 (1/5)
+Precision = 0.08 (1/12)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-2-1'
+QUESTION   : `Where have 76 centimeters of snow fallen since yesterday?'
+ANSWER     : `Saint John's | Saint John's Newfoundland'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Saint John's'
+      and Resp `More than 76 centimetres of snow has fallen in Saint John's since the blizzard started yesterday afternoon.'
+
+Comparing Key  `Saint John's Newfoundland'
+      and Resp `More than 76 centimetres of snow has fallen in Saint John's since the blizzard started yesterday afternoon.'
+
+=> Best match in answer key is:
+   `Saint John's'
+
+Recall    = 1.00 (2/2)
+Precision = 0.12 (2/17)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-7'
+QUESTION   : `Where did Pascal Hudon claim he found the eight figurines?'
+ANSWER     : `on a path | on a path in the bush | on a path in the bush near the Palenque historical site in southern Mexico'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `on a path'
+      and Resp `Mexico'
+
+Comparing Key  `on a path in the bush'
+      and Resp `Mexico'
+
+Comparing Key  `on a path in the bush near the Palenque historical site in southern Mexico'
+      and Resp `Mexico'
+
+=> Best match in answer key is:
+   `on a path in the bush near the Palenque historical site in southern Mexico'
+
+Recall    = 0.07 (1/14)
+Precision = 1.00 (1/1)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-10'
+QUESTION   : `Where does Pascal Hudon intend to visit next?'
+ANSWER     : `British Columbia'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `British Columbia'
+      and Resp `Montreal British Columbia'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-5-3'
+QUESTION   : `Where was the internment camp for the children located?'
+ANSWER     : `New Denver, British Columbia | at a former sanatorium | at a former hospital for people with tuberculosis'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `New Denver, British Columbia'
+      and Resp `British Columbia's'
+
+Comparing Key  `at a former sanatorium'
+      and Resp `British Columbia's'
+
+Comparing Key  `at a former hospital for people with tuberculosis'
+      and Resp `British Columbia's'
+
+=> Best match in answer key is:
+   `New Denver, British Columbia'
+
+Recall    = 0.25 (1/4)
+Precision = 0.50 (1/2)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-3-9'
+QUESTION   : `Where does Donald Henderson work?'
+ANSWER     : `Pan American Health Organization'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Pan American Health Organization'
+      and Resp `the Pan American Health Organization'
+
+Recall    = 1.00 (4/4)
+Precision = 0.80 (4/5)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-4-7'
+QUESTION   : `Where was Zhu before he came to Canada?'
+ANSWER     : `the United States'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the United States'
+      and Resp `Warmly'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-4-9'
+QUESTION   : `Where did Premier Zhu go after meeting with Newfoundland's Premier Brian Tobin?'
+ANSWER     : `Ottawa'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Ottawa'
+      and Resp `Zhu, accompanied by a delegation of about 150 people, was greeted by Newfoundland Premier Brian Tobin.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-5-1'
+QUESTION   : `Where is the Fraser River?'
+ANSWER     : `British Columbia'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `British Columbia'
+      and Resp `British Columbia's Fraser Valley'
+
+Recall    = 0.50 (1/2)
+Precision = 0.25 (1/4)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-3'
+QUESTION   : `Where did Gretzky play his last hockey game?'
+ANSWER     : `Madison Square Garden'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Madison Square Garden'
+      and Resp `the National Hockey League'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-5'
+QUESTION   : `Where is Columbine High School located?'
+ANSWER     : `in the middle-class part of Littleton, Colorado | Littleton, Colorado'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in the middle-class part of Littleton, Colorado'
+      and Resp `Columbine Littleton'
+
+Comparing Key  `Littleton, Colorado'
+      and Resp `Columbine Littleton'
+
+=> Best match in answer key is:
+   `Littleton, Colorado'
+
+Recall    = 0.50 (1/2)
+Precision = 0.50 (1/2)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-2'
+QUESTION   : `Where did the parents protest?'
+ANSWER     : `in front of the city's public school board building'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in front of the city's public school board building'
+      and Resp `Calgary Alberta'
+
+Recall    = 0.00 (0/9)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-4'
+QUESTION   : `Where is the Taber gunman now?'
+ANSWER     : `the gunman was taken into custody by the school resource officer | the police have him'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the gunman was taken into custody by the school resource officer'
+      and Resp `the Taber Police Service'
+
+Comparing Key  `the police have him'
+      and Resp `the Taber Police Service'
+
+=> Best match in answer key is:
+   `the police have him'
+
+Recall    = 0.50 (2/4)
+Precision = 0.50 (2/4)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-6'
+QUESTION   : `Where did Qemal Sefa use to work?'
+ANSWER     : `at a theatre'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `at a theatre'
+      and Resp `Kosovo Yugoslavia Winnipeg Manitoba'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-4'
+QUESTION   : `Where is Eastern Beringia?'
+ANSWER     : `eastern Yukon'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `eastern Yukon'
+      and Resp `Eastern Beringia Yukon'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-4'
+QUESTION   : `Where is Eastern Beringia?'
+ANSWER     : `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa | Jacques Cinq-Mars'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa'
+      and Resp `Eastern Beringia Yukon'
+
+Comparing Key  `Jacques Cinq-Mars'
+      and Resp `Eastern Beringia Yukon'
+
+=> Best match in answer key is:
+   `Jacques Cinq-Mars, an archeologist at the Canadian Museum of Civilization in Ottawa'
+
+Recall    = 0.00 (0/12)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-6'
+QUESTION   : `Where was the latest evidence supporting earlier dates for the first human inhabitants of North America found?'
+ANSWER     : `in the Bluefish Caves'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in the Bluefish Caves'
+      and Resp `the Bluefish Caves the Bluefish River Old Crow'
+
+Recall    = 0.75 (3/4)
+Precision = 0.38 (3/8)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-5'
+QUESTION   : `Where was Chad Harris when the tornado hit?'
+ANSWER     : `in his mobile home | his mobile home in Haysville'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in his mobile home'
+      and Resp `the United States'
+
+Comparing Key  `his mobile home in Haysville'
+      and Resp `the United States'
+
+=> Best match in answer key is:
+   `in his mobile home'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-1'
+QUESTION   : `Where in Nova Scotia did the plane carrying Kosovo refugees land?'
+ANSWER     : `Canadian Forces Base (CFB) Greenwood | Greenwood | Canadian Forces Base Greenwood | Canadian Forces Base (CFB) Greenwood, Nova Scotia | Greenwood, Nova Scotia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Canadian Forces Base (CFB) Greenwood'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Greenwood'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Canadian Forces Base Greenwood'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Canadian Forces Base (CFB) Greenwood, Nova Scotia'
+      and Resp `Canadian Forces Base CFB'
+
+Comparing Key  `Greenwood, Nova Scotia'
+      and Resp `Canadian Forces Base CFB'
+
+=> Best match in answer key is:
+   `Canadian Forces Base (CFB) Greenwood'
+
+Recall    = 0.80 (4/5)
+Precision = 1.00 (4/4)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-3'
+QUESTION   : `Where has a state of emergency been declared?'
+ANSWER     : `Chapleau'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Chapleau'
+      and Resp `A state of emergency has also been declared in Chapleau, where residents are on standby in preparation for an evacuation order.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-7'
+QUESTION   : `Where does Dr. Yoon's team work?'
+ANSWER     : `the University of Calgary | Calgary'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the University of Calgary'
+      and Resp `the University of Calgary'
+
+Comparing Key  `Calgary'
+      and Resp `the University of Calgary'
+
+=> Best match in answer key is:
+   `the University of Calgary'
+
+Recall    = 1.00 (4/4)
+Precision = 1.00 (4/4)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-8'
+QUESTION   : `Where have offers for tickets been common?'
+ANSWER     : `on the Internet'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `on the Internet'
+      and Resp `Canada'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-1'
+QUESTION   : `Where is Gisborne Lake?'
+ANSWER     : `barrens of southern Newfoundland | southern Newfoundland | Newfoundland'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `barrens of southern Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `southern Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+Comparing Key  `Newfoundland'
+      and Resp `Gerry White has a plan to build a pipeline from Gisborne Lake to the neighbouring community of Grand Lepierre, where it will be pumped into waiting tankers and shipped overseas.'
+
+=> Best match in answer key is:
+   `barrens of southern Newfoundland'
+
+Recall    = 0.25 (1/4)
+Precision = 0.03 (1/30)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-1'
+QUESTION   : `Where is Kosovo?'
+ANSWER     : `the Balkans | southern Yugolsavia'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the Balkans'
+      and Resp `Yugolsavian province'
+
+Comparing Key  `southern Yugolsavia'
+      and Resp `Yugolsavian province'
+
+=> Best match in answer key is:
+   `the Balkans'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-8'
+QUESTION   : `Where does Jesse Ventura serve as governor?'
+ANSWER     : `the American state of Minnesota | Minnesota'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the American state of Minnesota'
+      and Resp `Wrestling Ventura Minnesota the United States'
+
+Comparing Key  `Minnesota'
+      and Resp `Wrestling Ventura Minnesota the United States'
+
+=> Best match in answer key is:
+   `the American state of Minnesota'
+
+Recall    = 0.40 (2/5)
+Precision = 0.33 (2/6)
+F-measure = 0.36
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-7'
+QUESTION   : `Where will the space shuttle Discovery be taking Julie?'
+ANSWER     : `the International Space Station platform'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the International Space Station platform'
+      and Resp `the International Space Station the United States Russia'
+
+Recall    = 0.80 (4/5)
+Precision = 0.50 (4/8)
+F-measure = 0.62
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-7'
+QUESTION   : `Where were the evacuees taken when the fire threatened their homes?'
+ANSWER     : `the local health clinic and a hockey arena'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the local health clinic and a hockey arena'
+      and Resp `Alberta Fort McMurray'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-4'
+QUESTION   : `Where was the temperature in the space station only 14 degrees?'
+ANSWER     : `inside the American Unity  Chamber | American Unity Chamber'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `inside the American Unity  Chamber'
+      and Resp `American Unity'
+
+Comparing Key  `American Unity Chamber'
+      and Resp `American Unity'
+
+=> Best match in answer key is:
+   `American Unity Chamber'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-6'
+QUESTION   : `Where did Premier Mike Harris address cheering supporters?'
+ANSWER     : `in North Bay'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in North Bay'
+      and Resp `North Bay'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-6'
+QUESTION   : `Where is Iqaluit?'
+ANSWER     : `Baffin Island | northern Canada'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Baffin Island'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+Comparing Key  `northern Canada'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+=> Best match in answer key is:
+   `Baffin Island'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-6'
+QUESTION   : `Where is Iqaluit?'
+ANSWER     : `Environment Canada'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Environment Canada'
+      and Resp `"Five years ago, if we had said we were going to Iqaluit June 25'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-4'
+QUESTION   : `Where did Judge Arbour get her law degree?'
+ANSWER     : `University of Montreal'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `University of Montreal'
+      and Resp `the University of Montreal'
+
+Recall    = 1.00 (3/3)
+Precision = 0.75 (3/4)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-5-3'
+QUESTION   : `Where is Mt. Sinai hospital?'
+ANSWER     : `Toronto'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Toronto'
+      and Resp `The surgical skills centre at Mt. Sinai hospital is a sort of training camp for residents (new doctors).'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-2-1'
+QUESTION   : `Where in the Canadian Arctic are the 50 beluga whales trapped?'
+ANSWER     : `near Ellesmere Island'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `near Ellesmere Island'
+      and Resp `Ellesmere Island'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-3'
+QUESTION   : `Where are nurses demonstrating?'
+ANSWER     : `on the sidewalks outside all Quebec hospitals'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `on the sidewalks outside all Quebec hospitals'
+      and Resp `Quebec'
+
+Recall    = 0.14 (1/7)
+Precision = 1.00 (1/1)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-5-6'
+QUESTION   : `Where are all the places in the world mentioned in this article in which mosasaur bones been have been found?'
+ANSWER     : `the Antarctic, North America, Europe, Sweden, New Zealand | Antarctica, North America, Europe, Sweden, New Zealand'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the Antarctic, North America, Europe, Sweden, New Zealand'
+      and Resp `Mosasaurs Sweden New Zealand Antarctica'
+
+Comparing Key  `Antarctica, North America, Europe, Sweden, New Zealand'
+      and Resp `Mosasaurs Sweden New Zealand Antarctica'
+
+=> Best match in answer key is:
+   `Antarctica, North America, Europe, Sweden, New Zealand'
+
+Recall    = 0.57 (4/7)
+Precision = 0.80 (4/5)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-2-4'
+QUESTION   : `Where is life expectancy 76 years of age?'
+ANSWER     : `United States'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `United States'
+      and Resp `Japan the United States''
+
+Recall    = 1.00 (2/2)
+Precision = 0.50 (2/4)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-5-2'
+QUESTION   : `Where is Columbine High School?'
+ANSWER     : `Littleton, Colorado'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Littleton, Colorado'
+      and Resp `Littleton Colorado'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-1-1'
+QUESTION   : `Where did John Jr's plane crash?'
+ANSWER     : `the water off the coast of Martha's Vineyard, Massachusetts | off the coast of Martha's Vineyard, Massachusetts'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the water off the coast of Martha's Vineyard, Massachusetts'
+      and Resp `U.S. Dallas'
+
+Comparing Key  `off the coast of Martha's Vineyard, Massachusetts'
+      and Resp `U.S. Dallas'
+
+=> Best match in answer key is:
+   `the water off the coast of Martha's Vineyard, Massachusetts'
+
+Recall    = 0.00 (0/9)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-6'
+QUESTION   : `Where have important jobs been created that help replace the ones that were lost?'
+ANSWER     : `shellfish plants'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `shellfish plants'
+      and Resp `Shellfish plants have created some important jobs that help replace the ones that were lost.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.13 (2/15)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-5-1'
+QUESTION   : `Where was a mummified wooly mammoth found?'
+ANSWER     : `Siberia | Russia'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Siberia'
+      and Resp `Siberia Russia Canada'
+
+Comparing Key  `Russia'
+      and Resp `Siberia Russia Canada'
+
+=> Best match in answer key is:
+   `Siberia'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-2-5'
+QUESTION   : `Where in Canada do the Labrador Inuit claim to own land?'
+ANSWER     : `parts of northern Labrador and northeastern Quebec'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `parts of northern Labrador and northeastern Quebec'
+      and Resp `The Labrador Inuit Association the Canadian Federal Government Newfoundland's Provincial Government'
+
+Recall    = 0.14 (1/7)
+Precision = 0.09 (1/11)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-4-2'
+QUESTION   : `Where does the government want to put pictures of diseased lungs?'
+ANSWER     : `on cigarette packages | half of each side of a cigarette package'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `on cigarette packages'
+      and Resp `The government wants to put graphic pictures and warnings  on all cigarette packages.'
+
+Comparing Key  `half of each side of a cigarette package'
+      and Resp `The government wants to put graphic pictures and warnings  on all cigarette packages.'
+
+=> Best match in answer key is:
+   `on cigarette packages'
+
+Recall    = 1.00 (3/3)
+Precision = 0.23 (3/13)
+F-measure = 0.38
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-5-5'
+QUESTION   : `Where does John Girvin work as a professor?'
+ANSWER     : `London, Ontario | London | Ontario'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `London, Ontario'
+      and Resp `London Ontario New York Neurological Institute'
+
+Comparing Key  `London'
+      and Resp `London Ontario New York Neurological Institute'
+
+Comparing Key  `Ontario'
+      and Resp `London Ontario New York Neurological Institute'
+
+=> Best match in answer key is:
+   `London, Ontario'
+
+Recall    = 1.00 (2/2)
+Precision = 0.33 (2/6)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-7'
+QUESTION   : `Where was kissing rarely practiced until the 20th century?'
+ANSWER     : `East Asia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `East Asia'
+      and Resp `East Asia'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+
+
+Finished processing 70 questions, 70 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.4539  (31.77 / 70)
+AVERAGE PRECISION = 0.3790  (26.53 / 70)
+AVERAGE F-MEASURE = 0.4131
+
+*************************************************************************

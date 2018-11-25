@@ -1,0 +1,1422 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W02-5-2'
+QUESTION   : `Who is the principal of South Queens Junior High School?'
+ANSWER     : `Betty Jean Aucoin'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Betty Jean Aucoin'
+      and Resp `Queens Aucoin'
+
+Recall    = 0.33 (1/3)
+Precision = 0.50 (1/2)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W02-5-5'
+QUESTION   : `Who runs the club?'
+ANSWER     : `a non-profit society | school and community volunteers'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a non-profit society'
+      and Resp `Betty Jean Aucoin Nova Scotia'
+
+Comparing Key  `school and community volunteers'
+      and Resp `Betty Jean Aucoin Nova Scotia'
+
+=> Best match in answer key is:
+   `a non-profit society'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-9'
+QUESTION   : `Who was Babe's husband?'
+ANSWER     : `Ian MacLean'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Ian MacLean'
+      and Resp `Noella "Babe" MacLean Canada'
+
+Recall    = 0.50 (1/2)
+Precision = 0.25 (1/4)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W04-5-3'
+QUESTION   : `Who does Alexi Yashin play for?'
+ANSWER     : `Ottawa Senators'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Ottawa Senators'
+      and Resp `Yashin'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-2-1'
+QUESTION   : `Who is Wiarton Willie?'
+ANSWER     : `the famous Canadian groundhog who predicted the arrival of spring'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the famous Canadian groundhog who predicted the arrival of spring'
+      and Resp `Wiarton Canadian'
+
+Recall    = 0.10 (1/10)
+Precision = 0.50 (1/2)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-2-3'
+QUESTION   : `Who took care of Willie?'
+ANSWER     : `Sam Brouwer'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Sam Brouwer'
+      and Resp `Wiarton Willie'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-2-8'
+QUESTION   : `Who claims to have received a message from Willie's spirit?'
+ANSWER     : `Al Given | the mayor of South Bruce Peninsula | Al Given, the mayor of South Bruce Peninsula'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Al Given'
+      and Resp `Willie Wiarton'
+
+Comparing Key  `the mayor of South Bruce Peninsula'
+      and Resp `Willie Wiarton'
+
+Comparing Key  `Al Given, the mayor of South Bruce Peninsula'
+      and Resp `Willie Wiarton'
+
+=> Best match in answer key is:
+   `Al Given'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-3-1'
+QUESTION   : `Who plans to institute a common code of conduct for students?'
+ANSWER     : `the Ontario government'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the Ontario government'
+      and Resp `Ontario Grade 12'
+
+Recall    = 0.33 (1/3)
+Precision = 0.33 (1/3)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-2'
+QUESTION   : `Who are the nomadic natives of Oman?'
+ANSWER     : `the Bedouin'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the Bedouin'
+      and Resp `Bedouin'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-2-7'
+QUESTION   : `Whose ball did McFarlane buy for about $250,000 Canadian dollars?'
+ANSWER     : `Sammy Sosa's final home run of the season, No. 66'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Sammy Sosa's final home run of the season, No. 66'
+      and Resp `Babe Ruth Lou Gehrig'
+
+Recall    = 0.00 (0/10)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-4-8'
+QUESTION   : `Who was known as one of the toughest players in the NHL in the 1950s?'
+ANSWER     : `Bill Juzda'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Bill Juzda'
+      and Resp `Winnipeger Bill Juzda'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-3-8'
+QUESTION   : `Who published Dewis's obituary?'
+ANSWER     : `the National Post'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the National Post'
+      and Resp `National Post Geoffrey Dewis Vancouver'
+
+Recall    = 0.67 (2/3)
+Precision = 0.40 (2/5)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-1'
+QUESTION   : `Who is Abdullah Ocalan?'
+ANSWER     : `rebel Kurdish leader'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `rebel Kurdish leader'
+      and Resp `Violent Kurds Kurdish'
+
+Recall    = 0.33 (1/3)
+Precision = 0.33 (1/3)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-1'
+QUESTION   : `Who was the master of ceremonies for this year's Grammy Awards?'
+ANSWER     : `Rosie O'Donnell | American talk show host Rosie O'Donnell'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Rosie O'Donnell'
+      and Resp `Patti Page'
+
+Comparing Key  `American talk show host Rosie O'Donnell'
+      and Resp `Patti Page'
+
+=> Best match in answer key is:
+   `Rosie O'Donnell'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-7'
+QUESTION   : `Who wrote "My Heart Will Go On"?'
+ANSWER     : `James Horner and Will Jennings'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `James Horner and Will Jennings'
+      and Resp `Grammys Celine Dion'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-9'
+QUESTION   : `Who is Will Smith's wife?'
+ANSWER     : `actress Jada Pinkett Smith | Jada Pinkett Smith'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `actress Jada Pinkett Smith'
+      and Resp `Will Smith Gettin Jiggy Wit'
+
+Comparing Key  `Jada Pinkett Smith'
+      and Resp `Will Smith Gettin Jiggy Wit'
+
+=> Best match in answer key is:
+   `Jada Pinkett Smith'
+
+Recall    = 0.33 (1/3)
+Precision = 0.20 (1/5)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-1'
+QUESTION   : `Who owns Youth News Network?'
+ANSWER     : `Athena Educational Partners Inc. | a company in Montreal'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Athena Educational Partners Inc.'
+      and Resp `Meadowvale Secondary School'
+
+Comparing Key  `a company in Montreal'
+      and Resp `Meadowvale Secondary School'
+
+=> Best match in answer key is:
+   `Athena Educational Partners Inc.'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-7'
+QUESTION   : `Who is the principal of Meadowvale secondary?'
+ANSWER     : `Laurie Pedwell'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Laurie Pedwell'
+      and Resp `CBC Newsworld Meadowvale YNN Montreal Athena Educational Partners Inc. Laurie Pedwell YNN'
+
+Recall    = 1.00 (2/2)
+Precision = 0.17 (2/12)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-2-7'
+QUESTION   : `Who is the Secretary General of the United Nations?'
+ANSWER     : `Kofi Annan'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Kofi Annan'
+      and Resp `Kofi Annan'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-3-4'
+QUESTION   : `Who fired on the student demonstrators in Tiananmen Square?'
+ANSWER     : `Chinese government troops'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Chinese government troops'
+      and Resp `Wang Chinese Beijing'
+
+Recall    = 0.33 (1/3)
+Precision = 0.33 (1/3)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-3-7'
+QUESTION   : `Who doesn't need another revolution, according to Wang?'
+ANSWER     : `the Chinese people | China'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the Chinese people'
+      and Resp `China'
+
+Comparing Key  `China'
+      and Resp `China'
+
+=> Best match in answer key is:
+   `China'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-4-3'
+QUESTION   : `Who has the Canadian Health Department consulted with about obtaining marijuana?'
+ANSWER     : `the Food and Drug Administration in the United States'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the Food and Drug Administration in the United States'
+      and Resp `The Health Department the Food and Drug Administration the United States'
+
+Recall    = 0.89 (8/9)
+Precision = 0.73 (8/11)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-5-1'
+QUESTION   : `Who authored a study on the differences between the rich and poor in Canada?'
+ANSWER     : `Ms. Armine Yalnizyan'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Ms. Armine Yalnizyan'
+      and Resp `Armine Yalnizyan'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-4'
+QUESTION   : `Who does Carole Mills represent?'
+ANSWER     : `the Canadian Arctic Indigenous Peoples Against POPs'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Canadian Arctic Indigenous Peoples Against POPs'
+      and Resp `the Department of Indian and Northern Affairs the Canadian Arctic Indigenous Peoples Against'
+
+Recall    = 0.86 (6/7)
+Precision = 0.46 (6/13)
+F-measure = 0.60
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-9'
+QUESTION   : `Who is Eric Loring?'
+ANSWER     : `environmental wildlife coordinator with the Inuit Tapirisat of Canada'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `environmental wildlife coordinator with the Inuit Tapirisat of Canada'
+      and Resp `Inuit Canada'
+
+Recall    = 0.22 (2/9)
+Precision = 1.00 (2/2)
+F-measure = 0.36
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-5-4'
+QUESTION   : `Who described Dr. Laurin as "a pioneer, a builder, a man of conviction, determined"?'
+ANSWER     : `Francois Gendron, chairman of the Parti Quebecois caucus in the legislature | Francois Gendron'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Francois Gendron, chairman of the Parti Quebecois caucus in the legislature'
+      and Resp `Francois Gendron Parti Quebecois'
+
+Comparing Key  `Francois Gendron'
+      and Resp `Francois Gendron Parti Quebecois'
+
+=> Best match in answer key is:
+   `Francois Gendron'
+
+Recall    = 1.00 (2/2)
+Precision = 0.50 (2/4)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-3-1'
+QUESTION   : `Who said Bedouin ways are "a death in life."?'
+ANSWER     : `T.E. Lawrence'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `T.E. Lawrence'
+      and Resp `Clarke'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-4-6'
+QUESTION   : `Who does the boy need to speak to without his parents present, according to lawyers in the case?'
+ANSWER     : `a medical doctor | doctors | his cancer doctor'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a medical doctor'
+      and Resp `Tyrell'
+
+Comparing Key  `doctors'
+      and Resp `Tyrell'
+
+Comparing Key  `his cancer doctor'
+      and Resp `Tyrell'
+
+=> Best match in answer key is:
+   `a medical doctor'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-5-2'
+QUESTION   : `Who won Monday night's game?'
+ANSWER     : `The OCN Blizzards | The OCN Blizzards of the Opaskwayak Cree Nation'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The OCN Blizzards'
+      and Resp `Bantam Dauphin Waywayseecappo First Nation Native Bushie'
+
+Comparing Key  `The OCN Blizzards of the Opaskwayak Cree Nation'
+      and Resp `Bantam Dauphin Waywayseecappo First Nation Native Bushie'
+
+=> Best match in answer key is:
+   `The OCN Blizzards of the Opaskwayak Cree Nation'
+
+Recall    = 0.12 (1/8)
+Precision = 0.14 (1/7)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-6'
+QUESTION   : `Who is Slobodan Milosevic?'
+ANSWER     : `Yugoslav President | President of Yugoslavia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Yugoslav President'
+      and Resp `Yugoslav'
+
+Comparing Key  `President of Yugoslavia'
+      and Resp `Yugoslav'
+
+=> Best match in answer key is:
+   `Yugoslav President'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-5-6'
+QUESTION   : `Who has been protesting the bombing in Yugoslavia?'
+ANSWER     : `Serbian Canadians and anti-war demonstrators'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Serbian Canadians and anti-war demonstrators'
+      and Resp `Serbian Canadians Canadian'
+
+Recall    = 0.40 (2/5)
+Precision = 0.67 (2/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-5-9'
+QUESTION   : `Who is Art Eggleton?'
+ANSWER     : `Defence Minister'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Defence Minister'
+      and Resp `Defence the House of Commons'
+
+Recall    = 0.50 (1/2)
+Precision = 0.20 (1/5)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-6'
+QUESTION   : `Who has a Computer Emergency Response Team?'
+ANSWER     : `Carnegie Mellon University'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Carnegie Mellon University'
+      and Resp `Katherine Fithen'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-7'
+QUESTION   : `Who is Ms. Fithen?'
+ANSWER     : `a member of the Computer Emergency Response Team | a member of the Computer Emergency Response Team at Carnegie Mellon University'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a member of the Computer Emergency Response Team'
+      and Resp `Katherine Fithen'
+
+Comparing Key  `a member of the Computer Emergency Response Team at Carnegie Mellon University'
+      and Resp `Katherine Fithen'
+
+=> Best match in answer key is:
+   `a member of the Computer Emergency Response Team'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-2'
+QUESTION   : `Who governed the early costal communities before civil governors replaced them?'
+ANSWER     : `fishing admirals'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `fishing admirals'
+      and Resp `Newfoundland'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-9'
+QUESTION   : `Who was prime minister when John Crosbie was a minister?'
+ANSWER     : `Brian Mulroney'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Brian Mulroney'
+      and Resp `Newfoundlander John Crosbie Conservative Brian Mulroney'
+
+Recall    = 1.00 (2/2)
+Precision = 0.33 (2/6)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-9'
+QUESTION   : `Who was prime minister when John Crosbie was a minister?'
+ANSWER     : `town of Saint Anthony | Saint Anthony'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `town of Saint Anthony'
+      and Resp `Newfoundlander John Crosbie Conservative Brian Mulroney'
+
+Comparing Key  `Saint Anthony'
+      and Resp `Newfoundlander John Crosbie Conservative Brian Mulroney'
+
+=> Best match in answer key is:
+   `town of Saint Anthony'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-5-3'
+QUESTION   : `Who will write stories for the new bureau?'
+ANSWER     : `The students in Ken Corley's World Studies class'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The students in Ken Corley's World Studies class'
+      and Resp `Ken Corley's Sisler High School CNN'
+
+Recall    = 0.25 (2/8)
+Precision = 0.33 (2/6)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-2-5'
+QUESTION   : `Who is the star of "Snow Day"?'
+ANSWER     : `Chevy Chase'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Chevy Chase'
+      and Resp `Snow Day Syracuse'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-5'
+QUESTION   : `Who is Joaquin Garcia?'
+ANSWER     : `chairman of Mexico's archeology council'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `chairman of Mexico's archeology council'
+      and Resp `Looting Mexico'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-5-8'
+QUESTION   : `Who is Ujjal Dosanjn?'
+ANSWER     : `Attorney General for British Columbia | Attorney General'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Attorney General for British Columbia'
+      and Resp `British Columbia Dosanjn'
+
+Comparing Key  `Attorney General'
+      and Resp `British Columbia Dosanjn'
+
+=> Best match in answer key is:
+   `Attorney General for British Columbia'
+
+Recall    = 0.40 (2/5)
+Precision = 0.67 (2/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-3-8'
+QUESTION   : `Who tried to prevent Grade Four Students from being immunized against Hepatitis B?'
+ANSWER     : `a group of Manitoba parents'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a group of Manitoba parents'
+      and Resp `Manitoba Grade Hepatitis B.'
+
+Recall    = 0.20 (1/5)
+Precision = 0.25 (1/4)
+F-measure = 0.22
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-4-2'
+QUESTION   : `Who was who was chanting "Shame on China" on Wednesday?'
+ANSWER     : `a group of about 100 pro-Tibet protesters'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a group of about 100 pro-Tibet protesters'
+      and Resp `Cambridge Massachusetts Chinese Tibet'
+
+Recall    = 0.00 (0/7)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-4-5'
+QUESTION   : `Who is the mayor of Saint John's?'
+ANSWER     : `Andy Wells'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Andy Wells'
+      and Resp `James Pilgram the Canada-Tibet Committee Tibetan'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-5-9'
+QUESTION   : `Who is the Environment Ministry spokesman quoted in this story?'
+ANSWER     : `Neil Peters'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Neil Peters'
+      and Resp `Environment Ministry Neil Peters'
+
+Recall    = 1.00 (2/2)
+Precision = 0.50 (2/4)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-2'
+QUESTION   : `Who won the last game Gretzky played?'
+ANSWER     : `the Penguins | Pittsburgh Penguins'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the Penguins'
+      and Resp `Lemieux Mark Messier the Edmonton Oilers'
+
+Comparing Key  `Pittsburgh Penguins'
+      and Resp `Lemieux Mark Messier the Edmonton Oilers'
+
+=> Best match in answer key is:
+   `the Penguins'
+
+Recall    = 0.50 (1/2)
+Precision = 0.17 (1/6)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-10'
+QUESTION   : `Who played with Gretzky on the Edmonton Oilers?'
+ANSWER     : `Mark Messier'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Mark Messier'
+      and Resp `Lemieux Mark Messier'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-4'
+QUESTION   : `Who described the shootings as a "suicide mission"?'
+ANSWER     : `Jefferson County Sheriff John Stone | John Stone'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Jefferson County Sheriff John Stone'
+      and Resp `Jefferson County Sheriff John Stone'
+
+Comparing Key  `John Stone'
+      and Resp `Jefferson County Sheriff John Stone'
+
+=> Best match in answer key is:
+   `Jefferson County Sheriff John Stone'
+
+Recall    = 1.00 (5/5)
+Precision = 1.00 (5/5)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-10'
+QUESTION   : `Who did students describe as a hero?'
+ANSWER     : `the teacher who shepherded the students into the choir room'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the teacher who shepherded the students into the choir room'
+      and Resp `Jefferson County Sheriff John Stone'
+
+Recall    = 0.00 (0/10)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-4'
+QUESTION   : `Who is Teresa Woo-Paw?'
+ANSWER     : `school board chair'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `school board chair'
+      and Resp `Kurt Moench'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-10'
+QUESTION   : `Who is urging the teachers and school board to keep talking?'
+ANSWER     : `the province's education minister'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the province's education minister'
+      and Resp `Teresa Woo-Paw'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-4'
+QUESTION   : `Who is the president of Nexia Biotechnologies ?'
+ANSWER     : `Jeffrey Turner'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Jeffrey Turner'
+      and Resp `Jeffrey Turner'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-2'
+QUESTION   : `Who shot two students at a high school in Taber?'
+ANSWER     : `a 14 year-old boy'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a 14 year-old boy'
+      and Resp `Pastor Ken Gartly Alberta'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-5'
+QUESTION   : `Who died in the Taber shooting?'
+ANSWER     : `Jason Lang | a grade 11 student'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Jason Lang'
+      and Resp `Pastor Ken Gartly Alberta'
+
+Comparing Key  `a grade 11 student'
+      and Resp `Pastor Ken Gartly Alberta'
+
+=> Best match in answer key is:
+   `Jason Lang'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-8'
+QUESTION   : `Who does Jacques Cing-Mars think used the caves?'
+ANSWER     : `hunters'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `hunters'
+      and Resp `Cinq-Mars'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-3'
+QUESTION   : `Who said 40 people were killed in Oklahoma alone?'
+ANSWER     : `the Oklahoma state medical examiner'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Oklahoma state medical examiner'
+      and Resp `Oklahoma City'
+
+Recall    = 0.20 (1/5)
+Precision = 0.50 (1/2)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-4'
+QUESTION   : `Who was with Ahmet Konyoury on the plane to Canada?'
+ANSWER     : `his wife and youngest daughter'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `his wife and youngest daughter'
+      and Resp `Kosovo'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-5'
+QUESTION   : `Who is Natural Resources Minister?'
+ANSWER     : `Glen Cummings'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Glen Cummings'
+      and Resp `Glen Cummings'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-9'
+QUESTION   : `Who is Holly McWilliams?'
+ANSWER     : `a diabetic | an 18-year-old Calgarian | an 18-year-old Calgarian who has had to inject insulin four times a day since she was three years old to stay alive'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a diabetic'
+      and Resp `Lau'
+
+Comparing Key  `an 18-year-old Calgarian'
+      and Resp `Lau'
+
+Comparing Key  `an 18-year-old Calgarian who has had to inject insulin four times a day since she was three years old to stay alive'
+      and Resp `Lau'
+
+=> Best match in answer key is:
+   `a diabetic'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-4'
+QUESTION   : `Who said "the effects were top notch" when he was talking about "The Phantom Menace"?'
+ANSWER     : `Ken Green'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Ken Green'
+      and Resp `Ken'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-4'
+QUESTION   : `Who is Maude Barlow?'
+ANSWER     : `of the Council of Canadians'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `of the Council of Canadians'
+      and Resp `the Council of Canadians'
+
+Recall    = 0.80 (4/5)
+Precision = 1.00 (4/4)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-8'
+QUESTION   : `Who is the attorney general of British Columbia?'
+ANSWER     : `Ujal Dosnajh'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Ujal Dosnajh'
+      and Resp `B.C. Kosovo'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-1'
+QUESTION   : `Who was Owen Hart?'
+ANSWER     : `a Calgary, Alberta based wrestler | a wrestler'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a Calgary, Alberta based wrestler'
+      and Resp `Owen Owen Ellie Hart'
+
+Comparing Key  `a wrestler'
+      and Resp `Owen Owen Ellie Hart'
+
+=> Best match in answer key is:
+   `a Calgary, Alberta based wrestler'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-9'
+QUESTION   : `Who will be Julie work with to change solar batteries?'
+ANSWER     : `Russian astronaut Valery Tokarev | Valery Tokarev'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Russian astronaut Valery Tokarev'
+      and Resp `Zarya'
+
+Comparing Key  `Valery Tokarev'
+      and Resp `Zarya'
+
+=> Best match in answer key is:
+   `Russian astronaut Valery Tokarev'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-11'
+QUESTION   : `Who is Aline Chretien married to?'
+ANSWER     : `Prime Minister Jean Chretien | Jean Chretien | the Prime Minister'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Prime Minister Jean Chretien'
+      and Resp `Jean Chretien Montrealer'
+
+Comparing Key  `Jean Chretien'
+      and Resp `Jean Chretien Montrealer'
+
+Comparing Key  `the Prime Minister'
+      and Resp `Jean Chretien Montrealer'
+
+=> Best match in answer key is:
+   `Jean Chretien'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-4'
+QUESTION   : `Who is the mayor of La Ronge?'
+ANSWER     : `Joe Hordyski'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Joe Hordyski'
+      and Resp `Joe Hordyski'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-2'
+QUESTION   : `Who led the way into the unfinished station?'
+ANSWER     : `astronaut Tamara Jernigan and Russian crewmate Valery Tokarev'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `astronaut Tamara Jernigan and Russian crewmate Valery Tokarev'
+      and Resp `Astronaut Tamara Jernigan Russian Valery Tokarev'
+
+Recall    = 0.75 (6/8)
+Precision = 1.00 (6/6)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-4'
+QUESTION   : `Who is the leader of the Liberals?'
+ANSWER     : `Dalton McGuinty'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Dalton McGuinty'
+      and Resp `Dalton McGuinty the New Democratic Party Howard Hampton'
+
+Recall    = 1.00 (2/2)
+Precision = 0.25 (2/8)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-8'
+QUESTION   : `Who hounded Mike Harris at every appearance?'
+ANSWER     : `protesters'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `protesters'
+      and Resp `'
+
+Recall    = 0.00 (0/1)
+Precision = N/A (0/0)
+F-measure = N/A
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-2'
+QUESTION   : `Who is Judge Arbour replacing in her new job?'
+ANSWER     : `justice Peter Cory | Peter Cory'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `justice Peter Cory'
+      and Resp `Louise Arbour'
+
+Comparing Key  `Peter Cory'
+      and Resp `Louise Arbour'
+
+=> Best match in answer key is:
+   `justice Peter Cory'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-5'
+QUESTION   : `Who says Louise Arbour is "a down-to-earth individual"?'
+ANSWER     : `lawyer Earl Levy | Earl Levy'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `lawyer Earl Levy'
+      and Resp `Earl Levy'
+
+Comparing Key  `Earl Levy'
+      and Resp `Earl Levy'
+
+=> Best match in answer key is:
+   `Earl Levy'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-1-2'
+QUESTION   : `Who is Slobodan Milosevic?'
+ANSWER     : `President of Yugoslavia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `President of Yugoslavia'
+      and Resp `NATO Yugoslav'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-2-4'
+QUESTION   : `Who is trying to save the whales?'
+ANSWER     : `wildlife officials'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `wildlife officials'
+      and Resp `Beluga'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-4'
+QUESTION   : `Who is Michele Boisclair?'
+ANSWER     : `Quebec Federation of Nurses Vice-President'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Quebec Federation of Nurses Vice-President'
+      and Resp `Quebec Federation Nurses the Executive of the Federation'
+
+Recall    = 0.80 (4/5)
+Precision = 0.50 (4/8)
+F-measure = 0.62
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-8'
+QUESTION   : `Who else has threatened to strike?'
+ANSWER     : `Quebec ambulance technicians'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Quebec ambulance technicians'
+      and Resp `Quebec'
+
+Recall    = 0.33 (1/3)
+Precision = 1.00 (1/1)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-5-3'
+QUESTION   : `Who is the plesiosaur supposed to resemble?'
+ANSWER     : `Scotland's legendary Loch Ness monster | the Loch Ness monster'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Scotland's legendary Loch Ness monster'
+      and Resp `Scientists Antarctic'
+
+Comparing Key  `the Loch Ness monster'
+      and Resp `Scientists Antarctic'
+
+=> Best match in answer key is:
+   `Scotland's legendary Loch Ness monster'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-2-5'
+QUESTION   : `Who ranked first in healthcare?'
+ANSWER     : `Japan'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Japan'
+      and Resp `Canada'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-5-1'
+QUESTION   : `Who traveled across America to help convince the American government that stricter gun control laws are needed?'
+ANSWER     : `95 students'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `95 students'
+      and Resp `the United States the White House Clinton'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/7)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-1-4'
+QUESTION   : `Who was John F. Kennedy Jr's father?'
+ANSWER     : `a U.S. president | U.S. President John F. Kennedy | John F. Kennedy'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a U.S. president'
+      and Resp `John Jr's U.S. John F. Kennedy Dallas'
+
+Comparing Key  `U.S. President John F. Kennedy'
+      and Resp `John Jr's U.S. John F. Kennedy Dallas'
+
+Comparing Key  `John F. Kennedy'
+      and Resp `John Jr's U.S. John F. Kennedy Dallas'
+
+=> Best match in answer key is:
+   `U.S. President John F. Kennedy'
+
+Recall    = 0.80 (4/5)
+Precision = 0.57 (4/7)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-2-4'
+QUESTION   : `Who wrote Glen Clark and specifically asked him to quit his job?'
+ANSWER     : `a group of people in his own party'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a group of people in his own party'
+      and Resp `British Columbia'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-1'
+QUESTION   : `Who is at risk of suffering from shellfish asthma?'
+ANSWER     : `Fish plant workers | Fish plant workers in Newfoundland | workers who are exposed to crab and shrimp meat'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Fish plant workers'
+      and Resp `Shellfish'
+
+Comparing Key  `Fish plant workers in Newfoundland'
+      and Resp `Shellfish'
+
+Comparing Key  `workers who are exposed to crab and shrimp meat'
+      and Resp `Shellfish'
+
+=> Best match in answer key is:
+   `Fish plant workers'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-5-2'
+QUESTION   : `Who is going to dig up the dead wooly mammoth?'
+ANSWER     : `a group of international scientists | scientists'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a group of international scientists'
+      and Resp `Mammoths Asian'
+
+Comparing Key  `scientists'
+      and Resp `Mammoths Asian'
+
+=> Best match in answer key is:
+   `a group of international scientists'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-3-5'
+QUESTION   : `At whose wedding the Queen Mum do the twist?'
+ANSWER     : `Prince Edward's'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Prince Edward's'
+      and Resp `The Queen Mum Queen Elizabeth II'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-4-1'
+QUESTION   : `Who is Canada's Minister of Health?'
+ANSWER     : `Allan Rock'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Allan Rock'
+      and Resp `Rob Parker'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-4-5'
+QUESTION   : `Who is Rob Parker a spokesman for?'
+ANSWER     : `The Canadian Tobacco Manufacturers Association'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The Canadian Tobacco Manufacturers Association'
+      and Resp `Parker'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-5-4'
+QUESTION   : `Who helped Jerry see?'
+ANSWER     : `John Girvin | a Canadian brain surgeon | a neurosurgery (brain surgery) professor | a neurosurgery (brain surgery) professor in London, Ontario | a doctor | a computer'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `John Girvin'
+      and Resp `Jerry - the'
+
+Comparing Key  `a Canadian brain surgeon'
+      and Resp `Jerry - the'
+
+Comparing Key  `a neurosurgery (brain surgery) professor'
+      and Resp `Jerry - the'
+
+Comparing Key  `a neurosurgery (brain surgery) professor in London, Ontario'
+      and Resp `Jerry - the'
+
+Comparing Key  `a doctor'
+      and Resp `Jerry - the'
+
+Comparing Key  `a computer'
+      and Resp `Jerry - the'
+
+=> Best match in answer key is:
+   `John Girvin'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-6'
+QUESTION   : `Who said he has never witnessed a problem in Sisler's hallways?'
+ANSWER     : `Jeffrey Besyk'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Jeffrey Besyk'
+      and Resp `Kachmar'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+
+
+Finished processing 87 questions, 86 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.3233  (28.13 / 87)
+AVERAGE PRECISION = 0.3115  (26.79 / 86)
+AVERAGE F-MEASURE = 0.3173
+
+*************************************************************************
