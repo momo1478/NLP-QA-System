@@ -51,14 +51,14 @@ class Question:
     # This seems like a silly approach really ...
     measure_words = ['many', 'much', 'often', 'big', 'small', 'few', 'tall', 'long', 'short', 'heavy', 'light',
                      'fast', 'slow', 'old', 'new', 'far', 'near', 'close', 'deep']
-    definition_words = ['is', 'are', 'was', 'were', 'will', 'would']
-
-    question_types = {'WHO' : ['who', 'whom', 'whose'],
-                      'WHAT' : ['what'],
-                      'WHEN' : ['when'],
+    definition_words = ['is', 'are', 'was', 'were']
+    action_words = ['do', 'did', 'does']
+    question_types = {'WHO'   : ['who', 'whom', 'whose'],
+                      'WHAT'  : ['what'],
+                      'WHEN'  : ['when'],
                       'WHERE' : ['where'],
-                      'WHY' : ['why'],
-                      'HOW' : ['how'],
+                      'WHY'   : ['why'],
+                      'HOW'   : ['how'],
                       'WHICH' : ['which']}
 
     def __init__(self, qid, question, difficulty):
@@ -122,7 +122,7 @@ class Question:
                     self.type = 'DEFINITION'
                     self.support_type = m.upper()
                 else:
-                    self.support_type = 'DEFINITIONs'
+                    self.support_type = 'DEFINITION'
 
         for type_words in Question.question_types:
             for t in Question.question_types[type_words]:
