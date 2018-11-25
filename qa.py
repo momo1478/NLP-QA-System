@@ -259,6 +259,6 @@ for i in range(1, len(inp)):
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
+        print("Question: {}\nType: {}\nSub-Type: {}\nConditional: {}".format(q.qstr, q.type, q.sub_type, q.conditional))
         print("Answer: {}\n".format("".join(sentences[-1].sentence) if sentences[0].score == 0 else "".join(sentences[0].sentence)))
         #print("Answer: {}\n".format("".join(sentences[0].sentence)))
