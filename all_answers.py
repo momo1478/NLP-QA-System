@@ -8,7 +8,7 @@ from QuestionSet import Question
 # on the question types defined in QuestionSet.py
 # If the first element of Q_TYPE_RUN is 'ALL' then all question types will be included
 # in the file
-Q_TYPE_RUN = ['WHAT']
+Q_TYPE_RUN = ['ALL']
 
 inp = []
 # Get the story ids

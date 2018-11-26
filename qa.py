@@ -31,12 +31,12 @@ import spacy
 # defined in QuestionSet.py
 # If the first element of Q_TYPE_RUN is 'ALL' then all question types will be included in the run.
 # Make sure that your answer set has been generated using the same input file and Q_TYPE_RUN
-Q_TYPE_RUN = ['WHAT']
+Q_TYPE_RUN = ['ALL']
 
 WORD_WEIGHT = 1
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 4
-NP_WEIGHT = 10
+NP_WEIGHT = 5
 ENT_OVERLAP_WEIGHT = 0
 
 # Q-type weights
@@ -55,6 +55,9 @@ NER_TIME = ['TIME', 'DATE']
 NER_MEASURE = ['PERCENT', 'MONEY', 'QUANTITY', 'CARDINAL']
 NER_WHO = ['PERSON', 'NORP', 'ORG', 'GPE']
 NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
+
+# Words to use when splitting WHY responses
+WHY_SPLITS = ['because', 'by', 'to']
 
 # HE, SHE -> PERSON
 # THEY, THEM -> NER_WHO
@@ -255,8 +258,13 @@ for i in range(1, len(inp)):
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_TIME]
             if q.type is 'MEASURE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_MEASURE]
+
+            # if the number of entities is equal to 1 we are probably looking for description of the entity
             if q.type is 'WHO':
                 short_sent = [e[0] for e in sentences[i].entities if e[1] in NER_WHO and e[0] not in q_ents]
+                # vvv results in worse performance overall
+                # if len(q_ents) is 1:
+                #     short_sent.extend(s.noun_clauses)
             if q.type is 'WHERE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE and e[0] not in q_ents]
 
@@ -266,15 +274,17 @@ for i in range(1, len(inp)):
             #         if len(sentences[0].clauses) is not 0:
             #             short_sent = sentences[0].clauses
 
-            # TODO: What am I trying to do here?
-            #if q.type is 'WHAT':
-                #print("Doing Nothing ...")
-
-
-
             if len(short_sent) != 0:
                 sentences[0].sentence = " ".join(short_sent)
                 break
+
+        # Split WHY responses using keywords - seems to help a small amount
+        if q.type is 'WHY':
+            for split in WHY_SPLITS:
+                if split in sentences[0].sentence:
+                    short_sentence = sentences[0].sentence[sentences[0].sentence.find(split):]
+                    sentences[0].sentence = short_sentence
+                    break
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))

@@ -77,6 +77,8 @@ class Story:
         self.sentences = [Sentence(sentence.text,
                                    [doc[w.left_edge.i: w.right_edge.i + 1].text
                                     for w in sentence if w.dep_ in ('advcl', 'xcomp')],
+                                   [doc[w.left_edge.i: w.right_edge.i + 1].text
+                                    for w in sentence if w.dep_ in ('acl', 'nmod')],
                                    [token.lemma_ for token in sentence],
                                    [set(str(chunk).split()) for chunk in list(sentence.noun_chunks)],
                                    [(ent.text, ent.label_)   for ent   in sentence.ents],
@@ -113,9 +115,10 @@ class Story:
 
 # TODO: decide if we want an inner class for sentence representation
 class Sentence:
-    def __init__(self, sentence, clauses, lemmas, noun_chunks, entities, verb_pool, score=0):
+    def __init__(self, sentence, v_clauses, n_clauses, lemmas, noun_chunks, entities, verb_pool, score=0):
         self.sentence = str(sentence)
-        self.clauses = clauses
+        self.verb_clauses = v_clauses
+        self.noun_clauses = n_clauses
         self.noun_chunks = noun_chunks
         self.lemmas = lemmas
         self.entities = entities
