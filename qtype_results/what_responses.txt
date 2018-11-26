@@ -14,7 +14,10 @@ QuestionID: 1999-W06-3-3
 Answer: The code would also deal with acceptable language and set out the punishment for students who smoke, destroy property, steal, distribute hate material or carry a weapon.
 
 QuestionID: 1999-W06-4-3
-Answer: From Solalah, the route will take the group through Saudi Arabia and the trek will finish in Abu Dhabi.
+Answer: They set off this week on foot and by camel on a grueling trek across the burning Arabian desert.  
+
+QuestionID: 1999-W06-4-4
+Answer: Mr. Thesiger's book Arabian Sands told the story of his 1947 trek.  
 
 QuestionID: 1999-W06-4-6
 Answer: Mr. Clarke and his companions met with Mr. Thesiger, who is now 88, in London, England on their way to the Middle East from Canada.
@@ -41,10 +44,10 @@ QuestionID: 1999-W08-4-5
 Answer: On Wednesday, after rumours that Israel helped Turkish securities forces capture Ocalan, angry Kurds tried to occupy the Israeli consulate in Berlin.
 
 QuestionID: 1999-W08-4-7
-Answer: In Germany, Chancellor Gerhard Schroeder told the Kurds they must obey German laws and stop violent protests -- or they will be thrown out of the country.  
+Answer: -- or they will be thrown out of the country.  
 
 QuestionID: 1999-W09-3-6
-Answer: The International Brotherhood of Teamsters had been trying to organize the workers for 16 months.  
+Answer: The latest loss means an end to a campaign begun last year to unionize at least one McDonald's in every major city across Canada, which has so far cost the Teamsters about $100,000.  
 
 QuestionID: 1999-W09-4-2
 Answer: "This is crazy because this is hip-hop music," Ms. Hill said in accepting the first best-album Grammy for a hip-hop artist as the usually conservative awards show took its biggest step out of the mainstream.  
@@ -64,14 +67,47 @@ Answer: While public broadcasters such as CBC Newsworld and TV Ontario provide p
 QuestionID: 1999-W10-1-11
 Answer: "I happen to believe that it is completely unacceptable to sell off little bits of our kids," said Heather-Jane Robertson, director of professional development with the Canadian Teachers Federation.
 
+QuestionID: 1999-W10-2-3
+Answer:   Church bells around the world rang out at noon yesterday as an international ban on landmines became international law.  
+
 QuestionID: 1999-W10-2-4
 Answer: In Paris, France members of carillon associations - people who are experts at ringing bells - coordinated the ringing of cathedral bells across the city.
+
+QuestionID: 1999-W10-2-6
+Answer: In Brasilia, the capital city of Brazil, anti-landmine pamphlets were distributed and there were screenings of "Spotlight on a Massacre", an anti-landmines film in Portuguese.   
+
+QuestionID: 1999-W10-3-2
+Answer: -- Sunday, March 21 -- actors Tom Hanks, and Gwyneth Paltrow and director Steven Spielberg  won't be the only ones sitting on the edge of their seats, hoping to hear their name read out.
+
+QuestionID: 1999-W10-4-1
+Answer: Health Minister Allan Rock announced yesterday that his department is putting together guidelines for a scientific look at marijuana.
+
+QuestionID: 1999-W10-4-2
+Answer: -- which is also planning similar trials -- about acquiring marijuana for the tests.  
+
+QuestionID: 1999-W11-2-6
+Answer: Carole Mills works with the problem daily, both in the contaminants division of the Department of Indian and Northern Affairs, and as a representative of the Canadian Arctic Indigenous Peoples Against POPs. "
+
+QuestionID: 1999-W11-2-8
+Answer: She says concentrations are bound to be higher in muktuk, a dish made from seal, walrus or whale fat.  
+
+QuestionID: 1999-W11-3-6
+Answer: Mr. Efford says the seal herd, which is estimated at six million, needs to be cut in half.
+
+QuestionID: 1999-W11-5-1
+Answer: Bill 101 required signs in Quebec to be in French.
 
 QuestionID: 1999-W11-5-2
 Answer: Bill 101 required signs in Quebec to be in French.
 
+QuestionID: 1999-W12-3-4
+Answer: Halfway through the journey, Clarke thought his chances of completing the trek were slim.  
+
 QuestionID: 1999-W12-4-1
 Answer: Doctors say that Tyrell Dueck, 13, will die from cancer in less than a year if he doesn t have part of his thigh bone removed and undergo chemotherapy treatments.
+
+QuestionID: 1999-W12-5-5
+Answer: "It s not the first incident," said Rod Bushie, grand chief of the Assembly of Manitoba Chiefs.
 
 QuestionID: 1999-W12-5-7
 Answer: Bushie called on politicians to encourage racial tolerance.
@@ -79,14 +115,23 @@ Answer: Bushie called on politicians to encourage racial tolerance.
 QuestionID: 1999-W13-1-4
 Answer: Instead the doctors discovered that cancer has spread from Tyrell's leg into his lungs.
 
+QuestionID: 1999-W13-1-6
+Answer: The matter is most certainly in the hands of God, if it ever were in the hands of mortals," the Duecks' lawyer Owe Girths told a stunned crowd of supporters on Sunday.  
+
 QuestionID: 1999-W13-3-1
 Answer: This is happening because the coalition of countries that are members of the North Atlantic Treaty Organizatoin (NATO) want to stop the Yugoslavians from invading the neighbouring region of Kosovo.  
 
+QuestionID: 1999-W13-3-2
+Answer: Ninety per cent of Kosovo's population are ethnic Albanians, who have been pushing for independence from Serbia.
+
 QuestionID: 1999-W13-3-9
-Answer: He refuses to allow any outside force into Kosovo to monitor any peace agreement.  
+Answer: Few people believe that Yugoslav President Slobodan Milosevic is ready to give in.
 
 QuestionID: 1999-W13-3-10
 Answer: Yugoslav officials say they might not be able to win a war against NATO, but they feel they can inflict serious damage.  
+
+QuestionID: 1999-W13-5-2
+Answer: Foreign Affairs Minister Lloyd Axworthy has said the goal is to force Yugoslavia to accept a peace agreement proposed by the United States.
 
 QuestionID: 1999-W14-1-5
 Answer: The New York Times newspaper reported yesterday that files at Charles Schwab and Co., Lucent Technologies and the Intel Corporation had all been affected.
@@ -98,10 +143,16 @@ QuestionID: 1999-W14-1-10
 Answer: And now in this case, you can't even trust all the documents you receive from people you do know!  
 
 QuestionID: 1999-W14-3-3
-Answer: The population was also strongly divided by religion -- half were Protestant, half Roman Catholic.  
+Answer: -- half were Protestant, half Roman Catholic.  
 
 QuestionID: 1999-W14-3-5
-Answer: Newfoundlanders were swept up in a passionate debate between a pro-union movement called the Confederates and an anti-union movement that wanted Newfoundland to have what was called "responsible government", that is, to remain independent from Canada.   
+Answer: is, to remain independent from Canada.   
+
+QuestionID: 1999-W14-3-7
+Answer: is, to remain independent from Canada.   
+
+QuestionID: 1999-W14-3-7
+Answer: is, to remain independent from Canada.   
 
 QuestionID: 1999-W14-5-4
 Answer: As It Happens asked Mr. Corley how he first heard about the idea.
@@ -109,8 +160,11 @@ Answer: As It Happens asked Mr. Corley how he first heard about the idea.
 QuestionID: 1999-W15-2-3
 Answer: They transformed a Calgary street into a wintry scene set in Syracuse, New York.  
 
+QuestionID: 1999-W15-2-7
+Answer: Snow Day, a family comedy, centres on a group of Syracuse kids who try to extend a magical day off school into a longer vacation.  
+
 QuestionID: 1999-W15-4-2
-Answer: Pascal, who is 20, was released yesterday from the Chiapas state penitentiary of Cerro Hueco -- where he had staged a hunger strike to protest his arrest last September 28th.
+Answer: -- where he had staged a hunger strike to protest his arrest last September 28th.
 
 QuestionID: 1999-W15-5-5
 Answer: Ombudsman Dulcie McCallum said an investigation found the 170 Doukhobor children were subjected to abuse and suffered "loss of love, nurturing guidance and childhood" while they were detained from 1953 to 1959.  
@@ -118,8 +172,14 @@ Answer: Ombudsman Dulcie McCallum said an investigation found the 170 Doukhobor 
 QuestionID: 1999-W15-5-6
 Answer: The report said one example of the mistreatment was that children could only visit with their parents through a chain-link fence that the children themselves had been forced to construct.  
 
+QuestionID: 1999-W16-3-6
+Answer: Rubella, commonly referred to as German measles, is a different disease with similar symptoms.
+
 QuestionID: 1999-W16-4-10
 Answer: He also said Calgary, Alberta Mayor Al Duerr's decision to present a white cowboy hat, Calgary's symbol of hospitality, to Zhu was "shameful" and "unacceptable."  
+
+QuestionID: 1999-W16-5-2
+Answer: Early settlers recognized the potential of the fertile soils along the Fraser for growing food.
 
 QuestionID: 1999-W17-1-9
 Answer: Whenever he noticed a youngster's extended hand from the crowd, he touched it.
@@ -130,6 +190,15 @@ Answer: Witnesses said the boys laughed as they methodically moved through the s
 QuestionID: 1999-W17-3-8
 Answer: He said the challenge facing America is to teach its young people to resolve their problems with "words not weapons."  
 
+QuestionID: 1999-W17-3-11
+Answer: The bill's sponsor, Representative Doug, says the Columbine school tragedy might have been offset if a faculty member or administrator had been armed.  
+
+QuestionID: 1999-W17-5-3
+Answer: Class size is the biggest stumbling block in the dispute between the board and the teachers' union.  
+
+QuestionID: 1999-W17-5-7
+Answer: While a strike will leave more than 95,000 students in academic limbo and parents scrambling to make alternate arrangements, Grade 12 diploma exams will go on.  
+
 QuestionID: 1999-W17-5-8
 Answer: The present school board plans would mean that 200 teachers would lose their jobs.
 
@@ -139,14 +208,35 @@ Answer: While a strike will leave more than 95,000 students in academic limbo an
 QuestionID: 1999-W18-3-2
 Answer: Biosteel is an artificial spider silk developed by Nexia Biotechnologies.  
 
+QuestionID: 1999-W18-3-7
+Answer: It means that lawmakers are having to sit down to decide what should be allowed, and what should be made illegal.
+
+QuestionID: 1999-W18-4-1
+Answer: Taber was founded at the beginning of the century.
+
 QuestionID: 1999-W18-5-9
 Answer: He said he often tried to send money and supplies to them but shipments were regularly intercepted by Serb forces who kept the money and goods for themselves.  
+
+QuestionID: 1999-W18-5-10
+Answer: But the UN decided it would be better to keep refugees closer to home to ease their return when the war ends.  
 
 QuestionID: 1999-W19-1-7
 Answer: The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.
 
 QuestionID: 1999-W19-1-9
 Answer: Heather Pringle is the author of In Search of Ancient North America, part of which is about the Bluefish Caves in northern Yukon.  
+
+QuestionID: 1999-W19-2-1
+Answer:   Devastating tornadoes too numerous to count roared across the American states of Oklahoma and Kansas late yesterday.
+
+QuestionID: 1999-W19-2-2
+Answer: The recognizable shape of the tornado is the swirling funnel cloud that extends from the base of a storm cloud to the ground.  
+
+QuestionID: 1999-W19-2-6
+Answer: An F-4 tornado has a wind speed of 333-419 kilometres per hour.
+
+QuestionID: 1999-W19-5-1
+Answer:   Light rain and cooler temperatures are giving crews a hand in battling several large forest fires across Northern Ontario.  
 
 QuestionID: 1999-W19-5-8
 Answer: Since April 1, almost all of the province's 200 fires were triggered by human causes.
@@ -155,7 +245,7 @@ QuestionID: 1999-W20-5-2
 Answer: Diabetics are at risk of blindness, circulatory problems, heart disease and kidney failure, but with proper diet, exercise and insulin, it can be controlled.  
 
 QuestionID: 1999-W20-5-4
-Answer: Type 2 -- when insulin in the body doesn't work properly.  
+Answer: -- when the body doesn't produce insulin.  
 
 QuestionID: 1999-W20-5-5
 Answer: Destruction of insulin-producing cells by the immune system can be prevented by halting protein production.  
@@ -166,20 +256,65 @@ Answer: In the National Post, Stephen Cole says, "...
 QuestionID: 1999-W21-5-3
 Answer: For months Ottawa and the provinces have been trying to negotiate an agreement banning bulk water exports.
 
+QuestionID: 1999-W21-5-5
+Answer: "If they go ahead, then NAFTA (North American Free Trade Agreement) is triggered.
+
 QuestionID: 1999-W21-5-6
-Answer: NAFTA then applies to the whole country and there'll be no way for us to stop American corporations from coming in and helping themselves to Canadian water all over the country."  
+Answer: "The federal government knows perfectly well that they're in trouble with this," says Maude Barlow of the Council of Canadians.  
+
+QuestionID: 1999-W22-2-5
+Answer: One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.
+
+QuestionID: 1999-W22-3-3
+Answer: Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."  
+
+QuestionID: 1999-W22-3-5
+Answer: Keith Pelley, who is vice-president of programming for the Canadian television network TSN (which carries wrestling), says the WWF's ratings are among his network's highest.
+
+QuestionID: 1999-W22-4-8
+Answer: Her tasks will include unloading and arranging the 2,200 kilograms of equipment being carried to the station for future astronauts; working the remote-control Canadarm while supervising crew members constructing parts of the station, and documenting the mission's progress with video cameras.  
 
 QuestionID: 1999-W23-1-5
 Answer: Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.  
 
+QuestionID: 1999-W23-1-7
+Answer: -- about the same as an office environment.
+
+QuestionID: 1999-W23-5-2
+Answer: Election day began with a controversy, as polls did not open on time in several ridings.
+
+QuestionID: 1999-W23-5-10
+Answer: Several returning officers (the people in charge of a  polling station) called in sick.
+
 QuestionID: 1999-W24-3-4
 Answer: Northerners are used to paying more than two dollars for a can of pop,  more than a dollar for an apple and three dollars for a litre of milk.  
+
+QuestionID: 1999-W24-5-3
+Answer: Louise Arbour will become the high court's third female justice when she begins her new job in September.  
+
+QuestionID: 1999-W24-5-7
+Answer: -- the first time an international court has charged a sitting head of state with war crimes.
 
 QuestionID: 1999-W25-1-4
 Answer: But as NATO troops pour into the province, many of its residents feel they must leave.  
 
+QuestionID: 1999-W25-5-2
+Answer: Cliff Breitkreuz and various people in the province of Alberta or Canada who say it's OK to ignore a violation of international law
+
+QuestionID: 1999-W25-5-3
+Answer: A "stay of execution" delays the execution, and would have allowed Mr. Faulder's lawyer to continue her quest to allow him to live.  
+
 QuestionID: 1999-W25-5-5
 Answer: Ms. Gingera has been working with the Faulder family since 1997 to try to get human rights groups interested in the case.  
+
+QuestionID: 1999-W25-5-8
+Answer: Ms. Gingera says she was alarmed by comments from Alberta Reform Member of Parliament Cliff Breitkreuz, who wanted Texas officials to ignore the argument that Mr. Faulder's rights were violated when he wasn't told he could contact Canadian consular officials when he was charged with murder.  
+
+QuestionID: 1999-W25-5-10
+Answer: In the last few days, Mr. Faulder's relatives had hoped for a stay of execution but they weren't overly optimistic, she says.  
+
+QuestionID: 1999-W26-5-1
+Answer: Soon residents might be learning through 3-D animation programs and virtual patients.
 
 QuestionID: 1999-W26-5-5
 Answer: The surgical skills centre at Mt. Sinai hospital is a sort of training camp for residents (new doctors).
@@ -187,11 +322,23 @@ Answer: The surgical skills centre at Mt. Sinai hospital is a sort of training c
 QuestionID: 1999-W26-5-6
 Answer: "The feedback I have received here has helped me to go home and perfect my technique," says Dr. Douglas Grace.
 
+QuestionID: 1999-W27-2-3
+Answer:   A group of 50 beluga whales is fighting to stay alive in an icy trap in the Canadian Arctic near Ellesmere Island.  
+
+QuestionID: 1999-W27-5-1
+Answer:   The president of the Quebec Federation of Nurses says she will not obey back-to-work legislation that Premier Lucien Bouchard is expected to introduce later today.  
+
 QuestionID: 1999-W27-5-2
 Answer: The legislation could impose jail sentences on the leaders of the nurses' union if they do not call off the strike immediately.  
 
+QuestionID: 1999-W27-5-6
+Answer: Many drivers are honking their horns to show their support.
+
 QuestionID: 1999-W28-5-7
 Answer:   Scientists in the Antarctic have discovered some very old dinosaur bones, including partial skeletons, whole jaws and teeth.  
+
+QuestionID: 1999-W29-2-3
+Answer: These statistics include life expectancy (how long a person lives), quality of education, and personal income (how much money a person earns).  
 
 QuestionID: 1999-W29-2-6
 Answer: Canadians earned $16,525 US a year in 1997.
@@ -205,8 +352,17 @@ Answer: Glen Clark has been involved in a series of scandals during his time as 
 QuestionID: 1999-W30-3-2
 Answer: They feel there should be protection for employees who have trouble working because of shellfish asthma.  
 
+QuestionID: 1999-W30-3-3
+Answer: They feel there should be protection for employees who have trouble working because of shellfish asthma.  
+
 QuestionID: 1999-W30-5-7
 Answer: A wooly mammoth that was mummified 23,000 years ago, will be dug out of the frozen ground by a group of international scientists.  
+
+QuestionID: 1999-W31-2-1
+Answer:   The Labrador Inuit have voted yes on a deal that would allow them to create their own Inuit homeland called Nunasiavut.  
+
+QuestionID: 1999-W31-2-4
+Answer: Native land claims are modern agreements that provide an aboriginal group with land, resources and some power to govern themselves.
 
 QuestionID: 1999-W32-3-1
 Answer:   People from all over Britain lined up to catch a glimpse of their favourite royal grandmother, and help the Queen Mother celebrate her 99th birthday on Wednesday.  
@@ -219,4 +375,7 @@ Answer: Anti-smoking organizations  have applauded the strategy.
 
 QuestionID: 2000-W03-5-1
 Answer: The computer sends signals to small electrodes on the surface of Jerry's brain,  using wires entering his skull behind his right ear.
+
+QuestionID: 2000-W06-4-9
+Answer: The ancient Greeks and Romans Early Christians greeted one another with a kiss, and this "holy kiss" is still a part of Roman Catholic rituals, such as when a bishop kisses a newly ordained priest.
 

@@ -28,6 +28,11 @@ Question: What three countries will the Canadians cross through on their desert 
 Answer: Oman, Saudi Arabia, the United Arab Emirates
 Difficulty: Moderate
 
+QuestionID: 1999-W06-4-4
+Question: What is "Arabian Sands" about?
+Answer: Sir Wilfred Thesiger's 1947 trek
+Difficulty: Moderate
+
 QuestionID: 1999-W06-4-6
 Question: What advice did Mr. Thesiger give to the Canadians?
 Answer: take great care of the camels
@@ -108,20 +113,75 @@ Question: What organization does Heather-Jane Robertson represent?
 Answer: the Canadian Teachers Federation
 Difficulty: easy
 
+QuestionID: 1999-W10-2-3
+Question: Which countries refused to sign the international accord on landmines?
+Answer: Russia, the United States, China and Ukraine
+Difficulty: Moderate
+
 QuestionID: 1999-W10-2-4
 Question: What do we call groups of people who are experts at ringing bells?
 Answer: carillon associations
 Difficulty: Easy
+
+QuestionID: 1999-W10-2-6
+Question: What is the name of the Portuguese anti-landmine film?
+Answer: "Spotlight on a Massacre"
+Difficulty: Easy
+
+QuestionID: 1999-W10-3-2
+Question: What is the name of Wang's documentary?
+Answer: "Sunrise over Tiananmen Square"
+Difficulty: Easy
+
+QuestionID: 1999-W10-4-1
+Question: What is the scientific name for marijuana?
+Answer: Cannabis sativa
+Difficulty: Moderate
+
+QuestionID: 1999-W10-4-2
+Question: What is the Health Department's study going to examine about marijuana?
+Answer: how the drug should be administered and how a safe supply could be distributed to patients
+Difficulty: Easy
+
+QuestionID: 1999-W11-2-6
+Question: What are POPs?
+Answer: persistent organic pollutants
+Difficulty: easy
+
+QuestionID: 1999-W11-2-8
+Question: What is muktuk?
+Answer: a dish made from seal, walrus or whale fat
+Difficulty: easy
+
+QuestionID: 1999-W11-3-6
+Question: What is the estimated size of the seal herd?
+Answer: six million
+Difficulty: easy
+
+QuestionID: 1999-W11-5-1
+Question: What is Bill 101?
+Answer: Quebec's very controversial language law
+Difficulty: easy
 
 QuestionID: 1999-W11-5-2
 Question: What does Bill 101 require?
 Answer: signs in Quebec to be in French | immigrant children to attend French schools
 Difficulty: easy
 
+QuestionID: 1999-W12-3-4
+Question: What was one of the things that motivated Clarke during the journey?
+Answer: the kids
+Difficulty: Easy
+
 QuestionID: 1999-W12-4-1
 Question: What kind of treatments do the doctors want to give thirteen-year-old Tyrell Dueck for his cancer?
 Answer: have part of his thigh bone removed and undergo chemotherapy treatments
 Difficulty: Moderate
+
+QuestionID: 1999-W12-5-5
+Question: What is Rod Bushie's role in the Assembly of Manitoba Chiefs?
+Answer: grand chief
+Difficulty: Easy
 
 QuestionID: 1999-W12-5-7
 Question: According to Bushie, what should the schools do to combat racism?
@@ -133,9 +193,19 @@ Question: What did doctors discover when Tyrell returned to them for treatment?
 Answer: the cancer had spread from his leg to his lungs
 Difficulty: easy
 
+QuestionID: 1999-W13-1-6
+Question: What is the name of the Duecks' lawyer?
+Answer: Owe Girths
+Difficulty: easy
+
 QuestionID: 1999-W13-3-1
 Question: What do the nations of the North Atlantic Treaty Organization want to stop the Yugoslavians from doing?
 Answer: invading neighbouring Kosovo | invading the neighbouring region of Kosovo
+Difficulty: easy
+
+QuestionID: 1999-W13-3-2
+Question: What are the ethnic Albanians in Kosovo pushing for?
+Answer: independence from Serbia
 Difficulty: easy
 
 QuestionID: 1999-W13-3-9
@@ -147,6 +217,11 @@ QuestionID: 1999-W13-3-10
 Question: What do Yugoslav officials feel they can do in a war against NATO?
 Answer: inflict serious damage
 Difficulty: moderate
+
+QuestionID: 1999-W13-5-2
+Question: What is the goal of the NATO bombing in Yugoslavia?
+Answer: force Yugoslavia to accept a peace agreement proposed by the United States
+Difficulty: easy
 
 QuestionID: 1999-W14-1-5
 Question: What three companies have had files affected by the virus?
@@ -173,6 +248,16 @@ Question: What date was the vote that made Newfoundland part of Canada?
 Answer: July 22, 1948
 Difficulty: Moderate
 
+QuestionID: 1999-W14-3-7
+Question: What were the pro-union Newfoundlanders called?
+Answer: Confederates
+Difficulty: Easy
+
+QuestionID: 1999-W14-3-7
+Question: What were the pro-union Newfoundlanders called?
+Answer: people have a basic level of security | unemployment insurance and aid packages to fishers who are out of work
+Difficulty: Moderate
+
 QuestionID: 1999-W14-5-4
 Question: What did Ms. Finlay ask Mr. Corley?
 Answer: how he first heard about the idea
@@ -182,6 +267,11 @@ QuestionID: 1999-W15-2-3
 Question: What did the Hollywood movie crew do to transform a Calgary street into a wintry scene for the movie "Snow Day"?
 Answer: unloaded 450 truckloads of snow
 Difficulty: easy
+
+QuestionID: 1999-W15-2-7
+Question: In the movie "Snow Day," what are the kids in Syracuse trying to do?
+Answer: extend a magical day off school into a longer vacation
+Difficulty: moderate
 
 QuestionID: 1999-W15-4-2
 Question: What did Hudon do in jail to protest his arrest?
@@ -198,10 +288,20 @@ Question: What did the government force the children to build while they were in
 Answer: a chain-link fence | a fence
 Difficulty: easy
 
+QuestionID: 1999-W16-3-6
+Question: What is Rubella?
+Answer: German measles | a different disease with similar symptoms
+Difficulty: Moderate
+
 QuestionID: 1999-W16-4-10
 Question: What does the white cowboy hat symbolize in Calgary?
 Answer: hospitality
 Difficulty: Easy
+
+QuestionID: 1999-W16-5-2
+Question: What are the fertile soils of the Fraser River good for?
+Answer: growing food
+Difficulty: Moderate
 
 QuestionID: 1999-W17-1-9
 Question: What did Gretzky do when he saw a youngster's hand extended from the crowd?
@@ -218,6 +318,21 @@ Question: What did President Clinton say is the challenge facing America?
 Answer: teach its young people to resolve their problems with "words not weapons"
 Difficulty: easy
 
+QuestionID: 1999-W17-3-11
+Question: What would the bill sponsored by Representative Doug Dean do for gun owners?
+Answer: help them carry concealed weapons
+Difficulty: easy
+
+QuestionID: 1999-W17-5-3
+Question: What is the biggest stumbling block in the dispute between the teachers and the school board?
+Answer: class size
+Difficulty: easy
+
+QuestionID: 1999-W17-5-7
+Question: What will a teachers' strike force parents to do?
+Answer: make alternate arrangements
+Difficulty: moderate
+
 QuestionID: 1999-W17-5-8
 Question: What effect will the present school board plans have on teachers?
 Answer: 200 teachers would lose their jobs
@@ -233,9 +348,24 @@ Question: What type of animal did Nexia Biotechnologies clone?
 Answer: goats
 Difficulty: Easy
 
+QuestionID: 1999-W18-3-7
+Question: Besides being very strong, what are the advantages of BioSteel?
+Answer: environmentally friendly, extremely light, and compatible with the human body
+Difficulty: Moderate
+
+QuestionID: 1999-W18-4-1
+Question: What is the population of Taber?
+Answer: eight thousand
+Difficulty: Moderate
+
 QuestionID: 1999-W18-5-9
 Question: What happened to the money and supplies Esat tried to send to his brother's family?
 Answer: they were regularly intercepted by Serb forces who kept the money and goods for themselves | intercepted by Serb forces 
+Difficulty: Moderate
+
+QuestionID: 1999-W18-5-10
+Question: What is the name of the UN organization responsible for refugees?
+Answer: The United Nations High Commission for Refugees
 Difficulty: Moderate
 
 QuestionID: 1999-W19-1-7
@@ -246,6 +376,26 @@ Difficulty: moderate
 QuestionID: 1999-W19-1-9
 Question: What does author Heather Pringle think archeology is about?
 Answer: "uncovering the lives of ancient people"
+Difficulty: easy
+
+QuestionID: 1999-W19-2-1
+Question: Which U.S. states were hit by the numerous tornados?
+Answer: Oklahoma and Kansas | Kansas and Oklahoma
+Difficulty: easy
+
+QuestionID: 1999-W19-2-2
+Question: What is the recognizable shape of a tornado?
+Answer: the swirling funnel cloud that extends from the base of a storm cloud to the ground
+Difficulty: easy
+
+QuestionID: 1999-W19-2-6
+Question: What is the wind speed range of an F-4 tornado?
+Answer: 333-419 kilometres per hour
+Difficulty: easy
+
+QuestionID: 1999-W19-5-1
+Question: What is giving firefighters a hand in battling several large forest fires across Northern Ontario?
+Answer: light rain and cooler temperatures
 Difficulty: easy
 
 QuestionID: 1999-W19-5-8
@@ -278,14 +428,54 @@ Question: What do Ottawa and the provinces want to negotiate?
 Answer: an agreement banning bulk water exports
 Difficulty: moderate
 
+QuestionID: 1999-W21-5-5
+Question: If the water export plan goes ahead, what is triggered?
+Answer: NAFTA | the North American Free Trade Agreement
+Difficulty: easy
+
 QuestionID: 1999-W21-5-6
 Question: What does Maude Barlow think American firms will do?
 Answer: come in and help themselves to Canadian water all over the country
 Difficulty: moderate
 
+QuestionID: 1999-W22-2-5
+Question: What will Thordis Gutnick do for the refugees?
+Answer: teach English | teach English to the refugees | teach them English
+Difficulty: Moderate
+
+QuestionID: 1999-W22-3-3
+Question: Which one of Owen's siblings is a wrestler?
+Answer: Bret "Hitman" Hart | Bret Hart
+Difficulty: Easy
+
+QuestionID: 1999-W22-3-5
+Question: What is the average age of people who watch TSN's professional wrestling shows?
+Answer: 18 to 49
+Difficulty: Moderate
+
+QuestionID: 1999-W22-4-8
+Question: What will Julie use to document the mission progress?
+Answer: video cameras
+Difficulty: Easy
+
 QuestionID: 1999-W23-1-5
 Question: What did Valery Tokarev and Julie Payette change inside the Russian-built Zarya control module?
 Answer: electrical meters on batteries that aren't charging properly | electrical meters | electrical meters on batteries
+Difficulty: easy
+
+QuestionID: 1999-W23-1-7
+Question: What is the noise level in an office?
+Answer: about 60 decibels
+Difficulty: easy
+
+QuestionID: 1999-W23-5-2
+Question: What are ridings?
+Answer: small political regions across the province
+Difficulty: easy
+
+QuestionID: 1999-W23-5-10
+Question: What are returning officers?
+Answer: the people in charge of a polling station
 Difficulty: easy
 
 QuestionID: 1999-W24-3-4
@@ -293,15 +483,50 @@ Question: What does a litre of milk cost in northern Canada?
 Answer: three dollars
 Difficulty: Easy
 
+QuestionID: 1999-W24-5-3
+Question: Before getting her new position, what was Judge Arbour's job?
+Answer: chief prosecutor at the war-crimes tribunal
+Difficulty: Moderate
+
+QuestionID: 1999-W24-5-7
+Question: What was the president of Yugoslavia indicted for?
+Answer: crimes against humanity
+Difficulty: Easy
+
 QuestionID: 1999-W25-1-4
 Question: As the NATO troops enter Kosovo, what do many of the residents of Kosovo feel they must do?
 Answer: leave the area
 Difficulty: moderate
 
+QuestionID: 1999-W25-5-2
+Question: Of which province in Canada was Stanley Faulder a native?
+Answer: Alberta
+Difficulty: moderate
+
+QuestionID: 1999-W25-5-3
+Question: What would a stay of execution have allowed?
+Answer: Faulder's lawyer to continue her quest to allow him to live
+Difficulty: easy
+
 QuestionID: 1999-W25-5-5
 Question: What has Charlene Gingera been working with the Faulder family to do since 1997
 Answer: to try to get human rights groups interested in his case
 Difficulty: easy
+
+QuestionID: 1999-W25-5-8
+Question: Which member of the Canadian Parliament said that Texas officials should ignore the argument that Faulder's rights were violated when he wasn't told he could contact Canadian consular officials when he was charged with murder?
+Answer: Cliff Breitkreuz | Alberta Reform Member of Parliament Cliff Breitkreuz 
+Difficulty: easy
+
+QuestionID: 1999-W25-5-10
+Question: In the last few days before the execution, what were Faulder's relatives hoping for?
+Answer: a stay of execution
+Difficulty: moderate
+
+QuestionID: 1999-W26-5-1
+Question: What is a "resident"?
+Answer: a new doctor
+Difficulty: Easy
 
 QuestionID: 1999-W26-5-5
 Question: What do doctors at Mt. Sinai hospital learn on?
@@ -313,15 +538,35 @@ Question: In the future, what might doctors use to perfect their techniques?
 Answer: 3-D animation programs and virtual patients | 3-D animation programs | virtual patients
 Difficulty: Moderate
 
+QuestionID: 1999-W27-2-3
+Question: Through what are the whales breathing?
+Answer: one small hole in the ice | one small hole
+Difficulty: moderate
+
+QuestionID: 1999-W27-5-1
+Question: What is Quebec Premier Lucien Bouchard's special legislation intended to do?
+Answer: force the province's 47,000 striking nurses back to work
+Difficulty: easy
+
 QuestionID: 1999-W27-5-2
 Question: Under Bouchard's legislation, what could be imposed on the leaders of the nurses' union if they do not call off the strike immediately?
 Answer: jail sentences
 Difficulty: moderate
 
+QuestionID: 1999-W27-5-6
+Question: What are many drivers doing to show their support for the nurses on strike?
+Answer: honking their horns
+Difficulty: easy
+
 QuestionID: 1999-W28-5-7
 Question: What does this new discovery of dinosaur bones tell us about the Antarctic?
 Answer: it was once much warmer than it is now
 Difficulty: Moderate
+
+QuestionID: 1999-W29-2-3
+Question: What is personal income?
+Answer: how much money a person earns
+Difficulty: easy
 
 QuestionID: 1999-W29-2-6
 Question: In what year did Canadians earn an average of $16,525 US?
@@ -343,10 +588,25 @@ Question: What type of illness is shellfish asthma?
 Answer: an allergy | an allergy that gives a person flu-like symptoms
 Difficulty: Moderate
 
+QuestionID: 1999-W30-3-3
+Question: Which types of shellfish cause the illness?
+Answer: crab and shrimp
+Difficulty: Moderate
+
 QuestionID: 1999-W30-5-7
 Question: What modern animals do wooly mammoths look most like?
 Answer: modern-day Asian elephants | Asian elephants | elephants
 Difficulty: Easy
+
+QuestionID: 1999-W31-2-1
+Question: What is the name of the Labrador Inuit homeland?
+Answer: Nunasiavut
+Difficulty: easy
+
+QuestionID: 1999-W31-2-4
+Question: What are native claims?
+Answer: modern agreements that provide an aboriginal group with land, resources and some power to govern themselves
+Difficulty: moderate
 
 QuestionID: 1999-W32-3-1
 Question: What birthday is the Queen Mum celebrating?
@@ -367,4 +627,9 @@ QuestionID: 2000-W03-5-1
 Question: What do Jerry's glasses have on them?
 Answer: a tiny camera and an ultrasonic rangefinder
 Difficulty: Easy
+
+QuestionID: 2000-W06-4-9
+Question: What is the "holy kiss" still a part of?
+Answer: Roman Catholic rituals
+Difficulty: moderate
 

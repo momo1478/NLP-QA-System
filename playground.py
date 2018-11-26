@@ -26,13 +26,18 @@ def spacyTest():
     nlp = spacy.load('en_core_web_sm')
     #doc = nlp(u'''is are was were would do does did has''')
     #doc = nlp(u'Where is South Queens Junior High School located?')
-    doc = nlp(u'Why was the announcement about Judge Arbour not made until NATO and Yugoslavia signed an agreement?')
+    #doc = nlp(u'In Turkey, police have reportedly arrested hundreds of supporters of the main Kurdish party, while up to 4,000 soldiers have been sent into Northern Iraq to attack Kurdish rebel bases.')
+    doc = nlp(u'Doctors say that Tyrell Dueck, 13, will die from cancer in less than a year if he doesn t have part of his thigh bone removed and undergo chemotherapy treatments.')
+    for word in doc:
+        print('{}, {}, {}'.format(word.text, word.pos_, word.dep_))
 
     #doc = nlp(u'''A middle school in Liverpool, Nova Scotia is pumping up bodies as wellas minds. It\'s an example of a school teaming up with the community to raisemoney. South Queens Junior High School is taking aim at the fitness market.The school has turned its one-time metal shop - lost to budget cuts almost two years ago - into a money-making professional fitness club. The club will be open seven days a week.The club, operated by a non-profit society made up of school and community volunteers, has sold more than 30 memberships and hired a full-time co-ordinator .Principal Betty Jean Aucoin says the club is a first for a Nova Scotia public school. She says the school took it on itself to provide a service needed in Liverpool.\"We don't have any athletic facilities here on the South Shore of Nova Scotia, so if we don't use our schools, communities such as Queens are going to be struggling to get anything going,\" Aucoin said.More than a $100,000 was raised through fund-raising and donations from government, Sport Nova Scotia, and two local companies.Some people are wondering if the ties between the businesses and the school are too close. Schools are not set up to make profits or promote businesses. Southwest Regional School Board superintendent Ann Jones says there\'s no fear the lines between education and business are blurring.\"First call on any school facility belongs to... the youngsters in the school,\" says Ann Jones.The 12,000-square-foot club has seven aerobic machines, including treadmills, steppers, and stationary bicycles, as well as weight machines and freeweights.Memberships cost $180 a year for adults and $135 for students and seniors.Proceeds pay the salary of the centre co-ordinator and upkeep of the facility.''')
-    for word in doc:
-        if word.dep_ in ('xcomp', 'ccomp', 'nsubj'):
-            subtree_span = doc[word.left_edge.i: word.right_edge.i + 1]
-            print(subtree_span.text, '|', subtree_span.root.text)
+    clauses = [doc[word.left_edge.i: word.right_edge.i + 1].text for word in doc if word.dep_ in ('nsubj')]
+    printList(clauses)
+    # for word in doc:
+    #     if word.dep_ in ('advcl'):
+    #         subtree_span = doc[word.left_edge.i: word.right_edge.i + 1]
+    #         print(subtree_span.text, '|', subtree_span.root.text)
             #print(' '.join([w.text for w in word.subtree]))
     # doc = nlp('''What do anti-smoking organizations think about the cigarette packaging plan? Anti-smoking organizations have applauded the strategy. The Non-Smokers Rights Association says the labels will give people a graphic reminder of the harmful effects of smoking a cigarette.''')
     # printList([t.text for t in doc if t.text not in [" ", "\n", ","]], "Words in Story")

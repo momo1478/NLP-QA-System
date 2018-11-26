@@ -124,7 +124,8 @@ class Question:
                     pos = q.find(t)
                     if pos < type_pos:
                         type_pos = pos
-                        word_pos = temp_words.index(t)
+                        if t in temp_words:
+                            word_pos = temp_words.index(t)
                         self.support_type = self.type
                         self.type = type_words
                     else:

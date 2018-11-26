@@ -31,12 +31,13 @@ import spacy
 # defined in QuestionSet.py
 # If the first element of Q_TYPE_RUN is 'ALL' then all question types will be included in the run.
 # Make sure that your answer set has been generated using the same input file and Q_TYPE_RUN
-Q_TYPE_RUN = ['ALL']
+Q_TYPE_RUN = ['WHAT']
 
 WORD_WEIGHT = 1
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 4
-NP_WEIGHT = 5
+NP_WEIGHT = 10
+ENT_OVERLAP_WEIGHT = 0
 
 # Q-type weights
 WEIGHT_WHEN = 20
@@ -54,6 +55,11 @@ NER_TIME = ['TIME', 'DATE']
 NER_MEASURE = ['PERCENT', 'MONEY', 'QUANTITY', 'CARDINAL']
 NER_WHO = ['PERSON', 'NORP', 'ORG', 'GPE']
 NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
+
+# HE, SHE -> PERSON
+# THEY, THEM -> NER_WHO
+# IT -> 'NORP', 'ORG', 'GPE', 'PRODUCT', 'WORK_OF_ART', 'EVENT'
+
 DEFN_KEYS = ['--', 'is', 'are']
 NER_HOW_BE = ['with', 'by']
 NER_HOW_DO = []
@@ -156,6 +162,13 @@ for i in range(1, len(inp)):
                     if np_overlap != 0:
                         overlap += np_overlap * NP_WEIGHT
 
+            # give weight to sentences containing an entity ...
+            # for qe in q_ents:
+            #     qe_words = set(qe.split())
+            #     for se in s.entities:
+            #         if len(qe_words.intersection(set(se[0].split()))) is not 0:
+            #             overlap += ENT_OVERLAP_WEIGHT
+
             # Add 10 for every matching verb in both sentences
             # for vq in verbs_in_question:
             #     if vq[1] in s.lemmas:
@@ -197,7 +210,7 @@ for i in range(1, len(inp)):
                             overlap += WEIGHT_WHERE
                             break
                 # Needs work and consideration
-                if q.type is 'DEFINITION':
+                if q.type is 'WHAT':
                     if '--' in s.lemmas:
                         overlap += WEIGHT_DEFN
                         s.sentence = s.sentence[s.sentence.find('--'):]
@@ -247,6 +260,12 @@ for i in range(1, len(inp)):
             if q.type is 'WHERE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE and e[0] not in q_ents]
 
+            # This isn't doing good things
+            # if q.type is 'WHAT':
+            #     if q.sub_type is not 'OBJECT':
+            #         if len(sentences[0].clauses) is not 0:
+            #             short_sent = sentences[0].clauses
+
             # TODO: What am I trying to do here?
             #if q.type is 'WHAT':
                 #print("Doing Nothing ...")
@@ -259,6 +278,6 @@ for i in range(1, len(inp)):
 
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        print("Question: {}\nType: {}\nSub-Type: {}\nConditional: {}".format(q.qstr, q.type, q.sub_type, q.conditional))
+        #print("Question: {}\nType: {}\nSub-Type: {}\nConditional: {}".format(q.qstr, q.type, q.sub_type, q.conditional))
         print("Answer: {}\n".format("".join(sentences[-1].sentence) if sentences[0].score == 0 else "".join(sentences[0].sentence)))
         #print("Answer: {}\n".format("".join(sentences[0].sentence)))
