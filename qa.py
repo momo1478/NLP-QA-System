@@ -269,8 +269,8 @@ for i in range(1, len(inp)):
 
             # Is this a good idea?
             if q.type is 'WHAT':
-                sentences[0].sentence = sentences[0].right_most_subtree[-2]
-                break
+                if len(sentences[0].right_most_subtree[-2].split()) > 1:
+                    sentences[0].sentence = sentences[0].right_most_subtree[-2]
                 # if q.sub_type is 'OBJECT':
                 #     short_sent = sentences[0].noun_clauses
                 # else:

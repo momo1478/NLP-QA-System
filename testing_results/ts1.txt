@@ -1,0 +1,4898 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-1'
+QUESTION   : `Where did the Kolla boys get lost?'
+ANSWER     : `a ski resort | the Schweitzer Mountain Ski Resort in Sandpoint, Idaho | the Schweitzer Mountain Ski Resort'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a ski resort'
+      and Resp `A.J.'
+
+Comparing Key  `the Schweitzer Mountain Ski Resort in Sandpoint, Idaho'
+      and Resp `A.J.'
+
+Comparing Key  `the Schweitzer Mountain Ski Resort'
+      and Resp `A.J.'
+
+=> Best match in answer key is:
+   `a ski resort'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-2'
+QUESTION   : `Who is the youngest brother?'
+ANSWER     : `A.J. Kolla'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `A.J. Kolla'
+      and Resp `A.J. Kolla Sandpoint Idaho'
+
+Recall    = 1.00 (2/2)
+Precision = 0.50 (2/4)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-4'
+QUESTION   : `When did the boys realize they were lost?'
+ANSWER     : `when they reached a riverbank around 4 p.m. | when they reached a riverbank | around 4 p.m'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `when they reached a riverbank around 4 p.m.'
+      and Resp `around 4 p.m.'
+
+Comparing Key  `when they reached a riverbank'
+      and Resp `around 4 p.m.'
+
+Comparing Key  `around 4 p.m'
+      and Resp `around 4 p.m.'
+
+=> Best match in answer key is:
+   `around 4 p.m'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-5'
+QUESTION   : `Where did they dig the snow cave in which they spent the night?'
+ANSWER     : `the base of a tree | the snow hollow around the base of a tree'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the base of a tree'
+      and Resp `Shivering Alberta'
+
+Comparing Key  `the snow hollow around the base of a tree'
+      and Resp `Shivering Alberta'
+
+=> Best match in answer key is:
+   `the base of a tree'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-6'
+QUESTION   : `What did they use to dig the snow cave?'
+ANSWER     : `their hands'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `their hands'
+      and Resp `Oh oh, we're going to be here for a while,'" said A.J.  Using their hands, the two dug into the snow hollow around the base of a tree, covered the floor with pine boughs and settled in for a long, cold night.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.05 (2/42)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-7'
+QUESTION   : `Why was the search for the boys called off?'
+ANSWER     : `weather | blizzard | wind | 110-kilometres-an-hour winds'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `weather'
+      and Resp `The weather was so bad that the search parties were called in and the search called off.'
+
+Comparing Key  `blizzard'
+      and Resp `The weather was so bad that the search parties were called in and the search called off.'
+
+Comparing Key  `wind'
+      and Resp `The weather was so bad that the search parties were called in and the search called off.'
+
+Comparing Key  `110-kilometres-an-hour winds'
+      and Resp `The weather was so bad that the search parties were called in and the search called off.'
+
+=> Best match in answer key is:
+   `weather'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/17)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-8'
+QUESTION   : `Who found the boys?'
+ANSWER     : `a party of snowmobilers'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a party of snowmobilers'
+      and Resp `Carol Sandpoint'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-5-12'
+QUESTION   : `What are the boys' parents' names?'
+ANSWER     : `Michael and Carol'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Michael and Carol'
+      and Resp `The family credits winter camping tips from a friend for saving the boys' lives.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-1-1'
+QUESTION   : `What does "perjury" mean?'
+ANSWER     : `lying in court'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `lying in court'
+      and Resp `In fact, Clinton's approval rating climbed during the trial, which means Americans think he is still fit to be their president.'
+
+Recall    = 0.33 (1/3)
+Precision = 0.05 (1/21)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-1-2'
+QUESTION   : `How many senators voted that President Clinton was guilty of perjury?'
+ANSWER     : `45'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `45'
+      and Resp `50-50 only 45'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-1-3'
+QUESTION   : `When was Clinton acquitted of the charges of perjury and obstructing justice?'
+ANSWER     : `Friday'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Friday'
+      and Resp `President Clinton was acquitted of the charge of perjury (lying in court) and of obstructing justice (hiding evidence, or getting others to lie in court).'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/25)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-1-4'
+QUESTION   : `Where did Monica Lewinsky work as an intern?'
+ANSWER     : `the White House'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the White House'
+      and Resp `White House'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-1-5'
+QUESTION   : `Who claimed that Clinton tried to get Lewinsky to lie about her affair with the president?'
+ANSWER     : `Republican senators'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Republican senators'
+      and Resp `Republican'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-1-7'
+QUESTION   : `What happened to Clinton's approval ratings during the impeachment trial?'
+ANSWER     : `they climbed'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `they climbed'
+      and Resp `In fact, Clinton's approval rating climbed during the trial, which means Americans think he is still fit to be their president.'
+
+Recall    = 0.50 (1/2)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-5-2'
+QUESTION   : `How can the satellite help farmers?'
+ANSWER     : `it can help forecast crop yields'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `it can help forecast crop yields'
+      and Resp `These satellites  can help farmers forecast crop yields, keep track of ice conditions in the Arctic ocean  and help mining companies look for mineral resources.'
+
+Recall    = 0.83 (5/6)
+Precision = 0.20 (5/25)
+F-measure = 0.32
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-5-4'
+QUESTION   : `Why might the Canadian government have to get someone else beside NASA to launch the satellite for them?'
+ANSWER     : `NASA is refusing to send the Radarsat-2 satellite into the sky | NASA Refuses to Launch the Satellite'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `NASA is refusing to send the Radarsat-2 satellite into the sky'
+      and Resp `The government may pay another space agency to launch the satellite.'
+
+Comparing Key  `NASA Refuses to Launch the Satellite'
+      and Resp `The government may pay another space agency to launch the satellite.'
+
+=> Best match in answer key is:
+   `NASA Refuses to Launch the Satellite'
+
+Recall    = 0.67 (4/6)
+Precision = 0.36 (4/11)
+F-measure = 0.47
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-5-5'
+QUESTION   : `Who is concerned about Radarsat-2's powerful abilities?'
+ANSWER     : `the United States | the U.S. | the U.S. government | the United States government | the U.S. intelligence community'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the United States'
+      and Resp `NASA'
+
+Comparing Key  `the U.S.'
+      and Resp `NASA'
+
+Comparing Key  `the U.S. government'
+      and Resp `NASA'
+
+Comparing Key  `the United States government'
+      and Resp `NASA'
+
+Comparing Key  `the U.S. intelligence community'
+      and Resp `NASA'
+
+=> Best match in answer key is:
+   `the United States'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-5-6'
+QUESTION   : `Who is the director of strategic development for the Canadian Space Agency?'
+ANSWER     : `Hugues Gilbert'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Hugues Gilbert'
+      and Resp `U.S.   Hugues Gilbert the Canadian Space  Agency'
+
+Recall    = 1.00 (2/2)
+Precision = 0.29 (2/7)
+F-measure = 0.44
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-5-1'
+QUESTION   : `Who is Moshe Akavak?'
+ANSWER     : `a guard with the BCC | a guard with the Baffin Correctional Centre | a jail guard'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a guard with the BCC'
+      and Resp `Inuit'
+
+Comparing Key  `a guard with the Baffin Correctional Centre'
+      and Resp `Inuit'
+
+Comparing Key  `a jail guard'
+      and Resp `Inuit'
+
+=> Best match in answer key is:
+   `a guard with the BCC'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-5-2'
+QUESTION   : `When did Akavak get his job?'
+ANSWER     : `16 years ago'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `16 years ago'
+      and Resp `16 years ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-5-3'
+QUESTION   : `Why does Akavak think some Inuits commit crimes?'
+ANSWER     : `they have lost their traditional skills'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `they have lost their traditional skills'
+      and Resp `"Whenever you have inmates that come out of jail feeling good about themselves and wanting to succeed I think that cost is well borne out in terms of perhaps reduced recidivism [a return to committing crimes].'
+
+Recall    = 0.17 (1/6)
+Precision = 0.03 (1/36)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-5-5'
+QUESTION   : `How much do the hunting programs cost?'
+ANSWER     : `tens of thousands of dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `tens of thousands of dollars'
+      and Resp `one'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-5-6'
+QUESTION   : `Where do the hunting parties go to hunt caribou?'
+ANSWER     : `far from the city on the frozen tundra | far from the city | on the frozen tundra'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `far from the city on the frozen tundra'
+      and Resp `"I'll just keep on working and go hunting on weekends and keep out of booze or drugs, that was my problem," Evic says.'
+
+Comparing Key  `far from the city'
+      and Resp `"I'll just keep on working and go hunting on weekends and keep out of booze or drugs, that was my problem," Evic says.'
+
+Comparing Key  `on the frozen tundra'
+      and Resp `"I'll just keep on working and go hunting on weekends and keep out of booze or drugs, that was my problem," Evic says.'
+
+=> Best match in answer key is:
+   `on the frozen tundra'
+
+Recall    = 0.25 (1/4)
+Precision = 0.04 (1/23)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-5-7'
+QUESTION   : `What kind of animal do the inmates hunt in the summertime?'
+ANSWER     : `seals'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `seals'
+      and Resp `"Whenever you have inmates that come out of jail feeling good about themselves and wanting to succeed I think that cost is well borne out in terms of perhaps reduced recidivism [a return to committing crimes].'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/36)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-5-8'
+QUESTION   : `Who is one of the prisoners on today's hunt?'
+ANSWER     : `Michael Evic'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Michael Evic'
+      and Resp `BCC Inuit'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-4-2'
+QUESTION   : `Where did Sean use to do his panhandling?'
+ANSWER     : `on a patch of downtown Ottawa sidewalk, wedged between a bank and a grocery store | Ottawa | on a patch of downtown Ottawa sidewalk'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `on a patch of downtown Ottawa sidewalk, wedged between a bank and a grocery store'
+      and Resp `Ottawa'
+
+Comparing Key  `Ottawa'
+      and Resp `Ottawa'
+
+Comparing Key  `on a patch of downtown Ottawa sidewalk'
+      and Resp `Ottawa'
+
+=> Best match in answer key is:
+   `Ottawa'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-4-4'
+QUESTION   : `When was Sean fined for begging?'
+ANSWER     : `March, 1999'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `March, 1999'
+      and Resp `Sean's launching a Charter challenge against Ottawa's anti-panhandling laws after he was ticketed for begging on the street.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-4-6'
+QUESTION   : `Who is Sean's lawyer?'
+ANSWER     : `Mark Ertle'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Mark Ertle'
+      and Resp `Sean'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-4-7'
+QUESTION   : `What kinds of laws have governments passed that limit the freedom of expression?'
+ANSWER     : `laws against pornography and hate propaganda | laws against pornography | laws against hate propaganda | anti-panhandling laws'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `laws against pornography and hate propaganda'
+      and Resp `For example, laws against pornography and hate propaganda are reasonable limits on freedom of expression because they prevent harm to individuals and groups.'
+
+Comparing Key  `laws against pornography'
+      and Resp `For example, laws against pornography and hate propaganda are reasonable limits on freedom of expression because they prevent harm to individuals and groups.'
+
+Comparing Key  `laws against hate propaganda'
+      and Resp `For example, laws against pornography and hate propaganda are reasonable limits on freedom of expression because they prevent harm to individuals and groups.'
+
+Comparing Key  `anti-panhandling laws'
+      and Resp `For example, laws against pornography and hate propaganda are reasonable limits on freedom of expression because they prevent harm to individuals and groups.'
+
+=> Best match in answer key is:
+   `laws against pornography and hate propaganda'
+
+Recall    = 1.00 (6/6)
+Precision = 0.26 (6/23)
+F-measure = 0.41
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-1-1'
+QUESTION   : `Who is the Kosovo Liberation Army (KLA)?'
+ANSWER     : `a group of Yugoslavians of Albanian heritage who were fighting against the Yugoslavian army'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a group of Yugoslavians of Albanian heritage who were fighting against the Yugoslavian army'
+      and Resp `NATO Yugoslavians Albanian Yugoslavian'
+
+Recall    = 0.21 (3/14)
+Precision = 0.75 (3/4)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-1-2'
+QUESTION   : `As part of the peace deal with the KLA, what have KLA members agreed to do?'
+ANSWER     : `hand over their large weapons to NATO forces and stop wearing military uniforms'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `hand over their large weapons to NATO forces and stop wearing military uniforms'
+      and Resp `Over the weekend, NATO authorities also reached a peace deal with the Kosovo Liberation Army (KLA), a group of Yugoslavians of Albanian heritage who were fighting against the Yugoslavian army.'
+
+Recall    = 0.15 (2/13)
+Precision = 0.07 (2/30)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-1-3'
+QUESTION   : `Where are ethnic Albanian refugees living?'
+ANSWER     : `refugee camps and countries around the world | refugee camps in the countries surrounding Yugoslavia and countries around the world | refugee camps in the countries surrounding Yugoslavia and countries around the world, including Canada'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `refugee camps and countries around the world'
+      and Resp `Yugoslavia'
+
+Comparing Key  `refugee camps in the countries surrounding Yugoslavia and countries around the world'
+      and Resp `Yugoslavia'
+
+Comparing Key  `refugee camps in the countries surrounding Yugoslavia and countries around the world, including Canada'
+      and Resp `Yugoslavia'
+
+=> Best match in answer key is:
+   `refugee camps in the countries surrounding Yugoslavia and countries around the world'
+
+Recall    = 0.08 (1/12)
+Precision = 1.00 (1/1)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-1-6'
+QUESTION   : `When did the G8 meet to come up with a plan to rebuild the war-torn region of Yugoslavia?'
+ANSWER     : `over the weekend | June 19-20, 1999'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `over the weekend'
+      and Resp `At the top of the agenda was coming up with a plan to rebuild the region and make sure that a lasting peace can be maintained.'
+
+Comparing Key  `June 19-20, 1999'
+      and Resp `At the top of the agenda was coming up with a plan to rebuild the region and make sure that a lasting peace can be maintained.'
+
+=> Best match in answer key is:
+   `over the weekend'
+
+Recall    = 0.33 (1/3)
+Precision = 0.04 (1/26)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-1-7'
+QUESTION   : `How much could it cost to rebuild from the damage caused by NATO's bombing of Yugoslavia?'
+ANSWER     : `more than a hundred billion dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `more than a hundred billion dollars'
+      and Resp `more than a hundred billion dollars'
+
+Recall    = 1.00 (6/6)
+Precision = 1.00 (6/6)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-1-9'
+QUESTION   : `Why is a democratic society in Kosovo essential, according to Lloyd Axworthy?'
+ANSWER     : `that's the only way that you're going to bring ultimate peace, stability and reconstruction to the area'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `that's the only way that you're going to bring ultimate peace, stability and reconstruction to the area'
+      and Resp `-- that's the only way that you're going to bring ultimate peace, stability and reconstruction to the area," says Canada's Foreign Affairs Minister Lloyd Axworthy.'
+
+Recall    = 0.94 (16/17)
+Precision = 0.64 (16/25)
+F-measure = 0.76
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-1'
+QUESTION   : `Why is producer Daryl Neudorf suing singer Sarah McLachlan?'
+ANSWER     : `for song writing credit and a share of money from her first album'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `for song writing credit and a share of money from her first album'
+      and Resp `Lawyers for singer Sarah McLachlan and producer Daryl Neudorf were back in front of a judge yesterday in Vancouver, British Columbia.'
+
+Recall    = 0.31 (4/13)
+Precision = 0.19 (4/21)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-2'
+QUESTION   : `Where is this case being tried?'
+ANSWER     : `Vancouver, British Columbia | in a court in Vancouver, British Columbia'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Vancouver, British Columbia'
+      and Resp `Justice'
+
+Comparing Key  `in a court in Vancouver, British Columbia'
+      and Resp `Justice'
+
+=> Best match in answer key is:
+   `Vancouver, British Columbia'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-4'
+QUESTION   : `What does Neudorf claim about the eight songs on Sarah McLachlan's first album?'
+ANSWER     : `he co-wrote four of those songs  | that he co-wrote four of those songs | he co-wrote four of those songs, including Sad Clown'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `he co-wrote four of those songs'
+      and Resp `Daryl Neudorf claims he co-wrote four of those songs, including Sad Clown.'
+
+Comparing Key  `that he co-wrote four of those songs'
+      and Resp `Daryl Neudorf claims he co-wrote four of those songs, including Sad Clown.'
+
+Comparing Key  `he co-wrote four of those songs, including Sad Clown'
+      and Resp `Daryl Neudorf claims he co-wrote four of those songs, including Sad Clown.'
+
+=> Best match in answer key is:
+   `he co-wrote four of those songs, including Sad Clown'
+
+Recall    = 1.00 (9/9)
+Precision = 0.75 (9/12)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-5'
+QUESTION   : `How is Neudorf given credit on the album cover?'
+ANSWER     : `for pre-production, coordination and production assistance'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `for pre-production, coordination and production assistance'
+      and Resp `On the album cover Mr. Neudorf is given credit for pre-production, coordination and production assistance.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.40 (6/15)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-6'
+QUESTION   : `Who is Jennifer Conkie?'
+ANSWER     : `Ms. McLachlan's lawyer | Sarah McLachlan's lawyer'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Ms. McLachlan's lawyer'
+      and Resp `McLachlan'
+
+Comparing Key  `Sarah McLachlan's lawyer'
+      and Resp `McLachlan'
+
+=> Best match in answer key is:
+   `Ms. McLachlan's lawyer'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-8'
+QUESTION   : `What is Canada's copyright law largely based on?'
+ANSWER     : `the law in the United Kingdom'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the law in the United Kingdom'
+      and Resp `Canada's copyright act came into effect in 1924, and is based largely on the law in the United Kingdom.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.32 (6/19)
+F-measure = 0.48
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-9'
+QUESTION   : `Why might it take months before a decision is made in this case?'
+ANSWER     : `because of the complexity of the case'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because of the complexity of the case'
+      and Resp `Closing arguments are expected to wrap up today but because of the complexity of the case, it may be months before a decision is made.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.28 (7/25)
+F-measure = 0.44
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-3-10'
+QUESTION   : `When did Canada's copyright act come into effect?'
+ANSWER     : `1924'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1924'
+      and Resp `1924'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-1'
+QUESTION   : `Where was Tyrell Dueck from?'
+ANSWER     : `Martensville, Saskatchewan | Martensville | Saskatchewan'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Martensville, Saskatchewan'
+      and Resp `Funeral'
+
+Comparing Key  `Martensville'
+      and Resp `Funeral'
+
+Comparing Key  `Saskatchewan'
+      and Resp `Funeral'
+
+=> Best match in answer key is:
+   `Martensville, Saskatchewan'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-2'
+QUESTION   : `What was wrong with Tyrell before he died?'
+ANSWER     : `cancer | a tumour | Tyrell had a cancerous tumour in his leg | cancer had spread to Tyrell's lungs | Tyrell's tumour started bleeding | Tyrell's tumour started bleeding and he needed blood transfusions'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `cancer'
+      and Resp `He was admitted to hospital and died Wednesday night.'
+
+Comparing Key  `a tumour'
+      and Resp `He was admitted to hospital and died Wednesday night.'
+
+Comparing Key  `Tyrell had a cancerous tumour in his leg'
+      and Resp `He was admitted to hospital and died Wednesday night.'
+
+Comparing Key  `cancer had spread to Tyrell's lungs'
+      and Resp `He was admitted to hospital and died Wednesday night.'
+
+Comparing Key  `Tyrell's tumour started bleeding'
+      and Resp `He was admitted to hospital and died Wednesday night.'
+
+Comparing Key  `Tyrell's tumour started bleeding and he needed blood transfusions'
+      and Resp `He was admitted to hospital and died Wednesday night.'
+
+=> Best match in answer key is:
+   `Tyrell's tumour started bleeding and he needed blood transfusions'
+
+Recall    = 0.22 (2/9)
+Precision = 0.22 (2/9)
+F-measure = 0.22
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-3'
+QUESTION   : `What kind of treatment did Tyrell and his parents want to try for his condition?'
+ANSWER     : `herbal, and alternative treatments that included large doses of vitamins and a special diet'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `herbal, and alternative treatments that included large doses of vitamins and a special diet'
+      and Resp `Tyrell waited three months for treatment as his case went through the courts.'
+
+Recall    = 0.00 (0/14)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-4'
+QUESTION   : `Why did the Saskatchewan government take Tyrell's case to the court of law?'
+ANSWER     : `The Saskatchewan government didn't think alternative medicine would work | to force him to undergo surgery for the cancer in his leg'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `The Saskatchewan government didn't think alternative medicine would work'
+      and Resp `He says in Tyrell's case, government interference meant alternative treatment may have been delayed too long.'
+
+Comparing Key  `to force him to undergo surgery for the cancer in his leg'
+      and Resp `He says in Tyrell's case, government interference meant alternative treatment may have been delayed too long.'
+
+=> Best match in answer key is:
+   `The Saskatchewan government didn't think alternative medicine would work'
+
+Recall    = 0.22 (2/9)
+Precision = 0.12 (2/16)
+F-measure = 0.16
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-5'
+QUESTION   : `How long was Tyrell's treatment delayed while the case went through the courts?'
+ANSWER     : `three months'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `three months'
+      and Resp `He says in Tyrell's case, government interference meant alternative treatment may have been delayed too long.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-6'
+QUESTION   : `When did the provincal government drop the case against Tyrell?'
+ANSWER     : `When it was discovered the cancer had spread to Tyrell's lungs'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `When it was discovered the cancer had spread to Tyrell's lungs'
+      and Resp `three months'
+
+Recall    = 0.00 (0/11)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-7'
+QUESTION   : `Who claimed that Tyrell didn't have cancer?'
+ANSWER     : `doctors in Mexico'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `doctors in Mexico'
+      and Resp `Mexico'
+
+Recall    = 0.33 (1/3)
+Precision = 1.00 (1/1)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-1-8'
+QUESTION   : `According to Joe Bourgeault, why did the alternative medicine fail to work in Tyrell's case?'
+ANSWER     : `it may have been delayed too long'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `it may have been delayed too long'
+      and Resp `The Saskatchewan government didn't think alternative medicine would work, and felt Tyrell's parents were pressuring him to refuse traditional medicine.'
+
+Recall    = 0.00 (0/7)
+Precision = 0.00 (0/20)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-1'
+QUESTION   : `Why did Amber Ramirez have surgery to remove part of her brain?'
+ANSWER     : `to control a disease she has suffered from her whole life | to control a very rare form of brain disease'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to control a disease she has suffered from her whole life'
+      and Resp `Fifteen-year-old Amber Ramirez is recovering in hospital after having part of her brain removed.'
+
+Comparing Key  `to control a very rare form of brain disease'
+      and Resp `Fifteen-year-old Amber Ramirez is recovering in hospital after having part of her brain removed.'
+
+=> Best match in answer key is:
+   `to control a very rare form of brain disease'
+
+Recall    = 0.22 (2/9)
+Precision = 0.14 (2/14)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-2'
+QUESTION   : `What is Rasmussen's disease?'
+ANSWER     : `a very rare form of brain disease | a very rare form of brain disease that can occur at any time in childhood'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a very rare form of brain disease'
+      and Resp `Rasmussen's disease is a very rare form of brain disease that can occur at any time in childhood.'
+
+Comparing Key  `a very rare form of brain disease that can occur at any time in childhood'
+      and Resp `Rasmussen's disease is a very rare form of brain disease that can occur at any time in childhood.'
+
+=> Best match in answer key is:
+   `a very rare form of brain disease that can occur at any time in childhood'
+
+Recall    = 1.00 (15/15)
+Precision = 0.83 (15/18)
+F-measure = 0.91
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-3'
+QUESTION   : `When can Rasmussen's disease occur?'
+ANSWER     : `at any time in childhood'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `at any time in childhood'
+      and Resp `Rasmussen's disease is a very rare form of brain disease that can occur at any time in childhood.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.28 (5/18)
+F-measure = 0.43
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-4'
+QUESTION   : `What happens to cells in one half of the brain as a result of Rasmussen's disease?'
+ANSWER     : `they become inflamed or puffy when infected'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they become inflamed or puffy when infected'
+      and Resp `It is not known what causes the disease, but it is known that cells in one half of the brain become inflamed, or puffy when infected.'
+
+Recall    = 0.86 (6/7)
+Precision = 0.23 (6/26)
+F-measure = 0.36
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-5'
+QUESTION   : `How does the electrical energy being fired off when it is not supposed to affect the brain?'
+ANSWER     : `causes epileptic seizures'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `causes epileptic seizures'
+      and Resp `As a result, the affected brain cells malfunction, and fire off electrical energy when they are not supposed to.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/19)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-6'
+QUESTION   : `Which side of Amber's brain was affected by Rasmussen's disease?'
+ANSWER     : `the left side'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the left side'
+      and Resp `Rasmussen's disease is a very rare form of brain disease that can occur at any time in childhood.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-7'
+QUESTION   : `What might happen to Amber as a result of the surgery?'
+ANSWER     : `she might be unable to talk | the surgery could leave Amber without the ability to talk'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `she might be unable to talk'
+      and Resp `, so the surgery could leave Amber without the ability to talk.'
+
+Comparing Key  `the surgery could leave Amber without the ability to talk'
+      and Resp `, so the surgery could leave Amber without the ability to talk.'
+
+=> Best match in answer key is:
+   `the surgery could leave Amber without the ability to talk'
+
+Recall    = 1.00 (10/10)
+Precision = 0.91 (10/11)
+F-measure = 0.95
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-4-8'
+QUESTION   : `On whom is a hemispherectomy usually performed?'
+ANSWER     : `on younger patients'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `on younger patients'
+      and Resp `Amber'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-1-1'
+QUESTION   : `Why is the round goby dangerous?'
+ANSWER     : `because it leaves almost no food for other fish'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `because it leaves almost no food for other fish'
+      and Resp `The round goby is about the size of a sardine.'
+
+Recall    = 0.00 (0/9)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-1-2'
+QUESTION   : `Who is warning people in Ontario about the round goby?'
+ANSWER     : `Environment Canada | The Fisheries and Oceans Department'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Environment Canada'
+      and Resp `Canada'
+
+Comparing Key  `The Fisheries and Oceans Department'
+      and Resp `Canada'
+
+=> Best match in answer key is:
+   `Environment Canada'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-1-3'
+QUESTION   : `What does the round goby eat?'
+ANSWER     : `the eggs and young of the sport fish'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the eggs and young of the sport fish'
+      and Resp `The round goby also has the advantage of being able to feed right through the night.'
+
+Recall    = 0.38 (3/8)
+Precision = 0.19 (3/16)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-1-4'
+QUESTION   : `When can the round goby feed due to its special sensors?'
+ANSWER     : `right through the night | at night'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `right through the night'
+      and Resp `the night'
+
+Comparing Key  `at night'
+      and Resp `the night'
+
+=> Best match in answer key is:
+   `right through the night'
+
+Recall    = 0.50 (2/4)
+Precision = 1.00 (2/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-1-5'
+QUESTION   : `Where did the round goby come from?'
+ANSWER     : `the Black Sea'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Black Sea'
+      and Resp `the Black Sea'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-1-6'
+QUESTION   : `How did the round goby likely get to Canadian waters?'
+ANSWER     : `in water held in the bottom of a boat'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in water held in the bottom of a boat'
+      and Resp `The round goby came from the Black Sea, likely in water held in the bottom of a boat.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.50 (9/18)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-1-7'
+QUESTION   : `What should be people clean off their boats to keep the round goby from moving into new waters?'
+ANSWER     : `plants | plants that might have small goby in them'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `plants'
+      and Resp `The officials hope these measures will keep the round goby from taking over the waterways of central Canada.'
+
+Comparing Key  `plants that might have small goby in them'
+      and Resp `The officials hope these measures will keep the round goby from taking over the waterways of central Canada.'
+
+=> Best match in answer key is:
+   `plants that might have small goby in them'
+
+Recall    = 0.12 (1/8)
+Precision = 0.06 (1/18)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-1'
+QUESTION   : `Where were elections for premier held?'
+ANSWER     : `Nova Scotia | in Nova Scotia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Nova Scotia'
+      and Resp `Nova Scotia'
+
+Comparing Key  `in Nova Scotia'
+      and Resp `Nova Scotia'
+
+=> Best match in answer key is:
+   `Nova Scotia'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-2'
+QUESTION   : `Who is Russell MacLellan?'
+ANSWER     : `the leader of the Liberal Party'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the leader of the Liberal Party'
+      and Resp `Liberal'
+
+Recall    = 0.17 (1/6)
+Precision = 1.00 (1/1)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-3'
+QUESTION   : `How many seats in the legislature did the Progressive Conservatives win in the election?'
+ANSWER     : `29'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `29'
+      and Resp `29 12'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-4'
+QUESTION   : `What does it mean to have a minority government?'
+ANSWER     : `no one party had more than half the seats in the legislature | no one party has more than half the seats in the legislature'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `no one party had more than half the seats in the legislature'
+      and Resp `When the government is defeated on a major bill, like one that is about money, it means the legislature has lost confidence in them.'
+
+Comparing Key  `no one party has more than half the seats in the legislature'
+      and Resp `When the government is defeated on a major bill, like one that is about money, it means the legislature has lost confidence in them.'
+
+=> Best match in answer key is:
+   `no one party has more than half the seats in the legislature'
+
+Recall    = 0.50 (6/12)
+Precision = 0.25 (6/24)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-5'
+QUESTION   : `How did the PC party place in the last election?'
+ANSWER     : `third'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `third'
+      and Resp `The party placed third in the last election.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.12 (1/8)
+F-measure = 0.22
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-6'
+QUESTION   : `By when has Hamm promised to cut people's taxes?'
+ANSWER     : `within three years'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `within three years'
+      and Resp `three years'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-7'
+QUESTION   : `Why was Russell MacLellan forced to call an election?'
+ANSWER     : `the other parties voted against his budget'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the other parties voted against his budget'
+      and Resp `Liberal leader Russell MacLellan was forced to call the election after the other parties voted against his budget.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.39 (7/18)
+F-measure = 0.56
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-8'
+QUESTION   : `What does it mean when the government is defeated on a major bill?'
+ANSWER     : `the legislature has lost confidence in them'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the legislature has lost confidence in them'
+      and Resp `When the government is defeated on a major bill, like one that is about money, it means the legislature has lost confidence in them.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.29 (7/24)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-3-9'
+QUESTION   : `What must a premier do when there is a vote of non-confidence?'
+ANSWER     : `either quit or call a new election'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `either quit or call a new election'
+      and Resp `This vote of non-confidence means the premier must either quit, or call a new election.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.47 (7/15)
+F-measure = 0.64
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-1'
+QUESTION   : `What was Eugene Shoemaker's lifelong wish?'
+ANSWER     : `to go to the moon'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `to go to the moon'
+      and Resp `Eugene Shoemaker may finally fulfill his lifelong wish to go to the moon.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.38 (5/13)
+F-measure = 0.56
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-2'
+QUESTION   : `How big is the container holding Shoemaker's ashes?'
+ANSWER     : `lipstick-sized'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `lipstick-sized'
+      and Resp `about 20 800'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-3'
+QUESTION   : `Where is the Lunar Prospector supposed to crash-land?'
+ANSWER     : `the moon | the south pole of the moon'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the moon'
+      and Resp `the moon early Saturday morning'
+
+Comparing Key  `the south pole of the moon'
+      and Resp `the moon early Saturday morning'
+
+=> Best match in answer key is:
+   `the moon'
+
+Recall    = 1.00 (2/2)
+Precision = 0.40 (2/5)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-4'
+QUESTION   : `What is NASA hoping the Lunar Prospector will create when it crash-lands?'
+ANSWER     : `a plume of water which will be visible from Earth with a telescope | a plume of water'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a plume of water which will be visible from Earth with a telescope'
+      and Resp `NASA is hopeful that the impact of Prospector's crash into the moon will create a plume of water which will be visible from Earth with a telescope.'
+
+Comparing Key  `a plume of water'
+      and Resp `NASA is hopeful that the impact of Prospector's crash into the moon will create a plume of water which will be visible from Earth with a telescope.'
+
+=> Best match in answer key is:
+   `a plume of water which will be visible from Earth with a telescope'
+
+Recall    = 1.00 (13/13)
+Precision = 0.48 (13/27)
+F-measure = 0.65
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-5'
+QUESTION   : `On what was Shoemaker considered an authority?'
+ANSWER     : `craters and the collisions that cause them'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `craters and the collisions that cause them'
+      and Resp `He was considered an authority on craters and the collisions that cause them.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.54 (7/13)
+F-measure = 0.70
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-6'
+QUESTION   : `How many comets is Shoemaker credited with discovering?'
+ANSWER     : `about 20'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 20'
+      and Resp `about 20 800'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-7'
+QUESTION   : `When did Shoemaker discover the comet Shoemaker-Levy 9?'
+ANSWER     : `1994 | in 1994'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1994'
+      and Resp `1994'
+
+Comparing Key  `in 1994'
+      and Resp `1994'
+
+=> Best match in answer key is:
+   `1994'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-8'
+QUESTION   : `What did Shoemaker-Levy 9 slam into?'
+ANSWER     : `Jupiter'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Jupiter'
+      and Resp `Shoemaker gained worldwide fame in 1994, when he helped discover the comet Shoemaker-Levy 9.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-9'
+QUESTION   : `Whom did Shoemaker teach about craters?'
+ANSWER     : `Apollo astronauts'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Apollo astronauts'
+      and Resp `Apollo'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-10'
+QUESTION   : `Why was Eugene Shoemaker rejected for astronaut training?'
+ANSWER     : `because of a medical problem | a medical problem'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `because of a medical problem'
+      and Resp `He applied to be an astronaut in the 1960s, but was rejected because of a medical problem.'
+
+Comparing Key  `a medical problem'
+      and Resp `He applied to be an astronaut in the 1960s, but was rejected because of a medical problem.'
+
+=> Best match in answer key is:
+   `because of a medical problem'
+
+Recall    = 1.00 (5/5)
+Precision = 0.29 (5/17)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-5-11'
+QUESTION   : `What was Eugene Shoemaker's biggest disappointment in his life?'
+ANSWER     : `"not going to the moon and banging on it with my own hammer"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `"not going to the moon and banging on it with my own hammer"'
+      and Resp `Shoemaker said shortly before his death the biggest disappointment in his life was "not going to the moon and banging on it with my own hammer."'
+
+Recall    = 0.92 (12/13)
+Precision = 0.46 (12/26)
+F-measure = 0.62
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-1'
+QUESTION   : `Where was the third annual Robot World Cup Soccer tournament held?'
+ANSWER     : `Sweden'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Sweden'
+      and Resp `Sweden'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-2'
+QUESTION   : `How many robots play on each team?'
+ANSWER     : `five'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `five'
+      and Resp `five'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-3'
+QUESTION   : `How large are the soccer-playing robots?'
+ANSWER     : `about the size of a microwave oven | the size of a microwave oven'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `about the size of a microwave oven'
+      and Resp `The world may have to wait before people compete against human-sized robots in a soccer game, but on Wednesday fans got to see robots play soccer against each other.'
+
+Comparing Key  `the size of a microwave oven'
+      and Resp `The world may have to wait before people compete against human-sized robots in a soccer game, but on Wednesday fans got to see robots play soccer against each other.'
+
+=> Best match in answer key is:
+   `the size of a microwave oven'
+
+Recall    = 0.33 (2/6)
+Precision = 0.07 (2/29)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-4'
+QUESTION   : `What do the robots signal to each other?'
+ANSWER     : `how to play during the game'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `how to play during the game'
+      and Resp `They are programmed to send signals to each other on how to play during the game.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.38 (6/16)
+F-measure = 0.55
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-5'
+QUESTION   : `By when does the President of the RoboCup Federation want to have robots competing in soccer against humans?'
+ANSWER     : `the year 2050'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the year 2050'
+      and Resp `the year 2050'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-6'
+QUESTION   : `Who was defeated in a chess match by IBM's Deep Blue supercomputer?'
+ANSWER     : `Gary Kasparov | chess champion Gary Kasparov'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Gary Kasparov'
+      and Resp `Garry Kasparov'
+
+Comparing Key  `chess champion Gary Kasparov'
+      and Resp `Garry Kasparov'
+
+=> Best match in answer key is:
+   `Gary Kasparov'
+
+Recall    = 0.50 (1/2)
+Precision = 0.50 (1/2)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-8'
+QUESTION   : `How many teams competed in the third annual RoboCup tournament?'
+ANSWER     : `almost a hundred'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `almost a hundred'
+      and Resp `two'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-9'
+QUESTION   : `By 2002, who are expected to be competing in the RoboCup tournament?'
+ANSWER     : `teams of human-size robots with two legs that walk and kick a ball'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `teams of human-size robots with two legs that walk and kick a ball'
+      and Resp `the RoboCup Federation'
+
+Recall    = 0.00 (0/13)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-4-11'
+QUESTION   : `Where will the RoboCup tournament be held next year?'
+ANSWER     : `Australia | in Australia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Australia'
+      and Resp `Australia'
+
+Comparing Key  `in Australia'
+      and Resp `Australia'
+
+=> Best match in answer key is:
+   `Australia'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-1'
+QUESTION   : `Where did mudslides roar across part of the Trans-Canada highway?'
+ANSWER     : `near Banff, Alberta'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `near Banff, Alberta'
+      and Resp `Alberta'
+
+Recall    = 0.33 (1/3)
+Precision = 1.00 (1/1)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-2'
+QUESTION   : `What caused the mudslides?'
+ANSWER     : `heavy rains | heavy rains near the B.C.-Alberta border'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `heavy rains'
+      and Resp `Heavy rains near the B.C. - Alberta border caused the slides.'
+
+Comparing Key  `heavy rains near the B.C.-Alberta border'
+      and Resp `Heavy rains near the B.C. - Alberta border caused the slides.'
+
+=> Best match in answer key is:
+   `heavy rains near the B.C.-Alberta border'
+
+Recall    = 0.83 (5/6)
+Precision = 0.45 (5/11)
+F-measure = 0.59
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-3'
+QUESTION   : `How deep was the mud in some areas of the road?'
+ANSWER     : `one metre'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `one metre'
+      and Resp `The mud was one metre deep in some areas of the road, and at its height covered all four lanes of the divided highway.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.08 (2/24)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-4'
+QUESTION   : `How much of the Trans-Canada highway was covered by the mud at its height?'
+ANSWER     : `all four lanes'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `all four lanes'
+      and Resp `one metre four'
+
+Recall    = 0.33 (1/3)
+Precision = 0.33 (1/3)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-5'
+QUESTION   : `Who was able to re-open parts of the highway after many hours of work?'
+ANSWER     : `clean up crews'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `clean up crews'
+      and Resp `Mudslides Trans Canada Banff Alberta'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-6'
+QUESTION   : `When will traffic return to normal, according to Parks Canada?'
+ANSWER     : `in several days | several days'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in several days'
+      and Resp `several days'
+
+Comparing Key  `several days'
+      and Resp `several days'
+
+=> Best match in answer key is:
+   `several days'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-7'
+QUESTION   : `Where do mudslides often occur?'
+ANSWER     : `in steep and mountainous areas'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in steep and mountainous areas'
+      and Resp `Mudslides often occur in steep and mountainous areas.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.62 (5/8)
+F-measure = 0.77
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-8'
+QUESTION   : `What usually causes mudslides?'
+ANSWER     : `weakened land on hills and mountains'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `weakened land on hills and mountains'
+      and Resp `They are usually caused by weakened land on hills and mountains.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.55 (6/11)
+F-measure = 0.71
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-5-10'
+QUESTION   : `What can mudslides do when they start moving quickly?'
+ANSWER     : `pick up rocks, trees, houses and cars'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `pick up rocks, trees, houses and cars'
+      and Resp `Mudslides can move quickly and powerfully, picking up rocks, trees, houses and cars.'
+
+Recall    = 0.86 (6/7)
+Precision = 0.46 (6/13)
+F-measure = 0.60
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-1'
+QUESTION   : `For whom did the last solar eclipse of the millennium brighten the morning?'
+ANSWER     : `millions of people in Europe | people in Europe'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `millions of people in Europe'
+      and Resp `'
+
+Comparing Key  `people in Europe'
+      and Resp `'
+
+=> Best match in answer key is:
+   `millions of people in Europe'
+
+Recall    = 0.00 (0/5)
+Precision = N/A (0/0)
+F-measure = N/A
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-2'
+QUESTION   : `What causes a solar eclipse?'
+ANSWER     : `the moon passes between the Earth and the sun'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the moon passes between the Earth and the sun'
+      and Resp `What made this eclipse special is that it was a total eclipse, where the moon totally blocks the sun.'
+
+Recall    = 0.44 (4/9)
+Precision = 0.21 (4/19)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-3'
+QUESTION   : `Where did the path of the moon's shadow begin?'
+ANSWER     : `in the Atlantic'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in the Atlantic'
+      and Resp `Atlantic Europe Turkey Iran India'
+
+Recall    = 0.33 (1/3)
+Precision = 0.20 (1/5)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-4'
+QUESTION   : `What is a total eclipse?'
+ANSWER     : `the moon totally blocks the sun'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the moon totally blocks the sun'
+      and Resp `What made this eclipse special is that it was a total eclipse, where the moon totally blocks the sun.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.32 (6/19)
+F-measure = 0.48
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-5'
+QUESTION   : `How many times can an eclipse occur in one year?'
+ANSWER     : `seven'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `seven'
+      and Resp `seven'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-6'
+QUESTION   : `Why was this eclipse special?'
+ANSWER     : `it was a total eclipse'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `it was a total eclipse'
+      and Resp `What made this eclipse special is that it was a total eclipse, where the moon totally blocks the sun.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.26 (5/19)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-7'
+QUESTION   : `How long do total eclipses last?'
+ANSWER     : `a few minutes'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a few minutes'
+      and Resp `In twenty five years an astronomer who observed every total solar eclipse, would watch only about an hour of total eclipses.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/21)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-8'
+QUESTION   : `If an astronomer observed every total solar eclipse for twenty-five years, how much total eclipse time would he actually watch?'
+ANSWER     : `only about an hour of total eclipses | about an hour'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `only about an hour of total eclipses'
+      and Resp `In twenty five years an astronomer who observed every total solar eclipse, would watch only about an hour of total eclipses.'
+
+Comparing Key  `about an hour'
+      and Resp `In twenty five years an astronomer who observed every total solar eclipse, would watch only about an hour of total eclipses.'
+
+=> Best match in answer key is:
+   `only about an hour of total eclipses'
+
+Recall    = 1.00 (7/7)
+Precision = 0.33 (7/21)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-9'
+QUESTION   : `Where could a partial eclipse be seen?'
+ANSWER     : `Eastern Canada'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Eastern Canada'
+      and Resp `Eastern Canada'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-3-10'
+QUESTION   : `What is a partial eclipse?'
+ANSWER     : `the moon covers part, but not all of the sun'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the moon covers part, but not all of the sun'
+      and Resp `What made this eclipse special is that it was a total eclipse, where the moon totally blocks the sun.'
+
+Recall    = 0.40 (4/10)
+Precision = 0.21 (4/19)
+F-measure = 0.28
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-2'
+QUESTION   : `Who do town officials want to help clean up the harbour?'
+ANSWER     : `the federal and provincial governments'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the federal and provincial governments'
+      and Resp `Lunenburg UN World Heritage Site'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-3'
+QUESTION   : `Why do so many people want to visit Lunenberg?'
+ANSWER     : `because the town is a United Nations World Heritage Site'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because the town is a United Nations World Heritage Site'
+      and Resp `Many people come to visit Lunenburg because the town is a United Nations World Heritage Site.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.62 (10/16)
+F-measure = 0.77
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-4'
+QUESTION   : `When was the first International Fisherman's Trophy race held?'
+ANSWER     : `1920'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1920'
+      and Resp `1920'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-5'
+QUESTION   : `How did the International Fisherman's Trophy race start?'
+ANSWER     : `as a friendly competition between US and Canadian fishing schooners'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `as a friendly competition between US and Canadian fishing schooners'
+      and Resp `The first International Fisherman's Trophy race was in 1920.'
+
+Recall    = 0.00 (0/10)
+Precision = 0.00 (0/9)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-6'
+QUESTION   : `How many times did the Bluenose win the International Fisherman's Trophy race?'
+ANSWER     : `four'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `four'
+      and Resp `four'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-7'
+QUESTION   : `Where did the Bluenose sink?'
+ANSWER     : `in the Caribbean Sea'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in the Caribbean Sea'
+      and Resp `Lunenburg Harbour'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-8'
+QUESTION   : `Where has a picture of the Bluenose appeared since 1937?'
+ANSWER     : `on the tails side of Canadian dimes'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `on the tails side of Canadian dimes'
+      and Resp `Lunenburg Harbour'
+
+Recall    = 0.00 (0/7)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-9'
+QUESTION   : `What is the Bluenose II?'
+ANSWER     : `a replica of the original Bluenose'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a replica of the original Bluenose'
+      and Resp `The Bluenose II is a replica of the original Bluenose.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.60 (6/10)
+F-measure = 0.75
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W33-5-10'
+QUESTION   : `How much of the cleanup cost for Lunenberg Harbor does the mayor of Lunenberg want the federal and provincial governments to pay?'
+ANSWER     : `half'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `half'
+      and Resp `half'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-1'
+QUESTION   : `Where did the centre of the earthquake hit?'
+ANSWER     : `Izmit'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Izmit'
+      and Resp `Istanbul'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-2'
+QUESTION   : `What is the capital of Turkey?'
+ANSWER     : `Istanbul'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Istanbul'
+      and Resp `An powerful earthquake shook a densely populated part of western Turkey early Tuesday.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-3'
+QUESTION   : `When did the earthquake hit?'
+ANSWER     : `around 3 o'clock in the morning | early Tuesday'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `around 3 o'clock in the morning'
+      and Resp `about 3 o'clock in the morning'
+
+Comparing Key  `early Tuesday'
+      and Resp `about 3 o'clock in the morning'
+
+=> Best match in answer key is:
+   `around 3 o'clock in the morning'
+
+Recall    = 0.83 (5/6)
+Precision = 0.83 (5/6)
+F-measure = 0.83
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-4'
+QUESTION   : `Who spent hours digging through the rubble?'
+ANSWER     : `rescue workers'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `rescue workers'
+      and Resp `Canada Turkey'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-5'
+QUESTION   : `About how many people were reportedly injured by the earthquake?'
+ANSWER     : `at least 21,000'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `at least 21,000'
+      and Resp `more than 6,000 at least 21,000'
+
+Recall    = 1.00 (3/3)
+Precision = 0.50 (3/6)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-6'
+QUESTION   : `Why are earthquake victims being treated on the streets?'
+ANSWER     : `Turkish hospitals are overcrowded | Turkish hospitals can't take any more patients'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Turkish hospitals are overcrowded'
+      and Resp `As a result, many of the earthquake victims were being treated on the streets.'
+
+Comparing Key  `Turkish hospitals can't take any more patients'
+      and Resp `As a result, many of the earthquake victims were being treated on the streets.'
+
+=> Best match in answer key is:
+   `Turkish hospitals are overcrowded'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-7'
+QUESTION   : `What was the magnitude of the earthquake, according to the National Earthquake Information Centre in Colorado?'
+ANSWER     : `7.8'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `7.8'
+      and Resp `The earthquake had a magnitude of 7.8, according to the National Earthquake Information Centre in Colorado.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/16)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-8'
+QUESTION   : `What does earthquake magnitude measure?'
+ANSWER     : `the amount of energy released by an earthquake'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the amount of energy released by an earthquake'
+      and Resp `Magnitude measures the amount of energy released by an earthquake.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.80 (8/10)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-9'
+QUESTION   : `What are aftershocks?'
+ANSWER     : `vibrations that follow an earthquake'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `vibrations that follow an earthquake'
+      and Resp `An observatory in Istanbul said more than 250 aftershocks followed the first tremor.'
+
+Recall    = 0.20 (1/5)
+Precision = 0.08 (1/13)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W34-4-11'
+QUESTION   : `What are Canada's disaster assistance troops trained in?'
+ANSWER     : `communication and providing medical assistance'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `communication and providing medical assistance'
+      and Resp `The group is trained in communication and providing medical assistance.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.50 (5/10)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W35-5-2'
+QUESTION   : `What new question are Canadian pediatricians considering asking parents during a child's checkup?'
+ANSWER     : `How much television do your kids watch?'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `How much television do your kids watch?'
+      and Resp `A group representing Canadian pediatricians - doctors who specialize in treating children - may have a new question for parents when they take their children for a checkup: How much television do your kids watch?'
+
+Recall    = 1.00 (7/7)
+Precision = 0.20 (7/35)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W35-5-3'
+QUESTION   : `Why does the Canadian Pediatric Society want doctors to monitor how much time children are sitting in front of electronic screens?'
+ANSWER     : `because excessive and inappropriate exposure can harm a child's physical, mental and social skills'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `because excessive and inappropriate exposure can harm a child's physical, mental and social skills'
+      and Resp `The Canadian Pediatric Society wants doctors to monitor how much time children are sitting in front of electronic screens.'
+
+Recall    = 0.00 (0/14)
+Precision = 0.00 (0/19)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W35-5-4'
+QUESTION   : `How much time should school children spend watching TV each day?'
+ANSWER     : `no more than two hours'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `no more than two hours'
+      and Resp `At current Canadian rates, the average high school graduate will have spent more time watching TV than they did learning in a classroom.'
+
+Recall    = 0.40 (2/5)
+Precision = 0.09 (2/23)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W35-5-5'
+QUESTION   : `At their current viewing rates, who will spend more time watching TV than they will in the classroom?'
+ANSWER     : `the average high school graduate'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the average high school graduate'
+      and Resp `Canadian'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W35-5-6'
+QUESTION   : `According to pediatricians, there is a relationship between watching television and an increase in what kind of behaviour?'
+ANSWER     : `violent | violent behaviour'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `violent'
+      and Resp `But there is a relationship between watching television and an increase in violent behaviour.'
+
+Comparing Key  `violent behaviour'
+      and Resp `But there is a relationship between watching television and an increase in violent behaviour.'
+
+=> Best match in answer key is:
+   `violent behaviour'
+
+Recall    = 1.00 (2/2)
+Precision = 0.14 (2/14)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W35-5-7'
+QUESTION   : `When do pediatricians say the TV should be turned off?'
+ANSWER     : `during meal times'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `during meal times'
+      and Resp `one hour no more than two hours daily'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/8)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W35-5-9'
+QUESTION   : `How much time does the average Canadian kid spend watching television each week?'
+ANSWER     : `23 hours'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `23 hours'
+      and Resp `How much time does the average Canadian kid spend watching television each week?'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/13)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-2-3'
+QUESTION   : `What does Nunavut mean in the Inuktitut language of Canada's Inuit?'
+ANSWER     : `our land'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `our land'
+      and Resp `Nunavut means "our land" in the Inuktitut language of Canada's Inuit.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.18 (2/11)
+F-measure = 0.31
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-2-4'
+QUESTION   : `When did Nunavut became Canada's newest territory?'
+ANSWER     : `April 1 | April 1, 1999'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `April 1'
+      and Resp `April 1'
+
+Comparing Key  `April 1, 1999'
+      and Resp `April 1'
+
+=> Best match in answer key is:
+   `April 1'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-2-5'
+QUESTION   : `Where did President Chirac arrive in the Nunavut territory?'
+ANSWER     : `the Nunavut capital of Iqaluit | Iqaluit'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Nunavut capital of Iqaluit'
+      and Resp `Prime Minister Chretien, who was kept busy shaking hands with Nunavut residents, said President Chirac's visit was a boost for the territory.'
+
+Comparing Key  `Iqaluit'
+      and Resp `Prime Minister Chretien, who was kept busy shaking hands with Nunavut residents, said President Chirac's visit was a boost for the territory.'
+
+=> Best match in answer key is:
+   `the Nunavut capital of Iqaluit'
+
+Recall    = 0.40 (2/5)
+Precision = 0.09 (2/22)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-2-6'
+QUESTION   : `What are the Inuit in Nunavuk perfecting, according to French President Chirac?'
+ANSWER     : `"the art of living together in a spirit of peace and tolerance" | "the art of living together"'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `"the art of living together in a spirit of peace and tolerance"'
+      and Resp `"Here is a vast country, the land of the aboriginal people, the land of the Inuit, at once English and French speaking, that is perfecting the art of living together in a spirit of peace and tolerance."'
+
+Comparing Key  `"the art of living together"'
+      and Resp `"Here is a vast country, the land of the aboriginal people, the land of the Inuit, at once English and French speaking, that is perfecting the art of living together in a spirit of peace and tolerance."'
+
+=> Best match in answer key is:
+   `"the art of living together in a spirit of peace and tolerance"'
+
+Recall    = 0.92 (11/12)
+Precision = 0.30 (11/37)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-2-7'
+QUESTION   : `How much of the income in the Nunavut Territory comes from the art industry, according to Canadian Prime Minister Jean Chretien?'
+ANSWER     : `thirty per cent'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `thirty per cent'
+      and Resp `Thirty per cent'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-2-9'
+QUESTION   : `What site in Nunavut did President Chirat visit?'
+ANSWER     : `a community hall run by the Nunavut Francophone Association | a community hall'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a community hall run by the Nunavut Francophone Association'
+      and Resp `Prime Minister Chretien, who was kept busy shaking hands with Nunavut residents, said President Chirac's visit was a boost for the territory.'
+
+Comparing Key  `a community hall'
+      and Resp `Prime Minister Chretien, who was kept busy shaking hands with Nunavut residents, said President Chirac's visit was a boost for the territory.'
+
+=> Best match in answer key is:
+   `a community hall run by the Nunavut Francophone Association'
+
+Recall    = 0.33 (3/9)
+Precision = 0.14 (3/22)
+F-measure = 0.19
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-2-10'
+QUESTION   : `What did President Chirac open while he was in Nunavuk?'
+ANSWER     : `a virtual museum of Inuit art on the Internet'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a virtual museum of Inuit art on the Internet'
+      and Resp `Chirac visited a community hall run by the Nunavut Francophone Association, where he opened a virtual museum of Inuit art on the Internet, a project financed by the French government.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.30 (9/30)
+F-measure = 0.46
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-1'
+QUESTION   : `When did Adrienne Clarkson come to Canada as a refugee?'
+ANSWER     : `1942 | in 1942'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1942'
+      and Resp `1939 1942'
+
+Comparing Key  `in 1942'
+      and Resp `1939 1942'
+
+=> Best match in answer key is:
+   `1942'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-2'
+QUESTION   : `Where was Adrienne Clarkson born?'
+ANSWER     : `in Hong Kong | Hong Kong'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in Hong Kong'
+      and Resp `Clarkson Hong Kong Canada'
+
+Comparing Key  `Hong Kong'
+      and Resp `Clarkson Hong Kong Canada'
+
+=> Best match in answer key is:
+   `Hong Kong'
+
+Recall    = 1.00 (2/2)
+Precision = 0.50 (2/4)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-3'
+QUESTION   : `What does Adrienne Clarkson call her appointment as Canada's governor general?'
+ANSWER     : `a sign of Canadian evolution'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a sign of Canadian evolution'
+      and Resp `Adrienne Clarkson calls it a sign of Canadian evolution.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.56 (5/9)
+F-measure = 0.71
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-4'
+QUESTION   : `When does Clarkson replace the current governor general?'
+ANSWER     : `Oct. 7 | October 7, 1999'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Oct. 7'
+      and Resp `the summer'
+
+Comparing Key  `October 7, 1999'
+      and Resp `the summer'
+
+=> Best match in answer key is:
+   `Oct. 7'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-5'
+QUESTION   : `What kind of role does Clarkson plan to play in Canadian unity?'
+ANSWER     : `active yet sensible'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `active yet sensible'
+      and Resp `She says she plans to play an active, yet sensible role in Canadian unity.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.21 (3/14)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-6'
+QUESTION   : `How does Clarkson plan to use the governor general's Quebec City residence, the Citadel?'
+ANSWER     : `more often'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `more often'
+      and Resp `For example, Clarkson says, she and her husband, author John Ralston Saul, plan to use the governor general's Quebec City residence, the Citadel, more often.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.08 (2/25)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-7'
+QUESTION   : `Who is Adrienne Clarkson replacing as governor general?'
+ANSWER     : `Romeo LeBlanc'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Romeo LeBlanc'
+      and Resp `Clarkson Jean Chretien Romeo LeBlanc'
+
+Recall    = 1.00 (2/2)
+Precision = 0.40 (2/5)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-9'
+QUESTION   : `What did Adrienne Clarkson do during her career on CBC-TV?'
+ANSWER     : `she was a high-profile interviewer and host'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `she was a high-profile interviewer and host'
+      and Resp `Clarkson, who lives in Toronto, is best known for her career with CBC-TV, where she was a high-profile interviewer and host for three decades.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.29 (7/24)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W37-4-10'
+QUESTION   : `How many public appearances does Canada's governor general make each year?'
+ANSWER     : `more than 300'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `more than 300'
+      and Resp `more than 300'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-1'
+QUESTION   : `How many soldiers is Canada sending to East Timor?'
+ANSWER     : `as many as 600'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `as many as 600'
+      and Resp `as many as 600'
+
+Recall    = 1.00 (4/4)
+Precision = 1.00 (4/4)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-2'
+QUESTION   : `Where is the island of East Timor?'
+ANSWER     : `between Indonesia and Australia'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `between Indonesia and Australia'
+      and Resp `Dili'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-3'
+QUESTION   : `When did the eastern half of East Timor vote to become independent from Indonesia?'
+ANSWER     : `two weeks ago'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `two weeks ago'
+      and Resp `Two weeks ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-4'
+QUESTION   : `Who has launched violent attacks in East Timor since the independence vote?'
+ANSWER     : `the Indonesian army and local military groups who oppose independence'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the Indonesian army and local military groups who oppose independence'
+      and Resp `Indonesian'
+
+Recall    = 0.10 (1/10)
+Precision = 1.00 (1/1)
+F-measure = 0.18
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-5'
+QUESTION   : `What is the capital city of East Timor?'
+ANSWER     : `Dili'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Dili'
+      and Resp `The East Timor capitol city of Dili has been turned into a burning, looted ghost town.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/16)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-7'
+QUESTION   : `Who pressured Habibie to change his mind about allowing peacekeeping troops into Indonesia?'
+ANSWER     : `governments and human rights activists from around the world | governments and human rights activists'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `governments and human rights activists from around the world'
+      and Resp `Indonesian B.J. Habibie United Nations'
+
+Comparing Key  `governments and human rights activists'
+      and Resp `Indonesian B.J. Habibie United Nations'
+
+=> Best match in answer key is:
+   `governments and human rights activists from around the world'
+
+Recall    = 0.00 (0/9)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-8'
+QUESTION   : `When does Prime Minister Chretien expect Canada to have troops in East Timor?'
+ANSWER     : `within 30 days'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `within 30 days'
+      and Resp `30 days'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-9'
+QUESTION   : `How many peacekeeping troops does Canada now have in 22 nations around the world?'
+ANSWER     : `about 3,900 | 3,900'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 3,900'
+      and Resp `about 3,900 22'
+
+Comparing Key  `3,900'
+      and Resp `about 3,900 22'
+
+=> Best match in answer key is:
+   `about 3,900'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W38-1-10'
+QUESTION   : `What are U.N. peacekeeping troops doing in war-torn Kosovo?'
+ANSWER     : `making sure that the people are protected from violence'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `making sure that the people are protected from violence'
+      and Resp `The peacekeeping troops are making sure that the people living in war-torn Kosovo are protected from violence.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.53 (9/17)
+F-measure = 0.69
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-1'
+QUESTION   : `Why are francophones in the Northwest Territories angry?'
+ANSWER     : `they say their rights are being ignored | their rights are being ignored'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they say their rights are being ignored'
+      and Resp `So angry, in fact, that the association representing francophones in the Northwest Territories will be taking the territorial and federal governments to court.'
+
+Comparing Key  `their rights are being ignored'
+      and Resp `So angry, in fact, that the association representing francophones in the Northwest Territories will be taking the territorial and federal governments to court.'
+
+=> Best match in answer key is:
+   `they say their rights are being ignored'
+
+Recall    = 0.00 (0/7)
+Precision = 0.00 (0/23)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-2'
+QUESTION   : `What do francophones say their territorial government is not respecting?'
+ANSWER     : `its own language law'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `its own language law'
+      and Resp `They say the territorial government isn't respecting its own language law.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.36 (4/11)
+F-measure = 0.53
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-3'
+QUESTION   : `How many people in the Northwest Territories speak French?'
+ANSWER     : `a couple of thousand'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a couple of thousand'
+      and Resp `a couple of thousand about 2 every 100'
+
+Recall    = 1.00 (4/4)
+Precision = 0.50 (4/8)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-4'
+QUESTION   : `Who is Andre Legare?'
+ANSWER     : `president of the federation | president of the federation representing francophones in the Northwest Territories'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `president of the federation'
+      and Resp `NWT'
+
+Comparing Key  `president of the federation representing francophones in the Northwest Territories'
+      and Resp `NWT'
+
+=> Best match in answer key is:
+   `president of the federation'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-5'
+QUESTION   : `What percentage of documents requested from the territorial government in French were unavailable, according to a one-day survey?'
+ANSWER     : `75 per cent'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `75 per cent'
+      and Resp `The federation found that 75 per cent of the documents it had requested from the territorial government in French were unavailable.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.14 (3/21)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-6'
+QUESTION   : `Where did the survey report come from?'
+ANSWER     : `the NWT language commissioner | the language commissioner'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the NWT language commissioner'
+      and Resp `NWT'
+
+Comparing Key  `the language commissioner'
+      and Resp `NWT'
+
+=> Best match in answer key is:
+   `the NWT language commissioner'
+
+Recall    = 0.25 (1/4)
+Precision = 1.00 (1/1)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-7'
+QUESTION   : `When will the case be presented to the territorial Supreme Court?'
+ANSWER     : `next month | October, 1999'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `next month'
+      and Resp `next month'
+
+Comparing Key  `October, 1999'
+      and Resp `next month'
+
+=> Best match in answer key is:
+   `next month'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-1-8'
+QUESTION   : `In addition to the Northwest Territories, where is the federal government responsible for ensuring the equality of French and English, according to Roger LePage?'
+ANSWER     : `in  Nunavut and in the Yukon | Nunavut and the Yukon'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in  Nunavut and in the Yukon'
+      and Resp `Nunavut Yukon'
+
+Comparing Key  `Nunavut and the Yukon'
+      and Resp `Nunavut Yukon'
+
+=> Best match in answer key is:
+   `Nunavut and the Yukon'
+
+Recall    = 0.50 (2/4)
+Precision = 1.00 (2/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-1'
+QUESTION   : `How many tries did it take New Democratic Party leader Gary Doer to become premier of Manitoba?'
+ANSWER     : `four'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `four'
+      and Resp `four'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-2'
+QUESTION   : `What has Conservative party leader Gary Filmon announced?'
+ANSWER     : `he will now retire from politics'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `he will now retire from politics'
+      and Resp `After 11 long years as opposition leader, Doer finally beat Conservative party leader Gary Filmon in yesterday's election.'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-4'
+QUESTION   : `What has Doer promised to get rid of?'
+ANSWER     : `hallway medicine'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `hallway medicine'
+      and Resp `He promised to get rid of what has become known as "hallway medicine.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.15 (2/13)
+F-measure = 0.27
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-5'
+QUESTION   : `How many seats has the NDP officially won?'
+ANSWER     : `31'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `31'
+      and Resp `one 31'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-6'
+QUESTION   : `Where will a recount take place?'
+ANSWER     : `in the suburban Winnipeg riding of Assiniboia | Assiniboia'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in the suburban Winnipeg riding of Assiniboia'
+      and Resp `Winnipeg Assiniboia NDP'
+
+Comparing Key  `Assiniboia'
+      and Resp `Winnipeg Assiniboia NDP'
+
+=> Best match in answer key is:
+   `Assiniboia'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-7'
+QUESTION   : `Who defeated the NDP's Jim Rondeau by 3 votes?'
+ANSWER     : `Tory Linda McIntosh'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Tory Linda McIntosh'
+      and Resp `Winnipeg Assiniboia Tory Linda'
+
+Recall    = 0.67 (2/3)
+Precision = 0.50 (2/4)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-8'
+QUESTION   : `What per cent of the popular vote did the NDP take?'
+ANSWER     : `45'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `45'
+      and Resp `The NDP took about 45 per cent of the popular vote last night, the largest share the party has won since Howard Pawley swept Conservative leader Sterling Lyon out of power in 1981.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.03 (1/33)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-3-9'
+QUESTION   : `When did Howard Pawley sweep Conservative leader Sterling Lyon out of power?'
+ANSWER     : `in 1981 | 1981'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in 1981'
+      and Resp `last night 1981'
+
+Comparing Key  `1981'
+      and Resp `last night 1981'
+
+=> Best match in answer key is:
+   `1981'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-5-1'
+QUESTION   : `Why were the students protesting?'
+ANSWER     : `the lack of extra-curricular activities in schools'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the lack of extra-curricular activities in schools'
+      and Resp `They are protesting the lack of extra-curricular activities in schools.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.70 (7/10)
+F-measure = 0.82
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-5-3'
+QUESTION   : `How are Montreal teachers pressuring the provincial government?'
+ANSWER     : `by refusing to do any activities that are not paid'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `by refusing to do any activities that are not paid'
+      and Resp `Montreal teachers are in contract discussions with the provincial government.'
+
+Recall    = 0.10 (1/10)
+Precision = 0.10 (1/10)
+F-measure = 0.10
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-5-4'
+QUESTION   : `How large a fine do the students who are arrested face?'
+ANSWER     : `$100'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `$100'
+      and Resp `The students who were arrested face $100 fines.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.12 (1/8)
+F-measure = 0.22
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-5-5'
+QUESTION   : `Who says the disorganized protests are becoming dangerous?'
+ANSWER     : `deputy police director Serge Meloche'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `deputy police director Serge Meloche'
+      and Resp `Serge Meloche'
+
+Recall    = 0.40 (2/5)
+Precision = 1.00 (2/2)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-5-6'
+QUESTION   : `When did students begin to take to the streets of Quebec to express their frustrations?'
+ANSWER     : `during the past few days'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `during the past few days'
+      and Resp `the past few days'
+
+Recall    = 0.80 (4/5)
+Precision = 1.00 (4/4)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-5-7'
+QUESTION   : `What did police get pelted with during the demonstrations?'
+ANSWER     : `rocks and garbage'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `rocks and garbage'
+      and Resp `"Windows of stores were broken, car windows were also broken," says Montreal police spokesman Michel Fontaine, who added that police were also pelted with rocks and garbage.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.11 (3/27)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W39-5-8'
+QUESTION   : `Where did students rove?'
+ANSWER     : `between two east-end high schools'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `between two east-end high schools'
+      and Resp `The students roved between two east-end high schools and drew between 300 and 400 students at the demonstration's peak.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.26 (5/19)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-1'
+QUESTION   : `Where did the two trains collide?'
+ANSWER     : `three kilometres west of London's Paddington Station'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `three kilometres west of London's Paddington Station'
+      and Resp `British Broadcasting Corporation'
+
+Recall    = 0.00 (0/7)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-2'
+QUESTION   : `At what time did the trains collide?'
+ANSWER     : `8:11 a.m.'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `8:11 a.m.'
+      and Resp `The trains collided at 8:11 a.m., three kilometres west of London's Paddington Station.'
+
+Recall    = 0.50 (1/2)
+Precision = 0.08 (1/13)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-3'
+QUESTION   : `Who said the initial investigation suggests one of the trains passed warning signals before hitting the other?'
+ANSWER     : `a British Broadcasting System reporter'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a British Broadcasting System reporter'
+      and Resp `British Broadcasting Corporation'
+
+Recall    = 0.40 (2/5)
+Precision = 0.67 (2/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-4'
+QUESTION   : `Why did rescue workers pick through the wreckage?'
+ANSWER     : `trying to account for missing passengers'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `trying to account for missing passengers'
+      and Resp `Rescue workers picked through the wreckage, trying to account for missing passengers.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.50 (6/12)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-5'
+QUESTION   : `What companies operate the trains involved in the crash?'
+ANSWER     : `Great Western and Thames Trains'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Great Western and Thames Trains'
+      and Resp `Great Western and Thames Trains are the companies that operate the two trains involved in the crash.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.29 (5/17)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-6'
+QUESTION   : `How many people might have been on the Great Western train?'
+ANSWER     : `as many as 500'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `as many as 500'
+      and Resp `as many as 500'
+
+Recall    = 1.00 (4/4)
+Precision = 1.00 (4/4)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-7'
+QUESTION   : `Where did the Great Western train originate from?'
+ANSWER     : `Cheltenham | Cheltenham, northwest of London'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Cheltenham'
+      and Resp `Thames'
+
+Comparing Key  `Cheltenham, northwest of London'
+      and Resp `Thames'
+
+=> Best match in answer key is:
+   `Cheltenham'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-8'
+QUESTION   : `How fast were the two trains going when they hit one another?'
+ANSWER     : `about 100 km/h'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 100 km/h'
+      and Resp `one one two'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-3-9'
+QUESTION   : `What is a way of daily life for many people in London and the surrounding communities?'
+ANSWER     : `rail travel'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `rail travel'
+      and Resp `Rail travel is a way of daily life for many people in London and its surrounding communities.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.12 (2/17)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-1'
+QUESTION   : `Who delivered the Oath of Office to Adrienne Clarkson?'
+ANSWER     : `Supreme Court of Canada Justice Claire L'Heureux Dube'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Supreme Court of Canada Justice Claire L'Heureux Dube'
+      and Resp `the Oath of Allegiance the Oath of Office and Oath of Keeper of the Great Seal of Canada'
+
+Recall    = 0.25 (2/8)
+Precision = 0.11 (2/18)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-2'
+QUESTION   : `Where did the swearing-in of Ms. Clarkson take place?'
+ANSWER     : `Ottawa | in front of Supreme Court of Canada'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Ottawa'
+      and Resp `the Oath of Office Supreme Court of Canada'
+
+Comparing Key  `in front of Supreme Court of Canada'
+      and Resp `the Oath of Office Supreme Court of Canada'
+
+=> Best match in answer key is:
+   `in front of Supreme Court of Canada'
+
+Recall    = 0.71 (5/7)
+Precision = 0.62 (5/8)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-3'
+QUESTION   : `While in office, what title does Ms. Clarkson assume?'
+ANSWER     : `Excellency'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Excellency'
+      and Resp `The Governor General formally takes office once the oaths have been sworn and assumes the title "Excellency" while in office, and the lifetime title of "Right Honourable".'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/27)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-5'
+QUESTION   : `Who did Ms. Clarkson praise during her speech?'
+ANSWER     : `her 92-year-old father and her mother'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `her 92-year-old father and her mother'
+      and Resp `John Ralston Saul Canada'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-6'
+QUESTION   : `When did Ms. Clarkson's family arrive in Canada?'
+ANSWER     : `1942'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1942'
+      and Resp `1942'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-8'
+QUESTION   : `How did Ms. Clarkson say her teachers treated her?'
+ANSWER     : `"as bright, not bright yellow"'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `"as bright, not bright yellow"'
+      and Resp `Ms. Clarkson also thanked teachers whom she said treated her as "bright, not bright yellow."'
+
+Recall    = 0.80 (4/5)
+Precision = 0.27 (4/15)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-9'
+QUESTION   : `As Governor General, who does Ms. Clarkson represent?'
+ANSWER     : `the Queen of England'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Queen of England'
+      and Resp `the Queen of England Canada'
+
+Recall    = 1.00 (4/4)
+Precision = 0.80 (4/5)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W41-5-10'
+QUESTION   : `As Governor General, Ms. Clarkson presides over the swearing-in of what Canadian officials?'
+ANSWER     : `the Prime Minister, the Chief Justice of Canada and cabinet ministers'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the Prime Minister, the Chief Justice of Canada and cabinet ministers'
+      and Resp `As Governor General, Ms. Clarkson represents the Queen of England, who is the legal head of the Canada.'
+
+Recall    = 0.36 (4/11)
+Precision = 0.22 (4/18)
+F-measure = 0.28
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-1'
+QUESTION   : `What is the Youth News Network?'
+ANSWER     : `a news show that airs in some Canadian schools'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a news show that airs in some Canadian schools'
+      and Resp `The Youth News Network, a news show that airs in some Canadian schools, is in trouble in Manitoba.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.50 (9/18)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-2'
+QUESTION   : `Why does YNN give schools free equipment like televisions and computers?'
+ANSWER     : `to make sure it has an audience for its commercial news service'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to make sure it has an audience for its commercial news service'
+      and Resp `YNN is a private company that gives schools free equipment - like televisions and computers - to make sure it has an audience for its commercial news service.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.43 (12/28)
+F-measure = 0.60
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-3'
+QUESTION   : `How does YNN make a profit?'
+ANSWER     : `by selling advertising space'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `by selling advertising space'
+      and Resp `YNN is a private company that gives schools free equipment - like televisions and computers - to make sure it has an audience for its commercial news service.'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/28)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-4'
+QUESTION   : `How many minutes of commercials are in YNN's 12-minute daily feature?'
+ANSWER     : `two and one-half | two and one-half minutes'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `two and one-half'
+      and Resp `20'
+
+Comparing Key  `two and one-half minutes'
+      and Resp `20'
+
+=> Best match in answer key is:
+   `two and one-half'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-6'
+QUESTION   : `Who said, "We will not have commercials and products being sold in the classrooms"?'
+ANSWER     : `Education Minister Drew Caldwell'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Education Minister Drew Caldwell'
+      and Resp `Education Drew Caldwell'
+
+Recall    = 0.75 (3/4)
+Precision = 1.00 (3/3)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-7'
+QUESTION   : `What company runs YNN?'
+ANSWER     : `Montreal-based Athena Educational Partners | Athena Educational Partners'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Montreal-based Athena Educational Partners'
+      and Resp `Within a couple of months, Athena had scaled back its plans and instead decided on a six-month trial run in 20 schools beginning in October.'
+
+Comparing Key  `Athena Educational Partners'
+      and Resp `Within a couple of months, Athena had scaled back its plans and instead decided on a six-month trial run in 20 schools beginning in October.'
+
+=> Best match in answer key is:
+   `Athena Educational Partners'
+
+Recall    = 0.33 (1/3)
+Precision = 0.04 (1/25)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-8'
+QUESTION   : `Which provinces rejected the idea of having YNN in the classrooms?'
+ANSWER     : `British Columbia, Nova Scotia and New Brunswick'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `British Columbia, Nova Scotia and New Brunswick'
+      and Resp `British Columbia, Nova Scotia and New Brunswick rejected the idea.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.70 (7/10)
+F-measure = 0.82
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W43-5-9'
+QUESTION   : `On what basis did eight schools in Manitoba agree to show the YNN program?'
+ANSWER     : `on a six-month trial basis'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `on a six-month trial basis'
+      and Resp `Eight schools in Manitoba agreed to show the program on a six-month trial basis.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.36 (5/14)
+F-measure = 0.53
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-1'
+QUESTION   : `Where did Susan Aglukark's family eventually settle?'
+ANSWER     : `Arviat, Northwest Territories'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Arviat, Northwest Territories'
+      and Resp `Northwest Territories Hudson Bay'
+
+Recall    = 0.67 (2/3)
+Precision = 0.50 (2/4)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-2'
+QUESTION   : `Who donated the pizza and the $10,000 cheque to Inuksuk High School?'
+ANSWER     : `the Canadian Academy of Recording Arts and Sciences'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the Canadian Academy of Recording Arts and Sciences'
+      and Resp `Iqaluit Susan Aglukark'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-3'
+QUESTION   : `Why did Canadian singer Susan Aglukark make a special appearance at Inuksuk High School?'
+ANSWER     : `to present officials with a $10,000 cheque for the purchase of music instruments'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to present officials with a $10,000 cheque for the purchase of music instruments'
+      and Resp `Students at Iqaluit's Inuksuk High School are celebrating the revival of their music program with singer Susan Aglukark, pizza and a $10,000 cheque today.'
+
+Recall    = 0.54 (7/13)
+Precision = 0.29 (7/24)
+F-measure = 0.38
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-4'
+QUESTION   : `How long has Inuksuk High School been without a music program?'
+ANSWER     : `about 10 years'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 10 years'
+      and Resp `Students at Iqaluit's Inuksuk High School are celebrating the revival of their music program with singer Susan Aglukark, pizza and a $10,000 cheque today.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/24)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-5'
+QUESTION   : `Who should the music society and school provide instruments for, according to Ryan MacLeod?'
+ANSWER     : `for some students where food and shelter is a more pressing concern'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `for some students where food and shelter is a more pressing concern'
+      and Resp `MacLeod'
+
+Recall    = 0.00 (0/12)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-6'
+QUESTION   : `When did the new musical instruments begin arriving at the high school?'
+ANSWER     : `at the beginning of the school year'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `at the beginning of the school year'
+      and Resp `The instruments arrived at the beginning of the school year.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.70 (7/10)
+F-measure = 0.82
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-7'
+QUESTION   : `What proportion of the school's population is enrolled in music classes at Inuksuk?'
+ANSWER     : `about a quarter'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `about a quarter'
+      and Resp `About 90 students, or a quarter of the school's population, are enrolled in music classes at Inuksuk.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.18 (3/17)
+F-measure = 0.30
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-8'
+QUESTION   : `How many students commonly share a single musical instrument?'
+ANSWER     : `two or three'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `two or three'
+      and Resp `two three'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W45-5-9'
+QUESTION   : `Who will be able to use the school's instruments?'
+ANSWER     : `the music society'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the music society'
+      and Resp `MacLeod'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-2'
+QUESTION   : `Where in China did the woman come from?'
+ANSWER     : `Fujian province'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Fujian province'
+      and Resp `The woman also says her family received a notice that she'll be sterilized so she can't have any more babies if she returns to China.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/25)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-3'
+QUESTION   : `Why can't the woman be identified by name?'
+ANSWER     : `because of a legal order'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `because of a legal order'
+      and Resp `The Chinese woman can't be identified because of a legal order, but it seems her claim to be accepted as a refugee to Canada may succeed where the claims of 32 people who arrived with her have failed.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.13 (5/38)
+F-measure = 0.23
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-4'
+QUESTION   : `How many other people arrived in Canada with the woman?'
+ANSWER     : `32'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `32'
+      and Resp `32'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-5'
+QUESTION   : `What will happen to the Chinese people whose requests for refugee status fail?'
+ANSWER     : `they will be sent back to China'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they will be sent back to China'
+      and Resp `The Chinese woman can't be identified because of a legal order, but it seems her claim to be accepted as a refugee to Canada may succeed where the claims of 32 people who arrived with her have failed.'
+
+Recall    = 0.29 (2/7)
+Precision = 0.05 (2/38)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-6'
+QUESTION   : `When did the woman get pregnant for the second time?'
+ANSWER     : `seven years ago'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `seven years ago'
+      and Resp `seven years ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-7'
+QUESTION   : `How many children are Chinese couples allowed to have?'
+ANSWER     : `one'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `one'
+      and Resp `32'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-9'
+QUESTION   : `What will happen to the woman if she returns to China?'
+ANSWER     : `she will be sterilized'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `she will be sterilized'
+      and Resp `The woman also says her family received a notice that she'll be sterilized so she can't have any more babies if she returns to China.'
+
+Recall    = 0.75 (3/4)
+Precision = 0.12 (3/25)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W47-5-11'
+QUESTION   : `Who is Larry Smeets?'
+ANSWER     : `the lawyer representing the Chinese woman from Fujian'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the lawyer representing the Chinese woman from Fujian'
+      and Resp `the Federal Court of Appeal Canada'
+
+Recall    = 0.12 (1/8)
+Precision = 0.17 (1/6)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W49-5-1'
+QUESTION   : `What about Mars made skywatchers in ancient Greece and Rome think of their god of war?'
+ANSWER     : `the planet's fiery red hue'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the planet's fiery red hue'
+      and Resp `In ancient Greece and Rome, the planet's fiery red hue made skywatchers think of their god of war.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.28 (5/18)
+F-measure = 0.43
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W49-5-3'
+QUESTION   : `How is the Polar Lander being navigated?'
+ANSWER     : `by radio signals from the Jet Propulsion Laboratory'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `by radio signals from the Jet Propulsion Laboratory'
+      and Resp `The American space ship is being navigated by radio signals from the Jet Propulsion Laboratory.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.53 (8/15)
+F-measure = 0.70
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W49-5-4'
+QUESTION   : `Who first proposed including a microphone on a spacecraft sent to Mars?'
+ANSWER     : `astronomer Carl Sagan'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `astronomer Carl Sagan'
+      and Resp `NASA Carl Sagan'
+
+Recall    = 0.67 (2/3)
+Precision = 0.67 (2/3)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W49-5-5'
+QUESTION   : `What are scientists afraid the costly mission could do?'
+ANSWER     : `hit a rock or lose contact with NASA scientists back home'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `hit a rock or lose contact with NASA scientists back home'
+      and Resp `There are fears that the costly mission could hit a rock or lose contact with NASA scientists back home.'
+
+Recall    = 1.00 (11/11)
+Precision = 0.58 (11/19)
+F-measure = 0.73
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W49-5-6'
+QUESTION   : `Where on Mars do scientists know there is frozen water?'
+ANSWER     : `in its northern ice cap'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in its northern ice cap'
+      and Resp `Frozen water exists on Mars in its northern ice cap.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.50 (5/10)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W49-5-8'
+QUESTION   : `Where on Mars do scientists think there may be more water?'
+ANSWER     : `underground'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `underground'
+      and Resp `Frozen water exists on Mars in its northern ice cap.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W49-5-10'
+QUESTION   : `What can the Polar Lander's instruments not detect?'
+ANSWER     : `fossils or living organisms'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `fossils or living organisms'
+      and Resp `Any answers from the probe would help focus future missions searching for past or present life, which is dependent on water, though the Lander's instruments cannot detect fossils or living organisms.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.13 (4/31)
+F-measure = 0.23
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-1'
+QUESTION   : `What kind of lawsuit was filed against Sarah McLachlan?'
+ANSWER     : `copyight'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `copyight'
+      and Resp `A Vancouver, British Columbia, judge has thrown out a copyright lawsuit against Canadian pop singer Sarah McLachlan.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/17)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-2'
+QUESTION   : `How did McLachlan feel about the suit being thrown out?'
+ANSWER     : `very relieved'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `very relieved'
+      and Resp `A Vancouver, British Columbia, judge has thrown out a copyright lawsuit against Canadian pop singer Sarah McLachlan.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/17)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-3'
+QUESTION   : `Who dismissed the lawsuit?'
+ANSWER     : `British Columbia Supreme Court Justice Bruce Cohen'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `British Columbia Supreme Court Justice Bruce Cohen'
+      and Resp `British Columbia Supreme Court Bruce Cohen Darryl Neudorf'
+
+Recall    = 0.86 (6/7)
+Precision = 0.75 (6/8)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-5'
+QUESTION   : `Where did McLachlan move from?'
+ANSWER     : `Halifax, Nova Scotia'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Halifax, Nova Scotia'
+      and Resp `Neudorf Vancouver Halifax Nova Scotia'
+
+Recall    = 1.00 (3/3)
+Precision = 0.60 (3/5)
+F-measure = 0.75
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-6'
+QUESTION   : `Why was Bruce Neudorf hired, according to McLachlan?'
+ANSWER     : `to help McLachlan pursue a career as a recording artist | to do pre-production work'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to help McLachlan pursue a career as a recording artist'
+      and Resp `McLachlan and the other defendants rejected Neudorf's claims, suggesting he was not hired to write songs, but rather to do pre-production work.'
+
+Comparing Key  `to do pre-production work'
+      and Resp `McLachlan and the other defendants rejected Neudorf's claims, suggesting he was not hired to write songs, but rather to do pre-production work.'
+
+=> Best match in answer key is:
+   `to do pre-production work'
+
+Recall    = 1.00 (4/4)
+Precision = 0.18 (4/22)
+F-measure = 0.31
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-7'
+QUESTION   : `What did Neudorf claim he did not receive from McLachlan?'
+ANSWER     : `proper royalties for producing "Touch"'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `proper royalties for producing "Touch"'
+      and Resp `McLachlan and the other defendants rejected Neudorf's claims, suggesting he was not hired to write songs, but rather to do pre-production work.'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/22)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-8'
+QUESTION   : `How many copies of the album "Touch" were sold?'
+ANSWER     : `625,000'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `625,000'
+      and Resp `more than 625,000'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-9'
+QUESTION   : `What concert series did McLachlan mastermind?'
+ANSWER     : `Lilith Fair'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Lilith Fair'
+      and Resp `McLachlan's lawyer Jennifer Conkie said the performer - the mastermind of the popular Lilith Fair concert series that toured North America - is "very, very pleased and relieved."'
+
+Recall    = 1.00 (2/2)
+Precision = 0.07 (2/28)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W51-1-10'
+QUESTION   : `What did McLachlan occasionally do during the trial?'
+ANSWER     : `sang and played keyboard | sang and played keyboard before the court staff'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `sang and played keyboard'
+      and Resp `During the trial, McLachlan occasionally sang and played a keyboard before court staff, reporters and teenaged fans to illustrate how songs are put together.'
+
+Comparing Key  `sang and played keyboard before the court staff'
+      and Resp `During the trial, McLachlan occasionally sang and played a keyboard before court staff, reporters and teenaged fans to illustrate how songs are put together.'
+
+=> Best match in answer key is:
+   `sang and played keyboard before the court staff'
+
+Recall    = 1.00 (8/8)
+Precision = 0.33 (8/24)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-3-1'
+QUESTION   : `Where has the Newfoundland government found tap water contaminated?'
+ANSWER     : `in 63 communities'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in 63 communities'
+      and Resp `The Newfoundland government has found that the tap water in 63 communities is contaminated.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.21 (3/14)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-3-2'
+QUESTION   : `How are trihalomethanes formed?'
+ANSWER     : `when tiny amounts of chlorine are added to drinking water'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `when tiny amounts of chlorine are added to drinking water'
+      and Resp `They are formed when tiny amounts of chlorine are added to drinking water.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.77 (10/13)
+F-measure = 0.87
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-3-3'
+QUESTION   : `Which towns face the danger of THMs in drinking water?'
+ANSWER     : `mainly small towns that can't afford expensive water filtration systems'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `mainly small towns that can't afford expensive water filtration systems'
+      and Resp `The danger of trihalomethanes in drinking water is faced mainly by small towns that can't afford expensive water filtration systems.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.50 (10/20)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-3-4'
+QUESTION   : `Why do microbiological organisms have to be removed from water?'
+ANSWER     : `to prevent the outbreak of diseases such as typhoid fever and cholera'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to prevent the outbreak of diseases such as typhoid fever and cholera'
+      and Resp `First, almost all sources of water contain microbiological organisms which have to be removed to prevent the outbreak of diseases such as typhoid fever and cholera.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.46 (12/26)
+F-measure = 0.63
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-3-8'
+QUESTION   : `According to Fogo town manager Bruce Pomeroy, when should the government have made everyone aware if there were risks from THMs?'
+ANSWER     : `two years ago'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `two years ago'
+      and Resp `two years ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-3-9'
+QUESTION   : `If water is left in an opened container for 24 hours, what happens to many of the chemicals?'
+ANSWER     : `they evaporate | evaporate'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `they evaporate'
+      and Resp `You can leave water in an open container for 24 hours, and many of the chemicals will evaporate.'
+
+Comparing Key  `evaporate'
+      and Resp `You can leave water in an open container for 24 hours, and many of the chemicals will evaporate.'
+
+=> Best match in answer key is:
+   `evaporate'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/18)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-3-10'
+QUESTION   : `What does charcoal do to chemicals in water?'
+ANSWER     : `absorbs them'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `absorbs them'
+      and Resp `You can leave water in an open container for 24 hours, and many of the chemicals will evaporate.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-5-1'
+QUESTION   : `When did reports of a crisis on Canadian farms first become national news?'
+ANSWER     : `the Fall of 1998 | 1998'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Fall of 1998'
+      and Resp `1998'
+
+Comparing Key  `1998'
+      and Resp `1998'
+
+=> Best match in answer key is:
+   `1998'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-5-2'
+QUESTION   : `Where is the Family Farm Tribute concert being held?'
+ANSWER     : `Toronto | Toronto, Canada'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Toronto'
+      and Resp `CBC The Family Farm Tribute'
+
+Comparing Key  `Toronto, Canada'
+      and Resp `CBC The Family Farm Tribute'
+
+=> Best match in answer key is:
+   `Toronto'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-5-3'
+QUESTION   : `What is the Family Farm Tribute concert meant to do?'
+ANSWER     : `open people's eyes to the growing farm crisis in Canada'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `open people's eyes to the growing farm crisis in Canada'
+      and Resp `The concert is meant to open people's eyes to the growing farm crisis in Canada.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.67 (10/15)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-5-5'
+QUESTION   : `What two things will the Family Farm Tribute concert achieve, according to organizer Dennis Mills?'
+ANSWER     : `it will bring rural problems to the attention of an urban audience, and it will show the country that Toronto cares'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `it will bring rural problems to the attention of an urban audience, and it will show the country that Toronto cares'
+      and Resp `He says the concert will achieve two things.'
+
+Recall    = 0.10 (2/21)
+Precision = 0.25 (2/8)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W02-5-8'
+QUESTION   : `Who is meeting in Ottawa, Ontario, to work out a new aid package for cash-strapped farmers?'
+ANSWER     : `Federal Agriculture Minister Lyle Vanclief and his provincial counterparts'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Federal Agriculture Minister Lyle Vanclief and his provincial counterparts'
+      and Resp `Federal Agriculture Lyle Vanclief'
+
+Recall    = 0.44 (4/9)
+Precision = 1.00 (4/4)
+F-measure = 0.62
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-1'
+QUESTION   : `Who did John Morris Rankin play for?'
+ANSWER     : `the Rankins |  the former Celtic group the Rankins'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the Rankins'
+      and Resp `Cape Breton'
+
+Comparing Key  `the former Celtic group the Rankins'
+      and Resp `Cape Breton'
+
+=> Best match in answer key is:
+   `the Rankins'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-2'
+QUESTION   : `How many records did his musical group sell?'
+ANSWER     : `more than two million'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `more than two million'
+      and Resp `five more than two million five'
+
+Recall    = 1.00 (4/4)
+Precision = 0.67 (4/6)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-3'
+QUESTION   : `What is hypothermia?'
+ANSWER     : `when one's body temperature drops abnormally low'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `when one's body temperature drops abnormally low'
+      and Resp `Morris Green of Nova Scotia Emergency Health Services said one of the teenagers was being treated for hypothermia -- when one's body temperature drops abnormally low -- and the other two appeared to be OK.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.20 (7/35)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-4'
+QUESTION   : `When did John Morris Rankin tell the teenagers to jump out of the truck?'
+ANSWER     : `as the truck skidded towards the water'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `as the truck skidded towards the water'
+      and Resp `Family friend Emily Butler said it appeared that Rankin told the teens to jump out of the truck as it skidded towards the water.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.29 (7/24)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-5'
+QUESTION   : `Where was Jimmy Rankin when he heard the news of his brother's death?'
+ANSWER     : `a Farm Aid concert in Toronto | a Farm Aid concert| Toronto'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a Farm Aid concert in Toronto'
+      and Resp `Prairie Oyster'
+
+Comparing Key  `a Farm Aid concert'
+      and Resp `Prairie Oyster'
+
+Comparing Key  `Toronto'
+      and Resp `Prairie Oyster'
+
+=> Best match in answer key is:
+   `a Farm Aid concert in Toronto'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-6'
+QUESTION   : `What musical instruments did John Morris Rankin play?'
+ANSWER     : `fiddle and piano | keyboard and fiddle'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `fiddle and piano'
+      and Resp `John Morris Rankin played fiddle and piano with the popular musical family from Cape Breton.'
+
+Comparing Key  `keyboard and fiddle'
+      and Resp `John Morris Rankin played fiddle and piano with the popular musical family from Cape Breton.'
+
+=> Best match in answer key is:
+   `fiddle and piano'
+
+Recall    = 1.00 (3/3)
+Precision = 0.20 (3/15)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-7'
+QUESTION   : `How old is Molly Rankin?'
+ANSWER     : `13'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `13'
+      and Resp `13'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-8'
+QUESTION   : `Who is the lead vocalist of Prairie Oyster?'
+ANSWER     : `Russell De Carle'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Russell De Carle'
+      and Resp `Family Russell De Carle'
+
+Recall    = 1.00 (3/3)
+Precision = 0.75 (3/4)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-9'
+QUESTION   : `Who is Denis Ryan?'
+ANSWER     : `friend of the Rankin family | musician | someone who played music with Rankin in the mid '80s.'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `friend of the Rankin family'
+      and Resp `Family Nova Scotia'
+
+Comparing Key  `musician'
+      and Resp `Family Nova Scotia'
+
+Comparing Key  `someone who played music with Rankin in the mid '80s.'
+      and Resp `Family Nova Scotia'
+
+=> Best match in answer key is:
+   `friend of the Rankin family'
+
+Recall    = 0.20 (1/5)
+Precision = 0.33 (1/3)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-1-10'
+QUESTION   : `Why did Rankin's musical group break up?'
+ANSWER     : `so its members could pursue independent careers and interests'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `so its members could pursue independent careers and interests'
+      and Resp `The group broke up last summer so its members could pursue independent careers and interests.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.60 (9/15)
+F-measure = 0.75
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-1'
+QUESTION   : `When was the Polar Lander supposed to have landed?'
+ANSWER     : `December 3, 1999'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `December 3, 1999'
+      and Resp `December 3 90-day'
+
+Recall    = 0.67 (2/3)
+Precision = 0.67 (2/3)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-2'
+QUESTION   : `Who is the Polar Lander's project manager?'
+ANSWER     : `Richard Cook'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Richard Cook'
+      and Resp `Richard Cook NASA Jet Propulsion Laboratory'
+
+Recall    = 1.00 (2/2)
+Precision = 0.33 (2/6)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-3'
+QUESTION   : `Where on Mars was the spacecaft supposed to touch down?'
+ANSWER     : `near Mars' south pole'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `near Mars' south pole'
+      and Resp `The Mars Polar Lander was on a mission to Mars to study its atmosphere and search for water, something that could help scientists determine whether life ever existed on Mars.'
+
+Recall    = 0.25 (1/4)
+Precision = 0.03 (1/30)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-4'
+QUESTION   : `What did the Mars Global Surveyor do?'
+ANSWER     : `took high-resolution images of the planned Polar Lander landing site | searched for signs of the lander'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `took high-resolution images of the planned Polar Lander landing site'
+      and Resp `The Mars Polar Lander was on a mission to Mars to study its atmosphere and search for water, something that could help scientists determine whether life ever existed on Mars.'
+
+Comparing Key  `searched for signs of the lander'
+      and Resp `The Mars Polar Lander was on a mission to Mars to study its atmosphere and search for water, something that could help scientists determine whether life ever existed on Mars.'
+
+=> Best match in answer key is:
+   `searched for signs of the lander'
+
+Recall    = 0.50 (3/6)
+Precision = 0.10 (3/30)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-5'
+QUESTION   : `What was the mission of the Mars Polar Lander?'
+ANSWER     : `study Mars' atmosphere and search for water'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `study Mars' atmosphere and search for water'
+      and Resp `The Mars Polar Lander was on a mission to Mars to study its atmosphere and search for water, something that could help scientists determine whether life ever existed on Mars.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.23 (7/30)
+F-measure = 0.38
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-7'
+QUESTION   : `How much did the Polar Lander mission cost?'
+ANSWER     : `more than $200 million dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `more than $200 million dollars'
+      and Resp `more than $200 million dollars'
+
+Recall    = 1.00 (5/5)
+Precision = 1.00 (5/5)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-8'
+QUESTION   : `How much did the Polar Lander weigh?'
+ANSWER     : `576 kilograms'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `576 kilograms'
+      and Resp `1.06 metres 3.6 metres'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-9'
+QUESTION   : `What part of next year's mission might be cancelled?'
+ANSWER     : `the lander'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the lander'
+      and Resp `Another lander and orbiter are scheduled to launch next year, but at least part of the mission is now in doubt.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.10 (2/21)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-2-11'
+QUESTION   : `How many legs did the Mars Polar Lander have?'
+ANSWER     : `three'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `three'
+      and Resp `1.06 metres 3.6 metres'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-2'
+QUESTION   : `Where will the money come from that the government gives to the hockey teams'
+ANSWER     : `taxpayers'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `taxpayers'
+      and Resp `Montreal Ottawa Toronto Calgary Edmonton Vancouver'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-3'
+QUESTION   : `Why did Canadian hockey teams threaten to move to America?'
+ANSWER     : `they were going broke | business is better in America | money'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `they were going broke'
+      and Resp `They have threatened to move to the United States - where they say business is better - unless the government helps them out.'
+
+Comparing Key  `business is better in America'
+      and Resp `They have threatened to move to the United States - where they say business is better - unless the government helps them out.'
+
+Comparing Key  `money'
+      and Resp `They have threatened to move to the United States - where they say business is better - unless the government helps them out.'
+
+=> Best match in answer key is:
+   `business is better in America'
+
+Recall    = 0.60 (3/5)
+Precision = 0.13 (3/23)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-4'
+QUESTION   : `How much does the average Canadian NHL player make in a season?'
+ANSWER     : `1.3 million dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1.3 million dollars'
+      and Resp `1.3 million dollars'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-5'
+QUESTION   : `What is Pavel Bure's occupation?'
+ANSWER     : `hockey player'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `hockey player'
+      and Resp `He says that it is not fair that millionaire hockey players like Turner Stevenson and Pavel Bure are getting help while hundreds of Olympic athletes have to scramble every month just to pay their bills.'
+
+Recall    = 0.50 (1/2)
+Precision = 0.03 (1/35)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-6'
+QUESTION   : `What is a subsidy?'
+ANSWER     : `money given to help someone out'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `money given to help someone out'
+      and Resp `Other groups are equally upset.'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-7'
+QUESTION   : `What is Glenroy Gilbert doing in Texas?'
+ANSWER     : `training for the Sydney Olympics'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `training for the Sydney Olympics'
+      and Resp `"I've been doing this for 13 or 14 years, running on the national team and we've been forced to live on from $450 a month to $810 a month," Gilbert said from Austin, Texas, where he is training for the Sydney Olympics. "'
+
+Recall    = 1.00 (5/5)
+Precision = 0.12 (5/42)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-8'
+QUESTION   : `Who is the Manitoba Agriculture Minister?'
+ANSWER     : `Rosann Wowchuk'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Rosann Wowchuk'
+      and Resp `Manitoba Rosann Wowchuk Ottawa'
+
+Recall    = 1.00 (2/2)
+Precision = 0.50 (2/4)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-9'
+QUESTION   : `What does Frank Gilbert think about giving money to NHL teams?'
+ANSWER     : `It's fine, as long as the poor are taken care of first.'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `It's fine, as long as the poor are taken care of first.'
+      and Resp `The Federal government plan to give the teams money will last four years.'
+
+Recall    = 0.08 (1/12)
+Precision = 0.08 (1/13)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-3-10'
+QUESTION   : `When will the government subsidy plan end?'
+ANSWER     : `in four years'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `in four years'
+      and Resp `last four years'
+
+Recall    = 0.67 (2/3)
+Precision = 0.67 (2/3)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-1'
+QUESTION   : `Why did some members of the Hindu religion destroy the sets for the movie, Water, by Deepa Mehta?'
+ANSWER     : `they accuse Mehta of insulting Hindu traditions'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they accuse Mehta of insulting Hindu traditions'
+      and Resp `On Sunday, some members of the Hindu religion destroyed the sets for her latest  film, Water.'
+
+Recall    = 0.29 (2/7)
+Precision = 0.12 (2/16)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-2'
+QUESTION   : `What are the other two films in Mehta's trilogy?'
+ANSWER     : `Earth and Fire'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Earth and Fire'
+      and Resp `Her other two films were entitled Earth and Fire.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.33 (3/9)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-3'
+QUESTION   : `From whom did Mehta obtain permission to shoot the film Water?'
+ANSWER     : `the Indian federal Information and Broadcasting Ministry and the government of the state where the film is being shot'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the Indian federal Information and Broadcasting Ministry and the government of the state where the film is being shot'
+      and Resp `Indian Information and Broadcasting Ministry'
+
+Recall    = 0.26 (5/19)
+Precision = 1.00 (5/5)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-4'
+QUESTION   : `What are fundamentalists?'
+ANSWER     : `strongly religious people who refuse anything that disagrees with their faith'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `strongly religious people who refuse anything that disagrees with their faith'
+      and Resp `But after the attack by fundamentalists (strongly religious people who refuse anything that disagrees with their faith), Indian government authorities withdrew their permission to shoot the film in Varanasi.'
+
+Recall    = 0.91 (10/11)
+Precision = 0.34 (10/29)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-5'
+QUESTION   : `Where was the film Water being shot?'
+ANSWER     : `Varanasi'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Varanasi'
+      and Resp `Information and Broadcasting Ministry'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-6'
+QUESTION   : `How much money did the attack cost the production of the movie?'
+ANSWER     : `about a million dollars'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about a million dollars'
+      and Resp `about a million dollars'
+
+Recall    = 1.00 (4/4)
+Precision = 1.00 (4/4)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-7'
+QUESTION   : `What was Mehta's film, Fire, about?'
+ANSWER     : `the relationship of two women caught in unhappy marriages'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the relationship of two women caught in unhappy marriages'
+      and Resp `Last year, Mehta's film, Fire, was pulled from theatres in India after violent protests by Hindu nationalists.'
+
+Recall    = 0.11 (1/9)
+Precision = 0.06 (1/17)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-8'
+QUESTION   : `When was India partitioned?'
+ANSWER     : `1947'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1947'
+      and Resp `1947'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W05-4-9'
+QUESTION   : `Who organized huge protests that forced the British to hand over power?'
+ANSWER     : `Mahatma Ghandi'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Mahatma Ghandi'
+      and Resp `Mahatma Gandhi Britain'
+
+Recall    = 0.50 (1/2)
+Precision = 0.33 (1/3)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-1'
+QUESTION   : `Where is Ross Watson a town councillor?'
+ANSWER     : `Cochrane, Alberta'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Cochrane, Alberta'
+      and Resp `Cochrane Alberta Canada'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-2'
+QUESTION   : `Whom does Watson plan to join on a journey to the top of the 5,945-metre Mount Logan?'
+ANSWER     : `six other climbers'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `six other climbers'
+      and Resp `the Yukon Territory'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-3'
+QUESTION   : `Where is Mt. Logan?'
+ANSWER     : `in the Yukon Territory | Yukon Territory'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in the Yukon Territory'
+      and Resp `Mount Logan the Yukon Territory'
+
+Comparing Key  `Yukon Territory'
+      and Resp `Mount Logan the Yukon Territory'
+
+=> Best match in answer key is:
+   `in the Yukon Territory'
+
+Recall    = 0.75 (3/4)
+Precision = 0.60 (3/5)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-4'
+QUESTION   : `How does Watson describe himself as a climber?'
+ANSWER     : `as a "scrambler"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `as a "scrambler"'
+      and Resp `Watson is a big fan of the outdoors who describes himself as a "scrambler"  when it comes to climbing.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.16 (3/19)
+F-measure = 0.27
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-5'
+QUESTION   : `What does Watson say is more of a challenge in climbing than his blindness?'
+ANSWER     : `his lack of technical climbing ability'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `his lack of technical climbing ability'
+      and Resp `The 49-year-old Watson, who lost his vision from a pellet gun at the age of  12, says his lack of technical climbing ability is more of a challenge than his  blindness.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.19 (6/31)
+F-measure = 0.32
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-6'
+QUESTION   : `When was Watson part of a team that attempted to climb Mt. McKinley?'
+ANSWER     : `ten years ago'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `ten years ago'
+      and Resp `Ten years ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-7'
+QUESTION   : `Why do sighted people get scared when they are climbing, according to one of Watson's fellow climbers?'
+ANSWER     : `"When (sighted people) are climbing, we look down and we get scared because the wrong messages are rolling through our head"'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `"When (sighted people) are climbing, we look down and we get scared because the wrong messages are rolling through our head"'
+      and Resp `"I have to quote one of my fellow climbers who said, 'When (sighted people)'
+
+Recall    = 0.14 (3/21)
+Precision = 0.21 (3/14)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-8'
+QUESTION   : `When did Watson lose his sight?'
+ANSWER     : `at age 12'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `at age 12'
+      and Resp `the age of  12'
+
+Recall    = 0.67 (2/3)
+Precision = 0.50 (2/4)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-9'
+QUESTION   : `How did Watson lose his vision?'
+ANSWER     : `from a pellet gun'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `from a pellet gun'
+      and Resp `The 49-year-old Watson, who lost his vision from a pellet gun at the age of  12, says his lack of technical climbing ability is more of a challenge than his  blindness.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.13 (4/31)
+F-measure = 0.23
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-5-10'
+QUESTION   : `What other mountain would Watson like to climb after Mt. Logan?'
+ANSWER     : `Mt. Everest'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Mt. Everest'
+      and Resp `Watson plans to join a team of six other climbers this May on a journey to  the top of the 5,945-metre Mount Logan in the Yukon Territory.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/27)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-1'
+QUESTION   : `What party does Joerg Haider lead in Austria?'
+ANSWER     : `Freedom Party'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Freedom Party'
+      and Resp `In an interview published in Montreal's The Gazette, Haider said he and the Freedom Party he leads are being unfairly demonized as neo-fascists by his opponents.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.08 (2/26)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-2'
+QUESTION   : `Where did Haider fly out of?'
+ANSWER     : `Montreal, Quebec's Dorval airport | Montreal'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Montreal, Quebec's Dorval airport'
+      and Resp `Montreal'
+
+Comparing Key  `Montreal'
+      and Resp `Montreal'
+
+=> Best match in answer key is:
+   `Montreal'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-3'
+QUESTION   : `What is Haider accused of being?'
+ANSWER     : `a Nazi sympathizer'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a Nazi sympathizer'
+      and Resp `Haider is accused of being a Nazi sympathizer.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.38 (3/8)
+F-measure = 0.55
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-5'
+QUESTION   : `Who condemned Haider's visit to Canada?'
+ANSWER     : `Jewish and human rights groups in Canada and the United States'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Jewish and human rights groups in Canada and the United States'
+      and Resp `Jewish the United States'
+
+Recall    = 0.36 (4/11)
+Precision = 1.00 (4/4)
+F-measure = 0.53
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-6'
+QUESTION   : `According to Rabbi Marvin Hier, why had Haider had flown to Canada?'
+ANSWER     : `to try to attend the wedding of a well known Hasidic leader's relative'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `to try to attend the wedding of a well known Hasidic leader's relative'
+      and Resp `Rabbi Marvin Hier said he understood Haider had flown to Montreal to try to attend the wedding of a well known Hasidic leader's relative on Wednesday evening.'
+
+Recall    = 1.00 (13/13)
+Precision = 0.48 (13/27)
+F-measure = 0.65
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-7'
+QUESTION   : `Why are Hasidic Jews the most visible members of the Jewish community?'
+ANSWER     : `because even their clothes reflect their beliefs'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `because even their clothes reflect their beliefs'
+      and Resp `They are the most visible members of the Jewish community because even their clothes reflect their beliefs.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.41 (7/17)
+F-measure = 0.58
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-8'
+QUESTION   : `How many families are in the Tash Hasidic community in a suburb of Montreal?'
+ANSWER     : `300'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `300'
+      and Resp `300'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W07-5-9'
+QUESTION   : `Where was Haider photographed playfully juggling a snowball?'
+ANSWER     : `at the memorial to Raoul Wallenberg'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `at the memorial to Raoul Wallenberg'
+      and Resp `Haider was also photographed playfully juggling a snowball at the city's memorial to Raoul Wallenberg, a European hero who saved many Jews during the holocaust.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.24 (6/25)
+F-measure = 0.39
+
+
+
+Finished processing 313 questions, 312 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.6123  (191.66 / 313)
+AVERAGE PRECISION = 0.3839  (119.77 / 312)
+AVERAGE F-MEASURE = 0.4719
+
+*************************************************************************

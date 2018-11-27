@@ -78,7 +78,7 @@ class Story:
                                    [doc[c.left_edge.i: c.right_edge.i + 1].text for word in sentence if word.dep_ in ('ROOT')
                                     for c in word.children],
                                    [doc[w.left_edge.i: w.right_edge.i + 1].text
-                                    for w in sentence if w.pos is 'NOUN'],
+                                    for w in sentence if w.pos_ is 'NOUN'],
                                    [token.lemma_ for token in sentence],
                                    [set(str(chunk).split()) for chunk in list(sentence.noun_chunks)],
                                    [(ent.text, ent.label_)   for ent   in sentence.ents],

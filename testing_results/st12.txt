@@ -1,0 +1,11 @@
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.5569  (70.73 / 127)
+AVERAGE PRECISION = 0.4092  (51.56 / 126)
+AVERAGE F-MEASURE = 0.4718
+
+*************************************************************************
+
+With Naive why splitting and right subtree what selection.
