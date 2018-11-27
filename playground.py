@@ -1,5 +1,6 @@
 import nltk
 from nltk.corpus import wordnet as wn
+from nltk import Tree
 
 import spacy
 from spacy.tokens import Span
@@ -35,6 +36,29 @@ def spacyTest():
     # for chunk in doc.noun_chunks:
     #     print(chunk.text, chunk.root.text, chunk.root.dep_,
     #           chunk.root.head.text)
+
+def dParse(q):
+        nlp = spacy.load('en_core_web_sm')
+        doc = nlp(unicode(q))
+        for token in doc:
+                if(str(token) != '\n'):
+                        print(str(token),str(token.dep_))
+        print("")
+
+def printTree(q):
+        en_nlp = spacy.load('en_core_web_sm')
+        doc = en_nlp(unicode(q))
+        [to_nltk_tree(sent.root).pretty_print() for sent in doc.sents]
+        dParse(q)
+
+def to_nltk_tree(node):
+    if node.n_lefts + node.n_rights > 0:
+        return Tree(node.orth_, [to_nltk_tree(child) for child in node.children])
+    else:
+        return node.orth_
+
+
+
 #
 #     print("* * * NER[word,start_i,end_i,label] * * *")
 #     for ent in doc.ents:
@@ -52,14 +76,7 @@ def spacyTest():
 
 # sysnset("bag")
 
-spacyTest()
-# nlp = spacy.load('en_core_web_sm')
-# for q in sys.stdin:
-#    doc = nlp(unicode(q))
-#    for token in doc:
-#       if(str(token) != '\n'):
-#           print(str(token),str(token.dep_))
-#    print("")
+#spacyTest()
 
 # avg = 0
 # count = 0

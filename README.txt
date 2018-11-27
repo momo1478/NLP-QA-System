@@ -66,3 +66,7 @@ Checkpoint 2: Goals
     answers (shorter or longer responses)
 - Co-reference resolution
 - Difficult Question types (WHAT, HOW, WHY)
+
+Things to look at tomorrow :
+-for 3 hard QTypes : dobj and everything after
+-root and subroot matching as seen online
