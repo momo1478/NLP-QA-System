@@ -76,16 +76,16 @@ class Story:
 
         self.sentences = [Sentence(sentence.text,
                                    [doc[w.left_edge.i: w.right_edge.i + 1].text
-                                    for w in sentence if w.dep_ in ('advcl', 'xcomp')],
+                                    for w in sentence if w.pos_ is 'VERB' and w.dep_ is not 'ROOT'],
                                    [doc[w.left_edge.i: w.right_edge.i + 1].text
-                                    for w in sentence if w.dep_ in ('acl', 'nmod')],
+                                    for w in sentence if w.pos is 'NOUN'],
                                    [token.lemma_ for token in sentence],
                                    [set(str(chunk).split()) for chunk in list(sentence.noun_chunks)],
                                    [(ent.text, ent.label_)   for ent   in sentence.ents],
                                    set({}))
                           for sentence in list(doc.sents)]
 
-        self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
+        self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_, ent.start, ent.end) for ent in doc.ents]
         self.tags = [((token.text,
                        token.lemma_,
                        token.pos_,
@@ -112,6 +112,15 @@ class Story:
                     verb_pool = verb_pool.union(set(sleep))
         return verb_pool
 
+
+    def __simple_coreference(self):
+        # HE, SHE, HIM, HER, HIS, HERS, HIMSELF, HERSELF -> PERSON
+        PRONOUNS = ['he', 'she', 'him', 'her', 'his', 'hers', 'himself', 'herself']
+        # THEIR, THEY, THEM, THEIRSELVES, THEMSELVES -> NER_WHO
+        BROAD_PRONOUNS = ['their', 'they', 'them', 'theirselves', 'themselves']
+        # IT, ITSELF -> 'NORP', 'ORG', 'GPE', 'PRODUCT', 'WORK_OF_ART', 'EVENT'
+        OBJECT_PRONOUNS = ['it', 'itself']
+        return
 
 # TODO: decide if we want an inner class for sentence representation
 class Sentence:

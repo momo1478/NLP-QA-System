@@ -33,6 +33,9 @@ import spacy
 # Make sure that your answer set has been generated using the same input file and Q_TYPE_RUN
 Q_TYPE_RUN = ['ALL']
 
+# WHAT/WHICH <noun> looking for more specific example?
+# WHAT <to be> <NP>? how useful?
+
 WORD_WEIGHT = 1
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 4
@@ -58,10 +61,6 @@ NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
 
 # Words to use when splitting WHY responses
 WHY_SPLITS = ['because', 'by', 'to']
-
-# HE, SHE -> PERSON
-# THEY, THEM -> NER_WHO
-# IT -> 'NORP', 'ORG', 'GPE', 'PRODUCT', 'WORK_OF_ART', 'EVENT'
 
 DEFN_KEYS = ['--', 'is', 'are']
 NER_HOW_BE = ['with', 'by']
@@ -268,6 +267,18 @@ for i in range(1, len(inp)):
             if q.type is 'WHERE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE and e[0] not in q_ents]
 
+            # Is this a good idea?
+            if q.type is 'WHAT':
+                short_sent = sentences[0].noun_clauses
+                # if q.sub_type is 'OBJECT':
+                #     short_sent = sentences[0].noun_clauses
+                # else:
+                #     if len(sentences[0].verb_clauses) is not 0:
+                #         short_sent = sentences[0].verb_clauses
+
+            #
+            if q.type is 'HOW':
+                short_sent = sentences[0].noun_clauses
             # This isn't doing good things
             # if q.type is 'WHAT':
             #     if q.sub_type is not 'OBJECT':
