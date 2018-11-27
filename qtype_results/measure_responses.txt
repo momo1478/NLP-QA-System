@@ -1,0 +1,189 @@
+QuestionID: 1999-W02-5-6
+Answer: more than 30
+
+QuestionID: 1999-W02-5-7
+Answer: more than 30
+
+QuestionID: 1999-W03-5-4
+Answer: a cent
+
+QuestionID: 1999-W03-5-5
+Answer: 522 502
+
+QuestionID: 1999-W03-5-6
+Answer: 522 502
+
+QuestionID: 1999-W04-5-2
+Answer: thousands of dollars
+
+QuestionID: 1999-W04-5-4
+Answer: a million dollar
+
+QuestionID: 1999-W06-2-4
+Answer: six
+
+QuestionID: 1999-W06-3-2
+Answer: 2.1 million
+
+QuestionID: 1999-W06-4-1
+Answer: They are attempting to become the first Westerners in more than 50 years to cross the Empty Quarter of Arabia, the world's largest sand desert.  
+
+QuestionID: 1999-W07-2-2
+Answer: 250,000
+
+QuestionID: 1999-W07-2-5
+Answer: 9
+
+QuestionID: 1999-W07-2-9
+Answer: 3,005,000 70
+
+QuestionID: 1999-W07-4-4
+Answer: Two weeks ago Brent Shuya and his son made the 3-and-a-half hour drive from their home in Russell, Manitoba to Winnipeg.  
+
+QuestionID: 1999-W08-4-6
+Answer: three 16
+
+QuestionID: 1999-W09-3-1
+Answer: only one
+
+QuestionID: 1999-W09-4-3
+Answer: two
+
+QuestionID: 1999-W10-1-3
+Answer: thousands of dollars
+
+QuestionID: 1999-W10-1-10
+Answer: 1,700
+
+QuestionID: 1999-W10-2-5
+Answer: The governments of North and South Korea have been in constant conflict for more then 40 years.     
+
+QuestionID: 1999-W10-4-6
+Answer: When marijuana is smoked, THC is absorbed from the lungs to the bloodstream within minutes.  
+
+QuestionID: 1999-W11-3-7
+Answer: six million half
+
+QuestionID: 1999-W11-3-10
+Answer: $11 million
+
+QuestionID: 1999-W12-3-2
+Answer: more than three million
+
+QuestionID: 1999-W13-3-3
+Answer: hundreds and hundreds
+
+QuestionID: 1999-W13-3-3
+Answer: hundreds and hundreds
+
+QuestionID: 1999-W13-3-11
+Answer: about 130 six
+
+QuestionID: 1999-W13-5-4
+Answer: Four
+
+QuestionID: 1999-W14-3-6
+Answer: 934 53 per cent
+
+QuestionID: 1999-W15-4-6
+Answer: about 200,000 only about 150
+
+QuestionID: 1999-W15-4-9
+Answer: about 200,000 only about 150
+
+QuestionID: 1999-W15-5-7
+Answer: one
+
+QuestionID: 1999-W16-3-2
+Answer: only 12 about 2,500
+
+QuestionID: 1999-W16-4-6
+Answer: six
+
+QuestionID: 1999-W16-5-7
+Answer: almost 8 metres just 80 kilometres
+
+QuestionID: 1999-W16-5-8
+Answer: 94 per cent
+
+QuestionID: 1999-W17-1-1
+Answer: four
+
+QuestionID: 1999-W17-3-1
+Answer: 35,000
+
+QuestionID: 1999-W17-3-1
+Answer: 35,000
+
+QuestionID: 1999-W17-5-1
+Answer: About 150
+
+QuestionID: 1999-W18-3-3
+Answer: three
+
+QuestionID: 1999-W18-5-4
+Answer: about seven kilometres
+
+QuestionID: 1999-W18-5-7
+Answer: four
+
+QuestionID: 1999-W19-1-1
+Answer: New research suggests that's how long people have inhabited the Yukon.  
+
+QuestionID: 1999-W19-2-7
+Answer: one
+
+QuestionID: 1999-W19-4-8
+Answer: 185
+
+QuestionID: 1999-W19-5-7
+Answer: 200
+
+QuestionID: 1999-W20-5-1
+Answer: One more than 750,000
+
+QuestionID: 1999-W21-3-6
+Answer: It's what some scalpers are asking in Los Angeles, California.  
+
+QuestionID: 1999-W22-2-6
+Answer: Some 2,000
+
+QuestionID: 1999-W22-4-1
+Answer: 35-year 10
+
+QuestionID: 1999-W22-4-3
+Answer: 5
+
+QuestionID: 1999-W22-5-3
+Answer: 2,800 300 kilometres
+
+QuestionID: 1999-W24-3-3
+Answer: more than two dollars three dollars
+
+QuestionID: 1999-W27-2-5
+Answer: 50
+
+QuestionID: 1999-W28-5-4
+Answer: 10
+
+QuestionID: 1999-W29-2-1
+Answer:   For the sixth year in a row, the United Nations has ranked Canada as the best country in the world to live in.  
+
+QuestionID: 1999-W30-1-7
+Answer: Several Kennedy family members have been involved in U.S. politics, and they have lived most of their lives in the public eye.
+
+QuestionID: 1999-W31-2-3
+Answer: 73,000 square kilometres $255 million
+
+QuestionID: 1999-W32-3-6
+Answer: four
+
+QuestionID: 2000-W03-4-6
+Answer: millions of dollars
+
+QuestionID: 2000-W03-5-3
+Answer: one
+
+QuestionID: 2000-W06-4-5
+Answer: Medieval knights were kissed after being knighted, and the custom of kissing the bride remains almost universal in Western marriage ceremonies.  
+

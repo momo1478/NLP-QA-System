@@ -33,10 +33,14 @@ import spacy
 # Make sure that your answer set has been generated using the same input file and Q_TYPE_RUN
 Q_TYPE_RUN = ['ALL']
 
+# WHAT/WHICH <noun> looking for more specific example?
+# WHAT <to be> <NP>? how useful?
+
 WORD_WEIGHT = 1
 VERB_WEIGHT = 10
 NEAR_VERB_WEIGHT = 4
 NP_WEIGHT = 5
+ENT_OVERLAP_WEIGHT = 0
 
 # Q-type weights
 WEIGHT_WHEN = 20
@@ -54,6 +58,10 @@ NER_TIME = ['TIME', 'DATE']
 NER_MEASURE = ['PERCENT', 'MONEY', 'QUANTITY', 'CARDINAL']
 NER_WHO = ['PERSON', 'NORP', 'ORG', 'GPE']
 NER_WHERE = ['FAC', 'ORG', 'GPE', 'LOC']
+
+# Words to use when splitting WHY responses
+WHY_SPLITS = ['because', 'by', 'to']
+
 DEFN_KEYS = ['--', 'is', 'are']
 NER_HOW_BE = ['with', 'by']
 NER_HOW_DO = []
@@ -156,6 +164,13 @@ for i in range(1, len(inp)):
                     if np_overlap != 0:
                         overlap += np_overlap * NP_WEIGHT
 
+            # give weight to sentences containing an entity ...
+            # for qe in q_ents:
+            #     qe_words = set(qe.split())
+            #     for se in s.entities:
+            #         if len(qe_words.intersection(set(se[0].split()))) is not 0:
+            #             overlap += ENT_OVERLAP_WEIGHT
+
             # Add 10 for every matching verb in both sentences
             # for vq in verbs_in_question:
             #     if vq[1] in s.lemmas:
@@ -197,7 +212,7 @@ for i in range(1, len(inp)):
                             overlap += WEIGHT_WHERE
                             break
                 # Needs work and consideration
-                if q.type is 'DEFINITION':
+                if q.type is 'WHAT':
                     if '--' in s.lemmas:
                         overlap += WEIGHT_DEFN
                         s.sentence = s.sentence[s.sentence.find('--'):]
@@ -242,23 +257,48 @@ for i in range(1, len(inp)):
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_TIME]
             if q.type is 'MEASURE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_MEASURE]
+
+            # if the number of entities is equal to 1 we are probably looking for description of the entity
             if q.type is 'WHO':
                 short_sent = [e[0] for e in sentences[i].entities if e[1] in NER_WHO and e[0] not in q_ents]
+                # vvv results in worse performance overall
+                # if len(q_ents) is 1:
+                #     short_sent.extend(s.noun_clauses)
             if q.type is 'WHERE':
                 short_sent = [e[0] for e in sentences[0].entities if e[1] in NER_WHERE and e[0] not in q_ents]
 
-            # TODO: What am I trying to do here?
-            #if q.type is 'WHAT':
-                #print("Doing Nothing ...")
+            # Is this a good idea?
+            if q.type is 'WHAT':
+                short_sent = sentences[0].noun_clauses
+                # if q.sub_type is 'OBJECT':
+                #     short_sent = sentences[0].noun_clauses
+                # else:
+                #     if len(sentences[0].verb_clauses) is not 0:
+                #         short_sent = sentences[0].verb_clauses
 
-
+            #
+            if q.type is 'HOW':
+                short_sent = sentences[0].noun_clauses
+            # This isn't doing good things
+            # if q.type is 'WHAT':
+            #     if q.sub_type is not 'OBJECT':
+            #         if len(sentences[0].clauses) is not 0:
+            #             short_sent = sentences[0].clauses
 
             if len(short_sent) != 0:
                 sentences[0].sentence = " ".join(short_sent)
                 break
 
+        # Split WHY responses using keywords - seems to help a small amount
+        if q.type is 'WHY':
+            for split in WHY_SPLITS:
+                if split in sentences[0].sentence:
+                    short_sentence = sentences[0].sentence[sentences[0].sentence.find(split):]
+                    sentences[0].sentence = short_sentence
+                    break
+
         # Print out the QA result
         print("QuestionID: {}".format(q.qid))
-        #print("Question: {}\nType: {}\nSupport Type: {}\nConditional: {}".format(q.qstr, q.type, q.support_type, q.conditional))
+        #print("Question: {}\nType: {}\nSub-Type: {}\nConditional: {}".format(q.qstr, q.type, q.sub_type, q.conditional))
         print("Answer: {}\n".format("".join(sentences[-1].sentence) if sentences[0].score == 0 else "".join(sentences[0].sentence)))
         #print("Answer: {}\n".format("".join(sentences[0].sentence)))

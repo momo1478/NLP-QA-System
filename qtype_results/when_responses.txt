@@ -1,0 +1,192 @@
+QuestionID: 1999-W03-5-7
+Answer: The inventor of the game of basketball, Dr. James Naismith called the Edmonton Grads "the finest basketball team that ever stepped out on a floor".  
+
+QuestionID: 1999-W06-2-5
+Answer: the spring
+
+QuestionID: 1999-W06-3-4
+Answer: The common code of conduct has started with a new safety policy that requires schools to phone parents to find out why absent students are missing.  
+
+QuestionID: 1999-W06-4-10
+Answer: 1997
+
+QuestionID: 1999-W07-2-3
+Answer: yesterday
+
+QuestionID: 1999-W07-4-2
+Answer: Saturday 1931
+
+QuestionID: 1999-W07-4-5
+Answer: decades
+
+QuestionID: 1999-W08-3-7
+Answer: This week the age of 69
+
+QuestionID: 1999-W08-4-8
+Answer: 1980
+
+QuestionID: 1999-W09-3-5
+Answer: last August
+
+QuestionID: 1999-W09-4-8
+Answer: 16 years
+
+QuestionID: 1999-W10-1-4
+Answer: June five-year
+
+QuestionID: 1999-W10-2-2
+Answer: 1997
+
+QuestionID: 1999-W10-3-5
+Answer: the early years
+
+QuestionID: 1999-W10-5-7
+Answer: Thursday
+
+QuestionID: 1999-W11-2-3
+Answer: daily
+
+QuestionID: 1999-W11-3-5
+Answer: a few years
+
+QuestionID: 1999-W11-5-5
+Answer: 1977
+
+QuestionID: 1999-W12-3-8
+Answer: months
+
+QuestionID: 1999-W12-4-7
+Answer: 13 less than a year
+
+QuestionID: 1999-W12-5-3
+Answer: Two weeks ago
+
+QuestionID: 1999-W13-1-5
+Answer: October 1
+
+QuestionID: 1999-W13-5-7
+Answer: Tomorrow
+
+QuestionID: 1999-W14-1-8
+Answer: Friday afternoon the night
+
+QuestionID: 1999-W14-3-1
+Answer: March 31, 1949 -- 82 years
+
+QuestionID: 1999-W14-5-5
+Answer: Mary Lou Finlay of CBC Radio's weeknight program
+
+QuestionID: 1999-W15-2-2
+Answer: March Sunday
+
+QuestionID: 1999-W15-5-2
+Answer: the 1950s
+
+QuestionID: 1999-W16-3-3
+Answer: 1957
+
+QuestionID: 1999-W16-5-5
+Answer: 1894 this spring
+
+QuestionID: 1999-W17-1-5
+Answer: As he left the arena, Wayne's father and mother told him they were proud of him.
+
+QuestionID: 1999-W17-3-6
+Answer: Tuesday
+
+QuestionID: 1999-W17-5-6
+Answer: Monday
+
+QuestionID: 1999-W18-3-1
+Answer: 1997
+
+QuestionID: 1999-W18-4-8
+Answer: a week
+
+QuestionID: 1999-W18-5-1
+Answer: A month last night
+
+QuestionID: 1999-W19-2-4
+Answer: today
+
+QuestionID: 1999-W19-4-3
+Answer: six years ago
+
+QuestionID: 1999-W19-5-2
+Answer: next week
+
+QuestionID: 1999-W21-3-1
+Answer: late April
+
+QuestionID: 1999-W21-5-7
+Answer: But if Ottawa wants to stop Gerry White from shipping Newfoundland water all over the world, they'll have to act soon.  
+
+QuestionID: 1999-W22-2-4
+Answer: March 24
+
+QuestionID: 1999-W22-3-7
+Answer: the year 2000
+
+QuestionID: 1999-W22-4-2
+Answer: last year
+
+QuestionID: 1999-W22-4-4
+Answer: 1992
+
+QuestionID: 1999-W22-4-12
+Answer: last year
+
+QuestionID: 1999-W22-5-8
+Answer: last night
+
+QuestionID: 1999-W23-1-9
+Answer: Thursday next March
+
+QuestionID: 1999-W23-5-5
+Answer: 32 years
+
+QuestionID: 1999-W24-3-5
+Answer: 1969 decades
+
+QuestionID: 1999-W24-5-1
+Answer: September
+
+QuestionID: 1999-W25-1-1
+Answer: the last 48 hours
+
+QuestionID: 1999-W25-1-10
+Answer: Sunday, June 20
+
+QuestionID: 1999-W25-5-1
+Answer: 22 years 1952
+
+QuestionID: 1999-W27-5-9
+Answer: 60 days
+
+QuestionID: 1999-W28-5-1
+Answer: January this week
+
+QuestionID: 1999-W28-5-5
+Answer: years ago
+
+QuestionID: 1999-W29-5-5
+Answer: September
+
+QuestionID: 1999-W30-1-6
+Answer: 1963
+
+QuestionID: 1999-W30-5-5
+Answer: 23,000 years ago
+
+QuestionID: 1999-W32-3-8
+Answer: Wednesday
+
+QuestionID: 2000-W03-4-4
+Answer: the end of the  year
+
+QuestionID: 2000-W03-5-2
+Answer: 1979
+
+QuestionID: 2000-W06-4-8
+Answer: Medieval knights were kissed after being knighted, and the custom of kissing the bride remains almost universal in Western marriage ceremonies.  
+

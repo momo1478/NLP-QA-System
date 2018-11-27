@@ -1,0 +1,2027 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W02-5-3'
+QUESTION   : `What has South Queens Junior High School done with its old metal shop?'
+ANSWER     : `turned it into a fitness club'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `turned it into a fitness club'
+      and Resp `South Queens Junior High School is taking aim at the fitness market.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.08 (1/12)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-2'
+QUESTION   : `What team did Babe play for?'
+ANSWER     : `Edmonton Grads'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Edmonton Grads'
+      and Resp `Babe Belanger played with the Grads from 1929 to 1937.'
+
+Recall    = 0.50 (1/2)
+Precision = 0.10 (1/10)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-3'
+QUESTION   : `What position did Babe play?'
+ANSWER     : `forward'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `forward'
+      and Resp `Babe Belanger played with the Grads from 1929 to 1937.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-2-2'
+QUESTION   : `What happened to him two days before Groundhog day?'
+ANSWER     : `he died | he died in his sleep | he died in his sleep of natural causes'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `he died'
+      and Resp `Al Given, mayor of South Bruce Peninsula, said that Willie's spirit told him that it would be an early spring.'
+
+Comparing Key  `he died in his sleep'
+      and Resp `Al Given, mayor of South Bruce Peninsula, said that Willie's spirit told him that it would be an early spring.'
+
+Comparing Key  `he died in his sleep of natural causes'
+      and Resp `Al Given, mayor of South Bruce Peninsula, said that Willie's spirit told him that it would be an early spring.'
+
+=> Best match in answer key is:
+   `he died in his sleep of natural causes'
+
+Recall    = 0.12 (1/8)
+Precision = 0.05 (1/20)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-3-3'
+QUESTION   : `Under the code, what could happen to a student who swears at a teacher?'
+ANSWER     : `suspension | they might get suspended'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `suspension'
+      and Resp `The code would also deal with acceptable language and set out the punishment for students who smoke, destroy property, steal, distribute hate material or carry a weapon.'
+
+Comparing Key  `they might get suspended'
+      and Resp `The code would also deal with acceptable language and set out the punishment for students who smoke, destroy property, steal, distribute hate material or carry a weapon.'
+
+=> Best match in answer key is:
+   `suspension'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/27)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-3'
+QUESTION   : `What three countries will the Canadians cross through on their desert trek?'
+ANSWER     : `Oman, Saudi Arabia, the United Arab Emirates'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Oman, Saudi Arabia, the United Arab Emirates'
+      and Resp `They set off this week on foot and by camel on a grueling trek across the burning Arabian desert.'
+
+Recall    = 0.14 (1/7)
+Precision = 0.05 (1/19)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-4'
+QUESTION   : `What is "Arabian Sands" about?'
+ANSWER     : `Sir Wilfred Thesiger's 1947 trek'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Sir Wilfred Thesiger's 1947 trek'
+      and Resp `Mr. Thesiger's book Arabian Sands told the story of his 1947 trek.'
+
+Recall    = 0.60 (3/5)
+Precision = 0.25 (3/12)
+F-measure = 0.35
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-6'
+QUESTION   : `What advice did Mr. Thesiger give to the Canadians?'
+ANSWER     : `take great care of the camels'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `take great care of the camels'
+      and Resp `Mr. Clarke and his companions met with Mr. Thesiger, who is now 88, in London, England on their way to the Middle East from Canada.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.04 (1/25)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-8'
+QUESTION   : `At what point did the group have to return to replace broken camel saddles?'
+ANSWER     : `40 kilometres into the odyssey'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `40 kilometres into the odyssey'
+      and Resp `The group was forced to return briefly to replace some broken equipment, notably camel saddles, 40 kilometres into the odyssey.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.25 (5/20)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-9'
+QUESTION   : `What type of clothing are the Canadians wearing on their journey across the desert?'
+ANSWER     : `the traditional clothing of the Bedouin people | traditional Bedouin clothing'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the traditional clothing of the Bedouin people'
+      and Resp `They are journeying through the harsh and mostly uninhabited desert wearing the clothes and eating the food that is traditional for the nomadic Bedouin people.'
+
+Comparing Key  `traditional Bedouin clothing'
+      and Resp `They are journeying through the harsh and mostly uninhabited desert wearing the clothes and eating the food that is traditional for the nomadic Bedouin people.'
+
+=> Best match in answer key is:
+   `the traditional clothing of the Bedouin people'
+
+Recall    = 0.71 (5/7)
+Precision = 0.20 (5/25)
+F-measure = 0.31
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-2-6'
+QUESTION   : `What does McFarlane want in return for making the "McFarlane Collection" available to places like the National Baseball Hall of Fame?'
+ANSWER     : `to take 20 swings in every major league ball park'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `to take 20 swings in every major league ball park'
+      and Resp `He says he would like to allow the National Baseball Hall of Fame in Cooperstown, New York to show McGwire s 70th home run ball at times.'
+
+Recall    = 0.30 (3/10)
+Precision = 0.11 (3/27)
+F-measure = 0.16
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-4-1'
+QUESTION   : `What type of sports facility does Maple Leaf Gardens function as?'
+ANSWER     : `a hockey rink'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a hockey rink'
+      and Resp `Brent says, "it was pretty important to me, I wanted my son to go and visit the  Gardens, seeing how they are not going to be playing there anymore.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/29)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-3-1'
+QUESTION   : `What happened in Europe and England when Geoffrey was nine years old?'
+ANSWER     : `the Second World War began'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the Second World War began'
+      and Resp `His parents feared that Geoffrey and his older sister would be killed in the Nazi bombing of England.'
+
+Recall    = 0.20 (1/5)
+Precision = 0.06 (1/18)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-2'
+QUESTION   : `What do the Kurdish separatists want?'
+ANSWER     : `an independent Kurdistan | a separate Kurdish homeland'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `an independent Kurdistan'
+      and Resp `In Turkey, police have reportedly arrested hundreds of supporters of the main Kurdish party, while up to 4,000 soldiers have been sent into Northern Iraq to attack Kurdish rebel bases.'
+
+Comparing Key  `a separate Kurdish homeland'
+      and Resp `In Turkey, police have reportedly arrested hundreds of supporters of the main Kurdish party, while up to 4,000 soldiers have been sent into Northern Iraq to attack Kurdish rebel bases.'
+
+=> Best match in answer key is:
+   `a separate Kurdish homeland'
+
+Recall    = 0.25 (1/4)
+Precision = 0.03 (1/30)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-5'
+QUESTION   : `What triggered some Kurds to try to occupy the Israeli consulate in Berlin?'
+ANSWER     : `rumours that Israel helped Turkish securities forces capture Ocalan'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `rumours that Israel helped Turkish securities forces capture Ocalan'
+      and Resp `On Wednesday, after rumours that Israel helped Turkish securities forces capture Ocalan, angry Kurds tried to occupy the Israeli consulate in Berlin.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.41 (9/22)
+F-measure = 0.58
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-7'
+QUESTION   : `What did Chancellor Schroeder tell the Kurds in Germany?'
+ANSWER     : `they must obey German laws and stop violent protests -- or they will be thrown out of the country'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `they must obey German laws and stop violent protests -- or they will be thrown out of the country'
+      and Resp `-- or they will be thrown out of the country.'
+
+Recall    = 0.53 (10/19)
+Precision = 1.00 (10/10)
+F-measure = 0.69
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-3-6'
+QUESTION   : `What happened when the Teamsters tried to unionize a McDonald's in Montreal?'
+ANSWER     : `workers voted against becoming members of a trade union | 55 workers voted against unionizing | workers voted against unionizing'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `workers voted against becoming members of a trade union'
+      and Resp `The latest loss means an end to a campaign begun last year to unionize at least one McDonald's in every major city across Canada, which has so far cost the Teamsters about $100,000.'
+
+Comparing Key  `55 workers voted against unionizing'
+      and Resp `The latest loss means an end to a campaign begun last year to unionize at least one McDonald's in every major city across Canada, which has so far cost the Teamsters about $100,000.'
+
+Comparing Key  `workers voted against unionizing'
+      and Resp `The latest loss means an end to a campaign begun last year to unionize at least one McDonald's in every major city across Canada, which has so far cost the Teamsters about $100,000.'
+
+=> Best match in answer key is:
+   `workers voted against becoming members of a trade union'
+
+Recall    = 0.11 (1/9)
+Precision = 0.03 (1/33)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-2'
+QUESTION   : `What type of music does Lauryn Hill make?'
+ANSWER     : `hip-hop | rap | R'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `hip-hop'
+      and Resp `"This is crazy because this is hip-hop music," Ms. Hill said in accepting the first best-album Grammy for a hip-hop artist as the usually conservative awards show took its biggest step out of the mainstream.'
+
+Comparing Key  `rap'
+      and Resp `"This is crazy because this is hip-hop music," Ms. Hill said in accepting the first best-album Grammy for a hip-hop artist as the usually conservative awards show took its biggest step out of the mainstream.'
+
+Comparing Key  `R'
+      and Resp `"This is crazy because this is hip-hop music," Ms. Hill said in accepting the first best-album Grammy for a hip-hop artist as the usually conservative awards show took its biggest step out of the mainstream.'
+
+=> Best match in answer key is:
+   `hip-hop'
+
+Recall    = 1.00 (1/1)
+Precision = 0.03 (1/35)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-6'
+QUESTION   : `What movie was the song "My Heart Will Go On" in?'
+ANSWER     : `Titanic'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Titanic'
+      and Resp `"My Heart Will Go On" won four Grammys, including best female pop vocal for Celine Dion and best song written for a motion picture or television.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/26)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-10'
+QUESTION   : `What other form of show business does Will Smith participate in besides music?'
+ANSWER     : `acting | actor'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `acting'
+      and Resp `"I've been in the music business 16 years.'
+
+Comparing Key  `actor'
+      and Resp `"I've been in the music business 16 years.'
+
+=> Best match in answer key is:
+   `acting'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/8)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-2'
+QUESTION   : `What did it cost Meadowvale secondary to have a satellite dish, televisions, and audio-visual equipment installed?'
+ANSWER     : `nothing | it was free | free of charge'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `nothing'
+      and Resp `Youth News Network, a private news and current-affairs network, has installed a satellite dish and thousands of dollars worth of televisions and audio-visual equipment at Meadowvale Secondary School free of charge.'
+
+Comparing Key  `it was free'
+      and Resp `Youth News Network, a private news and current-affairs network, has installed a satellite dish and thousands of dollars worth of televisions and audio-visual equipment at Meadowvale Secondary School free of charge.'
+
+Comparing Key  `free of charge'
+      and Resp `Youth News Network, a private news and current-affairs network, has installed a satellite dish and thousands of dollars worth of televisions and audio-visual equipment at Meadowvale Secondary School free of charge.'
+
+=> Best match in answer key is:
+   `free of charge'
+
+Recall    = 1.00 (3/3)
+Precision = 0.10 (3/31)
+F-measure = 0.18
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-6'
+QUESTION   : `What does CBC Newsworld provide to schools?'
+ANSWER     : `free TV programming | free television programming'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `free TV programming'
+      and Resp `While public broadcasters such as CBC Newsworld and TV Ontario provide programming free of charge to schools, none can come close to providing the wealth of televisions, VCRs, computers, and video cameras installed at Meadowvale under its pilot project with YNN's owner, Montreal-based Athena Educational Partners Inc.  Meadowvale principal Laurie Pedwell conceded that the technology was part of YNN's appeal.'
+
+Comparing Key  `free television programming'
+      and Resp `While public broadcasters such as CBC Newsworld and TV Ontario provide programming free of charge to schools, none can come close to providing the wealth of televisions, VCRs, computers, and video cameras installed at Meadowvale under its pilot project with YNN's owner, Montreal-based Athena Educational Partners Inc.  Meadowvale principal Laurie Pedwell conceded that the technology was part of YNN's appeal.'
+
+=> Best match in answer key is:
+   `free TV programming'
+
+Recall    = 1.00 (3/3)
+Precision = 0.05 (3/60)
+F-measure = 0.10
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-11'
+QUESTION   : `What organization does Heather-Jane Robertson represent?'
+ANSWER     : `the Canadian Teachers Federation'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Canadian Teachers Federation'
+      and Resp `"I happen to believe that it is completely unacceptable to sell off little bits of our kids," said Heather-Jane Robertson, director of professional development with the Canadian Teachers Federation.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.14 (4/29)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-2-3'
+QUESTION   : `Which countries refused to sign the international accord on landmines?'
+ANSWER     : `Russia, the United States, China and Ukraine'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Russia, the United States, China and Ukraine'
+      and Resp `Church bells around the world rang out at noon yesterday as an international ban on landmines became international law.'
+
+Recall    = 0.14 (1/7)
+Precision = 0.05 (1/19)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-2-4'
+QUESTION   : `What do we call groups of people who are experts at ringing bells?'
+ANSWER     : `carillon associations'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `carillon associations'
+      and Resp `In Paris, France members of carillon associations - people who are experts at ringing bells - coordinated the ringing of cathedral bells across the city.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.08 (2/25)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-2-6'
+QUESTION   : `What is the name of the Portuguese anti-landmine film?'
+ANSWER     : `"Spotlight on a Massacre"'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `"Spotlight on a Massacre"'
+      and Resp `In Brasilia, the capital city of Brazil, anti-landmine pamphlets were distributed and there were screenings of "Spotlight on a Massacre", an anti-landmines film in Portuguese.'
+
+Recall    = 0.75 (3/4)
+Precision = 0.12 (3/25)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-3-2'
+QUESTION   : `What is the name of Wang's documentary?'
+ANSWER     : `"Sunrise over Tiananmen Square"'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `"Sunrise over Tiananmen Square"'
+      and Resp `-- Sunday, March 21 -- actors Tom Hanks, and Gwyneth Paltrow and director Steven Spielberg  won't be the only ones sitting on the edge of their seats, hoping to hear their name read out.'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/34)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-4-1'
+QUESTION   : `What is the scientific name for marijuana?'
+ANSWER     : `Cannabis sativa'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Cannabis sativa'
+      and Resp `Health Minister Allan Rock announced yesterday that his department is putting together guidelines for a scientific look at marijuana.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/19)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-4-2'
+QUESTION   : `What is the Health Department's study going to examine about marijuana?'
+ANSWER     : `how the drug should be administered and how a safe supply could be distributed to patients'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `how the drug should be administered and how a safe supply could be distributed to patients'
+      and Resp `-- which is also planning similar trials -- about acquiring marijuana for the tests.'
+
+Recall    = 0.06 (1/16)
+Precision = 0.07 (1/14)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-6'
+QUESTION   : `What are POPs?'
+ANSWER     : `persistent organic pollutants'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `persistent organic pollutants'
+      and Resp `Carole Mills works with the problem daily, both in the contaminants division of the Department of Indian and Northern Affairs, and as a representative of the Canadian Arctic Indigenous Peoples Against POPs. "'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/32)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-8'
+QUESTION   : `What is muktuk?'
+ANSWER     : `a dish made from seal, walrus or whale fat'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a dish made from seal, walrus or whale fat'
+      and Resp `She says concentrations are bound to be higher in muktuk, a dish made from seal, walrus or whale fat.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.47 (9/19)
+F-measure = 0.64
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-3-6'
+QUESTION   : `What is the estimated size of the seal herd?'
+ANSWER     : `six million'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `six million'
+      and Resp `Mr. Efford says the seal herd, which is estimated at six million, needs to be cut in half.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.11 (2/18)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-5-1'
+QUESTION   : `What is Bill 101?'
+ANSWER     : `Quebec's very controversial language law'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Quebec's very controversial language law'
+      and Resp `Bill 101 required signs in Quebec to be in French.'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-5-2'
+QUESTION   : `What does Bill 101 require?'
+ANSWER     : `signs in Quebec to be in French | immigrant children to attend French schools'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `signs in Quebec to be in French'
+      and Resp `Bill 101 required signs in Quebec to be in French.'
+
+Comparing Key  `immigrant children to attend French schools'
+      and Resp `Bill 101 required signs in Quebec to be in French.'
+
+=> Best match in answer key is:
+   `signs in Quebec to be in French'
+
+Recall    = 1.00 (7/7)
+Precision = 0.70 (7/10)
+F-measure = 0.82
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-3-4'
+QUESTION   : `What was one of the things that motivated Clarke during the journey?'
+ANSWER     : `the kids'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the kids'
+      and Resp `Halfway through the journey, Clarke thought his chances of completing the trek were slim.'
+
+Recall    = 0.50 (1/2)
+Precision = 0.07 (1/14)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-4-1'
+QUESTION   : `What kind of treatments do the doctors want to give thirteen-year-old Tyrell Dueck for his cancer?'
+ANSWER     : `have part of his thigh bone removed and undergo chemotherapy treatments'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `have part of his thigh bone removed and undergo chemotherapy treatments'
+      and Resp `Doctors say that Tyrell Dueck, 13, will die from cancer in less than a year if he doesn t have part of his thigh bone removed and undergo chemotherapy treatments.'
+
+Recall    = 1.00 (11/11)
+Precision = 0.37 (11/30)
+F-measure = 0.54
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-5-5'
+QUESTION   : `What is Rod Bushie's role in the Assembly of Manitoba Chiefs?'
+ANSWER     : `grand chief'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `grand chief'
+      and Resp `"It s not the first incident," said Rod Bushie, grand chief of the Assembly of Manitoba Chiefs.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.12 (2/17)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-5-7'
+QUESTION   : `According to Bushie, what should the schools do to combat racism?'
+ANSWER     : `more aboriginal education'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `more aboriginal education'
+      and Resp `Bushie called on politicians to encourage racial tolerance.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/8)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-1-4'
+QUESTION   : `What did doctors discover when Tyrell returned to them for treatment?'
+ANSWER     : `the cancer had spread from his leg to his lungs'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the cancer had spread from his leg to his lungs'
+      and Resp `Instead the doctors discovered that cancer has spread from Tyrell's leg into his lungs.'
+
+Recall    = 0.70 (7/10)
+Precision = 0.50 (7/14)
+F-measure = 0.58
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-1-6'
+QUESTION   : `What is the name of the Duecks' lawyer?'
+ANSWER     : `Owe Girths'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Owe Girths'
+      and Resp `The matter is most certainly in the hands of God, if it ever were in the hands of mortals," the Duecks' lawyer Owe Girths told a stunned crowd of supporters on Sunday.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.06 (2/32)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-1'
+QUESTION   : `What do the nations of the North Atlantic Treaty Organization want to stop the Yugoslavians from doing?'
+ANSWER     : `invading neighbouring Kosovo | invading the neighbouring region of Kosovo'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `invading neighbouring Kosovo'
+      and Resp `This is happening because the coalition of countries that are members of the North Atlantic Treaty Organizatoin (NATO) want to stop the Yugoslavians from invading the neighbouring region of Kosovo.'
+
+Comparing Key  `invading the neighbouring region of Kosovo'
+      and Resp `This is happening because the coalition of countries that are members of the North Atlantic Treaty Organizatoin (NATO) want to stop the Yugoslavians from invading the neighbouring region of Kosovo.'
+
+=> Best match in answer key is:
+   `invading the neighbouring region of Kosovo'
+
+Recall    = 1.00 (6/6)
+Precision = 0.20 (6/30)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-2'
+QUESTION   : `What are the ethnic Albanians in Kosovo pushing for?'
+ANSWER     : `independence from Serbia'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `independence from Serbia'
+      and Resp `Ninety per cent of Kosovo's population are ethnic Albanians, who have been pushing for independence from Serbia.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.18 (3/17)
+F-measure = 0.30
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-9'
+QUESTION   : `What does Milosevic refuse to do?'
+ANSWER     : `he refuses to allow any outside force into Kosovo to monitor any peace agreement'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `he refuses to allow any outside force into Kosovo to monitor any peace agreement'
+      and Resp `Few people believe that Yugoslav President Slobodan Milosevic is ready to give in.'
+
+Recall    = 0.07 (1/14)
+Precision = 0.08 (1/13)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-10'
+QUESTION   : `What do Yugoslav officials feel they can do in a war against NATO?'
+ANSWER     : `inflict serious damage'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `inflict serious damage'
+      and Resp `Yugoslav officials say they might not be able to win a war against NATO, but they feel they can inflict serious damage.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.14 (3/22)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-5-2'
+QUESTION   : `What is the goal of the NATO bombing in Yugoslavia?'
+ANSWER     : `force Yugoslavia to accept a peace agreement proposed by the United States'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `force Yugoslavia to accept a peace agreement proposed by the United States'
+      and Resp `Foreign Affairs Minister Lloyd Axworthy has said the goal is to force Yugoslavia to accept a peace agreement proposed by the United States.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.52 (12/23)
+F-measure = 0.69
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-5'
+QUESTION   : `What three companies have had files affected by the virus?'
+ANSWER     : `Charles Schwab and Co., Lucent Technologies, the Intel Corporation'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Charles Schwab and Co., Lucent Technologies, the Intel Corporation'
+      and Resp `The New York Times newspaper reported yesterday that files at Charles Schwab and Co., Lucent Technologies and the Intel Corporation had all been affected.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.38 (9/24)
+F-measure = 0.55
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-9'
+QUESTION   : `What do "patches" from antivirus software makers do?'
+ANSWER     : `detect and reject the virus'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `detect and reject the virus'
+      and Resp `Several antivirus software makers have posted patches on their Web sites to detect and reject the virus.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.29 (5/17)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-10'
+QUESTION   : `What can you do to protect yourself against "Melissa" and similar viruses?'
+ANSWER     : `NEVER OPEN A DOCUMENT ATTACHMENT FROM SOMEONE YOU DON'T KNOW | by not opening the attachments'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `NEVER OPEN A DOCUMENT ATTACHMENT FROM SOMEONE YOU DON'T KNOW'
+      and Resp `And now in this case, you can't even trust all the documents you receive from people you do know!'
+
+Comparing Key  `by not opening the attachments'
+      and Resp `And now in this case, you can't even trust all the documents you receive from people you do know!'
+
+=> Best match in answer key is:
+   `NEVER OPEN A DOCUMENT ATTACHMENT FROM SOMEONE YOU DON'T KNOW'
+
+Recall    = 0.30 (3/10)
+Precision = 0.16 (3/19)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-3'
+QUESTION   : `What factor divided the population of Newfoundland in the 1800s?'
+ANSWER     : `religion | half were Protestant, half Roman Catholic'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `religion'
+      and Resp `-- half were Protestant, half Roman Catholic.'
+
+Comparing Key  `half were Protestant, half Roman Catholic'
+      and Resp `-- half were Protestant, half Roman Catholic.'
+
+=> Best match in answer key is:
+   `half were Protestant, half Roman Catholic'
+
+Recall    = 1.00 (6/6)
+Precision = 0.86 (6/7)
+F-measure = 0.92
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-5'
+QUESTION   : `What date was the vote that made Newfoundland part of Canada?'
+ANSWER     : `July 22, 1948'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `July 22, 1948'
+      and Resp `is, to remain independent from Canada.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-7'
+QUESTION   : `What were the pro-union Newfoundlanders called?'
+ANSWER     : `Confederates'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Confederates'
+      and Resp `is, to remain independent from Canada.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-7'
+QUESTION   : `What were the pro-union Newfoundlanders called?'
+ANSWER     : `people have a basic level of security | unemployment insurance and aid packages to fishers who are out of work'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `people have a basic level of security'
+      and Resp `is, to remain independent from Canada.'
+
+Comparing Key  `unemployment insurance and aid packages to fishers who are out of work'
+      and Resp `is, to remain independent from Canada.'
+
+=> Best match in answer key is:
+   `unemployment insurance and aid packages to fishers who are out of work'
+
+Recall    = 0.08 (1/12)
+Precision = 0.17 (1/6)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-5-4'
+QUESTION   : `What did Ms. Finlay ask Mr. Corley?'
+ANSWER     : `how he first heard about the idea'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `how he first heard about the idea'
+      and Resp `As It Happens asked Mr. Corley how he first heard about the idea.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.54 (7/13)
+F-measure = 0.70
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-2-3'
+QUESTION   : `What did the Hollywood movie crew do to transform a Calgary street into a wintry scene for the movie "Snow Day"?'
+ANSWER     : `unloaded 450 truckloads of snow'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `unloaded 450 truckloads of snow'
+      and Resp `They transformed a Calgary street into a wintry scene set in Syracuse, New York.'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-2-7'
+QUESTION   : `In the movie "Snow Day," what are the kids in Syracuse trying to do?'
+ANSWER     : `extend a magical day off school into a longer vacation'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `extend a magical day off school into a longer vacation'
+      and Resp `Snow Day, a family comedy, centres on a group of Syracuse kids who try to extend a magical day off school into a longer vacation.'
+
+Recall    = 1.00 (10/10)
+Precision = 0.40 (10/25)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-2'
+QUESTION   : `What did Hudon do in jail to protest his arrest?'
+ANSWER     : `staged a hunger strike'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `staged a hunger strike'
+      and Resp `-- where he had staged a hunger strike to protest his arrest last September 28th.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.27 (4/15)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-5-5'
+QUESTION   : `What did ombudsman Dulcie McCallum's investigation into the treatment of the Doukhobor children find?'
+ANSWER     : `the children were subjected to abuse and suffered "loss of love, nurturing guidance and childhood" | children "continue to suffer from the long-term ill-effects of this trauma"'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the children were subjected to abuse and suffered "loss of love, nurturing guidance and childhood"'
+      and Resp `Ombudsman Dulcie McCallum said an investigation found the 170 Doukhobor children were subjected to abuse and suffered "loss of love, nurturing guidance and childhood" while they were detained from 1953 to 1959.'
+
+Comparing Key  `children "continue to suffer from the long-term ill-effects of this trauma"'
+      and Resp `Ombudsman Dulcie McCallum said an investigation found the 170 Doukhobor children were subjected to abuse and suffered "loss of love, nurturing guidance and childhood" while they were detained from 1953 to 1959.'
+
+=> Best match in answer key is:
+   `the children were subjected to abuse and suffered "loss of love, nurturing guidance and childhood"'
+
+Recall    = 1.00 (15/15)
+Precision = 0.47 (15/32)
+F-measure = 0.64
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-5-6'
+QUESTION   : `What did the government force the children to build while they were interned in the camp?'
+ANSWER     : `a chain-link fence | a fence'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `a chain-link fence'
+      and Resp `The report said one example of the mistreatment was that children could only visit with their parents through a chain-link fence that the children themselves had been forced to construct.'
+
+Comparing Key  `a fence'
+      and Resp `The report said one example of the mistreatment was that children could only visit with their parents through a chain-link fence that the children themselves had been forced to construct.'
+
+=> Best match in answer key is:
+   `a chain-link fence'
+
+Recall    = 1.00 (3/3)
+Precision = 0.10 (3/30)
+F-measure = 0.18
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-3-6'
+QUESTION   : `What is Rubella?'
+ANSWER     : `German measles | a different disease with similar symptoms'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `German measles'
+      and Resp `Rubella, commonly referred to as German measles, is a different disease with similar symptoms.'
+
+Comparing Key  `a different disease with similar symptoms'
+      and Resp `Rubella, commonly referred to as German measles, is a different disease with similar symptoms.'
+
+=> Best match in answer key is:
+   `a different disease with similar symptoms'
+
+Recall    = 1.00 (6/6)
+Precision = 0.43 (6/14)
+F-measure = 0.60
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-4-10'
+QUESTION   : `What does the white cowboy hat symbolize in Calgary?'
+ANSWER     : `hospitality'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `hospitality'
+      and Resp `He also said Calgary, Alberta Mayor Al Duerr's decision to present a white cowboy hat, Calgary's symbol of hospitality, to Zhu was "shameful" and "unacceptable."'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/25)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-5-2'
+QUESTION   : `What are the fertile soils of the Fraser River good for?'
+ANSWER     : `growing food'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `growing food'
+      and Resp `Early settlers recognized the potential of the fertile soils along the Fraser for growing food.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.13 (2/15)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-9'
+QUESTION   : `What did Gretzky do when he saw a youngster's hand extended from the crowd?'
+ANSWER     : `he touched it'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `he touched it'
+      and Resp `Whenever he noticed a youngster's extended hand from the crowd, he touched it.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.23 (3/13)
+F-measure = 0.38
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-3'
+QUESTION   : `What did the two students who did the shootings do as they moved through the school?'
+ANSWER     : `laughed'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `laughed'
+      and Resp `Witnesses said the boys laughed as they methodically moved through the school shooting people at random.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.06 (1/16)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-8'
+QUESTION   : `What did President Clinton say is the challenge facing America?'
+ANSWER     : `teach its young people to resolve their problems with "words not weapons"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `teach its young people to resolve their problems with "words not weapons"'
+      and Resp `He said the challenge facing America is to teach its young people to resolve their problems with "words not weapons."'
+
+Recall    = 0.92 (11/12)
+Precision = 0.55 (11/20)
+F-measure = 0.69
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-11'
+QUESTION   : `What would the bill sponsored by Representative Doug Dean do for gun owners?'
+ANSWER     : `help them carry concealed weapons'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `help them carry concealed weapons'
+      and Resp `The bill's sponsor, Representative Doug, says the Columbine school tragedy might have been offset if a faculty member or administrator had been armed.'
+
+Recall    = 0.00 (0/5)
+Precision = 0.00 (0/23)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-3'
+QUESTION   : `What is the biggest stumbling block in the dispute between the teachers and the school board?'
+ANSWER     : `class size'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `class size'
+      and Resp `Class size is the biggest stumbling block in the dispute between the board and the teachers' union.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.12 (2/17)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-7'
+QUESTION   : `What will a teachers' strike force parents to do?'
+ANSWER     : `make alternate arrangements'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `make alternate arrangements'
+      and Resp `While a strike will leave more than 95,000 students in academic limbo and parents scrambling to make alternate arrangements, Grade 12 diploma exams will go on.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.12 (3/26)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-8'
+QUESTION   : `What effect will the present school board plans have on teachers?'
+ANSWER     : `200 teachers would lose their jobs'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `200 teachers would lose their jobs'
+      and Resp `The present school board plans would mean that 200 teachers would lose their jobs.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.43 (6/14)
+F-measure = 0.60
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-9'
+QUESTION   : `What happens to Grade 12 diploma exams if teachers strike?'
+ANSWER     : `they will go on'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they will go on'
+      and Resp `While a strike will leave more than 95,000 students in academic limbo and parents scrambling to make alternate arrangements, Grade 12 diploma exams will go on.'
+
+Recall    = 0.75 (3/4)
+Precision = 0.12 (3/26)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-2'
+QUESTION   : `What type of animal did Nexia Biotechnologies clone?'
+ANSWER     : `goats'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `goats'
+      and Resp `Biosteel is an artificial spider silk developed by Nexia Biotechnologies.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-7'
+QUESTION   : `Besides being very strong, what are the advantages of BioSteel?'
+ANSWER     : `environmentally friendly, extremely light, and compatible with the human body'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `environmentally friendly, extremely light, and compatible with the human body'
+      and Resp `It means that lawmakers are having to sit down to decide what should be allowed, and what should be made illegal.'
+
+Recall    = 0.10 (1/10)
+Precision = 0.05 (1/21)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-1'
+QUESTION   : `What is the population of Taber?'
+ANSWER     : `eight thousand'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `eight thousand'
+      and Resp `Taber was founded at the beginning of the century.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/9)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-9'
+QUESTION   : `What happened to the money and supplies Esat tried to send to his brother's family?'
+ANSWER     : `they were regularly intercepted by Serb forces who kept the money and goods for themselves | intercepted by Serb forces'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `they were regularly intercepted by Serb forces who kept the money and goods for themselves'
+      and Resp `He said he often tried to send money and supplies to them but shipments were regularly intercepted by Serb forces who kept the money and goods for themselves.'
+
+Comparing Key  `intercepted by Serb forces'
+      and Resp `He said he often tried to send money and supplies to them but shipments were regularly intercepted by Serb forces who kept the money and goods for themselves.'
+
+=> Best match in answer key is:
+   `they were regularly intercepted by Serb forces who kept the money and goods for themselves'
+
+Recall    = 0.93 (14/15)
+Precision = 0.50 (14/28)
+F-measure = 0.65
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-10'
+QUESTION   : `What is the name of the UN organization responsible for refugees?'
+ANSWER     : `The United Nations High Commission for Refugees'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `The United Nations High Commission for Refugees'
+      and Resp `But the UN decided it would be better to keep refugees closer to home to ease their return when the war ends.'
+
+Recall    = 0.29 (2/7)
+Precision = 0.09 (2/22)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-7'
+QUESTION   : `What did archeologists find in the Bluefish Caves?'
+ANSWER     : `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago | a mammoth bone'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago'
+      and Resp `The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.'
+
+Comparing Key  `a mammoth bone'
+      and Resp `The latest evidence supporting the earlier dates was found in the Bluefish Caves, on the Bluefish River about 50 kilometres southeast of Old Crow.'
+
+=> Best match in answer key is:
+   `a mammoth bone that was probably flaked and shaped by human hands roughly 23,500 years ago'
+
+Recall    = 0.06 (1/16)
+Precision = 0.04 (1/24)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-9'
+QUESTION   : `What does author Heather Pringle think archeology is about?'
+ANSWER     : `"uncovering the lives of ancient people"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `"uncovering the lives of ancient people"'
+      and Resp `Heather Pringle is the author of In Search of Ancient North America, part of which is about the Bluefish Caves in northern Yukon.'
+
+Recall    = 0.50 (3/6)
+Precision = 0.13 (3/23)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-1'
+QUESTION   : `Which U.S. states were hit by the numerous tornados?'
+ANSWER     : `Oklahoma and Kansas | Kansas and Oklahoma'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Oklahoma and Kansas'
+      and Resp `Devastating tornadoes too numerous to count roared across the American states of Oklahoma and Kansas late yesterday.'
+
+Comparing Key  `Kansas and Oklahoma'
+      and Resp `Devastating tornadoes too numerous to count roared across the American states of Oklahoma and Kansas late yesterday.'
+
+=> Best match in answer key is:
+   `Oklahoma and Kansas'
+
+Recall    = 1.00 (3/3)
+Precision = 0.18 (3/17)
+F-measure = 0.30
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-2'
+QUESTION   : `What is the recognizable shape of a tornado?'
+ANSWER     : `the swirling funnel cloud that extends from the base of a storm cloud to the ground'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the swirling funnel cloud that extends from the base of a storm cloud to the ground'
+      and Resp `The recognizable shape of the tornado is the swirling funnel cloud that extends from the base of a storm cloud to the ground.'
+
+Recall    = 1.00 (16/16)
+Precision = 0.70 (16/23)
+F-measure = 0.82
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-6'
+QUESTION   : `What is the wind speed range of an F-4 tornado?'
+ANSWER     : `333-419 kilometres per hour'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `333-419 kilometres per hour'
+      and Resp `An F-4 tornado has a wind speed of 333-419 kilometres per hour.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.33 (4/12)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-1'
+QUESTION   : `What is giving firefighters a hand in battling several large forest fires across Northern Ontario?'
+ANSWER     : `light rain and cooler temperatures'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `light rain and cooler temperatures'
+      and Resp `Light rain and cooler temperatures are giving crews a hand in battling several large forest fires across Northern Ontario.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.26 (5/19)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-8'
+QUESTION   : `What has triggered most of the fires in Ontario that have occurred since April 1?'
+ANSWER     : `human causes'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `human causes'
+      and Resp `Since April 1, almost all of the province's 200 fires were triggered by human causes.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.13 (2/15)
+F-measure = 0.24
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-2'
+QUESTION   : `What kinds of health problems do diabetics potentially face?'
+ANSWER     : `blindness, circulatory problems, heart disease and kidney failure'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `blindness, circulatory problems, heart disease and kidney failure'
+      and Resp `Diabetics are at risk of blindness, circulatory problems, heart disease and kidney failure, but with proper diet, exercise and insulin, it can be controlled.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.33 (8/24)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-4'
+QUESTION   : `What does insulin do for our bodies?'
+ANSWER     : `helps the body properly use sugers'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `helps the body properly use sugers'
+      and Resp `-- when the body doesn't produce insulin.'
+
+Recall    = 0.33 (2/6)
+Precision = 0.29 (2/7)
+F-measure = 0.31
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-5'
+QUESTION   : `What do Type 1 diabetics' immune systems do to insulin-producing cells?'
+ANSWER     : `attacks them | destroys them'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `attacks them'
+      and Resp `Destruction of insulin-producing cells by the immune system can be prevented by halting protein production.'
+
+Comparing Key  `destroys them'
+      and Resp `Destruction of insulin-producing cells by the immune system can be prevented by halting protein production.'
+
+=> Best match in answer key is:
+   `attacks them'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/15)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-9'
+QUESTION   : `What does Stephen Cole of the National Post say is missing in the Phantom Menace?'
+ANSWER     : `"the presence of a larger-than-life villain" | a larger-than-life villain'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `"the presence of a larger-than-life villain"'
+      and Resp `In the National Post, Stephen Cole says, "...'
+
+Comparing Key  `a larger-than-life villain'
+      and Resp `In the National Post, Stephen Cole says, "...'
+
+=> Best match in answer key is:
+   `"the presence of a larger-than-life villain"'
+
+Recall    = 0.17 (1/6)
+Precision = 0.12 (1/8)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-3'
+QUESTION   : `What do Ottawa and the provinces want to negotiate?'
+ANSWER     : `an agreement banning bulk water exports'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `an agreement banning bulk water exports'
+      and Resp `For months Ottawa and the provinces have been trying to negotiate an agreement banning bulk water exports.'
+
+Recall    = 1.00 (6/6)
+Precision = 0.35 (6/17)
+F-measure = 0.52
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-5'
+QUESTION   : `If the water export plan goes ahead, what is triggered?'
+ANSWER     : `NAFTA | the North American Free Trade Agreement'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `NAFTA'
+      and Resp `"If they go ahead, then NAFTA (North American Free Trade Agreement) is triggered.'
+
+Comparing Key  `the North American Free Trade Agreement'
+      and Resp `"If they go ahead, then NAFTA (North American Free Trade Agreement) is triggered.'
+
+=> Best match in answer key is:
+   `the North American Free Trade Agreement'
+
+Recall    = 0.83 (5/6)
+Precision = 0.38 (5/13)
+F-measure = 0.53
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-6'
+QUESTION   : `What does Maude Barlow think American firms will do?'
+ANSWER     : `come in and help themselves to Canadian water all over the country'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `come in and help themselves to Canadian water all over the country'
+      and Resp `"The federal government knows perfectly well that they're in trouble with this," says Maude Barlow of the Council of Canadians.'
+
+Recall    = 0.17 (2/12)
+Precision = 0.10 (2/20)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-5'
+QUESTION   : `What will Thordis Gutnick do for the refugees?'
+ANSWER     : `teach English | teach English to the refugees | teach them English'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `teach English'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+Comparing Key  `teach English to the refugees'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+Comparing Key  `teach them English'
+      and Resp `One member of the church, Thordis Gutnick, will be spending the next couple of months teaching English to the refugees.'
+
+=> Best match in answer key is:
+   `teach English to the refugees'
+
+Recall    = 0.80 (4/5)
+Precision = 0.20 (4/20)
+F-measure = 0.32
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-3'
+QUESTION   : `Which one of Owen's siblings is a wrestler?'
+ANSWER     : `Bret "Hitman" Hart | Bret Hart'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Bret "Hitman" Hart'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+Comparing Key  `Bret Hart'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+=> Best match in answer key is:
+   `Bret "Hitman" Hart'
+
+Recall    = 1.00 (3/3)
+Precision = 0.09 (3/32)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-5'
+QUESTION   : `What is the average age of people who watch TSN's professional wrestling shows?'
+ANSWER     : `18 to 49'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `18 to 49'
+      and Resp `Keith Pelley, who is vice-president of programming for the Canadian television network TSN (which carries wrestling), says the WWF's ratings are among his network's highest.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/25)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-8'
+QUESTION   : `What will Julie use to document the mission progress?'
+ANSWER     : `video cameras'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `video cameras'
+      and Resp `Her tasks will include unloading and arranging the 2,200 kilograms of equipment being carried to the station for future astronauts; working the remote-control Canadarm while supervising crew members constructing parts of the station, and documenting the mission's progress with video cameras.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.05 (2/41)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-5'
+QUESTION   : `What did Valery Tokarev and Julie Payette change inside the Russian-built Zarya control module?'
+ANSWER     : `electrical meters on batteries that aren't charging properly | electrical meters | electrical meters on batteries'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `electrical meters on batteries that aren't charging properly'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+Comparing Key  `electrical meters'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+Comparing Key  `electrical meters on batteries'
+      and Resp `Inside the Russian-built Zarya control module, Valery Tokarev and Canadian astronaut Julie Payette pulled up the floor and began changing electrical meters on batteries that aren't charging properly.'
+
+=> Best match in answer key is:
+   `electrical meters on batteries that aren't charging properly'
+
+Recall    = 1.00 (8/8)
+Precision = 0.29 (8/28)
+F-measure = 0.44
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-7'
+QUESTION   : `What is the noise level in an office?'
+ANSWER     : `about 60 decibels'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 60 decibels'
+      and Resp `-- about the same as an office environment.'
+
+Recall    = 0.33 (1/3)
+Precision = 0.12 (1/8)
+F-measure = 0.18
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-2'
+QUESTION   : `What are ridings?'
+ANSWER     : `small political regions across the province'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `small political regions across the province'
+      and Resp `Election day began with a controversy, as polls did not open on time in several ridings.'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-10'
+QUESTION   : `What are returning officers?'
+ANSWER     : `the people in charge of a polling station'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the people in charge of a polling station'
+      and Resp `Several returning officers (the people in charge of a  polling station) called in sick.'
+
+Recall    = 1.00 (8/8)
+Precision = 0.57 (8/14)
+F-measure = 0.73
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-4'
+QUESTION   : `What does a litre of milk cost in northern Canada?'
+ANSWER     : `three dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `three dollars'
+      and Resp `Northerners are used to paying more than two dollars for a can of pop,  more than a dollar for an apple and three dollars for a litre of milk.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.07 (2/29)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-3'
+QUESTION   : `Before getting her new position, what was Judge Arbour's job?'
+ANSWER     : `chief prosecutor at the war-crimes tribunal'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `chief prosecutor at the war-crimes tribunal'
+      and Resp `Louise Arbour will become the high court's third female justice when she begins her new job in September.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.06 (1/18)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-7'
+QUESTION   : `What was the president of Yugoslavia indicted for?'
+ANSWER     : `crimes against humanity'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `crimes against humanity'
+      and Resp `-- the first time an international court has charged a sitting head of state with war crimes.'
+
+Recall    = 0.33 (1/3)
+Precision = 0.06 (1/17)
+F-measure = 0.10
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-1-4'
+QUESTION   : `As the NATO troops enter Kosovo, what do many of the residents of Kosovo feel they must do?'
+ANSWER     : `leave the area'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `leave the area'
+      and Resp `But as NATO troops pour into the province, many of its residents feel they must leave.'
+
+Recall    = 0.67 (2/3)
+Precision = 0.12 (2/16)
+F-measure = 0.21
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-2'
+QUESTION   : `Of which province in Canada was Stanley Faulder a native?'
+ANSWER     : `Alberta'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Alberta'
+      and Resp `Cliff Breitkreuz and various people in the province of Alberta or Canada who say it's OK to ignore a violation of international law'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/23)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-3'
+QUESTION   : `What would a stay of execution have allowed?'
+ANSWER     : `Faulder's lawyer to continue her quest to allow him to live'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Faulder's lawyer to continue her quest to allow him to live'
+      and Resp `A "stay of execution" delays the execution, and would have allowed Mr. Faulder's lawyer to continue her quest to allow him to live.'
+
+Recall    = 1.00 (11/11)
+Precision = 0.48 (11/23)
+F-measure = 0.65
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-5'
+QUESTION   : `What has Charlene Gingera been working with the Faulder family to do since 1997'
+ANSWER     : `to try to get human rights groups interested in his case'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `to try to get human rights groups interested in his case'
+      and Resp `Ms. Gingera has been working with the Faulder family since 1997 to try to get human rights groups interested in the case.'
+
+Recall    = 0.91 (10/11)
+Precision = 0.45 (10/22)
+F-measure = 0.61
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-8'
+QUESTION   : `Which member of the Canadian Parliament said that Texas officials should ignore the argument that Faulder's rights were violated when he wasn't told he could contact Canadian consular officials when he was charged with murder?'
+ANSWER     : `Cliff Breitkreuz | Alberta Reform Member of Parliament Cliff Breitkreuz'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Cliff Breitkreuz'
+      and Resp `Ms. Gingera says she was alarmed by comments from Alberta Reform Member of Parliament Cliff Breitkreuz, who wanted Texas officials to ignore the argument that Mr. Faulder's rights were violated when he wasn't told he could contact Canadian consular officials when he was charged with murder.'
+
+Comparing Key  `Alberta Reform Member of Parliament Cliff Breitkreuz'
+      and Resp `Ms. Gingera says she was alarmed by comments from Alberta Reform Member of Parliament Cliff Breitkreuz, who wanted Texas officials to ignore the argument that Mr. Faulder's rights were violated when he wasn't told he could contact Canadian consular officials when he was charged with murder.'
+
+=> Best match in answer key is:
+   `Alberta Reform Member of Parliament Cliff Breitkreuz'
+
+Recall    = 1.00 (7/7)
+Precision = 0.15 (7/46)
+F-measure = 0.26
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-10'
+QUESTION   : `In the last few days before the execution, what were Faulder's relatives hoping for?'
+ANSWER     : `a stay of execution'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `a stay of execution'
+      and Resp `In the last few days, Mr. Faulder's relatives had hoped for a stay of execution but they weren't overly optimistic, she says.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.18 (4/22)
+F-measure = 0.31
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-5-1'
+QUESTION   : `What is a "resident"?'
+ANSWER     : `a new doctor'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a new doctor'
+      and Resp `Soon residents might be learning through 3-D animation programs and virtual patients.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/12)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-5-5'
+QUESTION   : `What do doctors at Mt. Sinai hospital learn on?'
+ANSWER     : `latex intestines | latex simulations | surgical dummies'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `latex intestines'
+      and Resp `The surgical skills centre at Mt. Sinai hospital is a sort of training camp for residents (new doctors).'
+
+Comparing Key  `latex simulations'
+      and Resp `The surgical skills centre at Mt. Sinai hospital is a sort of training camp for residents (new doctors).'
+
+Comparing Key  `surgical dummies'
+      and Resp `The surgical skills centre at Mt. Sinai hospital is a sort of training camp for residents (new doctors).'
+
+=> Best match in answer key is:
+   `surgical dummies'
+
+Recall    = 0.50 (1/2)
+Precision = 0.06 (1/18)
+F-measure = 0.10
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-5-6'
+QUESTION   : `In the future, what might doctors use to perfect their techniques?'
+ANSWER     : `3-D animation programs and virtual patients | 3-D animation programs | virtual patients'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `3-D animation programs and virtual patients'
+      and Resp `"The feedback I have received here has helped me to go home and perfect my technique," says Dr. Douglas Grace.'
+
+Comparing Key  `3-D animation programs'
+      and Resp `"The feedback I have received here has helped me to go home and perfect my technique," says Dr. Douglas Grace.'
+
+Comparing Key  `virtual patients'
+      and Resp `"The feedback I have received here has helped me to go home and perfect my technique," says Dr. Douglas Grace.'
+
+=> Best match in answer key is:
+   `3-D animation programs and virtual patients'
+
+Recall    = 0.17 (1/6)
+Precision = 0.05 (1/20)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-2-3'
+QUESTION   : `Through what are the whales breathing?'
+ANSWER     : `one small hole in the ice | one small hole'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `one small hole in the ice'
+      and Resp `A group of 50 beluga whales is fighting to stay alive in an icy trap in the Canadian Arctic near Ellesmere Island.'
+
+Comparing Key  `one small hole'
+      and Resp `A group of 50 beluga whales is fighting to stay alive in an icy trap in the Canadian Arctic near Ellesmere Island.'
+
+=> Best match in answer key is:
+   `one small hole in the ice'
+
+Recall    = 0.33 (2/6)
+Precision = 0.09 (2/22)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-1'
+QUESTION   : `What is Quebec Premier Lucien Bouchard's special legislation intended to do?'
+ANSWER     : `force the province's 47,000 striking nurses back to work'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `force the province's 47,000 striking nurses back to work'
+      and Resp `The president of the Quebec Federation of Nurses says she will not obey back-to-work legislation that Premier Lucien Bouchard is expected to introduce later today.'
+
+Recall    = 0.33 (3/9)
+Precision = 0.12 (3/25)
+F-measure = 0.18
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-2'
+QUESTION   : `Under Bouchard's legislation, what could be imposed on the leaders of the nurses' union if they do not call off the strike immediately?'
+ANSWER     : `jail sentences'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `jail sentences'
+      and Resp `The legislation could impose jail sentences on the leaders of the nurses' union if they do not call off the strike immediately.'
+
+Recall    = 1.00 (2/2)
+Precision = 0.09 (2/22)
+F-measure = 0.17
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-6'
+QUESTION   : `What are many drivers doing to show their support for the nurses on strike?'
+ANSWER     : `honking their horns'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `honking their horns'
+      and Resp `Many drivers are honking their horns to show their support.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.30 (3/10)
+F-measure = 0.46
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-5-7'
+QUESTION   : `What does this new discovery of dinosaur bones tell us about the Antarctic?'
+ANSWER     : `it was once much warmer than it is now'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `it was once much warmer than it is now'
+      and Resp `Scientists in the Antarctic have discovered some very old dinosaur bones, including partial skeletons, whole jaws and teeth.'
+
+Recall    = 0.00 (0/9)
+Precision = 0.00 (0/18)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-2-3'
+QUESTION   : `What is personal income?'
+ANSWER     : `how much money a person earns'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `how much money a person earns'
+      and Resp `These statistics include life expectancy (how long a person lives), quality of education, and personal income (how much money a person earns).'
+
+Recall    = 0.83 (5/6)
+Precision = 0.23 (5/22)
+F-measure = 0.36
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-2-6'
+QUESTION   : `In what year did Canadians earn an average of $16,525 US?'
+ANSWER     : `1997'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1997'
+      and Resp `Canadians earned $16,525 US a year in 1997.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.12 (1/8)
+F-measure = 0.22
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-1-2'
+QUESTION   : `What does it mean when a "search and rescue" mission becomes a "search and recovery" mission?'
+ANSWER     : `there is little hope of finding any survivors'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `there is little hope of finding any survivors'
+      and Resp `They have turned the search and rescue mission into one of search and recovery.'
+
+Recall    = 0.12 (1/8)
+Precision = 0.07 (1/14)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-2-6'
+QUESTION   : `What party is Glen Clark the leader of in B.C.?'
+ANSWER     : `the New Democratic Party'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the New Democratic Party'
+      and Resp `Glen Clark has been involved in a series of scandals during his time as B.C. Premier.'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-2'
+QUESTION   : `What type of illness is shellfish asthma?'
+ANSWER     : `an allergy | an allergy that gives a person flu-like symptoms'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `an allergy'
+      and Resp `They feel there should be protection for employees who have trouble working because of shellfish asthma.'
+
+Comparing Key  `an allergy that gives a person flu-like symptoms'
+      and Resp `They feel there should be protection for employees who have trouble working because of shellfish asthma.'
+
+=> Best match in answer key is:
+   `an allergy'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-3'
+QUESTION   : `Which types of shellfish cause the illness?'
+ANSWER     : `crab and shrimp'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `crab and shrimp'
+      and Resp `They feel there should be protection for employees who have trouble working because of shellfish asthma.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/16)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-5-7'
+QUESTION   : `What modern animals do wooly mammoths look most like?'
+ANSWER     : `modern-day Asian elephants | Asian elephants | elephants'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `modern-day Asian elephants'
+      and Resp `A wooly mammoth that was mummified 23,000 years ago, will be dug out of the frozen ground by a group of international scientists.'
+
+Comparing Key  `Asian elephants'
+      and Resp `A wooly mammoth that was mummified 23,000 years ago, will be dug out of the frozen ground by a group of international scientists.'
+
+Comparing Key  `elephants'
+      and Resp `A wooly mammoth that was mummified 23,000 years ago, will be dug out of the frozen ground by a group of international scientists.'
+
+=> Best match in answer key is:
+   `modern-day Asian elephants'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/23)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-2-1'
+QUESTION   : `What is the name of the Labrador Inuit homeland?'
+ANSWER     : `Nunasiavut'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Nunasiavut'
+      and Resp `The Labrador Inuit have voted yes on a deal that would allow them to create their own Inuit homeland called Nunasiavut.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-2-4'
+QUESTION   : `What are native claims?'
+ANSWER     : `modern agreements that provide an aboriginal group with land, resources and some power to govern themselves'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `modern agreements that provide an aboriginal group with land, resources and some power to govern themselves'
+      and Resp `Native land claims are modern agreements that provide an aboriginal group with land, resources and some power to govern themselves.'
+
+Recall    = 1.00 (16/16)
+Precision = 0.80 (16/20)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-3-1'
+QUESTION   : `What birthday is the Queen Mum celebrating?'
+ANSWER     : `99th | her 99th'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `99th'
+      and Resp `People from all over Britain lined up to catch a glimpse of their favourite royal grandmother, and help the Queen Mother celebrate her 99th birthday on Wednesday.'
+
+Comparing Key  `her 99th'
+      and Resp `People from all over Britain lined up to catch a glimpse of their favourite royal grandmother, and help the Queen Mother celebrate her 99th birthday on Wednesday.'
+
+=> Best match in answer key is:
+   `her 99th'
+
+Recall    = 1.00 (2/2)
+Precision = 0.07 (2/27)
+F-measure = 0.14
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-3-4'
+QUESTION   : `What injury did the Queen Mum suffer last winter'
+ANSWER     : `broken hip | broke her hip'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `broken hip'
+      and Resp `The Queen Mum is the mother of Queen Elizabeth II.'
+
+Comparing Key  `broke her hip'
+      and Resp `The Queen Mum is the mother of Queen Elizabeth II.'
+
+=> Best match in answer key is:
+   `broken hip'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-4-7'
+QUESTION   : `What do anti-smoking organizations think about the cigarette packaging plan?'
+ANSWER     : `They have applauded the strategy | The Non-Smokers Rights Association says the labels will give people a graphic reminder of the harmful effects of smoking a cigarette.'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `They have applauded the strategy'
+      and Resp `Anti-smoking organizations  have applauded the strategy.'
+
+Comparing Key  `The Non-Smokers Rights Association says the labels will give people a graphic reminder of the harmful effects of smoking a cigarette.'
+      and Resp `Anti-smoking organizations  have applauded the strategy.'
+
+=> Best match in answer key is:
+   `They have applauded the strategy'
+
+Recall    = 0.80 (4/5)
+Precision = 0.67 (4/6)
+F-measure = 0.73
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-5-1'
+QUESTION   : `What do Jerry's glasses have on them?'
+ANSWER     : `a tiny camera and an ultrasonic rangefinder'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `a tiny camera and an ultrasonic rangefinder'
+      and Resp `The computer sends signals to small electrodes on the surface of Jerry's brain,  using wires entering his skull behind his right ear.'
+
+Recall    = 0.00 (0/7)
+Precision = 0.00 (0/22)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-9'
+QUESTION   : `What is the "holy kiss" still a part of?'
+ANSWER     : `Roman Catholic rituals'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `Roman Catholic rituals'
+      and Resp `The ancient Greeks and Romans Early Christians greeted one another with a kiss, and this "holy kiss" is still a part of Roman Catholic rituals, such as when a bishop kisses a newly ordained priest.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.09 (3/35)
+F-measure = 0.16
+
+
+
+Finished processing 127 questions, 127 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.5808  (73.76 / 127)
+AVERAGE PRECISION = 0.1764  (22.41 / 127)
+AVERAGE F-MEASURE = 0.2706
+
+*************************************************************************

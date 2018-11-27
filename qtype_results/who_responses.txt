@@ -1,0 +1,261 @@
+QuestionID: 1999-W02-5-2
+Answer: Queens Aucoin
+
+QuestionID: 1999-W02-5-5
+Answer: Betty Jean Aucoin Nova Scotia
+
+QuestionID: 1999-W03-5-9
+Answer: Noella "Babe" MacLean Canada
+
+QuestionID: 1999-W04-5-3
+Answer: Yashin
+
+QuestionID: 1999-W06-2-1
+Answer:   Wiarton Canadian
+
+QuestionID: 1999-W06-2-3
+Answer: Wiarton Willie
+
+QuestionID: 1999-W06-2-8
+Answer: Willie Wiarton
+
+QuestionID: 1999-W06-3-1
+Answer: Ontario Grade 12
+
+QuestionID: 1999-W06-4-2
+Answer: Bedouin
+
+QuestionID: 1999-W07-2-7
+Answer: Babe Ruth Lou Gehrig
+
+QuestionID: 1999-W07-4-8
+Answer: Winnipeger Bill Juzda
+
+QuestionID: 1999-W08-3-8
+Answer: National Post Geoffrey Dewis Vancouver
+
+QuestionID: 1999-W08-4-1
+Answer:   Violent Kurds Kurdish
+
+QuestionID: 1999-W09-4-1
+Answer: Patti Page
+
+QuestionID: 1999-W09-4-7
+Answer: Grammys Celine Dion
+
+QuestionID: 1999-W09-4-9
+Answer: Will Smith Gettin Jiggy Wit
+
+QuestionID: 1999-W10-1-1
+Answer: Meadowvale Secondary School
+
+QuestionID: 1999-W10-1-7
+Answer: CBC Newsworld Meadowvale YNN Montreal Athena Educational Partners Inc. Laurie Pedwell YNN
+
+QuestionID: 1999-W10-2-7
+Answer: Kofi Annan
+
+QuestionID: 1999-W10-3-4
+Answer: Wang Chinese Beijing
+
+QuestionID: 1999-W10-3-7
+Answer: China
+
+QuestionID: 1999-W10-4-3
+Answer: The Health Department the Food and Drug Administration the United States
+
+QuestionID: 1999-W10-5-1
+Answer: Armine Yalnizyan
+
+QuestionID: 1999-W11-2-4
+Answer: the Department of Indian and Northern Affairs the Canadian Arctic Indigenous Peoples Against
+
+QuestionID: 1999-W11-2-9
+Answer: Inuit Canada
+
+QuestionID: 1999-W11-5-4
+Answer: Francois Gendron Parti Quebecois
+
+QuestionID: 1999-W12-3-1
+Answer: Clarke
+
+QuestionID: 1999-W12-4-6
+Answer: Tyrell
+
+QuestionID: 1999-W12-5-2
+Answer: Bantam Dauphin Waywayseecappo First Nation Native Bushie
+
+QuestionID: 1999-W13-3-6
+Answer: Yugoslav
+
+QuestionID: 1999-W13-5-6
+Answer: Serbian Canadians Canadian
+
+QuestionID: 1999-W13-5-9
+Answer: Defence the House of Commons
+
+QuestionID: 1999-W14-1-6
+Answer: Katherine Fithen
+
+QuestionID: 1999-W14-1-7
+Answer: Katherine Fithen
+
+QuestionID: 1999-W14-3-2
+Answer: Newfoundland
+
+QuestionID: 1999-W14-3-9
+Answer: Newfoundlander John Crosbie Conservative Brian Mulroney
+
+QuestionID: 1999-W14-3-9
+Answer: Newfoundlander John Crosbie Conservative Brian Mulroney
+
+QuestionID: 1999-W14-5-3
+Answer: Ken Corley's Sisler High School CNN
+
+QuestionID: 1999-W15-2-5
+Answer: Snow Day Syracuse
+
+QuestionID: 1999-W15-4-5
+Answer: Looting Mexico
+
+QuestionID: 1999-W15-5-8
+Answer: British Columbia Dosanjn
+
+QuestionID: 1999-W16-3-8
+Answer: Manitoba Grade Hepatitis B.  
+
+QuestionID: 1999-W16-4-2
+Answer: Cambridge Massachusetts Chinese Tibet
+
+QuestionID: 1999-W16-4-5
+Answer: James Pilgram the Canada-Tibet Committee Tibetan
+
+QuestionID: 1999-W16-5-9
+Answer: Environment Ministry Neil Peters
+
+QuestionID: 1999-W17-1-2
+Answer: Lemieux Mark Messier the Edmonton Oilers
+
+QuestionID: 1999-W17-1-10
+Answer: Lemieux Mark Messier
+
+QuestionID: 1999-W17-3-4
+Answer: Jefferson County Sheriff John Stone
+
+QuestionID: 1999-W17-3-10
+Answer: Jefferson County Sheriff John Stone
+
+QuestionID: 1999-W17-5-4
+Answer: Kurt Moench
+
+QuestionID: 1999-W17-5-10
+Answer: Teresa Woo-Paw
+
+QuestionID: 1999-W18-3-4
+Answer: Jeffrey Turner
+
+QuestionID: 1999-W18-4-2
+Answer:   Pastor Ken Gartly Alberta
+
+QuestionID: 1999-W18-4-5
+Answer:   Pastor Ken Gartly Alberta
+
+QuestionID: 1999-W19-1-8
+Answer: Cinq-Mars
+
+QuestionID: 1999-W19-2-3
+Answer: Oklahoma City
+
+QuestionID: 1999-W19-4-4
+Answer: Kosovo
+
+QuestionID: 1999-W19-5-5
+Answer: Glen Cummings
+
+QuestionID: 1999-W20-5-9
+Answer: Lau
+
+QuestionID: 1999-W21-3-4
+Answer: Ken
+
+QuestionID: 1999-W21-5-4
+Answer: the Council of Canadians  
+
+QuestionID: 1999-W22-2-8
+Answer: B.C. Kosovo
+
+QuestionID: 1999-W22-3-1
+Answer: Owen Owen Ellie Hart
+
+QuestionID: 1999-W22-4-9
+Answer: Zarya
+
+QuestionID: 1999-W22-4-11
+Answer: Jean Chretien Montrealer
+
+QuestionID: 1999-W22-5-4
+Answer: Joe Hordyski
+
+QuestionID: 1999-W23-1-2
+Answer: Astronaut Tamara Jernigan Russian Valery Tokarev
+
+QuestionID: 1999-W23-5-4
+Answer: Dalton McGuinty the New Democratic Party Howard Hampton
+
+QuestionID: 1999-W23-5-8
+Answer:  
+
+QuestionID: 1999-W24-5-2
+Answer: Louise Arbour  
+
+QuestionID: 1999-W24-5-5
+Answer: Earl Levy
+
+QuestionID: 1999-W25-1-2
+Answer: NATO Yugoslav
+
+QuestionID: 1999-W27-2-4
+Answer: Beluga
+
+QuestionID: 1999-W27-5-4
+Answer: Quebec Federation Nurses the Executive of the Federation
+
+QuestionID: 1999-W27-5-8
+Answer: Quebec
+
+QuestionID: 1999-W28-5-3
+Answer:   Scientists Antarctic
+
+QuestionID: 1999-W29-2-5
+Answer: Canada
+
+QuestionID: 1999-W29-5-1
+Answer: the United States the White House Clinton
+
+QuestionID: 1999-W30-1-4
+Answer: John Jr's U.S. John F. Kennedy Dallas
+
+QuestionID: 1999-W30-2-4
+Answer: British Columbia
+
+QuestionID: 1999-W30-3-1
+Answer: Shellfish
+
+QuestionID: 1999-W30-5-2
+Answer: Mammoths Asian
+
+QuestionID: 1999-W32-3-5
+Answer: The Queen Mum Queen Elizabeth II
+
+QuestionID: 2000-W03-4-1
+Answer: Rob Parker
+
+QuestionID: 2000-W03-4-5
+Answer: Parker
+
+QuestionID: 2000-W03-5-4
+Answer: Jerry - the
+
+QuestionID: 2000-W06-4-6
+Answer: Kachmar
+

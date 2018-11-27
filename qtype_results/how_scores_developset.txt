@@ -1,0 +1,825 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W04-5-8'
+QUESTION   : `How would Alexi's parents have benefited from his donation to the National Arts Centre?'
+ANSWER     : `they would earn $85,000 a year  | the National Arts Centre would have hired them at $85,000 a year'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `they would earn $85,000 a year'
+      and Resp `It was the most famous donation ever to the National Arts Centre.'
+
+Comparing Key  `the National Arts Centre would have hired them at $85,000 a year'
+      and Resp `It was the most famous donation ever to the National Arts Centre.'
+
+=> Best match in answer key is:
+   `the National Arts Centre would have hired them at $85,000 a year'
+
+Recall    = 0.33 (4/12)
+Precision = 0.33 (4/12)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-3-5'
+QUESTION   : `According to Johnson, how might a student's sloppy clothing affect them?'
+ANSWER     : `it could flow over into their learning habits and make it difficult to conduct proper teaching | it could affect their learning habits'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `it could flow over into their learning habits and make it difficult to conduct proper teaching'
+      and Resp `"If students are dressed in a sloppy manner, that kind of habit and dress may flow over into their learning habits and make it difficult to conduct proper teaching," he said.'
+
+Comparing Key  `it could affect their learning habits'
+      and Resp `"If students are dressed in a sloppy manner, that kind of habit and dress may flow over into their learning habits and make it difficult to conduct proper teaching," he said.'
+
+=> Best match in answer key is:
+   `it could flow over into their learning habits and make it difficult to conduct proper teaching'
+
+Recall    = 0.81 (13/16)
+Precision = 0.42 (13/31)
+F-measure = 0.55
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-4'
+QUESTION   : `How did an Ottawa police officer get burned?'
+ANSWER     : `demonstrators hurled a gasoline bomb'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `demonstrators hurled a gasoline bomb'
+      and Resp `In Ottawa on Wednesday, Kurdish demonstrators hurled a gasoline bomb at a police line, setting one officer on fire.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.26 (5/19)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-3-7'
+QUESTION   : `According to their Quebec office, how did McDonald's feel about the vote to unionize the Montreal franchise?'
+ANSWER     : `they welcomed the vote | it's the fairest and most responsible way to resolve the question of union representation'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `they welcomed the vote'
+      and Resp `A statement from McDonald's Quebec regional office welcomed the vote.'
+
+Comparing Key  `it's the fairest and most responsible way to resolve the question of union representation'
+      and Resp `A statement from McDonald's Quebec regional office welcomed the vote.'
+
+=> Best match in answer key is:
+   `they welcomed the vote'
+
+Recall    = 0.75 (3/4)
+Precision = 0.30 (3/10)
+F-measure = 0.43
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-5-3'
+QUESTION   : `How is Alberta's economy doing?'
+ANSWER     : `well | It's growing'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `well'
+      and Resp `When Yalnizyan looked at the Alberta data, she discovered that while Alberta's economy is growing, the difference between the rich and poor is expanding more rapidly than anywhere else in Canada.'
+
+Comparing Key  `It's growing'
+      and Resp `When Yalnizyan looked at the Alberta data, she discovered that while Alberta's economy is growing, the difference between the rich and poor is expanding more rapidly than anywhere else in Canada.'
+
+=> Best match in answer key is:
+   `It's growing'
+
+Recall    = 0.50 (1/2)
+Precision = 0.03 (1/31)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-5'
+QUESTION   : `How does Mills convince her family members to eat fish?'
+ANSWER     : `talks to them and explains that the contaminants concentrate in specific parts, so they don't have to stop eating the animals | explains that the contaminants concentrate in specific parts, so they don't have to stop eating the animals'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `talks to them and explains that the contaminants concentrate in specific parts, so they don't have to stop eating the animals'
+      and Resp `"The contamination of animals is confusing and sometimes even alarming, and even my own family members have sometimes stopped eating fish until I could talk to them and explain that the contaminants do concentrate in specific parts, so you don't have to stop eating the animals," she says.'
+
+Comparing Key  `explains that the contaminants concentrate in specific parts, so they don't have to stop eating the animals'
+      and Resp `"The contamination of animals is confusing and sometimes even alarming, and even my own family members have sometimes stopped eating fish until I could talk to them and explain that the contaminants do concentrate in specific parts, so you don't have to stop eating the animals," she says.'
+
+=> Best match in answer key is:
+   `talks to them and explains that the contaminants concentrate in specific parts, so they don't have to stop eating the animals'
+
+Recall    = 0.86 (18/21)
+Precision = 0.38 (18/48)
+F-measure = 0.52
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-3-1'
+QUESTION   : `How does Newfoundland intend to use a film of seals feasting on cod?'
+ANSWER     : `to increase the seal hunt'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `to increase the seal hunt'
+      and Resp `The footage, filmed last week by fishermen using government supplied equipment, shows the ocean floor after a group of seals crowded cod into a bay and started feasting.'
+
+Recall    = 0.20 (1/5)
+Precision = 0.04 (1/28)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-5-6'
+QUESTION   : `How does the president of the Alliance Quebec English-rights lobby describe Laurin's masterwork, Bill 101?'
+ANSWER     : `as an attempt to "wipe out bilingualism" in Canada'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `as an attempt to "wipe out bilingualism" in Canada'
+      and Resp `But the president of the Alliance Quebec English-rights lobby condemned Laurin's masterwork as an attempt to "wipe out bilingualism" in Canada.'
+
+Recall    = 1.00 (9/9)
+Precision = 0.43 (9/21)
+F-measure = 0.60
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-5-8'
+QUESTION   : `How do Quebec nationalists credit Bill 101?'
+ANSWER     : `as helping preserve the French language | as helping to preserve the French language in a sea of English in North America'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `as helping preserve the French language'
+      and Resp `Bill 101 is credited by Quebec nationalists as helping preserve the French language in a sea of English in North America.'
+
+Comparing Key  `as helping to preserve the French language in a sea of English in North America'
+      and Resp `Bill 101 is credited by Quebec nationalists as helping preserve the French language in a sea of English in North America.'
+
+=> Best match in answer key is:
+   `as helping to preserve the French language in a sea of English in North America'
+
+Recall    = 0.93 (14/15)
+Precision = 0.67 (14/21)
+F-measure = 0.78
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-3-10'
+QUESTION   : `How do camels like to be spoken to?'
+ANSWER     : `softly | nicely | you have to be nice to it, you have to talk softly and show your love'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `softly'
+      and Resp `Clarke spoke from the comfort of a hotel room in Abu Dhabi and recalled the desert s challenges: threatening quicksand, mountainous sand dunes and blazing heat.'
+
+Comparing Key  `nicely'
+      and Resp `Clarke spoke from the comfort of a hotel room in Abu Dhabi and recalled the desert s challenges: threatening quicksand, mountainous sand dunes and blazing heat.'
+
+Comparing Key  `you have to be nice to it, you have to talk softly and show your love'
+      and Resp `Clarke spoke from the comfort of a hotel room in Abu Dhabi and recalled the desert s challenges: threatening quicksand, mountainous sand dunes and blazing heat.'
+
+=> Best match in answer key is:
+   `you have to be nice to it, you have to talk softly and show your love'
+
+Recall    = 0.06 (1/16)
+Precision = 0.04 (1/26)
+F-measure = 0.05
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-4-5'
+QUESTION   : `How would Tyrell prefer to treat his medical condition?'
+ANSWER     : `herbal remedies, doses of vitamins and a special diet | herbal and vitamin treatments'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `herbal remedies, doses of vitamins and a special diet'
+      and Resp `A psychiatrist who talked to Tyrell to find out what he knew about his condition told the court that the boy hasn t received enough medical information.'
+
+Comparing Key  `herbal and vitamin treatments'
+      and Resp `A psychiatrist who talked to Tyrell to find out what he knew about his condition told the court that the boy hasn t received enough medical information.'
+
+=> Best match in answer key is:
+   `herbal remedies, doses of vitamins and a special diet'
+
+Recall    = 0.11 (1/9)
+Precision = 0.04 (1/27)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-5-6'
+QUESTION   : `How should politicians respond to racism, according to Bushie?'
+ANSWER     : `encourage racial tolerance'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `encourage racial tolerance'
+      and Resp `Bushie called on politicians to encourage racial tolerance.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.38 (3/8)
+F-measure = 0.55
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-1-3'
+QUESTION   : `How would doctors have conventionally treated Tyrell's cancer?'
+ANSWER     : `chemotherapy and at least the partial amputation of his leg'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `chemotherapy and at least the partial amputation of his leg'
+      and Resp `Instead the doctors discovered that cancer has spread from Tyrell's leg into his lungs.'
+
+Recall    = 0.30 (3/10)
+Precision = 0.21 (3/14)
+F-measure = 0.25
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-7'
+QUESTION   : `How has Milosevic described the problems in Kosovo?'
+ANSWER     : `as an internal Yugoslav matter'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `as an internal Yugoslav matter'
+      and Resp `The Yugoslav leader insists the problems in Kosovo are an internal Yugoslav matter.'
+
+Recall    = 0.80 (4/5)
+Precision = 0.31 (4/13)
+F-measure = 0.44
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-2'
+QUESTION   : `How does the virus trick people into thinking they've received an e-mail from a person they know?'
+ANSWER     : `the virus takes real addresses out of a users own address books | the virus reads the user's e-mail address book and sends an infected message to the first 50 entries'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the virus takes real addresses out of a users own address books'
+      and Resp `Users may think they are receiving e-mail from a friend because the virus takes real addresses out of a users own address books.'
+
+Comparing Key  `the virus reads the user's e-mail address book and sends an infected message to the first 50 entries'
+      and Resp `Users may think they are receiving e-mail from a friend because the virus takes real addresses out of a users own address books.'
+
+=> Best match in answer key is:
+   `the virus takes real addresses out of a users own address books'
+
+Recall    = 1.00 (12/12)
+Precision = 0.52 (12/23)
+F-measure = 0.69
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-3'
+QUESTION   : `How did Hudon's relatives get him freed from jail?'
+ANSWER     : `paid a $1,200 fine'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `paid a $1,200 fine'
+      and Resp `He was set free after relatives paid a $1,200 fine.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.40 (4/10)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-4'
+QUESTION   : `How did Pascal Hudon react when he was set free from jail, according to his mother?'
+ANSWER     : `he shouted with joy'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `he shouted with joy'
+      and Resp `Mr. Hudon has said he had intended to hand over the pottery to authorities, but before he had a chance to do so, he was stopped by police.'
+
+Recall    = 0.25 (1/4)
+Precision = 0.04 (1/28)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-5-9'
+QUESTION   : `How have provincial officials responded to the ombudsman's report?'
+ANSWER     : `they are studying the report and preparing a response'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they are studying the report and preparing a response'
+      and Resp `Provincial officials are studying the report and preparing a response.'
+
+Recall    = 0.89 (8/9)
+Precision = 0.80 (8/10)
+F-measure = 0.84
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-4-8'
+QUESTION   : `How did Zhu respond to questions about a prominent dissident?'
+ANSWER     : `by saying human rights in China have improved | He acknowledged some shortcomings | "As for any individual case, I don't think this is the appropriate time to go into details."'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `by saying human rights in China have improved'
+      and Resp `Following a speech at the Massachusetts Institute of Technology, Zhu responded to questions about a prominent dissident by saying human rights in China have improved.'
+
+Comparing Key  `He acknowledged some shortcomings'
+      and Resp `Following a speech at the Massachusetts Institute of Technology, Zhu responded to questions about a prominent dissident by saying human rights in China have improved.'
+
+Comparing Key  `"As for any individual case, I don't think this is the appropriate time to go into details."'
+      and Resp `Following a speech at the Massachusetts Institute of Technology, Zhu responded to questions about a prominent dissident by saying human rights in China have improved.'
+
+=> Best match in answer key is:
+   `by saying human rights in China have improved'
+
+Recall    = 1.00 (8/8)
+Precision = 0.32 (8/25)
+F-measure = 0.48
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-5-3'
+QUESTION   : `How large is the Fraser River watershed?'
+ANSWER     : `nearly one quarter of a million square kilometers | larger than the area of Great Britain'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `nearly one quarter of a million square kilometers'
+      and Resp `Catastrophic flooding is possible in British Columbia's Fraser Valley this year, because an estimated 150 kilometres of dikes along the banks of the Fraser River are at risk, officials say.'
+
+Comparing Key  `larger than the area of Great Britain'
+      and Resp `Catastrophic flooding is possible in British Columbia's Fraser Valley this year, because an estimated 150 kilometres of dikes along the banks of the Fraser River are at risk, officials say.'
+
+=> Best match in answer key is:
+   `larger than the area of Great Britain'
+
+Recall    = 0.29 (2/7)
+Precision = 0.07 (2/30)
+F-measure = 0.11
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-8'
+QUESTION   : `How will Wayne Gretzky be competing again?'
+ANSWER     : `bowling | bowling at a party with teammates'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `bowling'
+      and Resp `Later today Wayne Gretzky will be competing again.'
+
+Comparing Key  `bowling at a party with teammates'
+      and Resp `Later today Wayne Gretzky will be competing again.'
+
+=> Best match in answer key is:
+   `bowling'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/8)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-3'
+QUESTION   : `How did Sefa's family reach the Albanian border?'
+ANSWER     : `walked'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `walked'
+      and Resp `While most of Sefa's family made the trip to the Albanian capital of Tirana safely, his youngest son, Orland, 23, never showed up.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/23)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-2'
+QUESTION   : `How did the first inhabitants of North America get here?'
+ANSWER     : `crossed a land bridge from Asia into what is now Alaska | crossed a land bridge'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `crossed a land bridge from Asia into what is now Alaska'
+      and Resp `The previously accepted theory about the populating of North America was that the first inhabitants crossed a land bridge from Asia into what is now Alaska roughly 10,000 to 11,000 years ago, after the last Ice Age.'
+
+Comparing Key  `crossed a land bridge'
+      and Resp `The previously accepted theory about the populating of North America was that the first inhabitants crossed a land bridge from Asia into what is now Alaska roughly 10,000 to 11,000 years ago, after the last Ice Age.'
+
+=> Best match in answer key is:
+   `crossed a land bridge from Asia into what is now Alaska'
+
+Recall    = 1.00 (11/11)
+Precision = 0.30 (11/37)
+F-measure = 0.46
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-9'
+QUESTION   : `How do scientists rank tornados?'
+ANSWER     : `the Fujita scale | Fujita scale of intensity'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the Fujita scale'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+Comparing Key  `Fujita scale of intensity'
+      and Resp `Scientists rank tornadoes on the Fujita scale of intensity, named after a University of Chicago researcher.'
+
+=> Best match in answer key is:
+   `Fujita scale of intensity'
+
+Recall    = 1.00 (4/4)
+Precision = 0.25 (4/16)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-2'
+QUESTION   : `How will many of the Kosovo refugees spend their time in Canada?'
+ANSWER     : `dreaming of returning home'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `dreaming of returning home'
+      and Resp `They told waiting reporters they were grateful for the safety Canada provides, but it was clear many will spend their time in Canada dreaming of returning home.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.15 (4/27)
+F-measure = 0.26
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-6'
+QUESTION   : `How did Bob Thomas What describe forest conditions right now?'
+ANSWER     : `volatile'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `volatile'
+      and Resp `"Our forest conditions right now are volatile," said Bob Thomas, information officer for the provincial response centre.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/17)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-3'
+QUESTION   : `How is diabetes currently controlled?'
+ANSWER     : `proper diet, exercise and insulin'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `proper diet, exercise and insulin'
+      and Resp `Diabetics are at risk of blindness, circulatory problems, heart disease and kidney failure, but with proper diet, exercise and insulin, it can be controlled.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.21 (5/24)
+F-measure = 0.34
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-3'
+QUESTION   : `How did Mark Churchill describe the movie, "The Phantom Menace"?'
+ANSWER     : `"definitely a five-star movie"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `"definitely a five-star movie"'
+      and Resp `Mark says it's "definitely a five star movie."'
+
+Recall    = 0.50 (2/4)
+Precision = 0.25 (2/8)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-8'
+QUESTION   : `How has the pipeline project been proved safe, according to Gerry White?'
+ANSWER     : `after two and one-half years of environmental impact studies | environmental impact studies'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `after two and one-half years of environmental impact studies'
+      and Resp `After two and a half years of environmental impact studies, he says he's proven the project is safe. "'
+
+Comparing Key  `environmental impact studies'
+      and Resp `After two and a half years of environmental impact studies, he says he's proven the project is safe. "'
+
+=> Best match in answer key is:
+   `after two and one-half years of environmental impact studies'
+
+Recall    = 0.89 (8/9)
+Precision = 0.44 (8/18)
+F-measure = 0.59
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-2'
+QUESTION   : `How did Owen Hart die?'
+ANSWER     : `he fell | he fell 18 metres'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `he fell'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+Comparing Key  `he fell 18 metres'
+      and Resp `Yesterday brother Bret "Hitman" Hart, also a wrestler, told an American televison network that Owen was  uneasy about the stunt, "but somehow over the weekend he got talked into doing it again."'
+
+=> Best match in answer key is:
+   `he fell'
+
+Recall    = 0.50 (1/2)
+Precision = 0.03 (1/32)
+F-measure = 0.06
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-6'
+QUESTION   : `How high was the fire in the industrial area of town?'
+ANSWER     : `six metres above the trees'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `six metres above the trees'
+      and Resp `The fire shot six metres above the trees as it roared through the industrial area of town.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.29 (5/17)
+F-measure = 0.45
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-6'
+QUESTION   : `How did the crew reduce the noise level from fans inside Zarya?'
+ANSWER     : `insulation | with insulation'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `insulation'
+      and Resp `Earlier, the crew installed insulation around some fans inside Zarya to reduce the noise level, which Mr. Barry said measured up to 67 decibels.'
+
+Comparing Key  `with insulation'
+      and Resp `Earlier, the crew installed insulation around some fans inside Zarya to reduce the noise level, which Mr. Barry said measured up to 67 decibels.'
+
+=> Best match in answer key is:
+   `insulation'
+
+Recall    = 1.00 (1/1)
+Precision = 0.04 (1/24)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-1'
+QUESTION   : `How did Ontario Premier Mike Harris describe his re-election campaign?'
+ANSWER     : `the hardest-fought campaign in recent memory'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the hardest-fought campaign in recent memory'
+      and Resp `Premier Mike Harris says his re-election victory last night is an order for him to carry out another ambitious plan for the province.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.04 (1/23)
+F-measure = 0.07
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-1-9'
+QUESTION   : `According to NATO spokesman Jamie Shea, how is troop deployment going?'
+ANSWER     : `"very smoothly" and slightly ahead of schedule | "very smoothly" | slightly ahead of schedule'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `"very smoothly" and slightly ahead of schedule'
+      and Resp `NATO spokesman Jamie Shea says troop deployment is going "very smoothly" and is slightly ahead of schedule.'
+
+Comparing Key  `"very smoothly"'
+      and Resp `NATO spokesman Jamie Shea says troop deployment is going "very smoothly" and is slightly ahead of schedule.'
+
+Comparing Key  `slightly ahead of schedule'
+      and Resp `NATO spokesman Jamie Shea says troop deployment is going "very smoothly" and is slightly ahead of schedule.'
+
+=> Best match in answer key is:
+   `"very smoothly" and slightly ahead of schedule'
+
+Recall    = 1.00 (7/7)
+Precision = 0.41 (7/17)
+F-measure = 0.58
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-4'
+QUESTION   : `How was Faulder killed?'
+ANSWER     : `by an injection of deadly chemicals'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `by an injection of deadly chemicals'
+      and Resp `Texas Governor and presidential candidate George W. Bush refused to grant a stay of the execution, saying there was no new evidence that questioned the jury's verdict in the death of Inez Phillips, who Faulder was convicted of killing in 1977.'
+
+Recall    = 0.17 (1/6)
+Precision = 0.02 (1/41)
+F-measure = 0.04
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-9'
+QUESTION   : `How was Faulder on the day of his execution, according to Charlene Gingera?'
+ANSWER     : `peaceful'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `peaceful'
+      and Resp `She was referring to the fact that both Canada's Foreign Affairs Minister Lloyd Axworthy and his U.S. counterpart, Madeleine Albright, agreed Faulder was denied his international rights because Texas officials failed to tell Canadian diplomats that he was in jail.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/40)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W26-5-4'
+QUESTION   : `How does a doctor usually learn how to perform operations?'
+ANSWER     : `by practising on real, live human patients'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `by practising on real, live human patients'
+      and Resp `Usually, a when doctors are being trained to perform operations, they learn by practising on real, live human patients -- something patients are not always happy about.'
+
+Recall    = 1.00 (7/7)
+Precision = 0.26 (7/27)
+F-measure = 0.41
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-2-6'
+QUESTION   : `How are the bears killing the whales?'
+ANSWER     : `the bears jump onto the whales and tear chunks out of them'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the bears jump onto the whales and tear chunks out of them'
+      and Resp `When they come up, the bears jump onto the whales and tear chunks out of them.'
+
+Recall    = 1.00 (12/12)
+Precision = 0.75 (12/16)
+F-measure = 0.86
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-10'
+QUESTION   : `How will some Quebec doctors respond unless the Premier comes up with more money for health care'
+ANSWER     : `they will resign | resign'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `they will resign'
+      and Resp `Some doctors have said they will resign unless the Premier comes up with more money for health care.'
+
+Comparing Key  `resign'
+      and Resp `Some doctors have said they will resign unless the Premier comes up with more money for health care.'
+
+=> Best match in answer key is:
+   `they will resign'
+
+Recall    = 1.00 (3/3)
+Precision = 0.17 (3/18)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-5-4'
+QUESTION   : `How did the two teenage gunmen at Columbine High School die?'
+ANSWER     : `killed themselves'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `killed themselves'
+      and Resp `Included in the group were six students from Columbine High School in Littleton, Colorado.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/14)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-5-6'
+QUESTION   : `How does President Clinton hope to put an end to school shootings?'
+ANSWER     : `by limiting access to guns'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `by limiting access to guns'
+      and Resp `By limiting access to guns, President Clinton hopes to put an end to school shootings like the one in Littleton.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.25 (5/20)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-1-5'
+QUESTION   : `How did John Jr's father die?'
+ANSWER     : `assassinated | he was assassinated in Dallas'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `assassinated'
+      and Resp `In 1963, John Jr's father, U.S. President John F. Kennedy, was assassinated in Dallas.'
+
+Comparing Key  `he was assassinated in Dallas'
+      and Resp `In 1963, John Jr's father, U.S. President John F. Kennedy, was assassinated in Dallas.'
+
+=> Best match in answer key is:
+   `he was assassinated in Dallas'
+
+Recall    = 0.80 (4/5)
+Precision = 0.29 (4/14)
+F-measure = 0.42
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-2-3'
+QUESTION   : `How should Clark handle his unpopularity, according to political analysts?'
+ANSWER     : `Either he can ask the other elected members in his party for forgiveness, or he can quit his job'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `Either he can ask the other elected members in his party for forgiveness, or he can quit his job'
+      and Resp `According to a B.C. television station, Clark was sent a letter by a group of people in his own party.'
+
+Recall    = 0.16 (3/19)
+Precision = 0.15 (3/20)
+F-measure = 0.15
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-3-8'
+QUESTION   : `How does the union representing plant workers feel about shellfish asthma?'
+ANSWER     : `shellfish asthma is a real workplace disease and there should be protection for employees who have trouble working because of shellfish asthma'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `shellfish asthma is a real workplace disease and there should be protection for employees who have trouble working because of shellfish asthma'
+      and Resp `But the union representing plant workers says shellfish asthma is a real workplace disease.'
+
+Recall    = 0.32 (7/22)
+Precision = 0.50 (7/14)
+F-measure = 0.39
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-5-3'
+QUESTION   : `How do scientists hope to create an exact duplicate of the mammoth?'
+ANSWER     : `through cloning techniques | cloning'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `through cloning techniques'
+      and Resp `Scientists hope to create an exact duplicate mammoth through cloning techniques.'
+
+Comparing Key  `cloning'
+      and Resp `Scientists hope to create an exact duplicate mammoth through cloning techniques.'
+
+=> Best match in answer key is:
+   `through cloning techniques'
+
+Recall    = 1.00 (3/3)
+Precision = 0.27 (3/11)
+F-measure = 0.43
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-2-8'
+QUESTION   : `How did the president of the Labrador Inuit Association describe the deal?'
+ANSWER     : `the best one the Inuit have been offered in the many years of negotiations | the best one the Inuit have been offered'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `the best one the Inuit have been offered in the many years of negotiations'
+      and Resp `The president of the Labrador Inuit Association says this deal is the best one the Inuit have been offered in the many years of negotiations.'
+
+Comparing Key  `the best one the Inuit have been offered'
+      and Resp `The president of the Labrador Inuit Association says this deal is the best one the Inuit have been offered in the many years of negotiations.'
+
+=> Best match in answer key is:
+   `the best one the Inuit have been offered in the many years of negotiations'
+
+Recall    = 1.00 (14/14)
+Precision = 0.56 (14/25)
+F-measure = 0.72
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-2'
+QUESTION   : `How are students at Sisler expected to treat each other, according to vice-principal Mike Kachmar?'
+ANSWER     : `with courtesy and respect'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `with courtesy and respect'
+      and Resp `He says students are expected to treat each other with courtesy and respect, and that doesn't include passionate embracing in the hall.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.18 (4/22)
+F-measure = 0.31
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-3'
+QUESTION   : `How did Kachmar describe school?'
+ANSWER     : `as "a place of business"'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `as "a place of business"'
+      and Resp `"School is a place of business and we expect students to act and behave accordingly," Kachmar says.'
+
+Recall    = 0.80 (4/5)
+Precision = 0.24 (4/17)
+F-measure = 0.36
+
+
+
+Finished processing 48 questions, 48 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.6538  (31.38 / 48)
+AVERAGE PRECISION = 0.2506  (12.03 / 48)
+AVERAGE F-MEASURE = 0.3623
+
+*************************************************************************

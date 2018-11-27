@@ -75,13 +75,17 @@ class Story:
         self.words = list([t.text for t in doc if t.is_alpha or t.is_digit or t.is_currency])
 
         self.sentences = [Sentence(sentence.text,
+                                   [doc[w.left_edge.i: w.right_edge.i + 1].text
+                                    for w in sentence if w.pos_ is 'VERB' and w.dep_ is not 'ROOT'],
+                                   [doc[w.left_edge.i: w.right_edge.i + 1].text
+                                    for w in sentence if w.pos is 'NOUN'],
                                    [token.lemma_ for token in sentence],
                                    [set(str(chunk).split()) for chunk in list(sentence.noun_chunks)],
                                    [(ent.text, ent.label_)   for ent   in sentence.ents],
                                    set({}))
                           for sentence in list(doc.sents)]
 
-        self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
+        self.entities = [(ent.text, ent.start_char, ent.end_char, ent.label_, ent.start, ent.end) for ent in doc.ents]
         self.tags = [((token.text,
                        token.lemma_,
                        token.pos_,
@@ -109,10 +113,21 @@ class Story:
         return verb_pool
 
 
+    def __simple_coreference(self):
+        # HE, SHE, HIM, HER, HIS, HERS, HIMSELF, HERSELF -> PERSON
+        PRONOUNS = ['he', 'she', 'him', 'her', 'his', 'hers', 'himself', 'herself']
+        # THEIR, THEY, THEM, THEIRSELVES, THEMSELVES -> NER_WHO
+        BROAD_PRONOUNS = ['their', 'they', 'them', 'theirselves', 'themselves']
+        # IT, ITSELF -> 'NORP', 'ORG', 'GPE', 'PRODUCT', 'WORK_OF_ART', 'EVENT'
+        OBJECT_PRONOUNS = ['it', 'itself']
+        return
+
 # TODO: decide if we want an inner class for sentence representation
 class Sentence:
-    def __init__(self, sentence, lemmas, noun_chunks, entities, verb_pool, score=0):
+    def __init__(self, sentence, v_clauses, n_clauses, lemmas, noun_chunks, entities, verb_pool, score=0):
         self.sentence = str(sentence)
+        self.verb_clauses = v_clauses
+        self.noun_clauses = n_clauses
         self.noun_chunks = noun_chunks
         self.lemmas = lemmas
         self.entities = entities

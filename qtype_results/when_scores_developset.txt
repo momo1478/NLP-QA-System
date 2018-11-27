@@ -1,0 +1,1001 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-7'
+QUESTION   : `When did Babe play for "the finest basketball team that ever stepped out on a floor"?'
+ANSWER     : `from 1929 to 1937'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `from 1929 to 1937'
+      and Resp `The inventor of the game of basketball, Dr. James Naismith called the Edmonton Grads "the finest basketball team that ever stepped out on a floor".'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/25)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-2-5'
+QUESTION   : `When will he be buried?'
+ANSWER     : `the spring'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `the spring'
+      and Resp `the spring'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-3-4'
+QUESTION   : `When is one time that schools will phone parents of students?'
+ANSWER     : `when the student is missing | when the student is absent'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `when the student is missing'
+      and Resp `The common code of conduct has started with a new safety policy that requires schools to phone parents to find out why absent students are missing.'
+
+Comparing Key  `when the student is absent'
+      and Resp `The common code of conduct has started with a new safety policy that requires schools to phone parents to find out why absent students are missing.'
+
+=> Best match in answer key is:
+   `when the student is missing'
+
+Recall    = 0.40 (2/5)
+Precision = 0.08 (2/26)
+F-measure = 0.13
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-10'
+QUESTION   : `When did Clarke climb Mount Everest?'
+ANSWER     : `1997'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1997'
+      and Resp `1997'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-2-3'
+QUESTION   : `When did Todd McFarlane buy Mark McGwire's 70th home run ball?'
+ANSWER     : `January 12, 1999'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `January 12, 1999'
+      and Resp `yesterday'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-4-2'
+QUESTION   : `When was the Maple Leaf Gardens built?'
+ANSWER     : `1931'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1931'
+      and Resp `Saturday 1931'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-4-5'
+QUESTION   : `When did Foster Hewitt start broadcasting Maple Leaf games on the radio?'
+ANSWER     : `March, 1923'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `March, 1923'
+      and Resp `decades'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-3-7'
+QUESTION   : `When did Geoffrey Dewis die?'
+ANSWER     : `this week | February 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `this week'
+      and Resp `This week the age of 69'
+
+Comparing Key  `February 1999'
+      and Resp `This week the age of 69'
+
+=> Best match in answer key is:
+   `this week'
+
+Recall    = 1.00 (2/2)
+Precision = 0.33 (2/6)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-8'
+QUESTION   : `When did Ocalan start living outside of Turkey?'
+ANSWER     : `1980'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1980'
+      and Resp `1980'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-3-5'
+QUESTION   : `When was the McDonald's unionized?'
+ANSWER     : `last August'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `last August'
+      and Resp `last August'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-8'
+QUESTION   : `When did Madonna enter the music business?'
+ANSWER     : `16 years ago'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `16 years ago'
+      and Resp `16 years'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-4'
+QUESTION   : `When is the deadline by which the school must decide whether to sign a five-year contract with YNN?'
+ANSWER     : `June 1999'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `June 1999'
+      and Resp `June five-year'
+
+Recall    = 0.50 (1/2)
+Precision = 0.50 (1/2)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-2-2'
+QUESTION   : `When was the international landmine treaty agreed to by 130 countries?'
+ANSWER     : `1997'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1997'
+      and Resp `1997'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-3-5'
+QUESTION   : `When did Wang leave China?'
+ANSWER     : `after the student uprising | after the Tiananmen Square massacre | after June 4, 1989'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `after the student uprising'
+      and Resp `the early years'
+
+Comparing Key  `after the Tiananmen Square massacre'
+      and Resp `the early years'
+
+Comparing Key  `after June 4, 1989'
+      and Resp `the early years'
+
+=> Best match in answer key is:
+   `after the student uprising'
+
+Recall    = 0.25 (1/4)
+Precision = 0.33 (1/3)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-5-7'
+QUESTION   : `When did Ms. Yalnizyan give a speech?'
+ANSWER     : `Thursday, March 4, 1999'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Thursday, March 4, 1999'
+      and Resp `Thursday'
+
+Recall    = 0.25 (1/4)
+Precision = 1.00 (1/1)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-2-3'
+QUESTION   : `When did the issue of chemical contaminants in Arctic food come to a head?'
+ANSWER     : `recently | this week'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `recently'
+      and Resp `daily'
+
+Comparing Key  `this week'
+      and Resp `daily'
+
+=> Best match in answer key is:
+   `recently'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-3-5'
+QUESTION   : `When was the moratorium instituted?'
+ANSWER     : `1992 | seven years ago'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1992'
+      and Resp `a few years'
+
+Comparing Key  `seven years ago'
+      and Resp `a few years'
+
+=> Best match in answer key is:
+   `seven years ago'
+
+Recall    = 0.33 (1/3)
+Precision = 0.33 (1/3)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-5-5'
+QUESTION   : `When did Bill 101 come into effect?'
+ANSWER     : `1977'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1977'
+      and Resp `1977'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-3-8'
+QUESTION   : `When did Clarke dream about the desert?'
+ANSWER     : `before the journey'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `before the journey'
+      and Resp `months'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-4-7'
+QUESTION   : `When will Tyrell likely die if he doesn't receive proper treatment?'
+ANSWER     : `in less than a year'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `in less than a year'
+      and Resp `13 less than a year'
+
+Recall    = 0.80 (4/5)
+Precision = 0.80 (4/5)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-5-3'
+QUESTION   : `When did hockey fans bring hand drums to a game to taunt the Native players?'
+ANSWER     : `Two weeks ago'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Two weeks ago'
+      and Resp `Two weeks ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-1-5'
+QUESTION   : `When did Tyrell discover the lump in his leg?'
+ANSWER     : `after he slipped in the shower | around his birthday | around October 1'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `after he slipped in the shower'
+      and Resp `October 1'
+
+Comparing Key  `around his birthday'
+      and Resp `October 1'
+
+Comparing Key  `around October 1'
+      and Resp `October 1'
+
+=> Best match in answer key is:
+   `around October 1'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-5-7'
+QUESTION   : `When is a demonstration planned for the front of the House of Commons?'
+ANSWER     : `tomorrow | March 27, 1999'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `tomorrow'
+      and Resp `Tomorrow'
+
+Comparing Key  `March 27, 1999'
+      and Resp `Tomorrow'
+
+=> Best match in answer key is:
+   `tomorrow'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-1-8'
+QUESTION   : `When did Carnagie Mellon learn of the virus?'
+ANSWER     : `Friday afternoon'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Friday afternoon'
+      and Resp `Friday afternoon the night'
+
+Recall    = 1.00 (2/2)
+Precision = 0.50 (2/4)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-1'
+QUESTION   : `When did Newfoundland become a British colony?'
+ANSWER     : `the early 19th century'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `the early 19th century'
+      and Resp `March 31, 1949 -- 82 years'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/6)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-5-5'
+QUESTION   : `When does Ms. Finlay's radio program air?'
+ANSWER     : `weeknights'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `weeknights'
+      and Resp `Mary Lou Finlay of CBC Radio's weeknight program'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/8)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-2-2'
+QUESTION   : `When did Calgary, Alberta receive not a single snowflake?'
+ANSWER     : `March'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `March'
+      and Resp `March Sunday'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-5-2'
+QUESTION   : `When were the 170 children of the Sons of Freedom sect of the Doukhobor faith locked up in internment camp?'
+ANSWER     : `the 1950s | 1953 to 1959'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the 1950s'
+      and Resp `the 1950s'
+
+Comparing Key  `1953 to 1959'
+      and Resp `the 1950s'
+
+=> Best match in answer key is:
+   `the 1950s'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-3-3'
+QUESTION   : `When did Canadian children begin to receive anti-measles vaccinations?'
+ANSWER     : `1957'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1957'
+      and Resp `1957'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-5-5'
+QUESTION   : `When will the river probably reach its highest level this year?'
+ANSWER     : `mid-May at earliest, and the peak flows might not occur until late June | mid-May to late June'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `mid-May at earliest, and the peak flows might not occur until late June'
+      and Resp `1894 this spring'
+
+Comparing Key  `mid-May to late June'
+      and Resp `1894 this spring'
+
+=> Best match in answer key is:
+   `mid-May at earliest, and the peak flows might not occur until late June'
+
+Recall    = 0.00 (0/13)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-5'
+QUESTION   : `When did Gretzky's parents tell him they were proud of him?'
+ANSWER     : `as he left the arena'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `as he left the arena'
+      and Resp `As he left the arena, Wayne's father and mother told him they were proud of him.'
+
+Recall    = 1.00 (5/5)
+Precision = 0.31 (5/16)
+F-measure = 0.48
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-6'
+QUESTION   : `When did Columbine High School open?'
+ANSWER     : `1973'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1973'
+      and Resp `Tuesday'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-6'
+QUESTION   : `When are teachers poised to strike?'
+ANSWER     : `Monday'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Monday'
+      and Resp `Monday'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-1'
+QUESTION   : `When was a sheep cloned by Scottish scientists?'
+ANSWER     : `1997'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1997'
+      and Resp `1997'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-4-8'
+QUESTION   : `When was there a school shooting in Colorado?'
+ANSWER     : `a week before the Taber shooting | a week ago'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a week before the Taber shooting'
+      and Resp `a week'
+
+Comparing Key  `a week ago'
+      and Resp `a week'
+
+=> Best match in answer key is:
+   `a week ago'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-1'
+QUESTION   : `When did Qemal Sefa's family flee Kosovo?'
+ANSWER     : `a month ago'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `a month ago'
+      and Resp `A month last night'
+
+Recall    = 0.67 (2/3)
+Precision = 0.50 (2/4)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-4'
+QUESTION   : `When did authorities discover the initial count of 10 deaths in Sedgwick County was wrong?'
+ANSWER     : `when they realized victims had been counted twice'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `when they realized victims had been counted twice'
+      and Resp `today'
+
+Recall    = 0.00 (0/8)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-3'
+QUESTION   : `When did Shamsay Amoosa flee his homeland of Kosovo?'
+ANSWER     : `six years ago'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `six years ago'
+      and Resp `six years ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-2'
+QUESTION   : `When might some people be allowed to return to their homes?'
+ANSWER     : `well into next week'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `well into next week'
+      and Resp `next week'
+
+Recall    = 0.50 (2/4)
+Precision = 1.00 (2/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-1'
+QUESTION   : `When did Star Wars fans across Canada begin lining up for tickets to Star Wars: Episode 1 The Phantom Menace" movie?'
+ANSWER     : `late April'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `late April'
+      and Resp `late April'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-5-7'
+QUESTION   : `When does Ottowa have to act if it wants to stop the pipeline plan?'
+ANSWER     : `soon'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `soon'
+      and Resp `But if Ottawa wants to stop Gerry White from shipping Newfoundland water all over the world, they'll have to act soon.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/21)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-4'
+QUESTION   : `When did the NATO bombing start?'
+ANSWER     : `March 24, 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `March 24, 1999'
+      and Resp `March 24'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-3-7'
+QUESTION   : `When are the next summer Olympics going to be held?'
+ANSWER     : `2000'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `2000'
+      and Resp `the year 2000'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-2'
+QUESTION   : `When she was in school, what would Julie do instead of going to recess?'
+ANSWER     : `homework'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `homework'
+      and Resp `last year'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-4'
+QUESTION   : `When was Julie selected to be an astronaut by the Canadian Space Agency?'
+ANSWER     : `1992'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1992'
+      and Resp `1992'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-12'
+QUESTION   : `When was the International Space Station launched?'
+ANSWER     : `last year | 1998'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `last year'
+      and Resp `last year'
+
+Comparing Key  `1998'
+      and Resp `last year'
+
+=> Best match in answer key is:
+   `last year'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-8'
+QUESTION   : `When were the evacuees able to go back to their homes?'
+ANSWER     : `last night | the night of May 27, 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `last night'
+      and Resp `last night'
+
+Comparing Key  `the night of May 27, 1999'
+      and Resp `last night'
+
+=> Best match in answer key is:
+   `last night'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-1-9'
+QUESTION   : `When are the first permanent residents due to arrive at the International Space Station?'
+ANSWER     : `next March'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `next March'
+      and Resp `Thursday next March'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W23-5-5'
+QUESTION   : `When was the last time any party won two majority governments in a row in Ontario?'
+ANSWER     : `32 years ago'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `32 years ago'
+      and Resp `32 years'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-5'
+QUESTION   : `When did Colin Crosbie become involved in shipping in the Arctic?'
+ANSWER     : `1969'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1969'
+      and Resp `1969 decades'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-5-1'
+QUESTION   : `When will Judge Arbour start her new job on Canada's Supreme Court?'
+ANSWER     : `September | September, 1999 | September 15, 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `September'
+      and Resp `September'
+
+Comparing Key  `September, 1999'
+      and Resp `September'
+
+Comparing Key  `September 15, 1999'
+      and Resp `September'
+
+=> Best match in answer key is:
+   `September'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-1-1'
+QUESTION   : `When did 14,000 NATO troops enter the southern Yugoslavian province of Kosovo?'
+ANSWER     : `in the last 48 hours'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in the last 48 hours'
+      and Resp `the last 48 hours'
+
+Recall    = 0.80 (4/5)
+Precision = 1.00 (4/4)
+F-measure = 0.89
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-1-10'
+QUESTION   : `When do all Serb forces have to be withdrawn from Kosovo?'
+ANSWER     : `Sunday, June 20'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `Sunday, June 20'
+      and Resp `Sunday, June 20'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W25-5-1'
+QUESTION   : `When was the last time a Canadian was executed in the United States?'
+ANSWER     : `1952'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1952'
+      and Resp `22 years 1952'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-5-9'
+QUESTION   : `When will the hospital pharmacists leave their jobs if the situation does not improve?'
+ANSWER     : `in 60 days'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in 60 days'
+      and Resp `60 days'
+
+Recall    = 0.67 (2/3)
+Precision = 1.00 (2/2)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-5-1'
+QUESTION   : `When did American geologists discover dinosaurs bones in the Antarctic?'
+ANSWER     : `January 1999'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `January 1999'
+      and Resp `January this week'
+
+Recall    = 0.50 (1/2)
+Precision = 0.33 (1/3)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-5-5'
+QUESTION   : `When did mosasaurs probably arrive in Antarctica?'
+ANSWER     : `around 75 million or 80 million years ago'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `around 75 million or 80 million years ago'
+      and Resp `years ago'
+
+Recall    = 0.25 (2/8)
+Precision = 1.00 (2/2)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-5-5'
+QUESTION   : `When does Bill Clinton want to have new gun laws passed?'
+ANSWER     : `before school starts in September'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `before school starts in September'
+      and Resp `September'
+
+Recall    = 0.20 (1/5)
+Precision = 1.00 (1/1)
+F-measure = 0.33
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-1-6'
+QUESTION   : `When did John Jr's father die?'
+ANSWER     : `1963'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `1963'
+      and Resp `1963'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-5-5'
+QUESTION   : `When did the wooly mammoth live?'
+ANSWER     : `23,000 years ago'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `23,000 years ago'
+      and Resp `23,000 years ago'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-3-8'
+QUESTION   : `When did the Queen Mother last travel overseas?'
+ANSWER     : `1989'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1989'
+      and Resp `Wednesday'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-4-4'
+QUESTION   : `When does Allen Rock want the new cigarette packages in Canadian stores?'
+ANSWER     : `by the end of the year | by the end of 2000'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `by the end of the year'
+      and Resp `the end of the  year'
+
+Comparing Key  `by the end of 2000'
+      and Resp `the end of the  year'
+
+=> Best match in answer key is:
+   `by the end of the year'
+
+Recall    = 0.83 (5/6)
+Precision = 1.00 (5/5)
+F-measure = 0.91
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-5-2'
+QUESTION   : `When did Jerry get electrodes implanted in his brain?'
+ANSWER     : `1979'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `1979'
+      and Resp `1979'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-8'
+QUESTION   : `When were medieval knights kissed?'
+ANSWER     : `after being knighted'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `after being knighted'
+      and Resp `Medieval knights were kissed after being knighted, and the custom of kissing the bride remains almost universal in Western marriage ceremonies.'
+
+Recall    = 1.00 (3/3)
+Precision = 0.14 (3/21)
+F-measure = 0.25
+
+
+
+Finished processing 64 questions, 64 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.6763  (43.28 / 64)
+AVERAGE PRECISION = 0.6414  (41.05 / 64)
+AVERAGE F-MEASURE = 0.6584
+
+*************************************************************************

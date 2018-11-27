@@ -1,0 +1,936 @@
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W02-5-6'
+QUESTION   : `How big is the club?'
+ANSWER     : `12,000 square feet'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `12,000 square feet'
+      and Resp `more than 30'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W02-5-7'
+QUESTION   : `If you were a student, how much would a club membership cost you?'
+ANSWER     : `$135 a year'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `$135 a year'
+      and Resp `more than 30'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-4'
+QUESTION   : `How tall was Babe?'
+ANSWER     : `5 feet, 2 inches'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `5 feet, 2 inches'
+      and Resp `a cent'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-5'
+QUESTION   : `How much was Babe paid to play basketball?'
+ANSWER     : `nothing | never made a cent'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `nothing'
+      and Resp `522 502'
+
+Comparing Key  `never made a cent'
+      and Resp `522 502'
+
+=> Best match in answer key is:
+   `nothing'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W03-5-6'
+QUESTION   : `How many games did the Edmonton Grads win?'
+ANSWER     : `502'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `502'
+      and Resp `522 502'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W04-5-2'
+QUESTION   : `How much does Alexi Yashin earn as a hockey player?'
+ANSWER     : `more than three million dollars a season'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `more than three million dollars a season'
+      and Resp `thousands of dollars'
+
+Recall    = 0.14 (1/7)
+Precision = 0.33 (1/3)
+F-measure = 0.20
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W04-5-4'
+QUESTION   : `How much money did Alexi Yashin actually donate to the National Arts Centre?'
+ANSWER     : `$200,000'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `$200,000'
+      and Resp `a million dollar'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-2-4'
+QUESTION   : `How old was Willie when he died?'
+ANSWER     : `22'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `22'
+      and Resp `six'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-3-2'
+QUESTION   : `How many students would the code affect?'
+ANSWER     : `2.1 million'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `2.1 million'
+      and Resp `2.1 million'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W06-4-1'
+QUESTION   : `How long has it been since Westerners crossed the world's largest sand desert?'
+ANSWER     : `more than 50 years'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `more than 50 years'
+      and Resp `They are attempting to become the first Westerners in more than 50 years to cross the Empty Quarter of Arabia, the world's largest sand desert.'
+
+Recall    = 1.00 (4/4)
+Precision = 0.16 (4/25)
+F-measure = 0.28
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-2-2'
+QUESTION   : `How old is Todd McFarlane?'
+ANSWER     : `37'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `37'
+      and Resp `250,000'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-2-5'
+QUESTION   : `How many historic baseballs does McFarlane now own?'
+ANSWER     : `9 | nine'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `9'
+      and Resp `9'
+
+Comparing Key  `nine'
+      and Resp `9'
+
+=> Best match in answer key is:
+   `9'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-2-9'
+QUESTION   : `How often is there a Toy Fair in New York?'
+ANSWER     : `yearly'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `yearly'
+      and Resp `3,005,000 70'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W07-4-4'
+QUESTION   : `How far did Brent Shuya and his son have to drive just to reach Winnipeg?'
+ANSWER     : `3 and a half hours | 3 1/2 hours'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `3 and a half hours'
+      and Resp `Two weeks ago Brent Shuya and his son made the 3-and-a-half hour drive from their home in Russell, Manitoba to Winnipeg.'
+
+Comparing Key  `3 1/2 hours'
+      and Resp `Two weeks ago Brent Shuya and his son made the 3-and-a-half hour drive from their home in Russell, Manitoba to Winnipeg.'
+
+=> Best match in answer key is:
+   `3 and a half hours'
+
+Recall    = 0.20 (1/5)
+Precision = 0.05 (1/21)
+F-measure = 0.08
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W08-4-6'
+QUESTION   : `How many protesters were injured at the Israeli consulate in Berlin?'
+ANSWER     : `16'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `16'
+      and Resp `three 16'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-3-1'
+QUESTION   : `How many McDonald's restaurants are there in North America?'
+ANSWER     : `15,000'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `15,000'
+      and Resp `only one'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W09-4-3'
+QUESTION   : `How many children does Lauryn Hill have?'
+ANSWER     : `two'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `two'
+      and Resp `two'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-3'
+QUESTION   : `How many students attend Meadowvale secondary school?'
+ANSWER     : `1700'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1700'
+      and Resp `thousands of dollars'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-1-10'
+QUESTION   : `How long is YNN's newscast?'
+ANSWER     : `12 minutes'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `12 minutes'
+      and Resp `1,700'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-2-5'
+QUESTION   : `How long have North Korea and South Korea been in conflict?'
+ANSWER     : `more than 40 years'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `more than 40 years'
+      and Resp `The governments of North and South Korea have been in constant conflict for more then 40 years.'
+
+Recall    = 0.75 (3/4)
+Precision = 0.18 (3/17)
+F-measure = 0.29
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W10-4-6'
+QUESTION   : `How long does it take for delta-9 tetrahydrocannabinol to be absorbed into the bloodstream when someone smokes marijuana?'
+ANSWER     : `minutes'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `minutes'
+      and Resp `When marijuana is smoked, THC is absorbed from the lungs to the bloodstream within minutes.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.07 (1/15)
+F-measure = 0.12
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-3-7'
+QUESTION   : `By how much does John Efford want to cut the seal herd?'
+ANSWER     : `in half'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `in half'
+      and Resp `six million half'
+
+Recall    = 0.50 (1/2)
+Precision = 0.33 (1/3)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W11-3-10'
+QUESTION   : `How much was sealing worth to the Newfoundland economy in 1996?'
+ANSWER     : `in excess of $11 million'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `in excess of $11 million'
+      and Resp `$11 million'
+
+Recall    = 0.40 (2/5)
+Precision = 1.00 (2/2)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W12-3-2'
+QUESTION   : `How long did it take Jamie Clarke and his companions to travel 1,200 kilometers across the Arabian desert?'
+ANSWER     : `39 days'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `39 days'
+      and Resp `more than three million'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-3'
+QUESTION   : `How old are the roots of the conflict between Kosovo and Serbia?'
+ANSWER     : `hundreds and hundreds of years'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `hundreds and hundreds of years'
+      and Resp `hundreds and hundreds'
+
+Recall    = 0.60 (3/5)
+Precision = 1.00 (3/3)
+F-measure = 0.75
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-3'
+QUESTION   : `How old are the roots of the conflict between Kosovo and Serbia?'
+ANSWER     : `1389'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `1389'
+      and Resp `hundreds and hundreds'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-3-11'
+QUESTION   : `How many Canadian Forces personnel are based in Aviano, Italy?'
+ANSWER     : `about 130'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 130'
+      and Resp `about 130 six'
+
+Recall    = 1.00 (2/2)
+Precision = 0.67 (2/3)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W13-5-4'
+QUESTION   : `How many of the targets they were given did the Canadian fighter bombers hit?'
+ANSWER     : `three | three out of four'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `three'
+      and Resp `Four'
+
+Comparing Key  `three out of four'
+      and Resp `Four'
+
+=> Best match in answer key is:
+   `three out of four'
+
+Recall    = 0.25 (1/4)
+Precision = 1.00 (1/1)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W14-3-6'
+QUESTION   : `How many people cast their votes for the "responsible government" in the final vote that made Newfoundland part of Canada?'
+ANSWER     : `47.7 percent'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `47.7 percent'
+      and Resp `934 53 per cent'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/4)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-6'
+QUESTION   : `How long has Mexico had laws to prevent looting of archeological sites?'
+ANSWER     : `the middle of the 19th century'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `the middle of the 19th century'
+      and Resp `about 200,000 only about 150'
+
+Recall    = 0.00 (0/6)
+Precision = 0.00 (0/5)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-4-9'
+QUESTION   : `How many Mexican historical sites are monitored constantly?'
+ANSWER     : `about 150'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 150'
+      and Resp `about 200,000 only about 150'
+
+Recall    = 1.00 (2/2)
+Precision = 0.40 (2/5)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W15-5-7'
+QUESTION   : `How often were the interned children allowed to visit with their parents?'
+ANSWER     : `once in two weeks'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `once in two weeks'
+      and Resp `one'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-3-2'
+QUESTION   : `How many cases of measles were there in 1995 in Canada?'
+ANSWER     : `2,500'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `2,500'
+      and Resp `only 12 about 2,500'
+
+Recall    = 1.00 (1/1)
+Precision = 0.25 (1/4)
+F-measure = 0.40
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-4-6'
+QUESTION   : `How long will the premier of China be in Canada?'
+ANSWER     : `six days'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `six days'
+      and Resp `six'
+
+Recall    = 0.50 (1/2)
+Precision = 1.00 (1/1)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-5-7'
+QUESTION   : `How deep were the flood waters in 1948?'
+ANSWER     : `8 metres'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `8 metres'
+      and Resp `almost 8 metres just 80 kilometres'
+
+Recall    = 1.00 (2/2)
+Precision = 0.33 (2/6)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W16-5-8'
+QUESTION   : `How many people died in the 1948 flood?'
+ANSWER     : `10'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `10'
+      and Resp `94 per cent'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-1-1'
+QUESTION   : `How long did Gretzky dominate the sport of hockey?'
+ANSWER     : `two decades | 20 years'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `two decades'
+      and Resp `four'
+
+Comparing Key  `20 years'
+      and Resp `four'
+
+=> Best match in answer key is:
+   `two decades'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-1'
+QUESTION   : `How many students were killed in the Columbine High School shootings?'
+ANSWER     : `16'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `16'
+      and Resp `35,000'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-3-1'
+QUESTION   : `How many students were killed in the Columbine High School shootings?'
+ANSWER     : `several days'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `several days'
+      and Resp `35,000'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W17-5-1'
+QUESTION   : `How many parents from Calgary protested against a teachers' strike?'
+ANSWER     : `about 150'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `about 150'
+      and Resp `About 150'
+
+Recall    = 1.00 (2/2)
+Precision = 1.00 (2/2)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-3-3'
+QUESTION   : `How many clones did Nexia Biotechnologies make?'
+ANSWER     : `three | triplets'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `three'
+      and Resp `three'
+
+Comparing Key  `triplets'
+      and Resp `three'
+
+=> Best match in answer key is:
+   `three'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-4'
+QUESTION   : `How far did Sefa's family live from the Albanian border?'
+ANSWER     : `7 kilometers'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `7 kilometers'
+      and Resp `about seven kilometres'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/3)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W18-5-7'
+QUESTION   : `How old is Qemal Sefa?'
+ANSWER     : `59'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `59'
+      and Resp `four'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-1-1'
+QUESTION   : `How long have people inhabited the Yukon region, according to new research?'
+ANSWER     : `40,000 years'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `40,000 years'
+      and Resp `New research suggests that's how long people have inhabited the Yukon.'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/11)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-2-7'
+QUESTION   : `How many F-5 tornados hit the United States each year on average?'
+ANSWER     : `one'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `one'
+      and Resp `one'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-4-8'
+QUESTION   : `How many countries worldwide does the United Nations Security Council represent?'
+ANSWER     : `185'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `185'
+      and Resp `185'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W19-5-7'
+QUESTION   : `How many forest fires have there been in Ontario since April 1?'
+ANSWER     : `200'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `200'
+      and Resp `200'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W20-5-1'
+QUESTION   : `How many Canadians have diabetes and don't realize it?'
+ANSWER     : `more than 750,00'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `more than 750,00'
+      and Resp `One more than 750,000'
+
+Recall    = 0.67 (2/3)
+Precision = 0.50 (2/4)
+F-measure = 0.57
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W21-3-6'
+QUESTION   : `How much money are some scalpers in Los Angeles asking for a Phantom Menace ticket?'
+ANSWER     : `$50 or more'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `$50 or more'
+      and Resp `It's what some scalpers are asking in Los Angeles, California.'
+
+Recall    = 0.00 (0/3)
+Precision = 0.00 (0/10)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-2-6'
+QUESTION   : `How many Kosovars are eligible for Canada's family reunification program?'
+ANSWER     : `2,000'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `2,000'
+      and Resp `Some 2,000'
+
+Recall    = 1.00 (1/1)
+Precision = 0.50 (1/2)
+F-measure = 0.67
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-1'
+QUESTION   : `How long has Julie Payette wanted to be an astronaut?'
+ANSWER     : `25 years'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `25 years'
+      and Resp `35-year 10'
+
+Recall    = 0.00 (0/2)
+Precision = 0.00 (0/2)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-4-3'
+QUESTION   : `How many languages does Julie speak?'
+ANSWER     : `5'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `5'
+      and Resp `5'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W22-5-3'
+QUESTION   : `How many people live in La Ronge?'
+ANSWER     : `2,800'
+DIFFICULTY : `Moderate'
+
+
+Comparing Key  `2,800'
+      and Resp `2,800 300 kilometres'
+
+Recall    = 1.00 (1/1)
+Precision = 0.33 (1/3)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W24-3-3'
+QUESTION   : `How much can a can of pop cost in northern Canada?'
+ANSWER     : `more than two dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `more than two dollars'
+      and Resp `more than two dollars three dollars'
+
+Recall    = 1.00 (4/4)
+Precision = 0.67 (4/6)
+F-measure = 0.80
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W27-2-5'
+QUESTION   : `Even in the best of conditions, how long can beluga whales stay under water?'
+ANSWER     : `only about 10 minutes | about 10 minutes'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `only about 10 minutes'
+      and Resp `50'
+
+Comparing Key  `about 10 minutes'
+      and Resp `50'
+
+=> Best match in answer key is:
+   `only about 10 minutes'
+
+Recall    = 0.00 (0/4)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W28-5-4'
+QUESTION   : `How big were the mosasaur's teeth?'
+ANSWER     : `10 centimetres long'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `10 centimetres long'
+      and Resp `10'
+
+Recall    = 0.33 (1/3)
+Precision = 1.00 (1/1)
+F-measure = 0.50
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W29-2-1'
+QUESTION   : `How many years in a row has the United Nations ranked Canada the best country in the world to live in?'
+ANSWER     : `six'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `six'
+      and Resp `For the sixth year in a row, the United Nations has ranked Canada as the best country in the world to live in.'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/23)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W30-1-7'
+QUESTION   : `How many Kennedys have been involved in U.S. politics?'
+ANSWER     : `Several'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `Several'
+      and Resp `Several Kennedy family members have been involved in U.S. politics, and they have lived most of their lives in the public eye.'
+
+Recall    = 1.00 (1/1)
+Precision = 0.05 (1/22)
+F-measure = 0.09
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W31-2-3'
+QUESTION   : `How much land would the agreement give the Labrador Inuit?'
+ANSWER     : `73,000 square kilometres'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `73,000 square kilometres'
+      and Resp `73,000 square kilometres $255 million'
+
+Recall    = 1.00 (3/3)
+Precision = 0.60 (3/5)
+F-measure = 0.75
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `1999-W32-3-6'
+QUESTION   : `How many official homes does the Queen Mother have?'
+ANSWER     : `four'
+DIFFICULTY : `easy'
+
+
+Comparing Key  `four'
+      and Resp `four'
+
+Recall    = 1.00 (1/1)
+Precision = 1.00 (1/1)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-4-6'
+QUESTION   : `How much would it cost to change the cigarette packaging, according to The Canadian Tobacco Manufacturers Association?'
+ANSWER     : `millions of dollars'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `millions of dollars'
+      and Resp `millions of dollars'
+
+Recall    = 1.00 (3/3)
+Precision = 1.00 (3/3)
+F-measure = 1.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W03-5-3'
+QUESTION   : `How old is Jerry?'
+ANSWER     : `62'
+DIFFICULTY : `Easy'
+
+
+Comparing Key  `62'
+      and Resp `one'
+
+Recall    = 0.00 (0/1)
+Precision = 0.00 (0/1)
+F-measure = 0.00
+
+-----------------------------------------------------------------------------------------
+QUESTION ID: `2000-W06-4-5'
+QUESTION   : `How far back in Western civilization are there references to kissing?'
+ANSWER     : `back to the Old Testament'
+DIFFICULTY : `moderate'
+
+
+Comparing Key  `back to the Old Testament'
+      and Resp `Medieval knights were kissed after being knighted, and the custom of kissing the bride remains almost universal in Western marriage ceremonies.'
+
+Recall    = 0.20 (1/5)
+Precision = 0.05 (1/21)
+F-measure = 0.08
+
+
+
+Finished processing 63 questions, 63 of which had responses.
+*************************************************************************
+
+FINAL RESULTS
+
+AVERAGE RECALL =    0.4531  (28.54 / 63)
+AVERAGE PRECISION = 0.3565  (22.46 / 63)
+AVERAGE F-MEASURE = 0.3990
+
+*************************************************************************
