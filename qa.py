@@ -31,7 +31,7 @@ import spacy
 # defined in QuestionSet.py
 # If the first element of Q_TYPE_RUN is 'ALL' then all question types will be included in the run.
 # Make sure that your answer set has been generated using the same input file and Q_TYPE_RUN
-Q_TYPE_RUN = ['ALL']
+Q_TYPE_RUN = ['WHAT']
 
 # WHAT/WHICH <noun> looking for more specific example?
 # WHAT <to be> <NP>? how useful?
@@ -269,7 +269,8 @@ for i in range(1, len(inp)):
 
             # Is this a good idea?
             if q.type is 'WHAT':
-                short_sent = sentences[0].noun_clauses
+                sentences[0].sentence = sentences[0].right_most_subtree[-2]
+                break
                 # if q.sub_type is 'OBJECT':
                 #     short_sent = sentences[0].noun_clauses
                 # else:

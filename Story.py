@@ -75,8 +75,8 @@ class Story:
         self.words = list([t.text for t in doc if t.is_alpha or t.is_digit or t.is_currency])
 
         self.sentences = [Sentence(sentence.text,
-                                   [doc[w.left_edge.i: w.right_edge.i + 1].text
-                                    for w in sentence if w.pos_ is 'VERB' and w.dep_ is not 'ROOT'],
+                                   [doc[c.left_edge.i: c.right_edge.i + 1].text for word in sentence if word.dep_ in ('ROOT')
+                                    for c in word.children],
                                    [doc[w.left_edge.i: w.right_edge.i + 1].text
                                     for w in sentence if w.pos is 'NOUN'],
                                    [token.lemma_ for token in sentence],
@@ -126,7 +126,7 @@ class Story:
 class Sentence:
     def __init__(self, sentence, v_clauses, n_clauses, lemmas, noun_chunks, entities, verb_pool, score=0):
         self.sentence = str(sentence)
-        self.verb_clauses = v_clauses
+        self.right_most_subtree = v_clauses
         self.noun_clauses = n_clauses
         self.noun_chunks = noun_chunks
         self.lemmas = lemmas
